@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - School History/School History.md
       - School History/School Crest.md
       - School History/School Song.md
       - School History/.keep
