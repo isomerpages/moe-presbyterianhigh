@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
+      - Publications/2021 School Magazine.md
       - Publications/.keep
       - Publications/2020 School Magazine.md
