@@ -19,7 +19,7 @@ contacts:
       - phone: +65 6454 3722
       - email: presbyterian@moe.edu.sg
       - other: ""
-    title: General Office
+    title: Tel
   - content:
       - phone: +65 6454 3430
       - email: ""
