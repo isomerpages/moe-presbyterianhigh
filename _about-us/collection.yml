@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Email Directory.md
       - School Information.md
       - Admission Information.md
       - Publications/2021 School Magazine.md
