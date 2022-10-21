@@ -72,3 +72,5 @@ xiao fa ji du wan quan yang shi
 **Let us all as pioneers be known!**   
 立 己 立 人 为 民 前 锋   
 li  ji  li  ren wei min qian feng
+
+(school song audio needs to be uploaded on yt)
