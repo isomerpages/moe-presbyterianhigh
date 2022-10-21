@@ -35,3 +35,62 @@ As we look through the pages of this year’s school magazine and see all the di
 <h3>School Management Board</h3>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Dr%20Alexander%20Lee%20Earn%20Yung%20(Chairman).jpg" alt="Elder Dr Alexander Lee Earn Yung (Chairman).jpg" style="width:65%"><br><span style="background-color:initial">ELDER DR ALEXANDER LEE EARN YUNG</span><br>Chairman</th><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Lee%20Kwong%20Choy%20Michael%20(Hon%20Secretary).jpg" alt="Elder Lee Kwong Choy Michael (Hon. Secretary).jpg" style="width:65%"><br>Elder LEE KWONG CHOY MICHAEL<br>HON. SECRETARY</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Lim%20Hai%20Yian%20(Treasurer).jpg" alt="Mdm Lim Hai Yian (Treasurer).jpg" style="width:100%"><br>Mdm LIM HAI YIAN<br>TREASURER</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Pastor%20Chong%20Gim%20Soon%20(Member).jpg" alt="Pastor Chong Gim Soon (Member).jpg" style="width:65%"><br>Pastor CHONG GIM SOON<br>MEMBER</td><td style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Preacher%20Eunice%20Low%20Soek%20Peng%20(Member).jpg" alt="Preacher Eunice Low Soek Peng (Member).jpg" style="width:65%"><br>Preacher EUNICE<br>LOW SOEK PENG<br>Member</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Lawrence%20Fu%20(Member).jpg" alt="Elder Lawrence Fu (Member).jpg" width="167" height="213"><br>Elder LAWRENCE FU<br>MEMBER</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Lester%20Photo.jpg" alt="Elder Lester Photo.jpg" style="width:65%"><br>Elder LESTER TING<br>MEMBER</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Tan%20Chuan%20Long%20Sunny%20(Member).jpg" alt="Elder Tan Chuan Long Sunny (Member).jpg" style="width:65%"><br>Elder TAN CHUAN LONG SUNNY<br>MEMBER</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Rev%20Dr%20Wang%20Ping%20Polly%20(Member).jpg" alt="Rev Dr Wang Ping Polly (Member).jpg" width="160" height="213"><br>Rev Dr WANG PING POLLY<br>MEMBER</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Rev%20Jackson%20Wan%20Chaplain.jpg" alt="Rev Jackson Wan Chaplain.jpg" style="width:65%"><br>Rev JACKSON WAN <br>CHAPLAIN<br>MEMBER<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Rev%20Wee%20Meng%20Yeow%20Chaplain.jpg" alt="Rev Wee Meng Yeow Chaplain.jpg" style="width:65%"><br>Rev WEE MENG YEOW<br>CHAPLAIN<br>MEMBER</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+
+
+
+
+
+
+
+Presbyterian High School (PHS) is an aided school that was founded by and comes under the Presbyterian Church in Singapore (PCS).  We are part of a family of schools made up of Pei Hwa Presbyterian Primary School, Kuo Chuan Presbyterian Primary and Secondary Schools, and Grace Orchard School.  
+
+[https://www.presbysing.org.sg/presbyterian-education-council.htm](https://www.presbysing.org.sg/presbyterian-education-council.htm)
+
+The School Management Committee (SMC) is appointed by the Synod of the Presbyterian Church in Singapore and members are selected from the various Presbyterian churches in Singapore.  The roles played by the SMC include:
+
+*   Providing support, including financial support, for the school to fulfil its mission
+*   Providing spiritual guidance and prayer
+*   Providing inputs in the strategic planning process of setting the Vision, Mission and Values of the school
+*   Corporate Governance of the school including financial and estate matters
+    
+
+Some highlights of the SMC’s involvement from 2015 to 2021 include: 
+
+*   Review of the VMV of the school over 2016 to 2017
+	*  The SMC gave inputs in the first round of envisioning exercise on the revised PHS school values. After the staff had given their inputs, the SMC endorsed the final version of the revised school values.
+
+*   Providing guidance and support in preparation for the implementation of GEAR-UP in 2020
+	*   SMC Chairman, Dr Alexander Lee, shared with the staff the intent and the intended outcomes of GEAR-UP at PHS at the Staff Annual Retreat.
+    
+
+*   Revisiting the spirit and purpose of Mission Schools (in the midst of global disruptions brought on by Covid-19)
+    *   Elder Lawrence Fu shared with the staff to be mindful of the important role the school plays in taking care of and ensuring the well-being of students and the wider community.
+    
+
+In carrying out its role, the SMC works in partnership with two anchor churches in PHS – Ang Mo Kio Presbyterian Church and True Grace Presbyterian Church – and the Presbyterian Education Council. The SMC thus reflects the strong bond between PHS and the Presbyterian community. 
+
+The SMC plays an active part in school events too. Some highlights of the SMC’s involvement in school events include: 
+
+*   Commencement Service
+	*   The SMC shows their support by joining the service to mark the start of the academic year, and to commit the year to God and seek His wisdom to live the school’s mission and vision. The Chaplains, who are also SMC members, lead the school in this service.
+
+*   PEC Dedication Service and Dinner
+	*   Together with PHS staff and the wider Presbyterian schools community, the SMC attends the dinner at the start of the year, to dedicate staff of all the Presbyterian schools to God and to ask of His provision and care over all staff as they go about their daily duties.
+
+*   Weekly Chapel and Morning Devotion (Year-long)
+	*   Led by the Chaplaincy team, values-infused messages that are aligned to the school theme of the year are delivered to the student population.
+    
+*   Maundy Thursday Service
+	*   The Chaplaincy team leads the school in commemorating and understanding the significance of Maundy Thursday.
+
+*   Thanksgiving and Honours Day Service
+	*   The Thanksgiving and Honours Day is a significant day in the school calendar. It is a day where we celebrate the achievements of students. Led by the Chaplains, the SMC attends the service to show their support for the students. 
+
+*   End of Year Service
+	 *   The Chaplains lead in this service to thank God for His provisions, protection and guidance over the school, staff and students throughout the academic year.
+
+*   Graduation Service
+    *   A milestone in the education journey of the students, the SMC Chairman and the Chaplains deliver messages to the students, acknowledging their growth over the secondary school years and sending them well wishes for their post-secondary pathways. 
+
+*   Teachers’ Day Dinner
+	*   The SMC sponsors the Teacher’s Day Dinner to thank PHS staff for the work done in taking care of and teaching the students
