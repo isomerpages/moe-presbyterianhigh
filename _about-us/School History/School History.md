@@ -64,3 +64,9 @@ To ensure Christian influence, Mrs Pang also named all the classes according to 
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Did you know?The lyrics of the school song were originally written in Mandarin by Reverend Lee Huai Kwang and the melody was composed by Mr Lian Sek Lin to reflect the school’s Christian values and mission.</td></tr></thead></table>
+
+![](/images/9a.png)
+
+![](/images/10a.png)
+
+Our history portrays the spirit of the PHS. An unseen yet powerful element, it is this same spirit that has enabled principals, teachers and students to brave overwhelming odds to start the school, and build it up into the school it is today. God’s hand has been manifested in every way throughout the school’s history. To God be the glory!
