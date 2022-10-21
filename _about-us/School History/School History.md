@@ -18,3 +18,11 @@ _Presbyterian High School would not have come into being if not for the dogged d
 
 
 _Reverend Lee was the pastor of Bethel Presbyterian Church and principal of Ming Sin Primary School in 1961. <img src="/images/3a.png" style="width:220px;height:180px;margin-left:15px;" align = "right"> His faith moved him to propose loaning the premises of Ming Sin Primary School to start Li Sun High School.  At his word, Li Sun High School was founded and it opened its doors to the first batch of 150 students at its Jalan Lateh campus off Upper Serangoon Road in 1965. This was a milestone in the history of the school. Yet, it was only the beginning of an obstacles-filled journey of school building and development – one that bore testament to God’s providence, handiwork and steadfastness over the school._
+
+
+![](/images/4a.png)
+
+_Did you know?_
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Li Sun High School ( 礼逊中学 ) was named after Reverend Alan S. Moore Anderson, a missionary who had dedicated his life to church planting and school building in Asia. “Li Sun” was derived from the translation of Reverend Alan S. Moore Anderson’s Mandarin name, An Li Sun ( 安礼逊 ).</td></tr></thead></table>
