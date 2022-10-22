@@ -2,5 +2,6 @@ collections:
   academic-departments:
     output: true
     order:
+      - Humanities.md
       - Lifeskills and Enterprise.md
       - Physical Education and Aesthetics.md
