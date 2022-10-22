@@ -4,5 +4,7 @@ links:
     collection: about-us
   - title: Academic Departments
     collection: academic-departments
+  - title: CCA
+    collection: cca
   - title: Contact Us
     url: /contact-us/
