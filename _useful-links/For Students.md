@@ -3,10 +3,9 @@ title: For Students
 permalink: /useful-links/for-students/
 description: ""
 ---
-For Students
-============
+# **For Students**
 
-[Assessment Plans 2022 (Jan)](https://drive.google.com/drive/folders/1SGpc1UsUninI__CG7uI2XyqztfyTtUOS?usp=sharing)![](https://presbyterian.moe.edu.sg/qql/slot/u527/new%20icon.gif)  
+[Assessment Plans 2022 (Jan)](https://drive.google.com/drive/folders/1SGpc1UsUninI__CG7uI2XyqztfyTtUOS?usp=sharing) - new!   
 [Time Table (Sem 1, 5-Jan-2022)](https://drive.google.com/drive/folders/1Q6hChllqUWuqmzu92h74Cb1c65MXhuDc?usp=sharing)  
 [iMTL Portal](https://imtl.moe.edu.sg/)  
 [LOA (Letter of Absence-Overseas)](https://go.gov.sg/phsloaoverseas)  
