@@ -1,0 +1,4 @@
+collections:
+  dsa-exercise:
+    output: true
+    order: []
