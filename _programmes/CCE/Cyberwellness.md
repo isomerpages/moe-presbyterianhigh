@@ -56,3 +56,40 @@ These ideas are shared and discussed through the Cyber Wellness Lessons that tak
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Principles</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Big Ideas</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Themes</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8 Topics</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">1) Respect for Self &amp; others<br><br>2) Safe &amp; Responsible Use<br><br>3) Positive Peer Influence</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Identity</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="text-decoration:underline">Cyber Identity</span><br><span style="background-color:initial">Healthy self-identity</span><br><br><span style="text-decoration:underline">Cyber Use</span><br><span style="background-color:initial">Balanced life and</span><br><span style="background-color:initial">balanced use</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Online identity and expression<br><br>Balanced use of ICT</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Relationships</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="text-decoration:underline">Cyber Relationships</span><br><span style="background-color:initial">Safe and meaningful</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Netiquette<br><br>Cyber bullying<br><br>Online relationships</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Choices</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="text-decoration:underline">Cyber Citizenship</span><br><span style="background-color:initial">Positive presence</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">About the cyber world<br><br>Handling online content and behaviour<br><br>Cyber Contacts</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The key ideas are further enforced through other platforms such as sharing conducted by Cyber Wellness Ambassadors during the morning assembly as well through LLP projects such as Project Singa.
+
+
+#### Other Activities
+
+Assembly Talks are conducted to bring across certain key messages to students.
+
+Students also have a chance to learn new developments in the cyberspace through the Lab on Wheels conducted by IMDA Singapore.
+
+#### For Parents
+
+Parents who are interested to find out more on Cyber Wellness can click on the links below for useful resources:
+
+[https://ictconnection.moe.edu.sg/cyber-wellness/for-parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
+
+[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
