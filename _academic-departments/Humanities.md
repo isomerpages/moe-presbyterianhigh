@@ -7,7 +7,7 @@ description: ""
 
 The PHS Humanities Department imagines a world where the Humanities subjects (Social Studies, History and Geography) empower our youths to champion for positive changes in the world. With this philosophy guiding the Humanities teachers, the Humanities classroom is evolving into a more creative and meaningful space for students as they investigate real-world issues that allow them to develop a sense of empathy and appreciation for the world around us. Our conventional pen-and-paper assessment modes are also shifting to authentic tasks that seek to bring out the passion and confidence in each and every Humanities learner.
 
-**Our Programmes**
+### Our Programmes
 
 Humanities Talent Development Programme
 
