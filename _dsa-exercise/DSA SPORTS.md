@@ -13,7 +13,8 @@ Presbyterian High School provides players in Basketball, Table Tennis and Volley
 
 Our Basketball, Table Tennis and Volleyball teams have all participated actively in the National School Games. With enduring commitment of the teachers, student-athletes and coaches, the teams have managed to achieve top four placing in either the Zonal or National Inter-schools championships.
 
-###### DSA EXPECTATION
+##### DSA EXPECTATION
+
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.
 
 ##### SELECTION CRITERIA
