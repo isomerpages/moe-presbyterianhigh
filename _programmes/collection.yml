@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE/Education and Career Guidance.md
       - CCE/Sexuality Education.md
       - CCE/.keep
       - Well Being and development/.keep
