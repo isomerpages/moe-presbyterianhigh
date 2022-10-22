@@ -15,7 +15,7 @@ The English Language and Literature Department seeks to develop PHS students int
 
 The Extensive Reading Programme cultivates the love of reading in students. The programme comprises Newspaper Reading on Mondays and Silent Reading of various genres of writing on Tuesdays and Fridays during the morning assembly. It runs throughout the year to support the acquisition of language skills. In addition, newspaper reading opens up the minds of the students to see beyond their world, to explore a gamut of social and global concerns. Reading Ambassadors are appointed in all English classes to facilitate and champion a culture of reading in PHS through regular book sharing sessions at the class and school level.
 
-![](/images/eng1.jpg)
+<img src="/images/eng1.jpg" style="width:183px;height:200px;margin-left:15px;" align = "right">
 
 
 _"What I enjoy most about the Silent Reading period is being able to read my book in a quiet and calm environment in the morning.” - Naomi Maiyanti_
