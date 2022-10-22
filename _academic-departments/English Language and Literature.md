@@ -58,3 +58,9 @@ Our English Language and Literature curriculum has a strong focus on developing 
 ![](/images/eng5.png)
 
 We believe that the learning of language and literature is deepened through talk. In the classroom, students are given time and opportunity to engage in exploratory talk and inquiry through dialogue to co-construct new knowledge. As they present their thoughts and views to others, they build their confidence by speaking in front of an audience.
+
+![](/images/eng5.jpg)
+
+We leverage technology in the English Language and Literature classroom to enhance students’ learning. Apart from collaborating online and engaging in self-directed learning, students also benefit from rich and authentic learning experiences. They go on local and overseas virtual tours and participate in e-drama activities.
+
+![](/images/eng6.jpg)
