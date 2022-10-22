@@ -26,3 +26,19 @@ _“I enjoy the Silent Reading period because I can let my imagination flow when
   
 
 _“I enjoy the Silent Reading Period as it gives me the opportunity to keep myself updated on current affairs as well as spend more time on reading the books that I enjoy.” - Caleb Ng Wei En_
+
+**Local Authors’ e-Talk**
+
+The Local Author’s e-Talk provides our Upper Secondary students with the opportunity to meet with writers whose works they are studying, and ask them questions.
+
+<img src="/images/eng2.jpg" style="width:250px;height:150px;margin-left:15px;" align = "right">
+
+“It was interesting to know the producer and authors’ own perceptions and interpretations of their own characters, especially the reasons for the nameless and faceless main characters of both “Rich Man Country” and “Margarine”. I enjoyed their sharing on how they came about to writing their stories. At the end of the session, I felt inspired to write my own stories and happy that I got an inside to the authors to help me better understand the texts.” - Heng Mei Ling_
+
+“The writer’s talk helped me to understand the short stories in Hook & Eye: Stories from the Margins and provided me a new perspective to these stories. The talk also got me to think more about the questions and the thought processes of marginalised communities and understand from their perspectives. This talk is a once-in-a-lifetime experience that I will cherish.” - Heidi Yung
+
+“The Sing Lit talk was very insightful because I learnt more about the various authors of the stories. I also have the opportunity to delve deeper into what Singapore Literature is. This makes me more equipped in understanding the stories in Hook & Eye when I analyse them next year.” - Ilaga Danielle Aguilar
+
+**National Schools Literature Festival**
+
+Our Literature students participate in the National Schools Literature Festival (NSLF) annually. Through NSLF, students are enthused and inspired to read Literature; develop confidence in articulating their opinions and viewpoints in public; and gain fresh perspectives of the literary text they are reading.
