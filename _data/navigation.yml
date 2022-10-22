@@ -2,5 +2,7 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Academic Departments
+    collection: academic-departments
   - title: Contact Us
     url: /contact-us/
