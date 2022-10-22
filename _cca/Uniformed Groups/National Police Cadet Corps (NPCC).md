@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 # **National Police Cadet Corps (NPCC)**
 
 <img src="/images/NPCC.jpg" 
-     style="width:25%">
+     style="width:70%">
 
 The NPCC aims to nurture cadets into: 
 
