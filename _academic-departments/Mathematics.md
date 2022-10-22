@@ -32,3 +32,15 @@ PBL aims to develop creative and critical thinking, collaborative and problem-so
 
 
 “I really enjoyed working with my teammates on this project. My teammates and I completed this project through Google Meet and we have picked up a lot of new knowledge along the way. We contributed to the project based on our strengths and helped one another along the way.” - Ong Yu Han
+
+**e-Mathematics Week**
+
+The e-Mathematics week seeks to promote in students a positive attitude towards and appreciation for Mathematics, and to highlight the creative applications of Mathematics in everyday life. Through participating in the online activities, we hope that students will discover the joy and fun of Mathematics.  
+
+“E-Mathematics Week was fun! I got to work on Mathematical questions that were not like the usual questions in my daily assignments. I like the challenge!” - Yap Yen Jun Trilian 
+
+“I enjoyed E-Mathematics Week. I found the activities stimulating and enriching.” - Danielle Cheng Rui Qi
+
+“I enjoyed learning about the Mathematicians of the past and the contributions they have made to the
+
+subject. I also had a lot of fun solving the puzzles on SLS.” - Alexandrina Megan George
