@@ -32,3 +32,17 @@ Education and Career Guidance (ECG) is about equipping students with the necessa
 
 **MySkillsFuture Portal** [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)    
 MySkillsFuture Portal is a one-stop portal that empowers you to embark on a journey of self-discovery and make informed education and career choices.  It also aims to help students discover their identity through awareness, exploration and planning.
+
+![](/images/myskillfuture.jpg)
+
+**Quality ECG Counselling**
+
+ECG Counsellors are deployed to MOE Secondary and Pre-University Schools, and Post-Secondary Education Institutions (PSEI) started since mid-2015.
+
+At PHS, our ECG Counsellor, Mr Christopher Tan guides students to make considered decisions based on their interests and strengths so they can contribute meaningfully to society through their future professions. In addition to providing individual and group counselling to students, she organises activities for a holistic Education and Career Guidance (ECG) experience.
+
+If you have ECG related concerns and wish to meet with Mr Tan, he will be available in school every Thursday (Level 2, ECG room) or email him at [ecgcounselling2016@gmail.com](mailto:ecgcounselling2016@gmail.com) to make an appointment. 
+
+**Allied Educator (Learning & Behavioral Support)**
+
+Our specialist supports students with learning needs towards participating in school activities as fully as possible. The students will undergo sessions to learn executive function skills such as self-monitoring, organisation and planning. They will also be taught social and communication skills as well as literacy skills. All these are to equip the students with the necessary skills to cope and manage to learn and to interact with his/her peers daily. Our specialist conducts single or group sessions according to the needs and progress of the students.
