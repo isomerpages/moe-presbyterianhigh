@@ -69,3 +69,25 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 <b>At Presbyterian High School, the _eTeens_ programme will be implemented as follows in 2022:</b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Topics/Lessons</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Programme Learning Objectives</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time Period<br>(e.g. Term 3 Week 9)</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 2 Week 4</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Classroom-based Lesson</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 2 Week 5</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+**Information for Parents**  
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
+  
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](https://drive.google.com/file/d/1lgBOP2KmquK27Cv0w79XQIJ25vQUnE-T/view?usp=sharing) . The completed form is to be submitted by 21/10/2022.  
+  
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](https://drive.google.com/file/d/1sb27SZRjMPiAfZmQOiLrAimtZ04fnwuH/view?usp=sharing) .  The completed form is to be submitted by 21/01/2022.  
+  
+13.      Parents can contact the school at 64543722 for discussion or to seek clarification about the school’s sexuality education programme.  
+  
+14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
