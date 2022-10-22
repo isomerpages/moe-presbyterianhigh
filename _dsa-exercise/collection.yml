@@ -2,5 +2,6 @@ collections:
   dsa-exercise:
     output: true
     order:
+      - DSA PERFORMING ARTS.md
       - DSA SPORTS.md
       - Frequently Asked Questions (FAQ).md
