@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Well Being and development/.keep
-      - Student Well Being and Development.md
       - Learning for Life Programme (LLP) Community and Youth Leadership.md
       - Applied Learning Programme (ALP) Health Science.md
