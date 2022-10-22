@@ -9,7 +9,7 @@ The Science Department seeks opportunities to inculcate a spirit of scientific i
 
 ### Our Programmes  
 
-**Sec 1 Project Work ** 
+**Sec 1 Project Work** 
 
 The Sec 1 Project Work is a learning experience that aims to provide students with the opportunity to synthesise knowledge from various areas such as the nature of science and scientific inquiry skills, and apply to real life situations. In groups, the students select a topic and go through the Scientific Inquiry process – identifying a problem, conduct an investigation, gather and interpret data and communicate their findings. Through the process, students acquire skills such as collaboration, communication and self-directed learning.
 
@@ -21,15 +21,20 @@ The Sec 1 Project Work is a learning experience that aims to provide students wi
 "The Science project work was very interesting and it was something different from the usual Science lessons. My group chose to design an aluminium foil boat that could carry the heaviest load. We carried out
 many experiments with boats of varying shapes and sizes. Overall, it was very fun and I hope to be able to do it again.” - Ashley Chong
 
-![](/images/sci1.jpg)
+<img src="/images/sci1.jpg" 
+     style="width:70%">
 
-![](/images/sci2.jpg)
+<img src="/images/sci2.jpg" 
+     style="width:70%">
 
-![](/images/sci3.jpg)
+<img src="/images/sci3.jpg" 
+     style="width:50%">
 
-![](/images/sci4.jpg)
+<img src="/images/sci4.jpg" 
+     style="width:70%">
 
-![](/images/sci5.jpg)
+<img src="/images/sci5.jpg" 
+     style="width:70%">
 
 **Secondary 2 Case-based Studies**
 
@@ -41,6 +46,8 @@ In our case-based studies, students are given excerpts of patients’ medical in
 
 “While participating in the case-based studies, I came across new scientific concepts which I found very interesting. I had a fun time working with my group members to evaluate the data and then produce a deck of slides to explain to our patient his health issue. With my newfound knowledge, if I were to come across someone with similar symptoms, I could enlighten him on their health condition.” - Wong Kar Hong
 
-![](/images/sci6.jpg)
+<img src="/images/sci6.jpg" 
+     style="width:70%">
 
-![](/images/sci7.jpg)
+<img src="/images/sci7.jpg" 
+     style="width:70%">
