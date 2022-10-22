@@ -10,5 +10,5 @@ links:
     collection: programmes
   - title: DSA Exercise
     collection: dsa-exercise
-  - title: Contact Us
-    url: /contact-us/
+  - title: Useful Links
+    collection: useful-links
