@@ -6,7 +6,9 @@ links:
     collection: academic-departments
   - title: CCA
     collection: cca
-  - title: Contact Us
-    url: /contact-us/
   - title: Programmes
     collection: programmes
+  - title: DSA
+    collection: dsa-exercise
+  - title: Contact Us
+    url: /contact-us/
