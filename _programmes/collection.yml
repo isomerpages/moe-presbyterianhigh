@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Well Being and development/Student Well being Framework.md
       - Well Being and development/Programmes for Holistic Development.md
       - Well Being and development/Student Leadership.md
       - Well Being and development/Student Well Being and Development.md
