@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/PHMedia.md
       - Clubs and Societies/Audio Engineering.md
       - Clubs and Societies/.keep
