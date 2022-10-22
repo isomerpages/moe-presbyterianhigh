@@ -30,3 +30,9 @@ To provide an experiential, values-driven and authentic education, every year, G
 <img src="/images/2xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
 The studying of history enables students to think critically about timeless concepts such as cause and effect, changes and continuities and significance. Historical Investigation is an integral part of the History curriculum. It serves as a platform for students to investigate different aspects of Singapore's history. Lower Secondary students get the opportunity to gather and explore a range of sources such as artefacts, written, pictorial as well as oral sources beyond what they are exposed in classroom. They will get to do 'history' by carrying out research and apply their historical knowledge and skills to form their own response to authentic historical issue.
+
+**Social Studies**
+
+<img src="/images/3xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
+
+In-line with our school's termly focus of Caring for the Environment, Secondary 3 students carry out an issue investigation on two environmental issues that are a major cause of concern to Singapore - Food Wastage and Plastic Consumption. Students gather data to find out how and why these issues can become a cause of social concern to Singapore when they are not managed. Thereafter, students either create an advocacy video or a poster for the environmental issue that their group choses. For the advocacy videos, our students take on the roles of the various stakeholders involved in the environmental issues. They provide perspectives and recommendations from their chosen roles, and in the process, develop skills and values that cannot be assessed through pen-and-paper assessment. These skills are also part of the Upper Secondary Social Studies syllabus where students learn to make recommendations to address societal issues.
