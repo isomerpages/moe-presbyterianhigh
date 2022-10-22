@@ -42,3 +42,5 @@ The Local Author’s e-Talk provides our Upper Secondary students with the oppor
 **National Schools Literature Festival**
 
 Our Literature students participate in the National Schools Literature Festival (NSLF) annually. Through NSLF, students are enthused and inspired to read Literature; develop confidence in articulating their opinions and viewpoints in public; and gain fresh perspectives of the literary text they are reading.
+
+![](/images/eng3.jpg)
