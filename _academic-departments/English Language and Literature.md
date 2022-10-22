@@ -50,3 +50,11 @@ Our Literature students participate in the National Schools Literature Festival 
 Our approach to the teaching of English Language and Literature aims at making learning joyful and relevant for students.
 
 In the acquisition of listening, reading, speaking and writing skills, students are exposed to a wide range of texts i.e. audio, images, multimodal. We strive to develop students into multiliterate individuals who possess the necessary skills to navigate the world beyond school. Students are given opportunities to showcase what they have learnt and at the same time, collaborate with one another on multimodal projects. In the collaborative process, students learn how to manage differences, work towards shared objectives and see the project to completion.
+
+![](/images/eng4.jpg)
+
+Our English Language and Literature curriculum has a strong focus on developing students’ thinking skills. Teachers model thinking processes and leverage thinking routines to empower students to strengthen and regulate their learning.
+
+![](/images/eng5.png)
+
+We believe that the learning of language and literature is deepened through talk. In the classroom, students are given time and opportunity to engage in exploratory talk and inquiry through dialogue to co-construct new knowledge. As they present their thoughts and views to others, they build their confidence by speaking in front of an audience.
