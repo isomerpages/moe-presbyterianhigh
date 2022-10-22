@@ -46,3 +46,7 @@ If you have ECG related concerns and wish to meet with Mr Tan, he will be availa
 **Allied Educator (Learning & Behavioral Support)**
 
 Our specialist supports students with learning needs towards participating in school activities as fully as possible. The students will undergo sessions to learn executive function skills such as self-monitoring, organisation and planning. They will also be taught social and communication skills as well as literacy skills. All these are to equip the students with the necessary skills to cope and manage to learn and to interact with his/her peers daily. Our specialist conducts single or group sessions according to the needs and progress of the students.
+
+![](/images/SingaporeEducationJourney.jpg)
+
+![](/images/ECGTable.jpg)
