@@ -24,3 +24,9 @@ The Humanities Talent Development Programme (HTDP) aims to develop students to b
 <img src="/images/1%20(1).png" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
 To provide an experiential, values-driven and authentic education, every year, Geography students undergo the process of conducting at least a Geographical Investigation (GI). GI offers students first-hand experience of carrying out fieldwork and develops their 21st Century Competencies. As part of our aim to enhance the spatial and digital literacy of our students, we introduce to our students the science and digital language of location through Geographical Information Systems (GIS) technology for their geographical investigation.
+
+**History**
+
+<img src="/images/2xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
+
+The studying of history enables students to think critically about timeless concepts such as cause and effect, changes and continuities and significance. Historical Investigation is an integral part of the History curriculum. It serves as a platform for students to investigate different aspects of Singapore's history. Lower Secondary students get the opportunity to gather and explore a range of sources such as artefacts, written, pictorial as well as oral sources beyond what they are exposed in classroom. They will get to do 'history' by carrying out research and apply their historical knowledge and skills to form their own response to authentic historical issue.
