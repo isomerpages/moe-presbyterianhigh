@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Well Being and development/Student Leadership.md
       - Well Being and development/Student Well Being and Development.md
       - Well Being and development/.keep
       - Learning for Life Programme (LLP) Community and Youth Leadership.md
