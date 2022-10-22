@@ -44,3 +44,9 @@ The Local Author’s e-Talk provides our Upper Secondary students with the oppor
 Our Literature students participate in the National Schools Literature Festival (NSLF) annually. Through NSLF, students are enthused and inspired to read Literature; develop confidence in articulating their opinions and viewpoints in public; and gain fresh perspectives of the literary text they are reading.
 
 ![](/images/eng3.jpg)
+
+**Our approach**
+
+Our approach to the teaching of English Language and Literature aims at making learning joyful and relevant for students.
+
+In the acquisition of listening, reading, speaking and writing skills, students are exposed to a wide range of texts i.e. audio, images, multimodal. We strive to develop students into multiliterate individuals who possess the necessary skills to navigate the world beyond school. Students are given opportunities to showcase what they have learnt and at the same time, collaborate with one another on multimodal projects. In the collaborative process, students learn how to manage differences, work towards shared objectives and see the project to completion.
