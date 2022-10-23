@@ -2,5 +2,6 @@ collections:
   ndlp:
     output: true
     order:
+      - NDLP Links/Parents' Handbook (II) on Learning with a PLD.md
       - NDLP Links/Form.md
       - NDLP Links/.keep
