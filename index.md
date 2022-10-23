@@ -19,7 +19,7 @@ sections:
         - title: NDLP
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
-        - title: Home Based Learning
+        - title: News and Events
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/home-based-learning-hbl/hbl-timetable/
   - infobar:
