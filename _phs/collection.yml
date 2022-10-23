@@ -2,6 +2,7 @@ collections:
   phs:
     output: true
     order:
+      - Announcements.md
       - Gallery/Commencement Service 2020.md
       - Gallery/Chinese New Year Celebration.md
       - Gallery/Orientation Camp.md
