@@ -4,10 +4,10 @@ title: Presbyterian High School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Presbyterian High School
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
