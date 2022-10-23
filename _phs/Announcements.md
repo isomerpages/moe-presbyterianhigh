@@ -104,3 +104,103 @@ Dear Teachers, Parents and Guardians,
 You are invited to nominate outstanding Malay Language teachers for the Arif Budiman Malay Language Teacher Award (AGAB) 2022. The award aims to recognise Malay Language teachers in primary and secondary schools, junior colleges and the Millennia Institute, who have made significant contributions to the teaching of the Malay Language.
 
 The Arif Budiman Malay Language Teacher Award nominations are now open and will close on 1 April 2022. Hardcopy nomination forms are available at the General Office. Alternatively, nominations may be made online via [https://go.gov.sg/agab2022](https://go.gov.sg/agab2022).
+
+-------------------------------------------------------------------------
+
+### Assessment Plans 2022
+
+2022-01-24
+
+Dear Parents, Guardians and Students,
+
+The Assessment Plans for 2022, is available at the link below:  
+  
+
+\===================
+
+[Assessment Plan Folder](https://drive.google.com/drive/folders/1SGpc1UsUninI__CG7uI2XyqztfyTtUOS?usp=sharing)
+
+-------------------------------------------------------------------------
+
+### Q & A for Sec 1 Induction Talk 2022
+
+2022-01-17
+
+Dear Parents and Guardian,
+
+Our Q & A for  Sec 1 Induction Talk is available as below:
+
+\========  
+[Q & A for  Sec 1 Induction Talk](https://drive.google.com/file/d/1Ym5GF0Ovf5g_Tm3D4DVXfEl4apwV56uw/view?usp=sharing)
+
+-------------------------------------------------------------------------
+
+### Take the Singapore Budget 2022 Quiz Today!
+
+Dear Students,
+
+Do take a minute to do the Singapore Budget Quiz to expand your knowledge on our Singapore's upcoming Budget 2022!
+
+[The Singapore Budget Quiz 2022](https://www.mof.gov.sg/singaporebudget/budget-quiz)
+
+-------------------------------------------------------------------------
+
+### Secondary One Induction Programme Video Highlights
+
+2022-01-11
+
+Dear Parents and Guardians,
+
+You can find the video highlights at the link below for our recent Secondary One Induction Programme.
+
+\===========
+
+[Videos of Secondary One Induction Programmme](https://drive.google.com/drive/folders/1UTBKQjI0rjIixjj-3jdwbu27m22-trow?usp=sharing)
+
+-------------------------------------------------------------------------
+
+### Time Table
+
+2022-01-05
+
+Please see attached for the school time-table.
+
+[Time table for Semester One 2022](https://drive.google.com/drive/folders/1Q6hChllqUWuqmzu92h74Cb1c65MXhuDc?usp=sharing)
+
+### 2022 Online purchase of textbooks and uniform
+
+2021-11-14
+
+Dear Parents and Guardians,
+
+In light of the COVID-19 situation, school has reviewed and streamlined the purchase of textbooks/uniforms to shorten the duration and number of parents/guardians that need to be in school.  The reduction in human traffic is part of the safe management measures in school.
+
+Please refer to the school website for the instruction sheet, the book lists and user guides for online purchase of textbooks and uniforms.
+
+**Online Purchase**: The bookshop and uniform vendors have upgraded their online portals.  Parents/Guardians are strongly encouraged to place your orders online.
+
+**Onsite Purchase for Bookshop**: All collections or onsite purchases from the school bookshop will be strictly based on the scheduled appointment with the school bookshop.  Please make an appointment through the bookshop’s website.
+
+We seek your understanding and cooperation to follow the instructions to keep our students and staff safe.
+
+Thank you for your partnership and support.
+
+* * *
+
+Information for online purchase of textbooks and uniform:
+
+[Please read this first!](https://drive.google.com/file/d/16nk7OiIO3-v1V2QYbhUb5wyd1trb6-Ek/view?usp=sharing)
+
+[Online Purchase of Textbooks Information](https://drive.google.com/drive/folders/19zJu78rtyiLNnqVSfbAtoHMYk4Gwwn9b?usp=sharing)
+
+[Online Purchase of Uniform Information](https://drive.google.com/drive/folders/1MMo6QhUMA7yQ3In9COqBZ3bmM3D-rUPG?usp=sharing)
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
