@@ -13,15 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Full Subject based banding
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
         - title: NDLP
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
+        - title: Home Based Learning
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/home-based-learning-hbl/hbl-timetable/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
