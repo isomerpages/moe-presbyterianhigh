@@ -61,3 +61,16 @@ Please see below for the appropriate timetables.
 [2022 S4NA Prelim Exam Schedule](https://drive.google.com/file/d/1uOJmE22nM-b1OaIgdtWozfSNsackNXMe/view?usp=sharing)
 
 [2022 S4NT Prelim Exam Schedule](https://drive.google.com/file/d/1jTXHH8iorecdd1uoz_xRkaiXBpkYDEFh/view?usp=sharing)
+
+-------------------------------------------------------------------------
+
+### Sec 4 and 5 Oral and Lesson schedule
+
+2022-05-25
+
+Dear Parents/Guardians,
+
+Please see below for the holiday timetable for your child.
+
+[Time Table](https://drive.google.com/file/d/127Ijn93B1z8dgqOJVxqEmCcCvAR1GTNu/view?usp=sharing)
+
