@@ -8,6 +8,7 @@ third_nav_title: Whats happening in phs
 
 **'O'-Level Featured Article**
 
+<img src="/images/IMG-20210111-WA0013.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 For most of us, making plans for the week or year is the most we think of. Lin Jun Quan has a different perspective. He has planned his route to becoming an architect.  He wishes to study Architecture in Polytechnic before getting a degree in the National University of Singapore followed by a Masters in Architecture in Cambridge.
 
