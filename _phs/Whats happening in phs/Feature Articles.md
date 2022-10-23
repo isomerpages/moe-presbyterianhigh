@@ -46,3 +46,8 @@ He would also like to remind the graduating students to start studying immediate
 
 
 ![](/images/image_64834412.jpg)
+
+![](/images/image_64834413.jpg)
+
+<img src="/images/image_6487327-CROPPED%201.jpg" 
+     style="width:50%">
