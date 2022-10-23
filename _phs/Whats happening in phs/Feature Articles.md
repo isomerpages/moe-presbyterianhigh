@@ -72,3 +72,16 @@ It is no doubt that Tasvin has grown by leaps and bounds in learning to juggle b
 Tasvin has a piece of advice for this year’s graduating cohort: “It is very important to take breaks and have sufficient rest when you need it so as to internalise new information that you have learnt. Do remember to consult your teachers when you are unsure of something and the teachers are more willing to help you when you need it.”
 
 -----------------------------------------------------------------------
+
+**2020 4N Feature Article – Isaac’s Story (4A)** 
+
+“Never give up without trying. Nothing is too difficult.” –     
+**Isaac Kong, 4A, Class of 2020** 
+
+  
+
+Resilience in the face of great odds. This is the story of Isaac who sat for his N-Levels amidst the challenges of 2020, such as home-based learning, and safe management measures. A student from the Normal (Technical) course, Isaac initially approached the N-Level hoping to qualify for the Nitec in Infocomm Technology at ITE. Isaac was also offered the opportunity to take several subjects (such as English Language, Mathematics, and Science) at Normal (Academic) level while at PHS. As the year wore on however, Isaac faced some difficulties. Due to the COVID-19 situation, the tuition he had been receiving for English Language was suspended. This was particularly challenging as English Language was one of the subjects that Isaac found the most difficult throughout his secondary school education. Instead of despairing or giving up, Isaac persevered and responded by strategising, planning a study timetable and working hard to improve on it. During the September holidays, he worked on completing other schools’ papers and also approached his teacher, Ms Li, for additional help. Isaac thus quickly improved, doing well at the N-Levels and attributing his success to daily practice. Apart from diligent study, Isaac also contributed to the wider PHS community through his involvement as a member of PHMedia. Using filming equipment, Isaac supported the smooth running and commemoration of school events by taking photographs and videos too. When reflecting upon his time at PHS, Isaac says: “I would like to thank my parents and all my teachers for supporting me over the course of these past four years. There were challenges I had to face but they never gave up on me.” With Isaac’s determined attitude, he has chosen to take on a new challenge, returning to PHS following a lateral transfer to the 4 Normal (Academic) course. In 2021, Isaac will sit for the national examinations once more, and hopes to do well in order to qualify for the Direct Entry Scheme to Polytechnic Programme (DPP) next year. Isaac’s message of resilience and hope is reflected in his advice to the graduating cohort of 2021: “Believe in yourself, be disciplined and you will succeed!”
+
+-----------------------------------------------------------------------
+
+![](/images/feature%20articles.jpg)
