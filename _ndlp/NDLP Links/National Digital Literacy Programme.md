@@ -69,9 +69,8 @@ These include:
 
   
 
-**D. Partnering with Parents ** 
+**D. Partnering with Parents** 
   
-
 The role of the parent is also key in partnering the school to support and help prepare your child for an increasingly complex, interconnected and technology-driven world.
 
 You can refer to the Parent Handbook(I) on Learning with a Personal Learning Device (PLD) which shares more information on how owning a PLD will enhance the child’s learning, as well as provides some digital parenting tips, strategies and resources.
