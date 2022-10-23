@@ -8,3 +8,9 @@ third_nav_title: Gallery
 
 ![](/images/6c26c359e_103484.jpg)
 Elder Michael Lee doing his part for tree planting
+
+![](/images/3ed1755f6_103486.jpg)
+Our principal and stakeholders prepare the ground
+
+![](/images/7364fb0f0_103491.jpg)
+Pastor Jackson shares God's message-mm
