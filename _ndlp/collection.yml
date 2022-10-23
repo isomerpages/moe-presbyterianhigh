@@ -2,6 +2,7 @@ collections:
   ndlp:
     output: true
     order:
+      - NDLP Links/NDLP Links.md
       - NDLP Links/PLD Briefing for PHS Parents.md
       - NDLP Links/Parents' Handbook (I) on Learning with a PLD.md
       - NDLP Links/Parents' Handbook (II) on Learning with a PLD.md
