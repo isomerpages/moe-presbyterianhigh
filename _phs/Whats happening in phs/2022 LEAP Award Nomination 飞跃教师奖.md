@@ -14,5 +14,4 @@ Nomination closes on 13 May 2022. Do recognize and affirm a teacher who has cre
 
 
 ![](/images/SHHK%20LEAP%20Award%20Poster%202022_Page_1.jpg)
-
 ![](/images/SHHK%20LEAP%20Award%20Poster%202022_Page_2.jpg)
