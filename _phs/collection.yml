@@ -2,7 +2,6 @@ collections:
   phs:
     output: true
     order:
-      - Whats happening in phs/Example Title.md
       - Whats happening in phs/Invitation to Triple P L2 Seminars (Mandarin).md
       - Whats happening in phs/2022 LEAP Award Nomination 飞跃教师奖.md
       - Whats happening in phs/2021 GCE N Level Examinations.md
