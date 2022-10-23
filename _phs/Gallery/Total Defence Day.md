@@ -11,3 +11,6 @@ NE representative teaching the class how to play the Guardians of the City II ca
 
 ![](/images/bc54f33e6_104358.jpg)
 Student took care of the fine details during wipe down routine
+
+![](/images/b8eecdf2b_104359.jpg)
+Wide down routine
