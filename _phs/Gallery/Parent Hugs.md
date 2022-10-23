@@ -13,4 +13,4 @@ PSG in action
 Students enjoying their cookie treat (1)
 
 ![](/images/f35b2b1f2_104356.jpg)
-
+Students enjoying their cookie treat (2)
