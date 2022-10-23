@@ -21,7 +21,7 @@ sections:
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
         - title: News and Events
           description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/home-based-learning-hbl/hbl-timetable/
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/Gallery/Commencement-Service-2020/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
