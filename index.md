@@ -19,9 +19,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: NDLP
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
