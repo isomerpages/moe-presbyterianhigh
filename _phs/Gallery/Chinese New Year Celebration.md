@@ -18,3 +18,8 @@ Chinese Calligraphy
 ![](/images/b0ffbdf2e_104343.jpg)
 Chinese Calligraphy
 
+![](/images/a5ecce4a4_104344.jpg)
+CNY Launch
+
+![](/images/7570bae77_104347.jpg)
+Sharing the festive blessing regardless of race
