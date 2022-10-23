@@ -3,7 +3,6 @@ title: Announcements
 permalink: /phs/announcements/
 description: ""
 ---
-
 # **Announcements**
 
 ### Graduation Service 2022
@@ -94,3 +93,14 @@ You can access our FAQ [here](https://drive.google.com/file/d/1pusUijvzz_x77nsV
 
 [FAQ](https://drive.google.com/file/d/1pusUijvzz_x77nsVmOVymiiZWriu7_pr/view?usp=sharing)
 
+-------------------------------------------------------------------------
+
+### Nominations Open for Arif Budiman Malay Language Teacher Award 2022
+
+2022-02-16
+
+Dear Teachers, Parents and Guardians,
+
+You are invited to nominate outstanding Malay Language teachers for the Arif Budiman Malay Language Teacher Award (AGAB) 2022. The award aims to recognise Malay Language teachers in primary and secondary schools, junior colleges and the Millennia Institute, who have made significant contributions to the teaching of the Malay Language.
+
+The Arif Budiman Malay Language Teacher Award nominations are now open and will close on 1 April 2022. Hardcopy nomination forms are available at the General Office. Alternatively, nominations may be made online via [https://go.gov.sg/agab2022](https://go.gov.sg/agab2022).
