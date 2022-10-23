@@ -3,6 +3,7 @@ title: Announcements
 permalink: /phs/announcements/
 description: ""
 ---
+
 # **Announcements**
 
 ### Graduation Service 2022
@@ -73,4 +74,23 @@ Dear Parents/Guardians,
 Please see below for the holiday timetable for your child.
 
 [Time Table](https://drive.google.com/file/d/127Ijn93B1z8dgqOJVxqEmCcCvAR1GTNu/view?usp=sharing)
+
+-------------------------------------------------------------------------
+
+### Sec 3 Subject Combination Briefing
+
+2022-04-22
+
+Dear Parents/ Guardians,
+
+Below is the link to the 'Live' recording of the Subject Combination Briefing.
+
+You can access our FAQ [here](https://drive.google.com/file/d/1pusUijvzz_x77nsVmOVymiiZWriu7_pr/view?usp=sharing)
+
+\====  
+**Link**
+
+[PHS Live recording for the PHS Subject Combination Briefing](https://for.edu.sg/phssubjcombi) 
+
+[FAQ](https://drive.google.com/file/d/1pusUijvzz_x77nsVmOVymiiZWriu7_pr/view?usp=sharing)
 
