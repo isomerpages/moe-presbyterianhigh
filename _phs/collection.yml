@@ -2,6 +2,7 @@ collections:
   phs:
     output: true
     order:
+      - Gallery/PEC Dinner 2020.md
       - Gallery/Total Defence Day.md
       - Gallery/.keep
       - Whats happening in phs/Invitation to Triple P L2 Seminars (Mandarin).md
