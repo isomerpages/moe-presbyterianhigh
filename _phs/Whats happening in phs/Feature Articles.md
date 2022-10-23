@@ -43,3 +43,6 @@ Nicholas’ friends cherish his strong sense of empathy. Even if he had not expe
 Nicholas has fond memories of his time in school. His advice to his juniors is that they should learn from their mistakes and let their teachers and friends help them.
 
 He would also like to remind the graduating students to start studying immediately. Nicholas told our interviewer, “Last minute studying doesn’t work out. Pay attention in class and do your homework.”
+
+
+![](/images/image_64834412.jpg)
