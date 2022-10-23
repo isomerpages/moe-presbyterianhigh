@@ -308,3 +308,64 @@ Graduation Day 2021 will be sponsored by the school. Light snacks and drinks wil
 I thank you for allowing your child/ward to journey with us through these years in Presbyterian High School. On behalf of the school, I wish them all the best in their upcoming examinations!
 
 -------------------------------------------------------------------------
+
+### Revised Timing for CL/ML/HCL Paper 2
+
+2021-09-16
+
+Dear Parent / Guardian,
+
+To minimise the intermingling of students across levels, the recess timing for students will continue to be staggered for different levels. To ensure sufficient timing for recess break, the timing of the CL/ML/HCL paper 2 will start on 11.15 am on Wednesday, 29 September 2021.
+
+The revised End-Of-Year Examination schedule for Sec 2 is attached for your reference.
+
+Thank you for your support and partnership.
+
+* * *
+
+**Attachments**:
+
+[2021 2EXP Revised END OF YEAR EXAM SCHEDULE](https://drive.google.com/file/d/1jgx5p7jwJTsZlxWaqRLG3JnSA6e5J2Mt/view?usp=sharing)
+
+[2021 2NA Revised END OF YEAR EXAM SCHEDULE](https://drive.google.com/file/d/1NDEVtV2o-B2CaOSjfb6avlCk4qX0mwbz/view?usp=sharing)
+
+[2021 2NT Revised END OF YEAR EXAM SCHEDULE](https://drive.google.com/file/d/1m7715wBTSoyhfzsrlnr-MgP1YiJ-bmJr/view?usp=sharing)
+
+* * *
+
+### Sec 1NT, 1NA and 1EXP Chinese Language Oral Exam on 17, 21 Sep 2021
+
+2021-09-02
+
+Dear Parents/Guardians,
+
+This is to inform that the Sec 1 SA2 Chinese Language Oral Exam will be conducted in school on the following dates:
+
+Sec 1 Basic Chinese (BCL) & Sec 1 Chinese (NA)  
+– 17 Sep (Friday) from 12.45 PM
+
+Sec 1 Higher Chinese (HCL)  
+– 17 Sep (Friday) from 2.15 PM
+
+Sec 1 Chinese (EXP)  
+– 21 Sep (Tuesday) from 1.05 PM
+
+Thank you.
+
+* * *
+
+### Sec 3 End-Of-Year Examination Topics
+
+2021-09-02
+
+Dear Parent / Guardian,
+
+The list of topics for the End-Of-Year Examination is attached for your reference. We hope you find the list useful in preparing and guiding your child in his/her revision.
+
+* * *
+
+  
+**File attachments**  
+[Sec\_3EXP\_PrepNotes\_EOY\_Final\_revised](https://drive.google.com/file/d/1NarzdBVaVS5oXZJtKJFCMqk7Ol55SCtv/view?usp=sharing)  
+[Sec\_3NA\_PrepNotes\_EOY\_Final](https://drive.google.com/file/d/1fcKatU62rSQu--RQ0Pbg3mSw5hts-Pds/view?usp=sharing)  
+[Sec\_3NT\_PrepNotes\_EOY\_Final](https://drive.google.com/file/d/1YEQPvgxG1lj8-upe3-rrz4Uj_5mCx1CG/view?usp=sharing)
