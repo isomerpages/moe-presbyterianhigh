@@ -232,7 +232,79 @@ Attachments
 
 -------------------------------------------------------------------------
 
+### Pupil Release Days and Staggered Dismissal (from 18 Oct to 27 Oct 2021)
+
+2021-10-08
+
+Dear Parents/Guardians,
+
+Please be informed of the following information:
+
+The school has scheduled pupil release days on **11 Oct (Monday), 12 Oct (Tuesday) and 22 Oct (Friday**). Students need not report to school unless advised.
+
+1.  From **18 Oct to 27 Oct (excluding 22 October),** dismissal time for Sec 1 to Sec 3 :
+
+Sec 1 at 12.20pm
+
+Sec 2 at 12.30pm
+
+Sec 3 at 12.40pm
+
+2\.  This is to cater to the conducting of GCE O-level written examinations.
+
+3\.  On **28 Oct**, the school holds its End-Of-Year Service. Students will be dismissed at about 10am.
+
+4\.  On **29 Oct** is our Parent-Teacher Conference. More information will be provided nearer to date.
+
+Thank you.
 
 -------------------------------------------------------------------------
+
+Link:[https://www.moe.gov.sg/feedback](https://www.moe.gov.sg/feedback)
+
+### MOE: Special Consideration and Arrangements for National Examination Candidates Affected By COVID-19
+
+2021-09-27
+
+Dear Parents/Guardians,
+
+The Ministry of Education (MOE) and the Singapore Examinations and Assessment Board (SEAB) have put in place arrangements for the coming national examinations for those who may be affected by COVID-19. 
+
+\[Special Consideration (SC)\]
+
+We understand that parents and students may be concerned about the impact on their child if they miss the national examinations due to COVID-19 reasons. We would like to assure you that candidates who miss any national examination paper(s) with valid reasons can apply for SC. SC is not a new practice. All SC applications are assessed on each case’s merit, and we will ensure that the grades awarded are as accurate and fair as possible. You can approach your child’s school for assistance with regards to the SC application.
+
+\[Candidates on Quarantine Order (QO) who want to take the national examinations\]
+
+While SC will be applied to cases with valid reasons, there may be some candidates who are on QO but still wish to take the national examinations. For this group of candidates, the Ministry of Health has approved a set of procedures for them to apply for leave from QO so that they can sit for their national examinations. This is an additional option made available to all national examination candidates this year. If your child is issued a QO, please inform your child’s school immediately so that the school can work with you to make the necessary arrangements.
+
+Please see attachments for details on the arrangements and updates to the arrangements for candidates on Approved Absence. MOE and SEAB will monitor the COVID-19 situation closely and provide updates if there are further changes.
+
+**MOE FAQs: COVID-19 related matters**
+
+[https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)
+
+**Additional Attachment:**
+
+[Infographic - FAQs on arrangements for National Examination candidates affected by COVID-19](https://drive.google.com/file/d/1E0RWN7fB8nZ8XuZ7vBIEEfFuFfmwazOt/view?usp=sharing)
+
+### PHS Graduation Day 2021
+
+2021-09-21
+
+Dear Parent/Guardian
+
+We are glad to inform you that the PHS Graduation Day 2021 will be held on  
+24th September 2021, Friday, at Presbyterian High School.
+
+In view of the Covid-19 situation, we are unable to host an annual Graduation Night for our graduating students. Nonetheless, this tea event will include elements of Graduation Service and Graduation Night and it will be planned by the Sec 4/5 Consortium.
+
+On 24th September, Sec 4/5 students need not report to school in the morning. They will report by 2.00pm.They will proceed to their allocated classrooms on Level 1 and Level 2. They will be required to be in their school attire. The event will end at about 4.00pm after which the dismissal of the classes will be staggered.
+
+As part of Safe Management Measures (SMM), students are expected to perform a wipe down of their tables in the classrooms and a temperature check will be mandatory. All students will be discouraged from mingling with peers from other classes and to exercise safe distancing from one another in class.
+
+Graduation Day 2021 will be sponsored by the school. Light snacks and drinks will be packed in individual servings for all students. An exciting programme has been planned to mark their graduation with a well-deserved and relaxing afternoon.
+
+I thank you for allowing your child/ward to journey with us through these years in Presbyterian High School. On behalf of the school, I wish them all the best in their upcoming examinations!
 
 -------------------------------------------------------------------------
