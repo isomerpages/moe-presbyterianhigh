@@ -4,3 +4,14 @@ permalink: /phs/Gallery/chinese-new-year-celebration/
 description: ""
 third_nav_title: Gallery
 ---
+# **Chinese New Year Celebrations**
+
+![](/images/15a566ab4_103476.jpg)
+Face Changing Performance
+
+![](/images/1412a4672_103480.jpg)
+Lo Hei
+
+![](/images/667869d4d_104341.jpg)
+Chinese Calligraphy
+
