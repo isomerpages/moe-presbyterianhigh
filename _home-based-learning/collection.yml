@@ -2,4 +2,5 @@ collections:
   home-based-learning:
     output: true
     order:
+      - HBL Class Lesson Plan.md
       - HBL Briefing Slides.md
