@@ -2,6 +2,7 @@ collections:
   phs:
     output: true
     order:
+      - Gallery/Orientation Camp.md
       - Gallery/Parent Hugs.md
       - Gallery/PEC Dinner 2020.md
       - Gallery/Total Defence Day.md
