@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - NRIC Ceremony.md
       - International Friendship Day 2021.md
       - Peer Support Leaders Appointment Ceremony.md
