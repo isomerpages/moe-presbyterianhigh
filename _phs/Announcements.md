@@ -197,6 +197,38 @@ Information for online purchase of textbooks and uniform:
 
 -------------------------------------------------------------------------
 
+### The President’s Award For Teachers (PAT) And The Outstanding Youth In Education Award (OYEA) 2022
+
+2021-10-13
+
+Dear Parents/Guardians,
+
+1\. Every year, two national awards are given out to teachers in Singapore to recognise their professional excellence. They are the President’s Award for Teachers (PAT) and the Outstanding Youth in Education Award (OYEA).
+
+2\. The President’s Award for Teachers (PAT) gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds. Nomination for PAT 2022 is now open and will close on Tuesday, 25 January 2022.
+
+3\. The Outstanding Youth in Education Award (OYEA) seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. Educators who are 35 years and younger are eligible for the award. For OYEA 2022, it is open to educators who are born on or after 30 June 1987. Nomination for OYEA 2022 is now open and will close on Wednesday, 12 January 2022.
+
+4\. We would like to invite you and your child/ward to submit your nomination(s) for any deserving teacher(s) whom you know by clicking on the URLs or scanning the QR codes below.
+
+5\. For queries and/or feedback about the awards, please send them to MOE\_AST\_PAT@moe.gov.sg (PAT 2022) or MOE\_AST\_OYEA@moe.gov.sg (OYEA 2022).
+
+6\. Thank you for your support in recognising the good work of our teachers!
+
+###### President’s Award for Teachers (PAT)
+
+[go.gov.sg/pat2022](https://go.gov.sg/pat2022)
+
+###### Outstanding Youth in Education Award 
+
+[go.gov.sg/oyea2022](https://go.gov.sg/oyea2022)
+
+Attachments  
+  
+
+[OYEA 2022.pdf](https://drive.google.com/file/d/1qyrPwnNkc2vEiNCXNsQleyze7lcYFe66/view?usp=sharing) 
+
+[PAT 2022.pdf](https://drive.google.com/file/d/185GKt7pzQpDC1_t1QC_s6bZI6fxEFl6M/view?usp=sharing)
 
 -------------------------------------------------------------------------
 
