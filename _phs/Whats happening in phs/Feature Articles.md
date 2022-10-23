@@ -54,3 +54,19 @@ He would also like to remind the graduating students to start studying immediate
 		 
 		 
 ------------------------------------------------------------------------
+
+**2020 4N Feature Article – Tasvin’s Story**
+
+“Every student has his or her ups and downs but learning the value of perseverance goes a long way towards becoming a better person.”                                                           – Tasvin Komal Kaur d/o Hardeep **Singh, 4B, Class of 2020**
+
+  
+
+Taking small steps to achieve meaningful goals, which she has set for herself, seems to be Tasvin’s motivation thus far. The determination and grit in her to persist and persevere when she faces obstacles has allowed her to see them as a learning opportunities to do even better in the future. Sitting for the GCE O-Level examination in 2021, she continues to place her focus on her goal of going to a Junior College. 
+
+With non-academic commitments that came in her way last year while she was preparing for the GCE N-Level examination, she ensured that she stayed focussed in school with the optimism to learn. She shares that it is crucial that students stay resilient no matter what comes their way: “Having stayed strong during difficult times showed me that I am capable of achieving my goals even in times of difficulties.” The resilience she has demonstrated thus far is evident from the Edusave Scholarship Award, which she received in 2019.
+
+Tasvin is grateful for her supportive family and they showed their love through a care pack with her favourite snacks in it to motivate her while she was preparing for the national examination last year. Her sister constantly ensured that she had sufficient rest and provided her with tips on improving her writing. Besides the support she has been receiving from her family, she has a strong support group in school in the form of friends who help to establish a positive learning environment for her. 
+
+It is no doubt that Tasvin has grown by leaps and bounds in learning to juggle both school commitments and non-academic commitments. She learned to prioritise and focus on things that she can control. Being a member of the school Basketball team, she agrees that it is not easy to cope with academics and Basketball trainings. At the same time, she believes that she learnt how important time management is through Basketball, which since then has allowed her to manage her priorities and excel in them. Though she was disappointed that she was not able to get into PFP, it did not stop her from moving on to the next phase of her education journey that is to prepare for her GCE O-Level examination this year. 
+
+Tasvin has a piece of advice for this year’s graduating cohort: “It is very important to take breaks and have sufficient rest when you need it so as to internalise new information that you have learnt. Do remember to consult your teachers when you are unsure of something and the teachers are more willing to help you when you need it.”
