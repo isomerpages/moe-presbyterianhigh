@@ -25,3 +25,21 @@ Jun Quan laughs, “We had to innovate with the given resources to create props 
 Jun Quan was not just a hard worker and motivated student, he believes that developing a sense of empathy was more important than finding personal success. “I still believe the most important value out of the five PHS school values is Empathy.  It helped me to understand my friends, and taught me how to share my views with them and support them on their way.”
 
 Jun Quan’s advice to his juniors is to split their time wisely between work and play.  A healthy balance is needed for success.  Nicholas had this to say, “Cut out pointless activities.  Work hard and play hard.”
+
+-------------------------------------------------------------------------
+
+**'O'-Level Featured Article**
+
+Nicholas looks like your everyday student with his easy smile and humble demeanour.  He shares that, despite his best efforts, he always received average or below average scores. But he did not let this discourage him. He wanted to pursue a career in either Biomedical Science or Data Analytics and set a goal to study Science in Junior College. Gradual improvement and not immediate success brought him confidence for the O-Levels. When he obtained his results, he was delighted to see that he qualified for his chosen course.
+
+Nicholas is no stranger to hardship and frustration. His father suffered from a heart attack and after a struggle, passed away just two weeks before the O-Levels. During his father’s illness, Nicholas had to balance between his family duties and studying for the O-Levels. Worried for his father and family, Nicholas found it hard to focus on his studies.
+
+Nicholas is most grateful to his mother for being his biggest motivation. Despite her own worries, she always put up a brave front in order to help Nicholas and his sister feel better. His desire to not disappoint her was his biggest motivation to study hard.
+
+Not only did Nicholas work hard to improve himself, he is appreciated for his unstinting efforts to help others to improve. A committed member of the Symphonic Band, Nicholas learnt the value of teamwork from his conductor who told him that the band was only as good as its weakest player. Success depended on everybody playing their part and playing well together.
+
+Nicholas’ friends cherish his strong sense of empathy. Even if he had not experienced what the problems they were going through, they could always rely on him to empathise with what they were feeling. Nicholas told us that he tries to follow the mantra of putting himself in their shoes before he talks to his friends. As a result, his words could offer solace to his friends who were feeling down.
+
+Nicholas has fond memories of his time in school. His advice to his juniors is that they should learn from their mistakes and let their teachers and friends help them.
+
+He would also like to remind the graduating students to start studying immediately. Nicholas told our interviewer, “Last minute studying doesn’t work out. Pay attention in class and do your homework.”
