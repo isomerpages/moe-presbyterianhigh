@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Presbyterian High School
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -19,10 +18,15 @@ sections:
         - title: News and Events
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/Gallery/Commencement-Service-2020/
-        - title: Full Subject based banding
+        - title: Calendar
           description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
-        - title: NDLP
-          description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/calendar
+  - infobar:
+      title: Full Subject Based Banding
+      button: Click here
+      url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
+  - infobar:
+      title: NDLP
+      button: Click Here
+      url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
 ---
