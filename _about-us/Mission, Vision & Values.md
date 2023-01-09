@@ -5,6 +5,11 @@ description: ""
 ---
 # **Mission, Vision & Values**
 
+
+### SCHOOL CULTURE
+
+![](/images/TEAM%20PHS%20poster.jpg)
+
 ### SCHOOL VISION
 
 PHS honours GOD in mentoring  
@@ -39,16 +44,13 @@ _Rev John Hanna_
 
 ### SCHOOL VALUES
 
-**Respect**
+**R**espect    
+**R**esponsibility   
+**R**esilience    
+**I**ntegrity   
+**E**mpathy  
 
-**Responsibility**
-
-**Resilience**
-
-**Integrity**
-**Empathy**
-
-###   
+###   SCHOOL MOTTO
 
 **焚而不毁 (fén ér bù huǐ)**  
 这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。  
