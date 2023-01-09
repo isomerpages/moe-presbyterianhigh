@@ -31,3 +31,13 @@ School reserves the rights to request for any other documents as and when requir
 Please get ready all softcopy supporting documents to be prepared in advance.
 
 If you have any queries, please contact the school at Tel: 64543722 or you can email us [presbyterian@moe.edu.sg](mailto:presbyterian@moe.edu.sg).
+
+* * *
+
+eForm: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+  
+Info:  
+[5\. MOE FAS pamphlet.pdf](/files/(5)%20MOE%20FAS%20pamphlet.pdf)  
+[5\. MOE FAS Application Form.pdf](/files/(5)%20MOE%20FAS%20Application%20Form.pdf)    
+ [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
