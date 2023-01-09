@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal's Message**
 
-<img src="/images/Mrs%20Angeline%20Chan.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Mrs%20Angeline%20Chan.jpg" style="width:200px;height:280px;margin-left:15px;" align = "right">
 
 Presbyterian High School (PHS) has a rich history and heritage. When the school opened her doors in 1965 as a Chinese medium school, Li Sun High (礼逊中学), as it was then called, shared premises with Ming Sin Primary School at Upper Serangoon Road and was home to only 150 students. Moving in tandem with our nation’s growth and development, the school adopted English as the medium of instruction and was renamed Presbyterian High School in 1983. PHS is now a sprawling campus standing on 3 hectares of land in Ang Mo Kio and home to over 1,200 students and staff. With her clock tower and the declaration, “To God Be The Glory”, on her main building, the campus stands out as a striking landmark in Ang Mo Kio and is a choice school for many. 
 
