@@ -32,3 +32,5 @@ English Language, Mother Tongue Languages, Mathematics, and Science will continu
 
 Please exercise your options when you receive a PG message offering subject(s) at more demanding level.  
 (This is for eligible students only.) If you would like have more information on subject-based banding, kindly see attached.
+
+[SBB Information for Parents](/files/(2)%20FSBB%20Briefing%20for%20Parents_2023.pdf)
