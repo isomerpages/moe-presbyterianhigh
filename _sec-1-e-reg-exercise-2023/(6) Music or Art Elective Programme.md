@@ -68,3 +68,6 @@ Thank you.
 
 Do refer to important details in web links and attachment provided.  below.
 
+ * * *
+ 
+ [Music Link](https://moe.gov.sg/mep) | [Art Link](https://moe.gov.sg/aep)
