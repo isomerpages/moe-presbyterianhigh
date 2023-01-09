@@ -26,7 +26,8 @@ sections:
       button: Click here
       url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
   - infobar:
-      title: NDLP
-      button: Click Here
-      url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/ndlp/national-digital-literacy-programme/
+      title: HBL
+      button: Click here
+      url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
+      description: HBL & SIL Mircosite
 ---
