@@ -1,4 +1,5 @@
 collections:
   sec-1-e-reg-exercise-2023:
     output: true
-    order: []
+    order:
+      - (10) Enroll for Health and Dental Services.md
