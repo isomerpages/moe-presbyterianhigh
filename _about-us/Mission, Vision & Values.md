@@ -27,6 +27,17 @@ to bless their world always.
 
 To inculcate Christian values in every individual and develop his potential as a total person worthy of God and man.
 
+
+* * *
+
+### SCHOOL VALUES
+
+**R**espect    
+**R**esponsibility   
+**R**esilience    
+**I**ntegrity   
+**E**mpathy  
+
 * * *
 
 ### SCHOOL MOTTO
@@ -41,16 +52,6 @@ If then GOD shows Himself and His way to us, He will surely make us A FLAME FOR 
 _Rev John Hanna_
 
 * * *
-
-### SCHOOL VALUES
-
-**R**espect    
-**R**esponsibility   
-**R**esilience    
-**I**ntegrity   
-**E**mpathy  
-
-###   SCHOOL MOTTO
 
 **焚而不毁 (fén ér bù huǐ)**  
 这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。  
