@@ -3,13 +3,10 @@ title: National Digital Literacy Programme
 permalink: /ndlp/national-digital-literacy-programme/
 description: ""
 ---
-
 # **National Digital Literacy Programme**
 
-Digital technology is becoming increasingly pervasive in  jobs, workplaces and society.
-
-The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready. 
-
+**Digital technology is becoming increasingly pervasive in  jobs, workplaces and society.** The NDLP was launched in March 2020 to **make digital learning inclusive** by **equipping students with the digital literacies** to be future-ready.
+  
 
 **The NDLP aims to equip our students with Digital Literacies.** 
 
@@ -23,19 +20,19 @@ The device will be used to facilitate an environment that **encourages person
 
 ![](/images/ndlp2.jpg)
 
-Funding Support for Singapore Citizen (SC) Students
+**Funding Support for Singapore Citizen (SC) Students**
 
-The cost of the device bundle can be paid using your child’s Edusave account, after setting aside provision for payment of second-tier miscellaneous fees.
+**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.
 
-To ensure the affordability of devices, there was a one-time Edusave top-up of $200 in April 2020 to support the purchase of the device. (This is on top of the annual $290 credited into the Edusave account for Secondary School students.)
+To ensure the affordability of devices, **there was a one-time Edusave top-up of $200** in April 2020 to support the purchase of the device. (This is on top of the **annual $290** credited into the Edusave account for Secondary School students.)
 
 For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0. 
 
-Safe and Seamless Learning Environment for Students  
 
-  
 
-The school has in place some measures to enable a safe and seamless learning environment for students.  
+**Safe and Seamless Learning Environment for Students**  
+
+The school has in place some measures **to enable a safe and seamless learning environment for students.**  
   
 
 **A. Educating students on Cyber Wellness**  
