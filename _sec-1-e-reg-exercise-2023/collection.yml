@@ -2,6 +2,7 @@ collections:
   sec-1-e-reg-exercise-2023:
     output: true
     order:
+      - Principal's Welcome Video.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
       - (3) Higher Mother Tongue Language.md
