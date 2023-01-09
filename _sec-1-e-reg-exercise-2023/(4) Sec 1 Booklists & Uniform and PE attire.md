@@ -11,6 +11,6 @@ Dear Parents/Guardians
 
 You are encouraged to purchase textbooks and school uniforms through the online portal provided by the vendors.
 
-1)[Sec 1 Instruction Sheet on Purchase of Textbook and Uniform.pdf](https://presbyterian-moe-edu-sg-admin.cwp.sg/qql/slot/u1269/2023/sec1orientation/booklist/Sec%201%20Instruction%20Sheet%20on%20Purchase%20of%20Textbook%20and%20Uniform.pdf) 
+1)[Sec 1 Instruction Sheet on Purchase of Textbook and Uniform.pdf](/files/Sec%201%20Instruction%20Sheet%20on%20Purchase%20of%20Textbook%20and%20Uniform.pdf) 
 
-2) [PHS S1 booklists.pdf](https://presbyterian-moe-edu-sg-admin.cwp.sg/qql/slot/u1269/2023/sec1orientation/booklist/Copy%20of%20Final%20PHS%20S1%20booklists.pdf)
+2) [PHS S1 booklists.pdf](/files/Copy%20of%20Final%20PHS%20S1%20booklists.pdf)
