@@ -5,9 +5,15 @@ description: ""
 ---
 # **English Language and Literature**
 
-English Language and Literature Department
+The English Language and Literature Department nurtures effective communicators and discerning readers, who are able to evaluate real-world issues empathetically and critically. We empower our students to use language purposefully to make a difference to their community and beyond**.**&nbsp;
 
-The English Language and Literature Department seeks to develop PHS students into effective communicators and discerning readers who are able to evaluate real-word issues empathetically and critically. We empower our students to use language purposefully to make a difference to their immediate community and beyond.    
+**Our Approach**&nbsp;
+
+We aim to make learning joyful and relevant for students. In the acquisition of listening, reading, speaking and writing skills, students are exposed to a wide range of texts, e.g., audio, visual and linguistic. Students are given opportunities to collaborate and showcase what they have learnt.
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd8wO4QPiq49TGTJ59PQaA-g1udSpry0WdnN6l14U7harE5uGcq2Q88ozW9PSw6QeSdGN4AFSdLZ6b/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 ### Our Programmes
 
@@ -20,7 +26,7 @@ The Extensive Reading Programme cultivates the love of reading in students. The 
 
 _"What I enjoy most about the Silent Reading period is being able to read my book in a quiet and calm environment in the morning.” - Naomi Maiyanti_
 
-<img src="/images/eng1.jpg" style="width:183px;height:200px;margin-left:15px;" align = "right">
+<img align="right" style="width:183px;height:200px;margin-left:15px;" src="/images/eng1.jpg">
 
 _“I enjoy the Silent Reading period because I can let my imagination flow when I read in class in the morning. The classroom is very quiet and I find it very conducive to read. Reading allows me to expand my vocabulary. I am also more well-informed of current affairs, as I get to read the newspapers every Monday during the Silent Reading period.” - Aliyah Carlyn Lerio Jarque_  
   
@@ -31,13 +37,13 @@ _“I enjoy the Silent Reading Period as it gives me the opportunity to keep mys
 
 The Local Author’s e-Talk provides our Upper Secondary students with the opportunity to meet with writers whose works they are studying, and ask them questions.
 
-<img src="/images/eng2.jpg" style="width:250px;height:150px;margin-left:15px;" align = "right">
+<img align="right" style="width:250px;height:150px;margin-left:15px;" src="/images/eng2.jpg">
 
 “It was interesting to know the producer and authors’ own perceptions and interpretations of their own characters, especially the reasons for the nameless and faceless main characters of both “Rich Man Country” and “Margarine”. I enjoyed their sharing on how they came about to writing their stories. At the end of the session, I felt inspired to write my own stories and happy that I got an inside to the authors to help me better understand the texts.” - Heng Mei Ling_
 
-“The writer’s talk helped me to understand the short stories in Hook & Eye: Stories from the Margins and provided me a new perspective to these stories. The talk also got me to think more about the questions and the thought processes of marginalised communities and understand from their perspectives. This talk is a once-in-a-lifetime experience that I will cherish.” - Heidi Yung
+“The writer’s talk helped me to understand the short stories in Hook &amp; Eye: Stories from the Margins and provided me a new perspective to these stories. The talk also got me to think more about the questions and the thought processes of marginalised communities and understand from their perspectives. This talk is a once-in-a-lifetime experience that I will cherish.” - Heidi Yung
 
-“The Sing Lit talk was very insightful because I learnt more about the various authors of the stories. I also have the opportunity to delve deeper into what Singapore Literature is. This makes me more equipped in understanding the stories in Hook & Eye when I analyse them next year.” - Ilaga Danielle Aguilar
+“The Sing Lit talk was very insightful because I learnt more about the various authors of the stories. I also have the opportunity to delve deeper into what Singapore Literature is. This makes me more equipped in understanding the stories in Hook &amp; Eye when I analyse them next year.” - Ilaga Danielle Aguilar
 
 **National Schools Literature Festival**
 
