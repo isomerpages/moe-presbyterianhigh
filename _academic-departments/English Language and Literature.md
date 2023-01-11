@@ -18,7 +18,7 @@ We aim to make learning joyful and relevant for students. In the acquisition of 
 Students design book covers to show an appreciation for the characters and themes of a text.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR08Ae73qP7abB4-ha4JIvH5Yx80Qonhiy-roLjOXfSm5DeYH3SPbP9YO-uJZ_al8p7pKzl9lusCgPv/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
-
+Students develop confidence in public speaking and develop presentation skills.
 
 
 
