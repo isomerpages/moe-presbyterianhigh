@@ -3,11 +3,23 @@ title: Mother Tongue Languages
 permalink: /academic-departments/mother-tongue-languages/
 description: ""
 ---
-# **Mother Tongue Languages**
+# **Mother Tongue Languages Department**
 
-Mother Tongue Languages Department
+**Our Mission**
 
-The Mother Tongue Languages Department seeks to nurture the love for Mother Tongue languages and equip students to be proficient and confident communicators for the 21st century.
+![](/images/image001.jpg)
+
+The Mother Tongue Languages Department seeks to nurture the love for Mother Tongue Languages and equip students to be proficient and confident communicators for the 21st century. 
+
+母语部致力于培养学生成为21世纪热爱各自母语文化并能够自信地在日常生活中利用母语进行交际互动的学习者。
+
+**Infusing E-Pedagogy in MTL Teaching and Learning**
+
+e-Pedagogy is infused into our daily teaching and learning to make MTL learning fun and engaging for our students. 
+
+为了营造“乐学善用”的母语学习环境，老师们利用了线上教学法和科技来辅助学生学习。
+
+![](/images/Students%20engaged%20in%20a%20Quizlet.jpg)Students engage in a Quizlet Live game to check their understanding of a Chinese word application
 
 ### Our programmes
 
