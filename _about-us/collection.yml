@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Our Key Personnel.md
       - Principal's Message.md
+      - School History/.keep
       - School History/School History.md
       - School History/School Crest.md
       - School History/School Song.md
-      - School History/.keep
       - Mission, Vision & Values.md
       - School Management Committee.md
+      - Our Key Personnel.md
       - Staff Email Directory.md
       - Admission Information.md
-      - Publications/2021 School Magazine.md
       - Publications/.keep
+      - Publications/2021 School Magazine.md
       - Publications/2020 School Magazine.md
