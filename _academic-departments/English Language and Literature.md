@@ -13,11 +13,15 @@ We aim to make learning joyful and relevant for students. In the acquisition of 
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd8wO4QPiq49TGTJ59PQaA-g1udSpry0WdnN6l14U7harE5uGcq2Q88ozW9PSw6QeSdGN4AFSdLZ6b/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSd8wO4QPiq49TGTJ59PQaA-g1udSpry0WdnN6l14U7harE5uGcq2Q88ozW9PSw6QeSdGN4AFSdLZ6b/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Students design book covers to show an appreciation for the characters and themes of a text.
 
-### Our Programmes
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR08Ae73qP7abB4-ha4JIvH5Yx80Qonhiy-roLjOXfSm5DeYH3SPbP9YO-uJZ_al8p7pKzl9lusCgPv/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+
+
 
 **Extensive Reading Programme**
 
@@ -28,7 +32,7 @@ The Extensive Reading Programme cultivates the love of reading in students. The 
 
 _"What I enjoy most about the Silent Reading period is being able to read my book in a quiet and calm environment in the morning.” - Naomi Maiyanti_
 
-<img align="right" style="width:183px;height:200px;margin-left:15px;" src="/images/eng1.jpg">
+<img src="/images/eng1.jpg" style="width:183px;height:200px;margin-left:15px;" align="right">
 
 _“I enjoy the Silent Reading period because I can let my imagination flow when I read in class in the morning. The classroom is very quiet and I find it very conducive to read. Reading allows me to expand my vocabulary. I am also more well-informed of current affairs, as I get to read the newspapers every Monday during the Silent Reading period.” - Aliyah Carlyn Lerio Jarque_  
   
@@ -39,7 +43,7 @@ _“I enjoy the Silent Reading Period as it gives me the opportunity to keep mys
 
 The Local Author’s e-Talk provides our Upper Secondary students with the opportunity to meet with writers whose works they are studying, and ask them questions.
 
-<img align="right" style="width:250px;height:150px;margin-left:15px;" src="/images/eng2.jpg">
+<img src="/images/eng2.jpg" style="width:250px;height:150px;margin-left:15px;" align="right">
 
 “It was interesting to know the producer and authors’ own perceptions and interpretations of their own characters, especially the reasons for the nameless and faceless main characters of both “Rich Man Country” and “Margarine”. I enjoyed their sharing on how they came about to writing their stories. At the end of the session, I felt inspired to write my own stories and happy that I got an inside to the authors to help me better understand the texts.” - Heng Mei Ling_
 
