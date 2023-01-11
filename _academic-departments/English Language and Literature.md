@@ -14,6 +14,7 @@ We aim to make learning joyful and relevant for students. In the acquisition of 
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd8wO4QPiq49TGTJ59PQaA-g1udSpry0WdnN6l14U7harE5uGcq2Q88ozW9PSw6QeSdGN4AFSdLZ6b/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
 Students design book covers to show an appreciation for the characters and themes of a text.
 
 ### Our Programmes
