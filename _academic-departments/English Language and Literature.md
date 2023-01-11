@@ -14,9 +14,8 @@ We aim to make learning joyful and relevant for students. In the acquisition of 
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSd8wO4QPiq49TGTJ59PQaA-g1udSpry0WdnN6l14U7harE5uGcq2Q88ozW9PSw6QeSdGN4AFSdLZ6b/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
 Students design book covers to show an appreciation for the characters and themes of a text.
-
+<br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR08Ae73qP7abB4-ha4JIvH5Yx80Qonhiy-roLjOXfSm5DeYH3SPbP9YO-uJZ_al8p7pKzl9lusCgPv/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 Students develop confidence in public speaking and develop presentation skills.
 
