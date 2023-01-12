@@ -59,3 +59,21 @@ MTL Fortnight creates an immersive environment for the learning and appreciation
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+
+**Cultural Programme Exposure Scheme (CPES)** **文化随意门**
+
+CPES is offered to our students to deepen their interest in the Chinese Language. Students are given the opportunity to appreciate drama performance online and interact with the actors.
+
+
+![](/images/image047.jpg)
+
+
+**External Compeitions 校外比赛**
+
+Our students participate in national competitions under the guidance of our teachers to gain exposure to language learning.
+
+**5th Text Recital Competition for Primary and Secondary Schools**
+
+第五届中小学课文朗诵比赛
