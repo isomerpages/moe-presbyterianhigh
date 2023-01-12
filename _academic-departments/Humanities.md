@@ -3,8 +3,7 @@ title: Humanities
 permalink: /academic-departments/Humanities/
 description: ""
 ---
-Humanities
-==========
+# **Humanities**
 
 ### **“Thinkers with a Heart,&nbsp;Advocating For A World of Positive Change”**
 
@@ -125,3 +124,15 @@ In the ASEAN Symposium 2022, our students presented their paper on the prevalenc
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2Z2-Uh8Ax73f8zjHBS-78j2Q9-w7S7ncJ62FhmQo5frSZxO_jP9QeAY0YsblYiCXWGLK5oV4MNpbZ/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+“I am glad I was given this opportunity to learn about our country’s needs, and how we, as a nation, can stay united with other countries as our partners.” – Georgina Koh Yu Xin, Participant of ASEAN Symposium 2022
+
+**NUS Geography Challenge**
+
+
+![](/images/NUS%20Geography%20Challenge.jpg)
+NUS Geography Challenge 2022 - Team PHS won the 2nd place in the Preliminary Round Team Component and went on to the semi-finals where they competed in a Geo-Trail around Singapore against 29 other schools.   
+
+Eileen Teng from 4 Grace won the Top Performing Student - Silver Medal and was shortlisted to join the MOE's Geography Talent Development Programme during the Preliminary round (Individual Component). Tristan Chiew from 4 Faith won the Top Performing Student - Bronze Medal.  
+
+**Geography Learning Journey – Field Trip to Citiponics Urban Vertical Farm @ AMK**
