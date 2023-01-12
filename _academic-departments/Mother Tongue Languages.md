@@ -29,7 +29,7 @@ Students engage in a Quizlet Live game to check their understanding of a Chinese
 ![](/images/image009.png)
 Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed learning tools before and after their CL lessons
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 ![](/images/mt.jpg)
@@ -38,7 +38,7 @@ Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed l
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
@@ -58,7 +58,7 @@ MTL Fortnight creates an immersive environment for the learning and appreciation
 
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 
@@ -81,7 +81,7 @@ Our students participate in national competitions under the guidance of our teac
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWIMX_mjkQ3--9hET2LUhlELYKFsjH1rrdrEFPToeDMGUQU58_cXC7B03YNGsgyYopU8iCLf-SUKQy/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWIMX_mjkQ3--9hET2LUhlELYKFsjH1rrdrEFPToeDMGUQU58_cXC7B03YNGsgyYopU8iCLf-SUKQy/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
@@ -94,3 +94,10 @@ Our students participate in national competitions under the guidance of our teac
 Chaa Selena of 3 Faith received the Outstanding Award
 
 
+
+**National Chinese Riddle Competition 2022**
+
+**全国中学生灯谜比赛2022**
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQApb7CLw1wFt0mjDnnbXwc8c0c3s2Px8L_R0mBsyrlPT5PpI7VHIQ0ibBVXEwboziHHKe6eEKPAv_s/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
