@@ -29,7 +29,7 @@ Students engage in a Quizlet Live game to check their understanding of a Chinese
 ![](/images/image009.png)
 Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed learning tools before and after their CL lessons
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 ![](/images/mt.jpg)
@@ -38,7 +38,7 @@ Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed l
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
@@ -53,4 +53,9 @@ The Extensive Reading Programme cultivates the habit of reading in students by e
 
 **Mother Tongue Languages (MTL) Fortnight**
 
-MTL Fortnight creates an immersive environment for the learning and appreciation of mother tongue languages and cultures. Students gain better insights into the culture and traditions of the Chinese and Malay communities through activities like Chinese opera face mask painting, Chinese fan painting and Malay kite (wau) making.
+MTL Fortnight creates an immersive environment for the learning and appreciation of mother tongue languages and cultures. Students gain better insights into the culture and traditions of the Chinese and Malay communities through&nbsp;activities like Chinese opera face mask painting, Chinese fan painting&nbsp;and Malay kite (wau) making.
+
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
