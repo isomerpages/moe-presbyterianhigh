@@ -9,5 +9,17 @@ We inculcate in students the spirit of scientific inquiry and the quest to innov
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1G1vMwapbEgeXDMBhUIRevmrBlPmSM3QUtqf4ILCj5JwaoGmQhmbXzOLJG9VCRs4n5hbqO8mXRZdj/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1G1vMwapbEgeXDMBhUIRevmrBlPmSM3QUtqf4ILCj5JwaoGmQhmbXzOLJG9VCRs4n5hbqO8mXRZdj/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 Secondary One students use scientific inquiry skills to apply to real life situations.
+
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIazA7Kqdk3hn21Le6qBoA8EYMzmYcDfGMVa54OcnHTAXMZwZ-kDuqctH8WdsZlqDMG7cUarUJXjwK/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5uex_YOD2quFBOvahHm4ZCZLraTpNqJ4Ham0rQLJWjOHhf7-YzsJ_cUyb0cD9fSQrG-BdPrhLNlKk/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+Infusing e-Pedagogy into Science lessons to make learning come alive
+
+
