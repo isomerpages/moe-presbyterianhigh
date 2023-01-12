@@ -49,3 +49,8 @@ Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed l
 The Extensive Reading Programme cultivates the habit of reading in students by exposing them to various genres of writing as well as providing a platform for students to formulate opinions and engage in discussions on contemporary issues. Every Friday, students read interesting materials in their mother tongue languages.
 
 ![](/images/image029.jpg)
+
+
+**Mother Tongue Languages (MTL) Fortnight**
+
+MTL Fortnight creates an immersive environment for the learning and appreciation of mother tongue languages and cultures. Students gain better insights into the culture and traditions of the Chinese and Malay communities through activities like Chinese opera face mask painting, Chinese fan painting and Malay kite (wau) making.
