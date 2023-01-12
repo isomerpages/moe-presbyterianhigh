@@ -3,7 +3,36 @@ title: Humanities
 permalink: /academic-departments/Humanities/
 description: ""
 ---
-# **Humanities**
+Humanities
+==========
+
+### **“Thinkers with a Heart, Advocating For A World of Positive Change”**
+
+<img src="/images/image001-1.jpg" style="width:280px;height:200px;margin-left:15px;" align = "right">
+
+The PHS Humanities Department imagines a world where the Humanities subjects empower our youths to champion for positive changes in the world. With this philosophy guiding the teachers, the Humanities classroom becomes a creative and meaningful space for students as they investigate real-world issues that allow them to develop a sense of empathy and appreciation for the world around us. We carry out authentic learning tasks that seek to ignite passion and build confidence in each and every Humanities learner.
+
+
+![](/images/Key%20Qualities.png)
+
+### **Humanities in the Everyday Classroom**
+
+No longer is the Humanities education about memorisation of facts and content. 
+
+Instead, it revolves around understanding societal problems and world issues.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3igh6ptmLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPvs2nr2_fA?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XTehYUJIyw?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+![](/images/humanities.jpg)
+
 
 The PHS Humanities Department imagines a world where the Humanities subjects (Social Studies, History and Geography) empower our youths to champion for positive changes in the world. With this philosophy guiding the Humanities teachers, the Humanities classroom is evolving into a more creative and meaningful space for students as they investigate real-world issues that allow them to develop a sense of empathy and appreciation for the world around us. Our conventional pen-and-paper assessment modes are also shifting to authentic tasks that seek to bring out the passion and confidence in each and every Humanities learner.
 
@@ -36,3 +65,12 @@ The studying of history enables students to think critically about timeless conc
 <img src="/images/3xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
 In-line with our school's termly focus of Caring for the Environment, Secondary 3 students carry out an issue investigation on two environmental issues that are a major cause of concern to Singapore - Food Wastage and Plastic Consumption. Students gather data to find out how and why these issues can become a cause of social concern to Singapore when they are not managed. Thereafter, students either create an advocacy video or a poster for the environmental issue that their group choses. For the advocacy videos, our students take on the roles of the various stakeholders involved in the environmental issues. They provide perspectives and recommendations from their chosen roles, and in the process, develop skills and values that cannot be assessed through pen-and-paper assessment. These skills are also part of the Upper Secondary Social Studies syllabus where students learn to make recommendations to address societal issues.
+
+
+### Signature Programme – The Humanities Immersion Programme (HIP)
+
+The HIP students are a group of passionate 15 to 16-year-olds who have come together to delve deeper into issues on the three pillars of sustainability: social, environmental and economic. These include the erosion of Singapore’s cultural heritage, land use, fast fashion, inclusivity of people with disabilities and climate change. Students dream of advocating for positive changes and making a difference to the society. 
+
+  
+
+**HIP Camp 2022**
