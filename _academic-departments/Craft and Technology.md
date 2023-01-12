@@ -5,17 +5,17 @@ description: ""
 ---
 # **Craft and Technology**
 
-The Craft and Technology Department is made up of the Arts Unit, the Design and Technology Unit, the Nutrition and Food Science Unit, the Economics Unit and the Principles of Accounts Unit.   
+The Craft and Technology Department is made up of the Arts Unit, the Design and Technology Unit, the Nutrition and Food Science Unit, the Economics Unit and the Principles of Accounts Unit.&nbsp;  
 
-Together, we develop critical thinkers and independent learners who possess a growth mindset. We inspire our students to stay curious, imaginative and creative, and become people who can bless their community always. 
+Together, we develop critical thinkers and independent learners who possess a growth mindset. We inspire our students to stay curious, imaginative and creative, and become people who can bless their community always.&nbsp;
 
 
 **The Arts Unit**
 
-The Arts Unit fosters a deep understanding of Aesthetics and ignites a passion for the Aesthetics through art and music. 
+The Arts Unit fosters a deep understanding of Aesthetics and ignites a passion for the Aesthetics through art and music.&nbsp;
 
  
-During Art lessons, students get to learn different art media and experience the joy of creating 2-D and 3-D artworks in art classes. Every year, art students take part in the Live On Festival (LOF), an initiative by the National Organ Transplant Unit (NOTU), to express their thoughts on organ donation and transplantation creatively. In the process, students interact with patients with organ failure and hear their stories before creating an artwork. The artwork serves as an outreach to educate the community on organ transplant and donation.
+During Art lessons, students get to learn different art media and experience the joy of creating 2-D and 3-D artworks in art classes.&nbsp;Every year, art students take part in the Live On Festival (LOF), an initiative by the National Organ Transplant Unit (NOTU), to express their thoughts on organ donation and transplantation creatively. In the process, students interact with patients with organ failure and hear their stories before creating an artwork. The artwork serves as an outreach to educate the community on organ transplant and donation.
 
 ![](/images/image001.png)
 
@@ -25,3 +25,5 @@ The Arts Unit also develops students' knowledge and skills in music by conductin
 
 The GMP develops students' awareness and appreciation of music in local and global cultures, and students collaborate with each other to make music together. Studying music at the Normal (Technical) level hones students' skills in music composition and their knowledge in using music software. Students experience playing their chosen instruments in a solo and group performance setting.
 
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
