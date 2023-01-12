@@ -29,7 +29,7 @@ Students engage in a Quizlet Live game to check their understanding of a Chinese
 ![](/images/image009.png)
 Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed learning tools before and after their CL lessons
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 ![](/images/mt.jpg)
@@ -38,7 +38,7 @@ Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed l
 
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 
@@ -58,11 +58,11 @@ MTL Fortnight creates an immersive environment for the learning and appreciation
 
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
-**Cultural Programme Exposure Scheme (CPES)** **文化随意门**
+**Cultural Programme Exposure Scheme (CPES)**&nbsp;**文化随意门**
 
 CPES is offered to our students to deepen their interest in the Chinese Language. Students are given the opportunity to appreciate drama performance online and interact with the actors.
 
@@ -77,3 +77,20 @@ Our students participate in national competitions under the guidance of our teac
 **5th Text Recital Competition for Primary and Secondary Schools**
 
 第五届中小学课文朗诵比赛
+
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWIMX_mjkQ3--9hET2LUhlELYKFsjH1rrdrEFPToeDMGUQU58_cXC7B03YNGsgyYopU8iCLf-SUKQy/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+
+**“Creativity, No Boundaries!” National Children’s Story Writing Competition**  
+
+“创意无限”全国儿童故事创作大赛
+
+
+![](/images/image059.jpg)
+Chaa Selena of 3 Faith received the Outstanding Award
+
+
