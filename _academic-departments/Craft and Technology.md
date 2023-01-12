@@ -27,3 +27,11 @@ The GMP develops students' awareness and appreciation of music in local and glob
 
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+![](/images/music.jpg)
+
+
+**The Design and Technology (D&T) Unit**
+
+The Design and Technology curriculum adopts the Design Thinking Process as one of the key pedagogical approaches. Besides learning about tools, machines and materials, the D&T curriculum enriches the students’ learning by challenging them to generate practical and appropriate design ideas, sketch their proposals and create mock-ups to test their ideas. The entire process develops in our students critical thinking skills, problem solving skills and communication skills.
