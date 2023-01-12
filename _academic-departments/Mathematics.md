@@ -3,44 +3,28 @@ title: Mathematics
 permalink: /academic-departments/Mathematics/
 description: ""
 ---
-# **Mathematics**
+# **Mathematics Department** 
 
-The Mathematics Department aims to cultivate interest in and appreciation of Mathematics. The subject helps students understand real-world phenomena and provides the foundation for many innovations and solutions. We seek to equip our students with the necessary knowledge, skills and competencies, and stretch their capacities to think logically, critically and analytically. 
 
-### Our Programmes
+The Mathematics Department cultivates students' interest in and their appreciation of Mathematics and equips them with necessary knowledge, skills and competencies to think logically, critically and analytically. The study of Mathematics helps students understand real-world phenomena and provides the foundation for many innovations and solutions. 
 
-**PHS Mathematics Olympiad** 
+**Learning Mathematics beyond the Classroom**
+![](/images/math1.jpg)
+Sparking students' interest in trigonometry 
+
+**Our signature programmes include:** 
+
+*   Mathematics Olympiad training for Sec 1 to 3 students, which hones students' mathematical problem solving skills;
+*   Problem-Based Learning (PBL) projects, which develop creative and critical thinking, collaborative, and problem-solving skills in Sec 2 student. Students conduct research, use technology in design exploration and collaborate to propose a solution to real-world problems; 
+*   Mathematics Week, which promotes a positive attitude towards Mathematics and develops the joy of learning.
+
   
-We have started our very own PHS Mathematics Olympiad for the Secondary One cohort to develop and stretch students who show keen interest in and display potential in mathematical problem solving.
+
+**PHS Mathematics Olympiad**    
+PHS Mathematics Olympiad develops Secondary One students who show keen interest in and display potential in mathematical problem solving.
 
 ![](/images/Math.jpg)
 Preparing students for the PHS Mathematics Olympiad
 
-“I totally enjoy solving the challenging Mathematical questions during the Mathematics Olympiad. I was given practice questions to work on as preparation for the Olympiad. Though the questions were challenging, I truly enjoyed the challenge!” - Fan Yu Xuan
-
-“I enjoyed the Mathematics Olympiad as I was exposed to Mathematical concepts beyond what I learnt in my Mathematics lessons.” - Andrew Tan Chin Yang
-
-**Problem-Based Learning (PBL)**
-
-PBL aims to develop creative and critical thinking, collaborative and problem-solving skills in our students. A key programme for the Secondary Two cohort, students work in groups to formulate goals and set learning objectives on the topic of Mensuration to solve a given real-world problem. Tapping on the affordances of technology, the project was hosted on the Student Learning Space (SLS). The students conducted research online, used Microsoft Excel for the design exploration stage, and collaborated online to propose a solution to the problem.
-
-![](/images/math-1.jpg)
-
-“I have learnt about the volume of shapes and the difference between a cylinder and a cuboid. I have also learnt how to work in a group.” - Nurul Tiaranisha 
-
-“I enjoyed PBL, as it gave me the opportunity to apply what I have learnt about the volume and surface area of shapes to design a product for sale.” - Zack Ngiam Yi Wei
-
-
-“I really enjoyed working with my teammates on this project. My teammates and I completed this project through Google Meet and we have picked up a lot of new knowledge along the way. We contributed to the project based on our strengths and helped one another along the way.” - Ong Yu Han
-
-**e-Mathematics Week**
-
-The e-Mathematics week seeks to promote in students a positive attitude towards and appreciation for Mathematics, and to highlight the creative applications of Mathematics in everyday life. Through participating in the online activities, we hope that students will discover the joy and fun of Mathematics.  
-
-“E-Mathematics Week was fun! I got to work on Mathematical questions that were not like the usual questions in my daily assignments. I like the challenge!” - Yap Yen Jun Trilian 
-
-“I enjoyed E-Mathematics Week. I found the activities stimulating and enriching.” - Danielle Cheng Rui Qi
-
-“I enjoyed learning about the Mathematicians of the past and the contributions they have made to the
-
-subject. I also had a lot of fun solving the puzzles on SLS.” - Alexandrina Megan George
+**Problem-Based Learning (PBL)**  
+PBL develops our students' creative and critical thinking, collaborative and problem-solving skills. Students work in groups to formulate goals and set learning objectives on the topic of Mensuration to solve a given real-world problem. The students conduct research online, use Microsoft Excel for the design exploration stage, and collaborate through the SLS to propose a solution to the problem.
