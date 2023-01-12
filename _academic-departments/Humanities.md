@@ -109,3 +109,16 @@ Some platforms include: 
 * MOE History Challenge 
 * NUS Geography Challenge 
 * The Sustainable Singapore Gallery “Speak Up, Voice Out 2022” – Letters to Our Planet
+
+![](/images/NYEC%20Conference%202022.jpg)
+Eileen Teng from 4 Grace and Chloe Choo from 4 Faith won Best Position Paper on the theme of “Sustainable Living” in the National Youth Environment Conference 2022.   
+
+  
+
+“The overall experience was quite interesting and I learnt more about climate change as well as how other countries are managing it better than from lessons itself. The committee sessions were in truth, quite stressful, as we had to debate with others and prove how feasible our solutions were. Nonetheless, I’m glad to have joined it. It broadened my horizon as I watched in awe at others who were able to debate very well.” - Shun Le Hnin, participant of NYEC 2022  
+
+  
+
+**ASEAN Symposium** 
+
+In the ASEAN Symposium 2022, our students presented their paper on the prevalence of slums in ASEAN and shared their groups’ recommendations on tackling the issue of slums in countries like the Philippines and Thailand.
