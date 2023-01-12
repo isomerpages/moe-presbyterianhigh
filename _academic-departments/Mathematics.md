@@ -28,3 +28,5 @@ Preparing students for the PHS Mathematics Olympiad
 
 **Problem-Based Learning (PBL)**  
 PBL develops our students' creative and critical thinking, collaborative and problem-solving skills. Students work in groups to formulate goals and set learning objectives on the topic of Mensuration to solve a given real-world problem. The students conduct research online, use Microsoft Excel for the design exploration stage, and collaborate through the SLS to propose a solution to the problem.
+
+![](/images/2(1).jpg)
