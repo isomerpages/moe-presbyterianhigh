@@ -29,7 +29,13 @@ Students engage in a Quizlet Live game to check their understanding of a Chinese
 ![](/images/image009.png)
 Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed learning tools before and after their CL lessons
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 ![](/images/mt.jpg)
+
+
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
