@@ -78,3 +78,34 @@ The HIP students are a group of passionate 15 to 16-year-olds who have come toge
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_qPtKpeKF2ka1nE3QOPaWWQhTBap01GlGVGuB8Mzw5020jbvwNekIbp8AYXMmGjjph1mF16gaBLtz/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+Using their knowledge from the composting workshop, the HIP participants organised a kokedama-making workshop for students of ASPN Chaoyang School during our joint National Day celebrations.   
+
+  
+
+“I learnt that a sustainable lifestyle can be easily attained by integrating a few good habits into our daily lives. Before participating in the HIP camp, I felt like I had no way to contribute to sustainability as an individual. However, after the camp, I felt more hopeful about my own ability to contribute to sustainability.”
+
+ - Law En Yu, participant of HIP camp 2022
+
+  
+
+### Learning Beyond the Classroom 
+
+  
+
+Students embark on extended learning opportunities like learning journeys, fieldtrips, competitions and national seminars to build their confidence and hone their reflective and independent thinking skills. 
+
+  
+
+**External Competitions and Conferences** 
+
+Every year, Humanities students are given the opportunity to take part in national competitions and conferences, during which students learn from other secondary school students. This learning experience is invaluable. 
+
+  
+
+Some platforms include: 
+
+* National Youth Environment Conference 
+* ASEAN Symposium 
+* MOE History Challenge 
+* NUS Geography Challenge 
+* The Sustainable Singapore Gallery “Speak Up, Voice Out 2022” – Letters to Our Planet
