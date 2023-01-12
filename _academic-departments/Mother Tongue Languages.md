@@ -39,3 +39,11 @@ Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed l
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+
+### **Our Programmes**
+
+**Extensive Reading Programme**  
+
+The Extensive Reading Programme cultivates the habit of reading in students by exposing them to various genres of writing as well as providing a platform for students to formulate opinions and engage in discussions on contemporary issues. Every Friday, students read interesting materials in their mother tongue languages.
