@@ -48,3 +48,8 @@ Demonstrating creativity with mathematics heuristics during Mathematics Week
 
 <img src="/images/All%20Singapore%20Secondary%20Mathematics%20Competition%20For%20Normal%20Course%202022%20Awardee.jpg" 
      style="width:50%">
+Awardee of the All Singapore Secondary Mathematics Competition for Normal Course
+
+
+![](/images/Singapore%20Mathematics%20Olympiad%20Awardees.jpg)
+Singapore Mathematics Olympiad Awardees
