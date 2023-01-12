@@ -6,9 +6,9 @@ description: ""
 Humanities
 ==========
 
-### **“Thinkers with a Heart, Advocating For A World of Positive Change”**
+### **“Thinkers with a Heart,&nbsp;Advocating For A World of Positive Change”**
 
-<img src="/images/image001-1.jpg" style="width:280px;height:200px;margin-left:15px;" align = "right">
+<img align="right" style="width:280px;height:200px;margin-left:15px;" src="/images/image001-1.jpg">
 
 The PHS Humanities Department imagines a world where the Humanities subjects empower our youths to champion for positive changes in the world. With this philosophy guiding the teachers, the Humanities classroom becomes a creative and meaningful space for students as they investigate real-world issues that allow them to develop a sense of empathy and appreciation for the world around us. We carry out authentic learning tasks that seek to ignite passion and build confidence in each and every Humanities learner.
 
@@ -17,18 +17,18 @@ The PHS Humanities Department imagines a world where the Humanities subjects emp
 
 ### **Humanities in the Everyday Classroom**
 
-No longer is the Humanities education about memorisation of facts and content. 
+No longer is the Humanities education about memorisation of facts and content.&nbsp;
 
 Instead, it revolves around understanding societal problems and world issues.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3igh6ptmLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/K3igh6ptmLc" height="315" width="560"></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CPvs2nr2_fA?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CPvs2nr2_fA?start=3" height="315" width="560"></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4XTehYUJIyw?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4XTehYUJIyw?start=1" height="315" width="560"></iframe>
 
 
 ![](/images/humanities.jpg)
@@ -40,7 +40,7 @@ The PHS Humanities Department imagines a world where the Humanities subjects (So
 
 Humanities Talent Development Programme
 
-‘Thinkers with a Heart, Advocating for a World of Positive Change.’ 
+‘Thinkers with a Heart, Advocating for a World of Positive Change.’&nbsp;
 
 The Humanities Talent Development Programme (HTDP) aims to develop students to be the voice of Humanities. We attune students to look at contemporary issues from multiple lenses, think critically and generate human-centric viable solutions. These opportunities exposed students to authentic experiences related to the Humanities as they become global citizens who are able to speak for Humanities for the past, present and future.
 
@@ -50,27 +50,31 @@ The Humanities Talent Development Programme (HTDP) aims to develop students to b
 
 **Geography**
 
-<img src="/images/1%20(1).png" style="width:300px;height:200px;margin-left:15px;" align = "right">
+<img align="right" style="width:300px;height:200px;margin-left:15px;" src="/images/1%20(1).png">
 
 To provide an experiential, values-driven and authentic education, every year, Geography students undergo the process of conducting at least a Geographical Investigation (GI). GI offers students first-hand experience of carrying out fieldwork and develops their 21st Century Competencies. As part of our aim to enhance the spatial and digital literacy of our students, we introduce to our students the science and digital language of location through Geographical Information Systems (GIS) technology for their geographical investigation.
 
 **History**
 
-<img src="/images/2xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
+<img align="right" style="width:300px;height:200px;margin-left:15px;" src="/images/2xx.jpg">
 
 The studying of history enables students to think critically about timeless concepts such as cause and effect, changes and continuities and significance. Historical Investigation is an integral part of the History curriculum. It serves as a platform for students to investigate different aspects of Singapore's history. Lower Secondary students get the opportunity to gather and explore a range of sources such as artefacts, written, pictorial as well as oral sources beyond what they are exposed in classroom. They will get to do 'history' by carrying out research and apply their historical knowledge and skills to form their own response to authentic historical issue.
 
 **Social Studies**
 
-<img src="/images/3xx.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
+<img align="right" style="width:300px;height:200px;margin-left:15px;" src="/images/3xx.jpg">
 
 In-line with our school's termly focus of Caring for the Environment, Secondary 3 students carry out an issue investigation on two environmental issues that are a major cause of concern to Singapore - Food Wastage and Plastic Consumption. Students gather data to find out how and why these issues can become a cause of social concern to Singapore when they are not managed. Thereafter, students either create an advocacy video or a poster for the environmental issue that their group choses. For the advocacy videos, our students take on the roles of the various stakeholders involved in the environmental issues. They provide perspectives and recommendations from their chosen roles, and in the process, develop skills and values that cannot be assessed through pen-and-paper assessment. These skills are also part of the Upper Secondary Social Studies syllabus where students learn to make recommendations to address societal issues.
 
 
-### Signature Programme – The Humanities Immersion Programme (HIP)
+### Signature Programme –&nbsp;The Humanities Immersion Programme (HIP)
 
-The HIP students are a group of passionate 15 to 16-year-olds who have come together to delve deeper into issues on the three pillars of sustainability: social, environmental and economic. These include the erosion of Singapore’s cultural heritage, land use, fast fashion, inclusivity of people with disabilities and climate change. Students dream of advocating for positive changes and making a difference to the society. 
+The HIP students are a group of passionate 15 to 16-year-olds who have come together to delve deeper into issues on the three pillars of sustainability: social, environmental and economic. These include&nbsp;the erosion of Singapore’s cultural heritage, land use, fast fashion, inclusivity of people with disabilities and climate change. Students&nbsp;dream of advocating for positive changes and making a difference to the society.&nbsp;
 
   
 
 **HIP Camp 2022**
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_qPtKpeKF2ka1nE3QOPaWWQhTBap01GlGVGuB8Mzw5020jbvwNekIbp8AYXMmGjjph1mF16gaBLtz/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
