@@ -26,7 +26,7 @@ The Arts Unit also develops students' knowledge and skills in music by conductin
 The GMP develops students' awareness and appreciation of music in local and global cultures, and students collaborate with each other to make music together. Studying music at the Normal (Technical) level hones students' skills in music composition and their knowledge in using music software. Students experience playing their chosen instruments in a solo and group performance setting.
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
 
 
 ![](/images/music.jpg)
@@ -37,13 +37,36 @@ The GMP develops students' awareness and appreciation of music in local and glob
 The Design and Technology curriculum adopts the Design Thinking Process as one of the key pedagogical approaches. Besides learning about tools, machines and materials, the D&amp;T curriculum enriches the students’ learning by challenging them to generate practical and appropriate design ideas, sketch their proposals and create mock-ups to test their ideas. The entire process develops in our students critical thinking skills, problem solving skills and communication skills.
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwU9Dxh-7JVVRuglxYZ_VmJ4Zo07W8C5CJv81KQl_k_2QwL9n5sWSFaImPkyslNVTImu3Y2jls_hiG/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwU9Dxh-7JVVRuglxYZ_VmJ4Zo07W8C5CJv81KQl_k_2QwL9n5sWSFaImPkyslNVTImu3Y2jls_hiG/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
-<img align="right" style="width:300px;height:180px;margin-left:15px;" src="/images/Picture20.png">
+<img src="/images/Picture20.png" style="width:300px;height:180px;margin-left:15px;" align="right">
 
 The Squid Bag Tag project enables me to create my own design, actualise the prototype and reflect on the areas for improvement. - Ashley Wong Theng Yan
 
-<img align="right" style="width:300px;height:180px;margin-left:15px;" src="/images/Picture21.png">
+<img src="/images/Picture21.png" style="width:300px;height:180px;margin-left:15px;" align="right">
 
 “I find Design and Technology lessons very interesting. I love the hands-on sessions and I look forward to the workshop sessions, where I can construct and build the prototype of what I have designed. Though the process can be difficult, I am determined to see to the completion of my product.” - Aiko Kitazawa
+
+
+
+**Nutrition and Food Science (NFS) Unit**  
+
+The Nutrition and Food Science Unit hopes that every student can be a health ambassador, advocating good eating habits and diet for self, family members and friends and a discerning consumer. At the lower secondary levels, students study the importance of having a balanced diet, and they learn to cook healthy meals so that they can lead a healthy lifestyle. Students are also introduced to food sustainability and food security. At the upper secondary levels, students are guided to make decisions on food choices, and they apply the principles of culinary science in food preparation as part of their coursework.
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtr5zg_fuQk470K9tEl4ksmNpT-joKeMjyFM3JAXWKkAvvQSJV3tG733nPTNDsLB7Z1k530IHriJCh/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+
+"I really enjoyed the entire process of making the quiche. I can’t wait to share the recipe with my family and make the dish with them. I am sure that we will have a lot of fun making it." - Teoh Yi Ting&nbsp;
+
+  
+
+“FCE lessons are fun! I have learnt how to make better food choices and the effects a nutritional deficit diet would have on my body." - Jayden Woo&nbsp;
+
+  
+
+**Economics and Principles of Accounts Units**
+
+To inject the element of fun in learning, the Economics and Principles of Accounts (POA) units use games and collaborative learning strategies in teaching and learning. The Economics students learn about the concept of a monopoly through the online game and project-based learning. POA students strengthen their understanding of accounting theories and concepts through card games and use jigsaw cooperative learning to help each other in understanding new concepts.
