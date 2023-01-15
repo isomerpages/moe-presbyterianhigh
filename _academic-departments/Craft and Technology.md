@@ -26,12 +26,20 @@ The Arts Unit also develops students' knowledge and skills in music by conductin
 The GMP develops students' awareness and appreciation of music in local and global cultures, and students collaborate with each other to make music together. Studying music at the Normal (Technical) level hones students' skills in music composition and their knowledge in using music software. Students experience playing their chosen instruments in a solo and group performance setting.
 
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbdRfzsZCDnpv-rcHcF-Oap1HE08Doynyj02_Li2zMfzaurdAZp899PVPOO3OXG25rpfsJokf4_Hu6/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 
 ![](/images/music.jpg)
 
 
-**The Design and Technology (D&T) Unit**
+**The Design and Technology (D&amp;T) Unit**
 
-The Design and Technology curriculum adopts the Design Thinking Process as one of the key pedagogical approaches. Besides learning about tools, machines and materials, the D&T curriculum enriches the students’ learning by challenging them to generate practical and appropriate design ideas, sketch their proposals and create mock-ups to test their ideas. The entire process develops in our students critical thinking skills, problem solving skills and communication skills.
+The Design and Technology curriculum adopts the Design Thinking Process as one of the key pedagogical approaches. Besides learning about tools, machines and materials, the D&amp;T curriculum enriches the students’ learning by challenging them to generate practical and appropriate design ideas, sketch their proposals and create mock-ups to test their ideas. The entire process develops in our students critical thinking skills, problem solving skills and communication skills.
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwU9Dxh-7JVVRuglxYZ_VmJ4Zo07W8C5CJv81KQl_k_2QwL9n5sWSFaImPkyslNVTImu3Y2jls_hiG/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+
+<br>
+<img align="right" style="width:300px;height:180px;margin-left:15px;" src="/images/Picture20.png">
+
+The Squid Bag Tag project enables me to create my own design, actualise the prototype and reflect on the areas for improvement. - Ashley Wong Theng Yan
