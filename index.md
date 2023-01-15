@@ -21,6 +21,9 @@ sections:
         - title: Calendar
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/calendar
+        - title: Useful Links
+          description: ""
+          url: /useful-links/for-students/
   - infobar:
       title: Full Subject Based Banding
       button: Click here
