@@ -31,3 +31,8 @@ Outdoor Education consists of the teaching of camp craft, orienteering and risk 
 
 4\. Sports Education  
 Sports Education consists of the teaching of sports modules <img src="/images/pe7.png" style="width:180px;height:220px;margin-left:15px;" align = "right"> in basketball, volleyball, badminton, football, softball, table-tennis, handball and floorball.
+
+
+<img src="/images/pe8.jpg" 
+     style="width:70%">
+encouraging teamwork and developing game concepts
