@@ -43,3 +43,7 @@ The Design and Technology curriculum adopts the Design Thinking Process as one o
 <img align="right" style="width:300px;height:180px;margin-left:15px;" src="/images/Picture20.png">
 
 The Squid Bag Tag project enables me to create my own design, actualise the prototype and reflect on the areas for improvement. - Ashley Wong Theng Yan
+
+<img align="right" style="width:300px;height:180px;margin-left:15px;" src="/images/Picture21.png">
+
+“I find Design and Technology lessons very interesting. I love the hands-on sessions and I look forward to the workshop sessions, where I can construct and build the prototype of what I have designed. Though the process can be difficult, I am determined to see to the completion of my product.” - Aiko Kitazawa
