@@ -5,6 +5,17 @@ description: ""
 ---
 # **Announcements**
 
+### Meet the Parents-Sec 1 (Jan 2023)
+
+Dear Parents and Guardians,
+
+Please click the link below to access the deck of slides shown during the Meet the Parent session in January 2023 for the Sec 1 students.
+
+[Link](https://drive.google.com/drive/folders/1-9OwwOjNPWVDFs5UG6aWx1fiCVMo7rtB?usp=sharing)
+
+-------------------------------------------------------------------------
+
+
 ### Graduation Service 2022
 
 2022-10-01
