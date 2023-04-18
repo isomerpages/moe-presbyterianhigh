@@ -38,18 +38,23 @@ If you have any queries, please call the General Office at 6454 3722.
 
 ##### SELECTION DETAILS
 
-Shortlisted candidates will be informed by 8 July to attend an audition and interview scheduled between 1 July and 31 August 2022 at Presbyterian High School.
+Shortlisted candidates will be informed by 15 July to attend an audition and interview scheduled between 3 July and 31 August 2023 at Presbyterian High School.&nbsp;
 
-Attendance is&nbsp;**compulsory**&nbsp;for shortlisted candidates.
+Attendance is compulsory for shortlisted candidates.
 
-_All auditions and interviews will be done in person._
+All auditions and interviews will be done in person.
 
-General Ability Test (GAT) and Higher Ability Selection Test (HAST) will not be included in our selection process.  
-All applicants will be notified of results of application by email. Please see Timeline.  
-**Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**  
-The selection criteria and process for the talent areas will be updated by early Jun. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  
-Students successfully allocated to their DSA-Sec schools will&nbsp;**NOT be allowed to participate in the annual S1 Posting to opt for secondary schools**&nbsp;, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.  
-They will also&nbsp;**NOT be allowed to transfer to another school**&nbsp;after the release of the PSLE results.
+General Ability Test (GAT) and Higher Ability Selection Test (HAST) will not be included in our selection process.
+
+All applicants will be notified of results of application by email. Please see Timeline.
+
+Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+The selection criteria and process for the talent areas will be updated by 3 May 2023. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)&nbsp;
+
+Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.
+
+They will also NOT be allowed to transfer to another school after the release of the PSLE results.
 
   
 ##### DSA TIMELINE 2022
