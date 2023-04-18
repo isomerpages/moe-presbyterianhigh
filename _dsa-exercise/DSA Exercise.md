@@ -14,3 +14,6 @@ PHS will be participating in the 2022 DSA-Secondary Exercise and has identified 
 • Sports – Volleyball, Basketball and Table Tennis<br>
 • Performing Arts – Guzheng Ensemble and Concert Band
 
+We seek to develop our learners in the various domains and importantly to shape and mould character so that our students will be active and concerned citizens who will serve their communities. It is our desire that every PHS graduand will be exemplary in action, word and deed, living out the school’s vision of Promise Keepers, Hope Builders &amp; Servant Leaders to bless their world always!
+
+Share this page:
