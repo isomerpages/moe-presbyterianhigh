@@ -1,32 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Presbyterian High School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Presbyterian High School
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/announcements/
+        - title: News and Events
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/Gallery/Commencement-Service-2020/
+        - title: Calendar
+          description: ""
+          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/calendar
+        - title: Useful Links
+          description: ""
+          url: /useful-links/for-students/
+  - infobar:
+      title: Full Subject Based Banding
+      button: Click here
+      url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
+  - infobar:
+      title: HBL
+      button: Click here
+      url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
+      description: HBL & SIL Mircosite
 ---
-

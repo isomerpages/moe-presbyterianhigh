@@ -1,0 +1,17 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - CCE/Character and Citizenship Education.md
+      - CCE/Character First.md
+      - CCE/Cyberwellness.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
+      - CCE/.keep
+      - Well Being and development/.keep
+      - Well Being and development/Student Well Being and Development.md
+      - Well Being and development/Student Well being Framework.md
+      - Well Being and development/Programmes for Holistic Development.md
+      - Well Being and development/Student Leadership.md
+      - Learning for Life Programme (LLP) Community and Youth Leadership.md
+      - Applied Learning Programme (ALP) Health Science.md

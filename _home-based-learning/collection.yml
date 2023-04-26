@@ -1,0 +1,7 @@
+collections:
+  home-based-learning:
+    output: true
+    order:
+      - HBL Timetable.md
+      - HBL Class Lesson Plan.md
+      - HBL Briefing Slides.md

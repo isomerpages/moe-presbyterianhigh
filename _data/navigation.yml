@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Academic Departments
+    collection: academic-departments
+  - title: CCA
+    collection: cca
+  - title: Programmes
+    collection: programmes
+  - title: DSA
+    collection: dsa-exercise
+  - title: NDLP
+    collection: ndlp
+  - title: Sec 1 e-Reg
+    collection: sec-1-e-reg-exercise-2023
