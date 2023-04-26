@@ -5,7 +5,7 @@ description: ""
 ---
 # **English Language and Literature**
 
-The English Language and Literature Department nurtures effective communicators and discerning readers, who are able to evaluate real-world issues empathetically and critically. We empower our students to use language purposefully to make a difference to their community and beyond**.**&nbsp;
+The English Language and Literature Department nurtures effective communicators and discerning readers, who are able to evaluate real-world issues empathetically and critically. We empower our students to use language purposefully to make a difference to their community and beyond.&nbsp;
 
 **Our Approach**&nbsp;
 
