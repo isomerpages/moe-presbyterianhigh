@@ -7,9 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Presbyterian High School
-      background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -24,6 +21,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
+      background: /images/temporary2.png
   - infobar:
       title: Full Subject Based Banding
       button: Click here
