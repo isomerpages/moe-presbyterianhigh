@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Presbyterian High School
-      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
