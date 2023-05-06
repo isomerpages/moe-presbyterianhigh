@@ -43,7 +43,7 @@ Attendance&nbsp;**is compulsory**&nbsp;for shortlisted candidates.
 _All interviews will be done in person._
 
 General Ability Test (GAT) and Higher Ability Selection Test (HAST) will not be included in our selection process.  
-All applicants will be notified of results of application by email. Please see&nbsp;[Timeline](http://www.presbyterian.moe.edu.sg/direct-school-admission/dsa-timeline). **LINK ERROR**
+All applicants will be notified of results of application by email. Please see&nbsp;**Timeline**
 
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**  
 
