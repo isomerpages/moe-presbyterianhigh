@@ -5,7 +5,7 @@ description: ""
 ---
 # **DSA Leadership**
 
-**DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2023 **
+**DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2023**
 
 The school leverages its Learning for Life Programme (LLP) to support its vision to develop students to be ‘Promise Keepers, Hope Builders and&nbsp;&nbsp;**_Servant Leaders_**&nbsp;’.
 
