@@ -42,7 +42,7 @@ All applicants will be notified of results of application by email. Please see T
 
 **Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
-The selection criteria and process for the talent areas will be updated by early Jun. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 Students successfully allocated to their DSA-Sec schools will&nbsp;**NOT be allowed to participate in the annual S1 Posting to opt for secondary schools**&nbsp;, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.
 
