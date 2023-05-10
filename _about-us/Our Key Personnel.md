@@ -6,6 +6,22 @@ description: ""
 # **Our Key Personnel**
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Column 1 | Column 2 | Column 3 |
+| Text &nbsp; &nbsp; | Text &nbsp; &nbsp; | Text &nbsp; &nbsp; |
+
+
+
+
+| ![](/images/Keypersonnel/sarahyew.JPG)|![](/images/Keypersonnel/mrtimothy%20tay.jpg) | ![](/images/Keypersonnel/lewpohlyeimm.JPG) |
+| -------- | -------- | -------- |
+| <center>Ms Sarah Yew<br> (VP EO) </center>  |<center> Mr Mr Tay Soon Inn Timothy <br> (VP EO) </center>     | <center>Mrs Lew-Poh Lye Imm<br> (VP Admin) </center>|
+| ![](/images/Keypersonnel/mrs%20ho%20siok%20wan.JPG)|![](/images/Keypersonnel/sabrina%20tan.JPG) |![](/images/Keypersonnel/mrs%20choy%20hui%20peng.JPG)|
+| <center>Mrs Ho-Yeo Siok Wan<br>(HOD EL &amp; Lit)</center>|<center>Ms Sabrina Tan <br>(HOD Mathematics)</center> |<center>Mrs Choy Hui Peng (HOD Science)</center>|
+
+
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Ms%20Sarah%20Yew.jpg" alt="Ms Sarah Yew.JPG" width="219" height="328"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <img src="/images/Mrs%20Lew-Poh%20Lye%20Imm.jpg" alt="Mrs Lew-Poh Lye Imm.JPG" width="219" height="328"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img src="/images/Mr%20Timothy%20Tay.jpg" style="width:239px"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial"> Ms Sarah Yew</span><br><span style="background-color:initial">(VP EO)</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">     Mrs Lew-Poh Lye Imm<br>(VP Admin)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> Mr Tay Soon Inn Timothy <br>(VP EO)</td></tr></tbody></table>
 <br>
