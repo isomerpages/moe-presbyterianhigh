@@ -30,5 +30,5 @@ sections:
       title: HBL
       button: Click here
       url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
-      description: HBL & SIL Mircosite
+      description: HBL & SIL Microsite
 ---
