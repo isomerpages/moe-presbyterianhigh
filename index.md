@@ -21,7 +21,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
-      background: /images/website landing1.jpg
+      background: /images/website landing1-3.jpg
   - infobar:
       title: Full Subject Based Banding
       button: Click here
