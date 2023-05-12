@@ -1,6 +1,6 @@
 title: Presbyterian High School
 url: https://presbyterian.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/schoolcrest.jpg
 colors:
   primary-color: "#323c75"
   secondary-color: "#5c6492"
@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3ecdhjpty4n6x.amplifyapp.com
 prod: https://master.d3ecdhjpty4n6x.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/schoolcrest.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: news-and-events
+google_analytics_ga4: ""

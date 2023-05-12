@@ -2,7 +2,7 @@
 layout: homepage
 title: Presbyterian High School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/schoolcrest.jpg
 permalink: /
 notification: ""
 sections:
@@ -21,7 +21,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
-      background: /images/temporary2.png
+      background: /images/websites landing 1-4-3.jpg
   - infobar:
       title: Full Subject Based Banding
       button: Click here
@@ -30,5 +30,5 @@ sections:
       title: HBL
       button: Click here
       url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
-      description: HBL & SIL Mircosite
+      description: HBL & SIL Microsite
 ---
