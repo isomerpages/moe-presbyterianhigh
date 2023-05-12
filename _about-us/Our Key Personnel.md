@@ -5,7 +5,7 @@ description: ""
 ---
 # **Our Key Personnel**
 
-| ![](/images/Keypersonnel/sarah%20yew.jpg)|![](/images/Keypersonnel/timothytay.jpg) |![](/images/Keypersonnel/lewpohlyeimm.jpg)|
+| ![](/images/Keypersonnel/sarah%20yew.jpg)|![](/images/timothytay1.jpg)|![](/images/Keypersonnel/lewpohlyeimm.jpg)|
 | -------- | -------- | -------- |
 |![](/images/Keypersonnel/yeo%20siok%20wan.jpg)|![](/images/sabrinatan.jpg)|![](/images/Keypersonnel/choy%20hui%20peng.jpg) |
 |![](/images/Keypersonnel/teo%20hui%20boon.jpg)|![](/images/Keypersonnel/chee%20bee%20siok.jpg)|![](/images/Keypersonnel/pauline%20wong.jpg)|
