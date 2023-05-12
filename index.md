@@ -2,7 +2,7 @@
 layout: homepage
 title: Presbyterian High School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/schoolcrest.jpg
 permalink: /
 notification: ""
 sections:
