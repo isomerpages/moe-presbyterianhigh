@@ -5,6 +5,20 @@ description: ""
 ---
 # **Announcements**
 
+
+
+
+
+### Sec 2 subject combination briefing (2023)
+
+Dear Parents and Guardians,
+
+Kindly click below for the content presented earlier this year.
+* [Subject Combination Briefing Slides](https://drive.google.com/drive/folders/13tema71Kg5fp20fjr7XlluYLQXJBvLO-?usp=sharing)
+
+
+-------------------------------------------------------------------------
+
 ### Meet the Parents-Sec 1 (Jan 2023)
 
 Dear Parents and Guardians,
