@@ -14,4 +14,4 @@ description: ""
 |![](/images/Keypersonnel/steven%20ong.jpg)|![](/images/Keypersonnel/alextoh.jpg)|![](/images/Keypersonnel/mrs%20fiona%20woon.jpg)|
 |![](/images/Keypersonnel/ms%20cynthia%20chua.jpg)|![](/images/Keypersonnel/mrs%20zhou%20meixian.jpg)|![](/images/Keypersonnel/mrs%20audrey%20fernandez.jpg)|
 |![](/images/Keypersonnel/woomunphiew.jpg)|![](/images/Keypersonnel/m%20faeez.jpg)|![](/images/chialing1.jpg)|
-|![](/images/szuan1.jpg)|![](/images/cheewee.jpg)|![](/images/Keypersonnel/mdm%20lum%20ping%20ping.jpg)|
+|![](/images/szuan11.jpg)|![](/images/cheewee.jpg)|![](/images/Keypersonnel/mdm%20lum%20ping%20ping.jpg)|
