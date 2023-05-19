@@ -4,8 +4,8 @@ permalink: /about-us/publications/2020-school-magazine/
 third_nav_title: Publications
 description: ""
 ---
-# **2020 School Magazine**
+# **2022 School Magazine**
 
-[2020 School Magazine](https://go.gov.sg/phs-sch-magazine-2020)
+[2022 School Magazine](https://for.edu.sg/phsschoolmag)
 
-![](/images/schoolmagCover2020.png)
+![](/images/schoolmag2022.png)
