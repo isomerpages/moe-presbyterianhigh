@@ -6,7 +6,7 @@ third_nav_title: For Public
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Western (Halal)     | NA     | Halal Certified  |
+| Western Stall (Halal)     | 29-Dec-2023     | Halal Certified  |
 
 <p style="color:blue; font-size:28px">Application Procedure</p>
 
