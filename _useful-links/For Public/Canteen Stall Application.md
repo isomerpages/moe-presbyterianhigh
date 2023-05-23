@@ -12,7 +12,7 @@ third_nav_title: For Public
 
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-*   [Application Form](https://github.com/isomerpages/moe-sash/blob/9a4da0c73bd9992608372ff12c13cedbe6f9b8ed/files/appexistingsch.pdf)
+*  [Application Form](/files/appexistingsch.pdf)
 
 2.  Attached the following documents together with the application form:
 
@@ -37,4 +37,3 @@ third_nav_title: For Public
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 _Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense._
-
