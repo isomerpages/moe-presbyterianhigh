@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - For Public/Canteen Stall Application.md
-      - For Public/.keep
       - For Students.md
       - For Staff.md
+      - For Public/.keep
+      - For Public/Canteen Stall Application.md
