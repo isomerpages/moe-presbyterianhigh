@@ -11,5 +11,5 @@ The PHS NCC (Sea) unit aims to develop its cadets into extraordinary youth leade
 
 |Days and Time of Training|**Teachers-in-Charge** | 
 | -------- | -------- | 
-(Boys only)<br>Wednesday: 3.00pm to 6.00pm<br>Friday: 1.30pm to 4.30pm|| Mr Gregory Quek (OIC)<br>Mdm Michelle Chiu<br>Mr Lim Ke Hong |
+(Boys only)<br>Wednesday: 3.00pm to 6.00pm<br>Friday: 1.30pm to 4.30pm|Mr Gregory Quek (OIC)<br>Mdm Michelle Chiu<br>Mr Lim Ke Hong| 
 |**Venue** <br>Parade Square / Classroom||
