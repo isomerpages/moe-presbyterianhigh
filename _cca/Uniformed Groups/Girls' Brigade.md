@@ -14,5 +14,5 @@ The mission of the Girls’ Brigade (GB) is to develop each girl to her fullest 
 
 |Days and Time of Training|**Teachers-in-Charge** | 
 | -------- | -------- | 
-|Monday: 3.00pm to 5.00pm  <br>Saturday: 8.30am to 12.00pm| Mr Sherman See (OIC)<br>Mrs Sherry Tan <br>Ms Cynthia Lim |
-|**Venue** <br>Parade Square / Classroom||
+|Friday: 2.00pm to 5.00pm  <br>Saturday: 8.00am to 11.00am| Mdm Sudha Joseph (OIC)<br>Mrs Celine Tan<br>Ms Li Wei|
+|**Venue** <br>Chapel Basement / Classroom||
