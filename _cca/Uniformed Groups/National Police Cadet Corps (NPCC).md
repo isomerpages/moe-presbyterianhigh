@@ -11,5 +11,5 @@ The NPCC seeks to give our cadets opportunities to hone their leadership skills 
 
 |Days and Time of Training|**Teachers-in-Charge** | 
 | -------- | -------- | 
-|Monday: 3.00pm to 5.00pm  <br>Saturday: 8.30am to 12.00pm| Mr Sherman See (OIC)<br>Mrs Sherry Tan <br>Ms Cynthia Lim |
-|**Venue** <br>Parade Square / Classroom||
+|Friday: 2.00pm to 5.30pm |Mr Norhidayat (OIC) <br>Ms Seah Li Ping<br>Ms Sivakami |
+|**Venue** <br>NPCC Room / Classroom||
