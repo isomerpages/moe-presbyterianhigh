@@ -1,5 +1,5 @@
 collections:
-  cca:
+  cca-1:
     output: true
     order:
       - Uniformed Groups/Uniformed Groups.md
