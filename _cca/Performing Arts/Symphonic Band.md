@@ -4,23 +4,13 @@ permalink: /cca/Performing-Arts/Symphonic-Band/
 description: ""
 third_nav_title: Performing Arts
 ---
-# **Symphonic Band**
+![](/images/symphonicband.png)
 
-![](/images/Band.jpg)
+**Introduction**
 
-The Symphonic Band was established in 1983 and has grown leaps and bounds since its inception. Apart from developing students’ musical ability and performance skills, the Symphonic Band seeks to develop the character and leadership potential of all our members.
+PHS Symphonic Band's mission is to develop and hone students’ musical abilities. Even without prior background, students will learn to experience playing music together and nurture an appreciation for music. Apart from developing the students' musical performance ability, the PHS Symphonic Band also emphasises on character development and strives to maximise leadership potential in all students.
 
-Our members are given opportunities to hone their skills in music and leadership through the workshops and courses conducted during the course of the year. They include:
-
-1.  Drum Major Camp
-    
-2.  Combined Music CCA Leadership Camp 
-    
-3.  SAF Rudiments Workshop
-    
-“Being in the Symphonic Band has made me more confident especially during performances and it has helped me appreciate working in a team to make music harmoniously.” - Band Major (Music), Charis Sng Yuen En
-
-“One of the most important things I have learnt as a leader in the Symphonic Band is the importance of uniting everyone especially during the pandemic period. The Symphonic Band is also a good learning ground to hone my leadership skills.” - Drum Major, Reuben Miguel Cruz Faigao
-
-  
-“The experiences I had in the Symphonic Band have imbued in me the values of responsibility and respect. I am glad to be given the opportunity to develop my leadership skills.” Secretary, Wong Yi Jian
+|Days and Time of Training|**Teachers-in-Charge** | 
+| -------- | -------- | 
+|(Full Band &amp; sectionals)<br>Monday: 3.30pm to 5.30pm<br>Wednesday: 3.30pm to 5.30pm|Ms Siti Sarah Bte Ambo Roslan (OIC)<br>Mr Jason Lefort<br>Mrs Faith Chen<br>Ms Filzah Nadiah
+|**Venue** <br>Band room ISH Level 2||
