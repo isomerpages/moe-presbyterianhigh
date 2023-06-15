@@ -4,7 +4,7 @@ permalink: /cca/Clubs-and-Societies/audio-engineering/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# **Audio Engineering**
+![](/images/audioengineering1.png)
 
 **Introduction**<br>
 The PHS Audio Engineering Club’s mission is to provide an enriching experience for students to develop their skills in audio reinforcement for live concerts and emerging technologies in New Media. The club consists of a dedicated group of students who serve the school diligently and responsibly in various events and programmes throughout the year. The club enables students to hone their communication and leadership skills through hands-on learning. Through supporting school events, the club inculcates values, builds character and resilience of the students.
