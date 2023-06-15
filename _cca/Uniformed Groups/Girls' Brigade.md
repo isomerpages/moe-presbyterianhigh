@@ -6,9 +6,13 @@ third_nav_title: Uniformed Groups
 ---
 # **Girls' Brigade**
 
-<img src="/images/Girls'%20Brigade.jpg" 
-     style="width:70%">
+![](/images/girlsbrigade1.png)
 
-The Girls’ Brigade aims to develop each Girl and Officer to her fullest potential by Equipping, Empowering and Enabling: Every Girl a Leader, Every Officer a Servant Leader. Our CCA programme provides Girls with opportunities to develop a strong sense of servant leadership. Equal attention is given to cultivating their character and values as leaders as well as the skills needed to lead with compassion and empathy. Badgework activities seek to develop our Girls holistically – physical well-being, skills and knowledge, character and service to community. 
+**Introduction**<br>
+The mission of the Girls’ Brigade (GB) is to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader. To fulfil this mission, the GB programme includes badgework activities and community service to cultivate character and values in every GB girl, while strengthening their sisterhood and camaraderie.
 
-“I love spending time with my GB mates and doing badgework activities together. This was especially so during our first badgework session, where we got to know one another better.” - Shannen Ting
+
+|Days and Time of Training|**Teachers-in-Charge** | 
+| -------- | -------- | 
+|Friday: 2.00pm to 5.00pm  <br>Saturday: 8.00am to 11.00am| Mdm Sudha Joseph (OIC)<br>Mrs Celine Tan<br>Ms Li Wei|
+|**Venue** <br>Chapel Basement / Classroom||
