@@ -12,14 +12,7 @@ description: ""
 
 ### SCHOOL VISION
 
-PHS honours GOD in mentoring  
-
-*   Promise – Keepers
-*   Hope – Builders
-*   Servant – Leaders
-
-to bless their world always.
-
+A Christ-centred community nurturing Passionate Learners, Servant Leaders and Stewards of Tomorrow
 
 * * *
 
