@@ -14,11 +14,6 @@ description: ""
 
 A Christ-centred community nurturing Passionate Learners, Servant Leaders and Stewards of Tomorrow
 
-*   Promise – Keepers
-*   Hope – Builders
-*   Servant – Leaders
-
-
 * * *
 
 ### SCHOOL MISSION
