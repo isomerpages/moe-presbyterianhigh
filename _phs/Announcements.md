@@ -11,18 +11,7 @@ description: ""
 Dear Parents and Guardians,
 
 Kindly click below for more information.
-* [Subject Combination information](https://drive.google.com/drive/folders/1cSvKvGDDSTZ4J6GW24BobrRq6WlDsmbf?usp=sharing)
-
-
--------------------------------------------------------------------------
-
-
-### Sec 2 subject combination briefing (2023)
-
-Dear Parents and Guardians,
-
-Kindly click below for the content presented earlier this year.
-* [Subject Combination Briefing Slides](https://drive.google.com/drive/folders/13tema71Kg5fp20fjr7XlluYLQXJBvLO-?usp=sharing)
+* [Subject Combination information](https://drive.google.com/drive/folders/1cSvKvGDDSTZ4J6GW24BobrRq6WlDsmbf)
 
 
 -------------------------------------------------------------------------
