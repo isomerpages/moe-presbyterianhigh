@@ -6,7 +6,15 @@ description: ""
 # **Announcements**
 
 
+### Secondary Three Subject Combination Briefing
 
+Dear Parents and Guardians,
+
+Kindly click below for more information.
+* [Subject Combination information](https://drive.google.com/drive/folders/1cSvKvGDDSTZ4J6GW24BobrRq6WlDsmbf?usp=sharing)
+
+
+-------------------------------------------------------------------------
 
 
 ### Sec 2 subject combination briefing (2023)
