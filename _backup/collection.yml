@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - What is happening in PHS/Secondary One Orientation Camp.md
       - What is happening in PHS/Commencement Service.md
       - What is happening in PHS/Reading Fest.md
       - What is happening in PHS/Feature Articles.md
