@@ -2,7 +2,7 @@
 title: Project Blessing
 permalink: /phs/Whats-happening-in-phs/Project-Blessing/
 description: ""
-third_nav_title: Whats happening in phs
+third_nav_title: What is happening in PHS
 ---
 # **Project Blessing**
 

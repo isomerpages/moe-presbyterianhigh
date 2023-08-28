@@ -2,7 +2,7 @@
 title: Build the Child Programme
 permalink: /phs/whats-happening-in-phs/build-the-child-programme/
 description: ""
-third_nav_title: Whats happening in phs
+third_nav_title: What is happening in PHS
 ---
 # **Build the Child Programme**
 

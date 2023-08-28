@@ -2,10 +2,8 @@
 title: International Friendship Day 2021
 permalink: /phs/whats-happening-in-phs/international-friendship-day-2021/
 description: ""
-third_nav_title: Whats happening in phs
+third_nav_title: What is happening in PHS
 ---
-
-
 # **International Friendship Day 2021**
 
 ![](/images/ifd.jpg)

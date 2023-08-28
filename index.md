@@ -15,9 +15,6 @@ sections:
         - title: News and Events
           description: ""
           url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/Gallery/Commencement-Service-2020/
-        - title: Calendar
-          description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/calendar
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/

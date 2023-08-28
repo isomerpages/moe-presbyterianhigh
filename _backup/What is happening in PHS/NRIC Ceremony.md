@@ -2,9 +2,8 @@
 title: NRIC Ceremony
 permalink: /phs/whats-happening-in-phs/nric-ceremony/
 description: ""
-third_nav_title: Whats happening in phs
+third_nav_title: What is happening in PHS
 ---
-
 # **NRIC Ceremony**
 
 ![](/images/163_0008.jpg)
