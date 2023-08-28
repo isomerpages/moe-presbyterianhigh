@@ -13,4 +13,4 @@ Elder Michael Lee doing his part for tree planting
 Our principal and stakeholders prepare the ground
 
 ![](/images/7364fb0f0_103491.jpg)
-Pastor Jackson shares God's message-mm
+Pastor Jackson shares God's message
