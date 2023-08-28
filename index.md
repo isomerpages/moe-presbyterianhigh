@@ -22,7 +22,7 @@ sections:
   - infobar:
       title: Full Subject Based Banding
       button: Click here
-      url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/full-subject-based-banding/full-subject-based-banding/
+      url: https://presbyterian.moe.edu.sg/full-subject-based-banding/full-subject-based-banding/
   - infobar:
       title: HBL
       button: Click here
