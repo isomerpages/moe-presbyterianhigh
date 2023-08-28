@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - What is happening in PHS/PEC Staff Dedication.md
       - What is happening in PHS/Build the Child Programme.md
       - What is happening in PHS/Secondary One Orientation Camp.md
       - What is happening in PHS/Commencement Service.md
