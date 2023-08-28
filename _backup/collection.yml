@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - What is happening in PHS/International Friendship Day 2021.md
       - What is happening in PHS/Peer Support Leaders Appointment Ceremony.md
       - What is happening in PHS/PEC Staff Dedication.md
       - What is happening in PHS/Build the Child Programme.md
