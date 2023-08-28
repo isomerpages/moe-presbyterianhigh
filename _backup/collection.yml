@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - What is happening in PHS/Secondary 4 GLOW Programme.md
       - What is happening in PHS/Outstanding A level Results.md
       - What is happening in PHS/Guzheng Ensemble SYF.md
       - What is happening in PHS/Table Tennis Boys' South Zone National School
