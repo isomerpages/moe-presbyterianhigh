@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/announcements/
+          url: /phs/announcements/
         - title: News and Events
           description: ""
-          url: https://staging.d3ecdhjpty4n6x.amplifyapp.com/phs/Gallery/Commencement-Service-2020/
+          url: /phs/Gallery/Commencement-Service-2020/
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
@@ -22,7 +22,7 @@ sections:
   - infobar:
       title: Full Subject Based Banding
       button: Click here
-      url: https://presbyterian.moe.edu.sg/full-subject-based-banding/full-subject-based-banding/
+      url: /full-subject-based-banding/full-subject-based-banding/
   - infobar:
       title: HBL
       button: Click here
