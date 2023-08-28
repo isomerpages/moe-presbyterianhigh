@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://presbyterian.moe.edu.sg/phs/announcements/
+          url: /phs/announcements/
         - title: News and Events
           description: ""
           url: http://presbyterian.moe.edu.sg/phs/Gallery/Commencement-Service-2020/
