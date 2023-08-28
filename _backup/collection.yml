@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - What is happening in PHS/Guzheng Ensemble SYF.md
       - What is happening in PHS/Table Tennis Boys' South Zone National School
         Games.md
       - What is happening in PHS/NRIC Ceremony.md
