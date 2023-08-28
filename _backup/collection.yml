@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Commencement Service 2020/Commencement Service 2020.md
       - Commencement Service 2020/.keep
       - What is happening in PHS/Project Blessing.md
       - What is happening in PHS/Mother Tongue Fortnight.md
