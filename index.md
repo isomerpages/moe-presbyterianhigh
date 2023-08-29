@@ -14,7 +14,7 @@ sections:
           url: /phs/announcements/
         - title: News and Events
           description: ""
-          url: /news-and-events/Gallery/
+          url: /phs/whats-happening-in-phs/secondary-3-signature-programme/
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
