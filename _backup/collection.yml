@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Uniformed Groups.md
       - Gallery/.keep
       - Commencement Services/.keep
       - What's happening in PHS/Total Defence Day.md
