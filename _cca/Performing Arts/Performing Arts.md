@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 ---
 # **Performing Arts**
 
-* [Chinese Orchestra](https://staging.d3ecdhjpty4n6x.amplifyapp.com/cca/Performing-Arts/Chinese-Orchestra/)  
 * [Choir](https://staging.d3ecdhjpty4n6x.amplifyapp.com/cca/Performing-Arts/Choir/)  
 * [Drama](https://staging.d3ecdhjpty4n6x.amplifyapp.com/cca/Performing-Arts/Drama/)  
 * [Guzheng Ensemble](https://staging.d3ecdhjpty4n6x.amplifyapp.com/cca/Performing-Arts/Guzheng-Ensemble/)  
