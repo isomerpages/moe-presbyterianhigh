@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Gallery/.keep
-      - Commencement Services/Commencement Services 2020.md
       - Commencement Services/.keep
       - What's happening in PHS/Project Blessing.md
       - What's happening in PHS/Mother Tongue Fortnight.md
