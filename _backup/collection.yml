@@ -2,7 +2,6 @@ collections:
   backup:
     output: true
     order:
-      - Gallery/Chinese New Year Celebration.md
       - Gallery/.keep
       - Commencement Services/Commencement Services 2020.md
       - Commencement Services/.keep
