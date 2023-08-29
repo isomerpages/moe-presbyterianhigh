@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What's happening in PHS/.keep
+      - Commencement Services/Commencement Services 2020.md
       - Commencement Services/.keep
       - Gallery/Chinese New Year Celebration.md
       - Gallery/Parent Hugs.md
