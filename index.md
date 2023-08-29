@@ -14,7 +14,7 @@ sections:
           url: /phs/announcements/
         - title: News and Events
           description: ""
-          url: /phs/Gallery/commencement-service-2020/
+          url: /phs/Gallery/Commencement-Service-2020/
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
