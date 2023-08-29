@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Build the Child Programme.md
       - What's happening in PHS/Mother Tongue Fortnight.md
       - What's happening in PHS/Project Blessing.md
       - What's happening in PHS/.keep
