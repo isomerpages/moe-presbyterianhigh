@@ -14,7 +14,7 @@ sections:
           url: /phs/announcements/
         - title: News and Events
           description: ""
-          url: /news-and-events/Gallery/Parent%20Hugs/
+          url: /news-and-events/Gallery/
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/
