@@ -9,15 +9,15 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: E-Open House
           description: ""
-          url: /phs/announcements/
-        - title: News and Events
+          url: https://sites.google.com/preshigh.edu.sg/phs-e-open-house/
+        - title: Latest @ PHS
           description: ""
-          url: /phs/whats-happening-in-phs/secondary-3-signature-programme/
-        - title: Useful Links
+          url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
+        - title: Home-Based Learning
           description: ""
-          url: /useful-links/for-students/
+          url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/websites landing 1-4-3.jpg
   - infobar:
       title: Full Subject Based Banding
