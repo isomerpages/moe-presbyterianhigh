@@ -9,9 +9,9 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: E-Open House
           description: ""
-          url: /phs/announcements/
+          url: https://sites.google.com/preshigh.edu.sg/phs-e-open-house/
         - title: Latest @ PHS
           description: ""
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
