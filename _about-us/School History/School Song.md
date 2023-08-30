@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School History
 ---
 # **School Song**
+[🔊](https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link)
 
 **Behold the burning bush,**    
 看 荆 棘 焚 而 不 毁   
