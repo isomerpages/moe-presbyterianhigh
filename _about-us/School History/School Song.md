@@ -6,9 +6,11 @@ third_nav_title: School History
 ---
 # **School Song**
 
+<a style="text-decoration:none;" href="https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link">🔊</a>
+
 **Behold the burning bush,**    
 看 荆 棘 焚 而 不 毁   
-kan  jing  ji  fen  er  bu  hui
+kan &nbsp;jing &nbsp;ji &nbsp;fen &nbsp;er &nbsp;bu &nbsp;hui
 
  
 **Presbyterian glorious sign.**   
@@ -19,7 +21,7 @@ wu zhang lao hui de yi xiang
 
 **From Bethel we have built Li Sun High,**   
 在 伯 特 利 创 礼 逊   
-zai  bo  te  li chuang  li  xun
+zai &nbsp;bo &nbsp;te &nbsp;li chuang &nbsp;li &nbsp;xun
 
   
 
@@ -31,7 +33,7 @@ da hong mao qiao jian zhang zhong
 
 **Firm in hope with fortitude,**   
 立 定 信 心 加 毅 力   
-li  ding  xin  xin  jia  yi  li
+li &nbsp;ding &nbsp;xin &nbsp;xin &nbsp;jia &nbsp;yi &nbsp;li
 
   
 
@@ -61,7 +63,7 @@ fa yang dong fang wen hua dao tong
 
 **We make western advance as our own.**   
 探 求 西 欧 科 技 知 识   
-tan  qiu  xi  ou  ke  ji  zhi  shi
+tan &nbsp;qiu &nbsp;xi &nbsp;ou &nbsp;ke &nbsp;ji &nbsp;zhi &nbsp;shi
 
   
 
@@ -73,7 +75,7 @@ xiao fa ji du wan quan yang shi
 
 **let us all as pioneers be known!**   
 立 己 立 人 为 民 前 锋   
-li  ji  li  ren wei min qian feng
+li &nbsp;ji &nbsp;li &nbsp;ren wei min qian feng
 
   
 
@@ -85,4 +87,4 @@ xiao fa ji du wan quan yang shi
 
 **Let us all as pioneers be known!**  
 立 己 立 人 为 民 前 锋   
-li  ji  li  ren wei min qian feng
+li &nbsp;ji &nbsp;li &nbsp;ren wei min qian feng
