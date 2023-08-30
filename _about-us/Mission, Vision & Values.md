@@ -41,7 +41,7 @@ God was showing something of His Holiness, greatness and power to Moses, and was
   
 Therefore when we see this symbol on our flag, we should DRAW NEAR to God with wonder and praise. And when we draw near to God we should, like Moses, LISTEN WISELY to what God says. Having learned what God say to us, we should DO WELL what HE demands.  
   
-If then GOD shows Himself and His way to us, He will surely make us A FLAME FOR TRUTH.  
+If then GOD shows Himself and His way to us, He will surely make us AFLAME FOR TRUTH.  
 _Rev John Hanna_
 
 * * *
