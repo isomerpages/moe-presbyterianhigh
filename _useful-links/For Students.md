@@ -5,10 +5,6 @@ description: ""
 ---
 # **For Students**
 
-[Assessment Plans 2022 (Jan)](https://drive.google.com/drive/folders/1SGpc1UsUninI__CG7uI2XyqztfyTtUOS?usp=sharing) - new!   
-[Time Table (Sem 1, 5-Jan-2022)](https://drive.google.com/drive/folders/1Q6hChllqUWuqmzu92h74Cb1c65MXhuDc?usp=sharing)  
-[iMTL Portal](https://imtl.moe.edu.sg/)  
-[LOA (Letter of Absence-Overseas)](https://go.gov.sg/phsloaoverseas)  
 [MOE Internet](https://www.moe.gov.sg/)  
 [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)  
 [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)  
