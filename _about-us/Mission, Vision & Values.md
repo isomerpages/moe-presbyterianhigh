@@ -3,7 +3,7 @@ title: Mission, Vision & Values
 permalink: /about-us/mission-vision-n-values/
 description: ""
 ---
-# **Mission, Vision & Values**
+# **Mission, Vision &amp; Values**
 
 
 ### SCHOOL CULTURE
@@ -35,7 +35,9 @@ To inculcate Christian values in every individual and develop his potential as a
 
 ### SCHOOL MOTTO
 
-The Burning Bush is a symbol of the community of Christians in Presbyterian Churches all over the world. In the Book of Exodus in the Bible, we are told that Moses discovered just such a bush in a very deserted place. It stopped Moses in his track – so amazing it was.  
+Aflame For Truth
+
+<i>The Burning Bush is a symbol of the community of Christians in Presbyterian Churches all over the world. In the Book of Exodus in the Bible, we are told that Moses discovered just such a bush in a very deserted place. It stopped Moses in his track – so amazing it was.  </i>
   
 God was showing something of His Holiness, greatness and power to Moses, and was calling him to live for God, doing what He says.  
   
@@ -48,7 +50,7 @@ _Rev John Hanna_
 
 **焚而不毁 (fén ér bù huǐ)**  
 这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。  
-This is the school motto “AFLAME FOR TRUTH” in Chinese. The saying teaches us  to be resilient and uphold our belief and integrity in the face of setbacks.
+This is the school motto “AFLAME FOR TRUTH” in Chinese. The saying teaches us&nbsp; to be resilient and uphold our belief and integrity in the face of setbacks.
 
 **饮水思源 (yǐn shuǐ sī yuán)**  
 对国家、学校、家庭心怀感恩，懂得敬老尊贤，有责任心，积极回馈社会。  
