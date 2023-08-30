@@ -15,9 +15,9 @@ sections:
         - title: News and Events
           description: ""
           url: /phs/whats-happening-in-phs/secondary-3-signature-programme/
-        - title: Useful Links
+        - title: Home-Based Learning
           description: ""
-          url: /useful-links/for-students/
+          url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/websites landing 1-4-3.jpg
   - infobar:
       title: Full Subject Based Banding
