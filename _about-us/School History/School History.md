@@ -21,9 +21,7 @@ Reverend Lee was the pastor of Bethel Presbyterian Church and principal of Ming 
 
 
 <img src="/images/4a.png">
-
-_Did you know?_
-
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#222222;border-style:solid;border-width:1px;color:#101630;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;vertical-align:top;word-break:normal">Li Sun High School ( 礼逊中学 ) was named after Reverend Alan S. Moore Anderson, a missionary who had dedicated his life to church planting and school building in Asia. “Li Sun” was derived from the translation of Reverend Alan S. Moore Anderson’s Mandarin name, An Li Sun ( 安礼逊 ).</td></tr></thead></table>
 
