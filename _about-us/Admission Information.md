@@ -7,7 +7,7 @@ description: ""
 
 
 
-| PSLE Score Range of 2022 |  | 
+| PSLE score range of 2022 |  | 
 | -------- | -------- |
 | Express/Posting Group 3     | 08 - 14    |
 |  Normal Academic/Posting Group 2     | 21-23    |
