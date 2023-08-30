@@ -14,7 +14,7 @@ sections:
           url: /phs/announcements/
         - title: News and Events
           description: ""
-          url: /phs/Gallery/Commencement-Service-2020/
+          url: /phs/whats-happening-in-phs/secondary-3-signature-programme/
         - title: Useful Links
           description: ""
           url: /useful-links/for-students/

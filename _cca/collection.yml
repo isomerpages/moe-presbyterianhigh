@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/National Cadet Corps (NCC) Sea.md
@@ -16,7 +15,6 @@ collections:
       - Sports/Table Tennis.md
       - Sports/Volleyball.md
       - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
       - Performing Arts/Choir.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/English Drama.md
