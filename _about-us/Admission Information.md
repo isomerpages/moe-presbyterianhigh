@@ -20,4 +20,4 @@ Mother Tongue Languages offered: Chinese / Malay / *Tamil
 
 ***Students taking Tamil language will attend lessons at designated centres.**
 
-Affiliated school: St. Andrew's Junior College
+Affiliations: St. Andrew's Junior College
