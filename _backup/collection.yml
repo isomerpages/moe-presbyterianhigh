@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Form.md
       - Canteen Stall Application.md
       - Performing Arts.md
       - Uniformed Groups.md
