@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /phs/announcements/
-        - title: News and Events
+        - title: Latest @ PHS
           description: ""
-          url: /phs/whats-happening-in-phs/secondary-3-signature-programme/
+          url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
         - title: Home-Based Learning
           description: ""
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
