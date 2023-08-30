@@ -35,7 +35,7 @@ MySkillsFuture Portal is a one-stop portal that empowers you to embark on a jour
 
 ECG Counsellors are deployed to MOE Secondary and Pre-University Schools, and Post-Secondary Education Institutions (PSEI) started since mid-2015.
 
-At PHS, our ECG Counsellor, Mr Christopher Tan guides students to make considered decisions based on their interests and strengths so they can contribute meaningfully to society through their future professions. In addition to providing individual and group counselling to students, she organises activities for a holistic Education and Career Guidance (ECG) experience.
+At PHS, our ECG Counsellor, Ms Linda Lim guides students to make considered decisions based on their interests and strengths so they can contribute meaningfully to society through their future professions. In addition to providing individual and group counselling to students, she organises activities for a holistic Education and Career Guidance (ECG) experience.
 
 If you have ECG related concerns and wish to meet with Mr Tan, he will be available in school every Thursday (Level 2, ECG room) or email him at&nbsp;[ecgcounselling2016@gmail.com](mailto:ecgcounselling2016@gmail.com)&nbsp;to make an appointment.&nbsp;
 
