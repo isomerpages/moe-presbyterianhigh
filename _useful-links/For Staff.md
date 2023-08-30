@@ -13,7 +13,7 @@ description: ""
 [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)  
 [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)  
 [Preshigh Email](http://mail.preshigh.edu.sg/)  
-[Resource Booking System (RBS)](https://rbs.avero-tech.com/)  
+[Resource Booking System (RBS)](https://rbs.avero-tech.com/) 
 [SC Mobile](https://scmobile.moe.edu.sg/login)    
 [School Cockpit ACAD](https://schoolcockpit.moe.gov.sg/academic) (Via Chrome)  
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
