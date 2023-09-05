@@ -2,6 +2,7 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
+third_nav_title: Useful Links
 ---
 # **For Students**
 
@@ -10,4 +11,4 @@ description: ""
 [Preshigh Email](http://mail.preshigh.edu.sg/)  
 [Student ICON](https://workspace.google.com/dashboard)  
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
-[MOE Sexuality Education In Schools](https://presbyterian.moe.edu.sg/programmes/moe-sexuality-education-in-schools)  
+[MOE Sexuality Education In Schools](https://presbyterian.moe.edu.sg/programmes/moe-sexuality-education-in-schools)
