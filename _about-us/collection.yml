@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Useful Links/For Staff.md
-      - Useful Links/For Students.md
-      - Useful Links/.keep
       - Principal's Message.md
       - School History/.keep
       - School History/School History.md
@@ -17,3 +14,6 @@ collections:
       - Admission Information.md
       - Publications/.keep
       - Publications/School Magazine.md
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Students.md
