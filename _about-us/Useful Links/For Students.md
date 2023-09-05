@@ -11,4 +11,4 @@ third_nav_title: Useful Links
 [Preshigh Email](http://mail.preshigh.edu.sg/)  
 [Student ICON](https://workspace.google.com/dashboard)  
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
-[MOE Sexuality Education In Schools](/programmes/character-and-citizenship-education/sexuality-education)
+[MOE Sexuality Education In Schools](http://presbyterian.moe.edu.sg/programmes/character-and-citizenship-education/sexuality-education)
