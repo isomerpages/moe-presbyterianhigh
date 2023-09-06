@@ -6,26 +6,26 @@ third_nav_title: Useful Links
 ---
 # **For Staff**
 
-[HRP](https://www.hrp.gov.sg/hrp/#/)
+* [HRP](https://www.hrp.gov.sg/hrp/#/)
 
-[iEXAMS 2.0](https://iexams.seab.gov.sg/iexams2/)
+* [iEXAMS 2.0](https://iexams.seab.gov.sg/iexams2/)
 
-[MIMS (MOE IDENTITY MANAGEMENT SYSTEM)](https://portal.mims.moe.gov.sg/)
+* [MIMS (MOE IDENTITY MANAGEMENT SYSTEM)](https://portal.mims.moe.gov.sg/)
 
-[MOE Intranet](https://intranet.moe.gov.sg/)
+* [MOE Intranet](https://intranet.moe.gov.sg/)
 
-[My Skillfuture Portal](https://www.myskillsfuture.sg/content/portal/en/index.html)
+* [My Skillfuture Portal](https://www.myskillsfuture.sg/content/portal/en/index.html)
 
-[OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
+* [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
+ 
+* [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 
-[OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
+* [Preshigh Email](http://mail.preshigh.edu.sg/)
 
-[Preshigh Email](http://mail.preshigh.edu.sg/)
+* [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
 
-[Resource Booking System (RBS)](https://rbs.avero-tech.com/)
+* [SC Mobile](https://scmobile.moe.edu.sg/login)
 
-[SC Mobile](https://scmobile.moe.edu.sg/login)
+* [School Cockpit](https://schoolcockpit.moe.gov.sg/academic)
 
-[School Cockpit](https://schoolcockpit.moe.gov.sg/academic)
-
-[Student Learning Space](https://vle.learning.moe.edu.sg/login)
+* [Student Learning Space](https://vle.learning.moe.edu.sg/login)
