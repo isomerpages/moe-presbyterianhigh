@@ -26,6 +26,6 @@ third_nav_title: Useful Links
 
 [SC Mobile](https://scmobile.moe.edu.sg/login)
 
-[School Cockpit ACAD (Via Chrome)](https://schoolcockpit.moe.gov.sg/academic)
+[School Cockpit](https://schoolcockpit.moe.gov.sg/academic)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
