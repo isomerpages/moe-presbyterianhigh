@@ -12,6 +12,7 @@ description: ""
 |![](/images/Keypersonnel/aaron%20phua.jpg)|![](/images/Keypersonnel/chan%20poh%20hoon.jpg)|![](/images/Keypersonnel/tan%20lip%20sing.jpg)|
 |![](/images/Keypersonnel/v%20rumi.jpg)|![](/images/Keypersonnel/joyce%20chong.jpg)|![](/images/Keypersonnel/edmund%20choo.jpg)|
 |![](/images/Keypersonnel/steven%20ong.jpg)|![](/images/Keypersonnel/alextoh.jpg)|![](/images/Keypersonnel/mrs%20fiona%20woon.jpg)|
-|![](/images/Keypersonnel/ms%20cynthia%20chua.jpg)|![](/images/Keypersonnel/mrs%20zhou%20meixian.jpg)|![](/images/Keypersonnel/mrs%20audrey%20fernandez.jpg)|
-|![](/images/Keypersonnel/woomunphiew.jpg)|![](/images/Keypersonnel/m%20faeez.jpg)|![](/images/chialing1.jpg)|
-|![](/images/szuan11.jpg)|![](/images/cheewee.jpg)|![](/images/Keypersonnel/mdm%20lum%20ping%20ping.jpg)|
+|![](/images/Keypersonnel/ms%20cynthia%20chua.jpg)|![](/images/Keypersonnel/mr%20muhammad%20fadzli%20abdul%20hamid%20v1.png)|![](/images/Keypersonnel/mrs%20audrey%20fernandez.jpg)|
+|![](/images/Keypersonnel/mrs%20zhou%20meixian.jpg)|![](/images/Keypersonnel/woomunphiew.jpg)|![](/images/Keypersonnel/m%20faeez.jpg)|
+|![](/images/chialing1.jpg)|![](/images/szuan11.jpg)|![](/images/cheewee.jpg)|
+|![](/images/Keypersonnel/mdm%20lum%20ping%20ping.jpg)|
