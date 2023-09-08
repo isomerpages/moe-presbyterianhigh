@@ -60,5 +60,5 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 
 
 
-For more information on Full SBB, visit&nbsp;[www.moe.gov.sg/microsites/psle-fsbb](file:///C:/Users/MOE-23504J/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/NLJSE2PW/www.moe.gov.sg/microsites/psle-fsbb).  
+For more information on Full SBB, visit&nbsp;[Full Subject-Based Banding (Full SBB)](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).  
 For more information on how our school will be implementing Full SBB, you can contact us at&nbsp;[presbyterian@moe.edu.sg](mailto:presbyterian@moe.edu.sg).
