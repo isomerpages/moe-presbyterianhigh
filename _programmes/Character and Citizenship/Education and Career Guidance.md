@@ -37,7 +37,7 @@ ECG Counsellors are deployed to MOE Secondary and Pre-University Schools, and Po
 
 At PHS, our ECG Counsellor, Ms Linda Lim guides students to make considered decisions based on their interests and strengths so they can contribute meaningfully to society through their future professions. In addition to providing individual and group counselling to students, she organises activities for a holistic Education and Career Guidance (ECG) experience.
 
-If you have ECG related concerns and wish to meet with Mr Tan, he will be available in school every Thursday (Level 2, ECG room) or email him at&nbsp;[ecgcounselling2016@gmail.com](mailto:ecgcounselling2016@gmail.com)&nbsp;to make an appointment.&nbsp;
+If you have ECG related concerns and wish to meet with Mr Tan, he will be available in school every Thursday (Level 2, ECG room) or email him at Lim_Siew_Hoon_Linda@schools.gov.sg to make an appointment.
 
 **Allied Educator (Learning &amp; Behavioral Support)**
 
