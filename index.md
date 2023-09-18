@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: E-Open House
+        - title: E-Open House 2022
           description: ""
           url: https://sites.google.com/preshigh.edu.sg/phs-e-open-house/
         - title: Latest @ PHS
