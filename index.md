@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: E-Open House 2023
+        - title: Open House 2023
           description: ""
           url: https://drive.google.com/file/d/1XwPcAHuQOv3FEMX2wQLk9KM44QbA2zNx/view?usp=sharing
         - title: Latest @ PHS
