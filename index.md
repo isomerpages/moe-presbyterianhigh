@@ -9,9 +9,9 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: E-Open House 2022
+        - title: E-Open House 2023
           description: ""
-          url: https://sites.google.com/preshigh.edu.sg/phs-e-open-house/
+          url: https://drive.google.com/file/d/1XwPcAHuQOv3FEMX2wQLk9KM44QbA2zNx/view?usp=sharing
         - title: Latest @ PHS
           description: ""
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
