@@ -4,9 +4,36 @@ permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Our People
 ---
-# **School Management Committee**
-  
-
-### SCHOOL MANAGEMENT BOARD
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Lawrence%20Fu.jpg" alt="Elder Lawrence Fu.JPG" width="219" height="326"><br><span style="background-color:initial">Elder Lawrence Fu</span><br>Chairman</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Michael%20Lee.jpg" alt="Elder Michael Lee.JPG" width="219" height="328"><br><span style="background-color:initial">Elder Lee Kwong Choy Michael</span><br><span style="background-color:initial">Hon. Treasurer </span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Lim%20Hai%20Yian.jpg" alt="Mdm Lim Hai Yian.JPG" width="219" height="329"><br>Mdm Lim Hai Yian<br> Hon. Secretary</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Dr%20Alexander%20Lee.jpg" alt="Elder Dr Alexander Lee.JPG" width="219" height="328"><br><span style="background-color:initial">Elder Dr Axlander Lee Earn Yung</span><br>Member</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Chong%20Gim%20Soon.jpg" alt="Elder Chong Gim Soon.JPG" width="219" height="328"><br>Pastor Chong Gim Soon <br><span style="background-color:initial">Member</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Pastor%20Eunice%20Low.jpg" alt="Pastor Eunice Low.JPG" width="219" height="328"><br>Pastor Eunice<br>Low Soek Peng<br>Member</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Lester%20Ting.jpg" alt="Elder Lester Ting.JPG" width="219" height="328"><br>Elder Lester Ting<br>Member</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Elder%20Sunny%20Tan.jpg" alt="Elder Sunny Tan.JPG" width="219" height="328"><br>Elder Tan Chuan Long Sunny&gt;Member</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Reverend%20Dr%20Wang%20Ping.jpg" alt="Reverend Dr Wang Ping.JPG" width="219" height="328"><br>Rev Dr Wang Ping Polly<br>Member</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Reverend%20Jackson%20Wan.jpg" alt="Reverend Jackson Wan.JPG" width="219" height="328"><br>Rev Jackson Wan <br>Chaplain<br>Member</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="328"><br>Rev Wee Meng Yeown<br>Chaplain<br>Member</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0"><thead>
+    <tr>
+      <th><img src="/images/Elder%20Lawrence%20Fu.jpg" alt="Elder Lawrence Fu.JPG" width="219" height="326"></th>
+      <th><img src="/images/Elder%20Michael%20Lee.jpg" alt="Elder Michael Lee.JPG" width="219" height="326"></th>
+      <th><img src="/images/Mdm%20Lim%20Hai%20Yian.jpg" alt="Mdm Lim Hai Yian.JPG" width="219" height="326"></th>
+    </tr>
+    <tr>
+	  <th><span style="background-color:initial">Elder Lawrence Fu</span><br>Chairman</th>
+	  <th><span style="background-color:initial">Elder Lee Kwong Choy Michael</span><br><span style="background-color:initial">Hon. Treasurer </span></th>
+	  <th>Mdm Lim Hai Yian<br> Hon. Secretary</th></tr>
+      <tr>
+        <td><img src="/images/Elder%20Dr%20Alexander%20Lee.jpg" alt="Elder Dr Alexander Lee.JPG" width="219" height="326"></td>
+        <td><img src="/images/Elder%20Chong%20Gim%20Soon.jpg" alt="Elder Chong Gim Soon.JPG" width="219" height="326"></td>
+        <td><img src="/images/Pastor%20Eunice%20Low.jpg" alt="Pastor Eunice Low.JPG" width="219" height="328"></td>
+      </tr>
+      <tr><th><span style="background-color:initial">Elder Dr Axlander Lee Earn Yung</span><br>Member</th>
+	  <th>Pastor Chong Gim Soon <br><span style="background-color:initial">Member</span></th>
+        <th>Pastor Eunice Low Soek Peng<br>Member</th></tr>
+      <tr>
+        <td><img src="/images/Elder%20Lester%20Ting.jpg" alt="Elder Lester Ting.JPG" width="219" height="326"></td>
+        <td><img src="/images/Elder%20Sunny%20Tan.jpg" alt="Elder Sunny Tan.JPG" width="219" height="326"></td>
+        <td><img src="/images/Reverend%20Dr%20Wang%20Ping.jpg" alt="Reverend Dr Wang Ping.JPG" width="219" height="326"></td>
+      </tr>
+      <tr><th>Elder Lester Ting<br>Member</th>
+	  <th><p>Elder Tan Chuan Long Sunny<br>
+        Member</p></th>
+		<th>Rev Dr Wang Ping Polly<br>Member</th></tr>
+      <tr>
+        <td><img src="/images/Reverend%20Jackson%20Wan.jpg" alt="Reverend Jackson Wan.JPG" width="219" height="326"></td>
+        <td><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="326"></td>
+        <td></td>
+      </tr>
+      <tr><th>Rev Jackson Wan <br>Chaplain<br>Member</th><th>Rev Wee Meng Yeown<br>Chaplain<br>Member</th><td></td></tr></thead></table>
