@@ -6,7 +6,7 @@ third_nav_title: Our History
 ---
 # **School Song**
 
-<a style="text-decoration:none;" href="https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link">🔊</a>
+<a style="text-decoration:none;" href="https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link">Listen</a>
 
 **Behold the burning bush,**    
 看 荆 棘 焚 而 不 毁   
