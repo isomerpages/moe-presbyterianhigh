@@ -2,12 +2,11 @@
 title: School Crest
 permalink: /about-us/school-history/school-crest/
 description: ""
-third_nav_title: School History
+third_nav_title: Our History
 ---
 # **School Crest**
 
-<img src="/images/schoolcrest.jpg" 
-     style="width:25%">
+<img src="/images/schoolcrest.jpg" style="width:25%">
 
 The School Crest is topped by two waves signifying the continuous growth and development of the School from its founding as Li Sun High School to the present Presbyterian High School.
 
