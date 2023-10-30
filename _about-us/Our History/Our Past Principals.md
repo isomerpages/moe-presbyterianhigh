@@ -4,9 +4,10 @@ permalink: /about-us/our-history/ourpastprincipals/
 description: ""
 third_nav_title: Our History
 ---
+# Our Past Principals
 <center>
 
-|<center> Our Past Principals</center>|
+||
 | -------- | 
 |![](/images/Our%20Past%20Principals/m03%20chou-chu-shen.png) |
 |<center>**Mr Chou Chu Sen (1965–1977)**</center>|
