@@ -16,6 +16,11 @@ Presbyterian High School (PHS) began humbly as a rural Chinese school with no ca
 
 Located at Jalan Lateh off Upper Serangoon Road, Li Sun High School received its first batch of students on 4 January 1965. “Li Sun” was derived from the translation of Rev Alan S. Moore Anderson’s name in Mandarin, An Li Sun (安礼逊). Rev Anderson was a missionary and champion of education who dedicated his life to building churches and schools in China and Malaya.
 
+
+| | |
+| -------- | -------- | 
+|![](/images/2023images/OurHistory/picture%203v1.jpg) | ![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)     |
+
 [Insert pictures 3 and 4]
 [Caption for picture 3: Li Sun High’s choral performance]
 [Caption for picture 4: Li Sun High’s Uniformed Group Parade]
