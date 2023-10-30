@@ -10,7 +10,7 @@ Presbyterian High School (PHS) began humbly as a rural Chinese school with no ca
 
 | | |
 | -------- | -------- | 
-|![](/images/2023images/OurHistory/picture%201_ming%20sin%20school.jpg)  | ![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)     |
+|![](/images/2023images/OurHistory/picture%201_ming%20sin%20schoolv1.jpg)  | ![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)     |
 | Min Sing Primary School | Reverend Lee Huai Kwang (1st row, 5th from left) and the pioneer batches of Li Sun High School     |
 
 
