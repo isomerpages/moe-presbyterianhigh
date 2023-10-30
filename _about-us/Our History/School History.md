@@ -26,7 +26,7 @@ In July 1980, the Ministry of Education (MOE) proposed two options for the schoo
 
 | | |
 | -------- | -------- | 
-|![](/images/2023images/OurHistory/picture%205_phsv3.jpg) |![](/images/2023images/OurHistory/picture%206v1.jpg) |
+|![](/images/2023images/OurHistory/picture%205_phsv3.jpg) |![](/images/2023images/OurHistory/picture%206v3.jpg) |
 |PHS officially occupied the new school building in Ang Mo Kio | Then-Acting Minister of Education, Mr Tharman Shanmugaratnam, officiated the opening of the school campus|
 
 | | |
