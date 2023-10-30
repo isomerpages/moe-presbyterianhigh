@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our Identity/Mission, Vision & Values.md
-      - Our Identity/.keep
       - Information At A Glance.md
       - Principal's Message.md
-      - Our History/Our Past Principals.md
       - Our History/.keep
+      - Our History/Our Past Principals.md
       - Our History/School History.md
       - Our History/School Crest.md
       - Our History/School Song.md
+      - Our Identity/.keep
+      - Our Identity/Mission, Vision & Values.md
       - School Management Committee.md
       - Our Key Personnel.md
       - Staff Email Directory.md
