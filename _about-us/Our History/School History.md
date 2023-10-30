@@ -19,12 +19,8 @@ Located at Jalan Lateh off Upper Serangoon Road, Li Sun High School received its
 
 | | |
 | -------- | -------- | 
-|![](/images/2023images/OurHistory/picture%203v1.jpg) | ![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)     |
-
-[Insert pictures 3 and 4]
-[Caption for picture 3: Li Sun High’s choral performance]
-[Caption for picture 4: Li Sun High’s Uniformed Group Parade]
-*try to place pictures side by side and ensure uniformity in formatting
+|![](/images/2023images/OurHistory/picture%203v1.jpg) |![](/images/2023images/OurHistory/picture%204.jpg)     |
+|Li Sun High’s choral performance |Li Sun High’s Uniformed Group Parade |
 
 In July 1980, the Ministry of Education (MOE) proposed two options for the school: either to create plans for establishing an independent secondary school with its own campus, or to close down. The Board was resolved to preserve the school. When MOE met with the school in August 1980, it offered a plot of land in Ang Mo Kio for campus building. On top of that, MOE was also prepared to bear half of the development costs. In 1981, the Presbyterian Synod officially endorsed the new site of the school at Ang Mo Kio and renamed it “Presbyterian High School”. This is because they hoped that the change of name would convey the school’s Christian mission and her intent to align with the national initiative of using English as the medium of instruction.
 
