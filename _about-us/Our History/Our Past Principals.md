@@ -41,7 +41,7 @@ third_nav_title: Our History
 	</tr>
 	<tr>
 	<td cellspacing="0" cellpadding="0">
-	<center><b>Mr Wang Mei Hsiong David (1989–1994))</b></center>
+	<center><b>Mr Wang Mei Hsiong David (1989–1994)</b></center>
 	</td>
   </tr>
 	<tr>
