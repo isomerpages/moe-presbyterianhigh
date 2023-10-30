@@ -6,10 +6,13 @@ third_nav_title: Our History
 ---
 Presbyterian High School (PHS) began humbly as a rural Chinese school with no campus to call her own during the post-war years when Chinese-medium secondary schools were in shortage. At the Annual General Meeting of the Presbyterian Synod in 1961, Bethel Presbyterian Church stepped up to loan the premises of its subsidiary school, Ming Sin Primary School, to the new secondary school, Li Sun High School, which the Synod was setting up. Rev Lee Huai Kwang, a pastor with a deep conviction for mission schools, became one of the pioneers who played a formative role in the birth and growth of Li Sun High School.
 
-[Insert pictures 1 and 2] 
-[Caption for picture 1: Min Sing Primary School] 
-[Caption for picture 2: Reverend Lee Huai Kwang (1st row, 5th from left) and the pioneer batches of Li Sun High School] 
-*try to place pictures side by side and ensure uniformity in formatting
+
+
+| | |
+| -------- | -------- | 
+|![](/images/2023images/OurHistory/picture%201_ming%20sin%20school.jpg)  | ![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)     |
+| Min Sing Primary School | Reverend Lee Huai Kwang (1st row, 5th from left) and the pioneer batches of Li Sun High School     |
+
 
 Located at Jalan Lateh off Upper Serangoon Road, Li Sun High School received its first batch of students on 4 January 1965. “Li Sun” was derived from the translation of Rev Alan S. Moore Anderson’s name in Mandarin, An Li Sun (安礼逊). Rev Anderson was a missionary and champion of education who dedicated his life to building churches and schools in China and Malaya.
 
