@@ -24,6 +24,4 @@ description: ""
 
 **Bus Services:** 13, 45, 70, 70A, 70M, 71, 72, 76, 86, 162, 162M, 668, 825, 851, 851e, 852, 853, 853M, 860
 
-**Nearest MRT: Yio Chu Kang MRT Station (within 0.3km)
-
-**
+**Nearest MRT:**  Yio Chu Kang MRT Station (within 0.3km)
