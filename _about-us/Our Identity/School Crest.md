@@ -4,7 +4,6 @@ permalink: /about-us/school-history/school-crest/
 description: ""
 third_nav_title: Our Identity
 ---
-# **School Crest and Motto**
 
 <img src="/images/schoolcrest.jpg" style="width:25%">
 
