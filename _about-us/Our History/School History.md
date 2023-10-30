@@ -10,7 +10,7 @@ Presbyterian High School (PHS) began humbly as a rural Chinese school with no ca
 
 | | |
 | -------- | -------- | 
-|![](/images/2023images/OurHistory/picture%201_ming%20sin%20schoolv1.jpg)  |![](/images/2023images/OurHistory/picture%202_li%20sun%20high%20pioneers.png)  |
+|![](/images/2023images/OurHistory/picture%201_ming%20sin%20schoolv1.jpg)  | |
 | Min Sing Primary School | Reverend Lee Huai Kwang (1st row, 5th from left) and the pioneer batches of Li Sun High School     |
 
 
@@ -37,6 +37,7 @@ In July 1980, the Ministry of Education (MOE) proposed two options for the schoo
 
 Today, the campus, which was re-developed in the 1990s, features beautifully designed blocks, a prominent clock tower, and above all, a declaration on its main building, “To God Be The Glory”. It stands as a striking landmark in Ang Mo Kio. As a mission school supported by two anchor churches, Ang Mo Kio and True Grace Presbyterian Churches, PHS places emphasis on nurturing and developing good character in her students, inculcating in them a sense of gratitude and responsibility to the community and nation.
 
-[Insert pictures 9 and 10]
-[Caption 9: PHS welcomes its 57th batch of students
-[Caption 10: PHS today, with a clear ethos and a rich heritage]
+| | |
+| -------- | -------- | 
+|![](/images/2023images/OurHistory/picture%209v1.jpg) | ![](/images/2023images/OurHistory/picture%2010_phs%20building.jpeg)    |
+|PHS welcomes its 57th batch of students |PHS today, with a clear ethos and a rich heritage |
