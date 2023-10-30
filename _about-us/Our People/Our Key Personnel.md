@@ -14,4 +14,5 @@ third_nav_title: Our People
 | ![](/images/Keypersonnel/row600.png)|
 | ![](/images/Keypersonnel/row700.png)|
 | ![](/images/Keypersonnel/row800.png)|
-| |
+|![](/images/Keypersonnel/row900.png) |
+| ![](/images/Keypersonnel/row1000.png)|
