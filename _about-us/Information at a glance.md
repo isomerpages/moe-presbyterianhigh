@@ -9,8 +9,8 @@ description: ""
 | -------- | -------- | 
 | Posting Group 3     | 8 - 14     | 
 |Posting Group 2     | 21 - 23    | 
-| Posting Group 1    | 25 - 28    | 
-
+| Posting Group 1    | 25 - 28    |
+| | | 
 
 **Mother Tongue Languages offered:** Chinese / Malay / \*Tamil
 \*Students taking Tamil language will attend lessons at designated centres.
