@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/School Management Committee.md
-      - Our People/Staff Email Directory.md
-      - Our People/Our Key Personnel.md
       - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Our Key Personnel.md
+      - Our People/Staff Email Directory.md
       - Information At A Glance.md
       - Principal's Message.md
       - Our History/.keep
