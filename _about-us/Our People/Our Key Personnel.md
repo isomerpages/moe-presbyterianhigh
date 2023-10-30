@@ -4,10 +4,7 @@ permalink: /about-us/our-key-personnel/
 description: ""
 third_nav_title: Our People
 ---
-
-
-|  |  |  |
-| -------- | -------- | -------- |
-| |  |
-| Text     | Text     | Text     |
-
+|  | 
+| -------- |
+|![](/images/Keypersonnel/row100.png) |
+|![](/images/Keypersonnel/row200.png)   |
