@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-# **Principal's Message**
+
 
 <img src="/images/Mrs%20Angeline%20Chan.jpg" style="width:200px;height:280px;margin-left:15px;" align="right">
 
