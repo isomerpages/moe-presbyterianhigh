@@ -54,6 +54,37 @@ third_nav_title: Our History
 	<center><b>Mrs Serene Pang-Lai Soon Hoon (1995–2001)</b></center>
 	</td>
   </tr>
+		<tr>
+	<td cellpadding="2">
+	<img src="/images/Our%20Past%20Principals/mmrs%20carolin%20tan-principal.png">
+	</td>			
+	</tr>
+	<tr>
+	<td cellspacing="0" cellpadding="0">
+	<center><b>Mrs Caroline Tan (2002–2007)</b></center>
+	</td>
+  </tr>
+				<tr>
+	<td cellpadding="2">
+	<img src="/images/Our%20Past%20Principals/mmr-lim%20yan%20hock-principal.png">
+	</td>			
+	</tr>
+	<tr>
+	<td cellspacing="0" cellpadding="0">
+	<center><b>Mr Lim Yan Hock (2008–2014)</b></center>
+	</td>
+  </tr>
+	<tr>
+	<td cellpadding="2">
+	<img src="/images/Our%20Past%20Principals/mr-victor%20owyong-principal.png">
+	</td>			
+	</tr>
+	<tr>
+	<td cellspacing="0" cellpadding="0">
+	<center><b>Mr Owyong Tuck SIng Victor (2015–2021)</b></center>
+	</td>
+  </tr>
+	
 	
 		
 </tbody></table>
