@@ -4,7 +4,7 @@ permalink: /about-us/mission-vision-n-values/
 description: ""
 third_nav_title: Our Identity
 ---
-# **Mission, Vision &amp; Values**
+
 
 
 ### SCHOOL CULTURE
