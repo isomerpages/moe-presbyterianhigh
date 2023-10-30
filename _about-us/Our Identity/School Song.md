@@ -4,7 +4,7 @@ permalink: /about-us/school-history/school-song/
 description: ""
 third_nav_title: Our Identity
 ---
-# **School Song**
+
 
 <a style="text-decoration:none;" href="https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link">Listen</a>
 
