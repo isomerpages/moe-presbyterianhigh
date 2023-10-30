@@ -2,10 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/.keep
-      - Our People/School Management Committee.md
-      - Our People/Our Key Personnel.md
-      - Our People/Teaching Staff.md
       - Information At A Glance.md
       - Principal's Message.md
       - Our History/.keep
@@ -15,6 +11,10 @@ collections:
       - Our Identity/Mission, Vision & Values.md
       - Our Identity/Our School Crest and Motto.md
       - Our Identity/School Song.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Our Key Personnel.md
+      - Our People/Teaching Staff.md
       - Admission Information.md
       - Publications/.keep
       - Publications/School Magazine.md
