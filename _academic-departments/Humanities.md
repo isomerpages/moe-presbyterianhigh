@@ -25,7 +25,7 @@ To empower our students to be reflective thinkers and confident, self-directed l
 
   
 
-Our Programmes
+**Our Programmes**
 
   
 
