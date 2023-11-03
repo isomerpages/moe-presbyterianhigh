@@ -6,15 +6,15 @@ third_nav_title: Our People
 variant: markdown
 ---
 <b>
-	<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
-    <tr>
-      <th align="center"><img src="/images/Elder%20Lawrence%20Fu.jpg" alt="Elder Lawrence Fu.JPG" width="219" height="326"></th>
-      <th align="center"><img src="/images/Elder%20Michael%20Lee.jpg" alt="Elder Michael Lee.JPG" width="219" height="326"></th>
-      <th align="center"><img src="/images/Mdm%20Lim%20Hai%20Yian.jpg" alt="Mdm Lim Hai Yian.JPG" width="219" height="326"></th>
+	<table>
+    <tbody><tr>
+      <td align="center"><img src="/images/Elder%20Lawrence%20Fu.jpg" alt="Elder Lawrence Fu.JPG" width="219" height="326"></td>
+      <td align="center"><img src="/images/Elder%20Michael%20Lee.jpg" alt="Elder Michael Lee.JPG" width="219" height="326"></td>
+      <td align="center"><img src="/images/Mdm%20Lim%20Hai%20Yian.jpg" alt="Mdm Lim Hai Yian.JPG" width="219" height="326"></td>
     </tr>
     <tr>
-			<th align="center"><span align="center" style="background-color:initial"><center>Elder Lawrence Fu<br>Chairman</center></span></th>
-	  <th align="center"><span style="background-color:initial"><center>Elder Lee Kwong Choy Michael<br><span style="background-color:initial">Hon. Treasurer </span></center></span></th>
+			<td align="center"><span><center>Elder Lawrence Fu<br>Chairman</center></span></td>
+	  <td align="center"><span><center>Elder Lee Kwong Choy Michael<br><span>Hon. Treasurer </span></center></span></td>
 	  <th align="center"><center>Mdm Lim Hai Yian<br> Hon. Secretary</center></th></tr>
       <tr>
         <td><img src="/images/Elder%20Dr%20Alexander%20Lee.jpg" alt="Elder Dr Alexander Lee.JPG" width="219" height="326"></td>
@@ -38,4 +38,4 @@ variant: markdown
         <td><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="326"></td>
         <td></td>
       </tr>
-	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table></b>
+	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></tbody></table></b>
