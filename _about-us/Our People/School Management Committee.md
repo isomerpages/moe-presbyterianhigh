@@ -37,4 +37,4 @@ variant: markdown
         <td><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="326"></td>
         <td></td>
       </tr>
-      <tr><th>Rev Jackson Wan <br>Chaplain<br>Member</th><th>Rev Wee Meng Yeown<br>Chaplain<br>Member</th><td></td></tr></thead></table>
+	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table>
