@@ -22,8 +22,11 @@ description: ""
 			<br><b>Tel : </b>+65 6454 3722 <br><b>Fax : </b>+65 6454 3430
 			</td></tr>
 		<tr>
-			<td colspan="2">
+			<td>
 			<b>Email : </b>presbyterian@moe.edu.sg
 		</td>
+			<td>
+				
+			</td>
 	</tr>
 </tbody></table>
