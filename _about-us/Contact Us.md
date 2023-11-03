@@ -16,7 +16,14 @@ description: ""
 			<b>Mon - Fri</b>:&nbsp;7am - 5pm <br>Closed on weekends &amp; Public Holidays
 		</td>
 	</tr>
-
-
-
+	<tr>
+		<td border="0">
+			<h3>Contact Us</h3>
+			<br><b>Tel :</b>+65 6454 3722 <br><b>Fax:</b>+65 6454 3430
+			</td></tr>
+		<tr>
+			<td colspan="2">
+			<b>Email : </b>presbyterian@moe.edu.sg
+		</td>
+	</tr>
 </tbody></table>
