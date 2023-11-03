@@ -1,6 +1,6 @@
 ---
 title: Contact Us
 permalink: /about-us/contactus/
-variant: tiptap
+variant: markdown
 description: ""
 ---
