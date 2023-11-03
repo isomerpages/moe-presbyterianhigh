@@ -30,4 +30,5 @@ Participation in various competitions organised in the various subjects includin
 
 This event is a showcase of our students’ achievements and learning processes, aimed to encourage and affirm their efforts.
 
+![](/images/2023images/C%20and%20T/art1%202023.jpg)
 
