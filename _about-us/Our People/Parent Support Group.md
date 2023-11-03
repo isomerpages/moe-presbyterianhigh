@@ -24,7 +24,7 @@ To promote students’ well-being, PSG members lovingly pack goodie bags and dis
 **Distributing Subway cookies in one term**
 
 
-![](/images/2023images/PSG/psg%20picture%204.jpeg
+![](/images/2023images/PSG/psg%20picture%204.jpeg)
 **and Oreo and Milo gift packs in another**
 
 <h4>Involvement in School Programmes</h4>
