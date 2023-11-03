@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Information At A Glance.md
+      - Information at a Glance.md
       - Principal's Message.md
       - Our History/.keep
       - Our History/School History.md
