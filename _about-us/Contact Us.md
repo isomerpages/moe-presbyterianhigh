@@ -24,7 +24,7 @@ description: ""
 						<b>Email : </b>presbyterian@moe.edu.sg
 			</td>
 		<td>
-			<h6>MAP</h6>
+			<h5>MAP</h5>
 							<img src="/images/2023images/schmap-onemap.jpg">
 		</td></tr>
 </tbody></table>
