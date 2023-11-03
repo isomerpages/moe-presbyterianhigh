@@ -25,6 +25,6 @@ description: ""
 			</td>
 		<td>
 			<h6>MAP</h6>
-							<img src="/images/2023images/schmap.jpg">
+							<img src="/images/2023images/schMap-onemap.jpg">
 		</td></tr>
 </tbody></table>
