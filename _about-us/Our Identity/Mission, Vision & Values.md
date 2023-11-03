@@ -36,7 +36,7 @@ To inculcate Christian values in every individual and develop his potential as a
 * * *
 
 **焚而不毁 (fén ér bù huǐ)**  
-***这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。  ***
+**这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。  **
 
 The school motto, “Aflame for Truth”, teaches us to be resilient and to uphold our corporate belief and integrity in adversity.
 
