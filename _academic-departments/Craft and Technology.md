@@ -35,3 +35,5 @@ This event is a showcase of our students’ achievements and learning processes,
 ![](/images/2023images/C%20and%20T/dt2%202023.jpeg)
 
 ![](/images/2023images/C%20and%20T/f_n2%202023.jpg)
+
+![](/images/2023images/C%20and%20T/sec%203nt%20students%20rehearsing%20for%20their%20performance%202%20(1).jpeg)
