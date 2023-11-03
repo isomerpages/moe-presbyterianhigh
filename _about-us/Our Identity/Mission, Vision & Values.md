@@ -51,6 +51,6 @@ We should be grateful and respectful to our parents, teachers, school and nation
 We build our character and inspire others to exemplify goodness. We develop ourselves, while serving others and the community. 
 
 
-**School Philosophy, Culture and Ethos**
+<b>School Philosophy, Culture and Ethos</b>
 The school provides a Christian environment where there is a strong culture of Teamwork, Excellence, Affirmation and Mission-mindedness (TEAM PHS). To develop our students to be Passionate Learners, Servant Leaders and Stewards of Tomorrow, the school places emphasis on nurturing and developing good character as well as harnessing the leadership potential in every child, inculcating in students a sense of gratitude and responsibility to the community and nation. Providing a holistic education, the school seeks to enable our students to discover and grow in their strengths and talents to fulfil their potential. 
 
