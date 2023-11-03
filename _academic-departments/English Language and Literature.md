@@ -56,4 +56,8 @@ Students with strong public speaking skills are further developed, with opportun
 Both Lower Secondary and Upper Secondary Literature students interested in Literature have the chance to participate in events during the National Schools Literature Festival, including Choral Speaking, Book Trailer and debates.
 
   
-**
+![](/images/2023images/English%20language%20&amp;%20literature/picture%201.jpg)
+
+![](/images/2023images/English%20language%20&amp;%20literature/picture%202.jpg)
+
+![](/images/2023images/English%20language%20&amp;%20literature/picture%204.jpg)
