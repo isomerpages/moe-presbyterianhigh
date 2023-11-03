@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: https://www.presbyterian.moe.edu.sg/images/2023images/openhouse2023m.jpg
+          url: https://sites.google.com/preshigh.edu.sg/phse-openhouse2023/home
         - title: Latest @ PHS
           description: ""
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
