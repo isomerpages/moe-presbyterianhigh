@@ -21,6 +21,7 @@ Art Jam, which operates every Monday and Wednesday, allows students to unwind an
 <h4>ParentsHugS</h4>
 To promote students’ well-being, PSG members lovingly pack goodie bags and distribute them to the entire school every term. 
 
+![](/images/2023images/PSG/picture%203%20conv.jpeg)
 **Distributing Subway cookies in one term**
 
 
