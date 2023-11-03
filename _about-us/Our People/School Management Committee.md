@@ -28,13 +28,13 @@ variant: markdown
         <td><img src="/images/Elder%20Sunny%20Tan.jpg" alt="Elder Sunny Tan.JPG" width="219" height="326"></td>
         <td><img src="/images/Reverend%20Dr%20Wang%20Ping.jpg" alt="Reverend Dr Wang Ping.JPG" width="219" height="326"></td>
       </tr>
-      <tr><th>Elder Lester Ting<br>Member</th>
-	  <th align="center"><center>Elder Tan Chuan Long Sunny
-			Member</center></th>
-				<th align="center"><center>Rev Dr Wang Ping Polly<br>Member</center></th></tr>
+	<tr><td><center>Elder Lester Ting<br>Member</center></td>
+	  <td align="center"><center>Elder Tan Chuan Long Sunny
+			Member</center></td>
+				<td align="center"><center>Rev Dr Wang Ping Polly<br>Member</center></td></tr>
       <tr>
         <td><img src="/images/Reverend%20Jackson%20Wan.jpg" alt="Reverend Jackson Wan.JPG" width="219" height="326"></td>
         <td><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="326"></td>
         <td></td>
       </tr>
-	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table>
+	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table>enter
