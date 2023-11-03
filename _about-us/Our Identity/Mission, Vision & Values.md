@@ -3,13 +3,9 @@ title: Mission, Vision & Values
 permalink: /about-us/mission-vision-n-values/
 description: ""
 third_nav_title: Our Identity
+variant: markdown
 ---
 
-
-
-### SCHOOL CULTURE
-
-![](/images/TEAM%20PHS%20poster.jpg)
 
 ### SCHOOL VISION
 
@@ -22,6 +18,11 @@ A Christ-centred community nurturing Passionate Learners, Servant Leaders and St
 To inculcate Christian values in every individual and develop his potential as a total person worthy of God and man.
 
 
+* * *
+
+### SCHOOL CULTURE
+
+![](/images/TEAM%20PHS%20poster.jpg)
 * * *
 
 ### SCHOOL VALUES
