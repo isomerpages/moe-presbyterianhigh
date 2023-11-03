@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
     <tr>
@@ -11,7 +12,7 @@ third_nav_title: Our People
       <th align="center"><img src="/images/Mdm%20Lim%20Hai%20Yian.jpg" alt="Mdm Lim Hai Yian.JPG" width="219" height="326"></th>
     </tr>
     <tr>
-			<th align="center"><span style="background-color:initial">Elder Lawrence Fu</span><br>Chairman</th>
+			<th align="center"><span align="center" style="background-color:initial">Elder Lawrence Fu</span><br>Chairman</th>
 	  <th align="center"><span style="background-color:initial">Elder Lee Kwong Choy Michael</span><br><span style="background-color:initial">Hon. Treasurer </span></th>
 	  <th align="center">Mdm Lim Hai Yian<br> Hon. Secretary</th></tr>
       <tr>
