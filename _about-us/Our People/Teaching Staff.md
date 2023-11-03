@@ -42,7 +42,7 @@ variant: markdown
   <tr>
     <td>LH EL/LIT</td>
     <td>Mr Muhammad Fadzli Abdul Hamid</td>
-    <td>Muhammad_Fadzli_Abdul_Hamid@moe.edu.sg</td>
+    <td>muhammad_fadzli_abdul_hamid@moe.edu.sg</td>
   </tr>
   <tr>
     <td>SH EL/LIT</td>
