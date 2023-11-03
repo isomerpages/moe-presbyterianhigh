@@ -44,9 +44,9 @@ The school motto, “Aflame for Truth”, teaches us to be resilient and to upho
 对国家、学校、家庭心怀感恩，懂得敬老尊贤，有责任心，积极回馈社会。  **
 
 We should be grateful and respectful to our parents, teachers, school and nation. We are responsible and accountable for our actions and should actively contribute to society.
-
   
-**立己立人 (lì jǐ lì rén)**  
+**立己立人 (lì jǐ lì rén)  
 这是校歌当中的一句，教导我们培养良好品德，立志成就自我，再感染他人向  
-善。我们应先尽本分，再服务他人，建设社会。  
-This a line from our school song. It means that we should build our character and inspire others to exemplify goodness. We should develop ourselves, serve others and play an active role in bettering the lives of others around us.
+善。我们应先尽本分，再服务他人，建设社会。 **
+
+We build our character and inspire others to exemplify goodness. We develop ourselves, while serving others and the community. 
