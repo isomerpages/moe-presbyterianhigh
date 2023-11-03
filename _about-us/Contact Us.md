@@ -19,7 +19,7 @@ description: ""
 	<tr>
 		<td border="0">
 			<h3>Contact Us</h3>
-			<br><b>Tel :</b>+65 6454 3722 <br><b>Fax:</b>+65 6454 3430
+			<br><b>Tel : </b>+65 6454 3722 <br><b>Fax : </b>+65 6454 3430
 			</td></tr>
 		<tr>
 			<td colspan="2">
