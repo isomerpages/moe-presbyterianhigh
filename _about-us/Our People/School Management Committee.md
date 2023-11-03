@@ -14,7 +14,7 @@ variant: markdown
     <tr>
 			<th align="center"><span align="center" style="background-color:initial"><center>Elder Lawrence Fu<br>Chairman</center></span></th>
 	  <th align="center"><span style="background-color:initial"><center>Elder Lee Kwong Choy Michael<br><span style="background-color:initial">Hon. Treasurer </span></center></span></th>
-	  <th align="center">Mdm Lim Hai Yian<br> Hon. Secretary</th></tr>
+	  <th align="center"><center>Mdm Lim Hai Yian<br> Hon. Secretary</center></th></tr>
       <tr>
         <td><img src="/images/Elder%20Dr%20Alexander%20Lee.jpg" alt="Elder Dr Alexander Lee.JPG" width="219" height="326"></td>
         <td><img src="/images/Elder%20Chong%20Gim%20Soon.jpg" alt="Elder Chong Gim Soon.JPG" width="219" height="326"></td>
