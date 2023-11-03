@@ -3,11 +3,12 @@ title: Our Past Principals
 permalink: /about-us/our-history/ourpastprincipals/
 description: ""
 third_nav_title: Our History
+variant: markdown
 ---
 <table border="0">
 <tbody><tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/m03%20chou-chu-shen.png">
+	<img src="/images/Our%20Past%20Principals/m03%20chou-chu-shen.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -17,7 +18,7 @@ third_nav_title: Our History
   </tr>
 		<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/m04%20mr-lim-photo-01.png">
+	<img src="/images/Our%20Past%20Principals/m04%20mr-lim-photo-01.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -27,7 +28,7 @@ third_nav_title: Our History
   </tr>	
 			<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mmr%20lian%20sek%20lin-principal.png">
+	<img src="/images/Our%20Past%20Principals/mmr%20lian%20sek%20lin-principal.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -36,7 +37,7 @@ third_nav_title: Our History
 	</td>
   </tr>			<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mmr%20david%20wang.png">
+	<img src="/images/Our%20Past%20Principals/mmr%20david%20wang.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -46,7 +47,7 @@ third_nav_title: Our History
   </tr>
 	<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mmrs%20serene%20pang-principal.png">
+	<img src="/images/Our%20Past%20Principals/mmrs%20serene%20pang-principal.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -56,7 +57,7 @@ third_nav_title: Our History
   </tr>
 		<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mmrs%20carolin%20tan-principal.png">
+	<img src="/images/Our%20Past%20Principals/mmrs%20carolin%20tan-principal.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -66,7 +67,7 @@ third_nav_title: Our History
   </tr>
 				<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mmr-lim%20yan%20hock-principal.png">
+	<img src="/images/Our%20Past%20Principals/mmr-lim%20yan%20hock-principal.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
@@ -76,7 +77,7 @@ third_nav_title: Our History
   </tr>
 	<tr>
 	<td cellpadding="2">
-	<img src="/images/Our%20Past%20Principals/mr-victor%20owyong-principal.png">
+	<img src="/images/Our%20Past%20Principals/mr-victor%20owyong-principal.png" height="50%" width="50%">
 	</td>			
 	</tr>
 	<tr>
