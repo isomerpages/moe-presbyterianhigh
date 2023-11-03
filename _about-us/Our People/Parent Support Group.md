@@ -31,5 +31,7 @@ To promote students’ well-being, PSG members lovingly pack goodie bags and dis
 <h4>Involvement in School Programmes</h4>
 Parents play an active role in our school programmes, enhancing the educational experience of our students. 
 
-[Picture 5: Participating in Values-in-Action, Project Blessing, with our students]
-[Picture 6: Supporting our National Day Celebration at Bishan-Ang Mo Kio Park]
+![](/images/2023images/PSG/picture%205%20conv.jpg)Participating in Values-in-Action, Project Blessing, with our students]
+
+
+![](/images/2023images/PSG/picture%206.jpg)Supporting our National Day Celebration at Bishan-Ang Mo Kio Park]
