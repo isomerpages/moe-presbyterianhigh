@@ -4,7 +4,7 @@ permalink: /academic-departments/english-language-and-literature/
 description: ""
 variant: markdown
 ---
- <h3>Our Vision</h3>
+<h3>Our Vision</h3>
 
 Every PresHighian a proficient communicator capable of expressing thoughts and feelings with empathy, creativity and impact
 
@@ -60,4 +60,7 @@ Both Lower Secondary and Upper Secondary Literature students interested in Liter
 
 ![](/images/2023images/English%20language%20&amp;%20literature/picture%202.jpg)
 
+![](/images/2023images/English%20language%20&amp;%20literature/picture_3%202023.jpg)
+
 ![](/images/2023images/English%20language%20&amp;%20literature/picture%204.jpg)
+
