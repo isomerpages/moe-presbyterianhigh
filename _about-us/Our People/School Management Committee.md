@@ -15,15 +15,15 @@ variant: markdown
     <tr>
 			<td align="center"><span><center>Elder Lawrence Fu<br>Chairman</center></span></td>
 	  <td align="center"><span><center>Elder Lee Kwong Choy Michael<br><span>Hon. Treasurer </span></center></span></td>
-	  <th align="center"><center>Mdm Lim Hai Yian<br> Hon. Secretary</center></th></tr>
+	  <td align="center"><center>Mdm Lim Hai Yian<br> Hon. Secretary</center></td></tr>
       <tr>
         <td><img src="/images/Elder%20Dr%20Alexander%20Lee.jpg" alt="Elder Dr Alexander Lee.JPG" width="219" height="326"></td>
         <td><img src="/images/Elder%20Chong%20Gim%20Soon.jpg" alt="Elder Chong Gim Soon.JPG" width="219" height="326"></td>
         <td><img src="/images/Pastor%20Eunice%20Low.jpg" alt="Pastor Eunice Low.JPG" width="219" height="328"></td>
       </tr>
-      <tr><th><span style="background-color:initial"><center>Elder Dr Axlander Lee Earn Yung<br>Member</center></span></th>
-	  <th align="center"><center>Pastor Chong Gim Soon <br><span style="background-color:initial">Member</span></center></th>
-				<th align="center"><center>Pastor Eunice Low Soek Peng<br>Member</center></th></tr>
+      <tr><td><span style="background-color:initial"><center>Elder Dr Axlander Lee Earn Yung<br>Member</center></span></td>
+	  <td align="center"><center>Pastor Chong Gim Soon <br><span style="background-color:initial">Member</span></center></td>
+				<td align="center"><center>Pastor Eunice Low Soek Peng<br>Member</center></td></tr>
       <tr>
         <td><img src="/images/Elder%20Lester%20Ting.jpg" alt="Elder Lester Ting.JPG" width="219" height="326"></td>
         <td><img src="/images/Elder%20Sunny%20Tan.jpg" alt="Elder Sunny Tan.JPG" width="219" height="326"></td>
