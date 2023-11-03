@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
+<b>
+	<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
     <tr>
       <th align="center"><img src="/images/Elder%20Lawrence%20Fu.jpg" alt="Elder Lawrence Fu.JPG" width="219" height="326"></th>
       <th align="center"><img src="/images/Elder%20Michael%20Lee.jpg" alt="Elder Michael Lee.JPG" width="219" height="326"></th>
@@ -37,4 +38,4 @@ variant: markdown
         <td><img src="/images/Reverend%20Wee%20Meng%20Yeow.jpg" alt="Reverend Wee Meng Yeow.JPG" width="219" height="326"></td>
         <td></td>
       </tr>
-	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table>enter
+	<tr><td><center>Rev Jackson Wan <br>Chaplain<br>Member</center></td><td><center>Rev Wee Meng Yeown<br>Chaplain<br>Member<center></center></center></td><td></td></tr></thead></table></b>
