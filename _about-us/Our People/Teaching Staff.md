@@ -3,44 +3,9 @@ title: Teaching Staff
 permalink: /about-us/staff-email-directory/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
-<div>
-    <div>
-      <div>
-        <div>
-          <button aria-label="Print" id="print-button"></button>
-        </div>
-        <div>
-          <button aria-label="Copy Link" id="copy-link"></button>
-        </div>
-        <div>
-          <button></button>
-        </div>
-        <div>
-          <button></button>
-        </div>
-        <div>
-          <button></button>
-        </div>
-        <div dir="ltr">
-          <div>
-            <div></div>
-          </div>
-          <div>
-            <div></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div dir="ltr">
-      <div>
-        <div></div>
-      </div>
-      <div>
-        <div></div>
-      </div>
-    </div>
-  </div><div></div><table cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0">
   <colgroup><col width="166">
   <col width="232">
   <col width="289">
@@ -547,4 +512,3 @@ third_nav_title: Our People
     <td>edwin@preshigh.edu.sg</td>
   </tr>
 </tbody></table>
-
