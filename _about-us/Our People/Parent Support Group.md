@@ -14,9 +14,11 @@ Fully run by our PSG, the school’s recess drop-in programmes provide an avenue
 
 Art Jam, which operates every Monday and Wednesday, allows students to unwind and express their creativity and emotions through art. Games are also available at the Ohana Room. Students can play board games for leisure or engage in a friendly competition with their schoolmates.
 
-![](/images/2023images/PSG/psg%20picture%201.jpg) <center>**Painting a picture of affirmations during Art Jam**</center>
+![](/images/2023images/PSG/psg%20picture%201.jpg) 
+**Painting a picture of affirmations during Art Jam**
 
-![](/images/psg%20picture%202.jpg)<center>**Aunty Tiani, whose daughter has already graduated from PHS, continues to helm Art Jam and is an assuring presence in school.** </center>
+![](/images/psg%20picture%202.jpg)
+**Aunty Tiani, whose daughter has already graduated from PHS, continues to helm Art Jam and is an assuring presence in school.** 
 
 <h4>ParentsHugS</h4>
 To promote students’ well-being, PSG members lovingly pack goodie bags and distribute them to the entire school every term. 
