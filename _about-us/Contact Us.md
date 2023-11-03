@@ -13,9 +13,10 @@ description: ""
 		</b></td>
 		<td>
 			<h3>Operating Hours</h3>
-			<br><b>Mon - Fri</b>:&nbsp;7am - 5pm <br>Closed on weekends &amp; Public Holidays
+			<b>Mon - Fri</b>:&nbsp;7am - 5pm <br>Closed on weekends &amp; Public Holidays
 		</td>
+	</tr>
 
 
 
-</tr></tbody></table>
+</tbody></table>
