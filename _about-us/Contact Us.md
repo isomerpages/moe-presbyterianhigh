@@ -6,16 +6,6 @@ description: ""
 ---
 # Get in touch with  Presbyterian High School
 
-
-			
-	
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| ##### **Main Office**
-##### **O   | Text     |
-
-
 <table>
 	<tbody><tr border="0">
 		<td>
@@ -24,4 +14,8 @@ description: ""
 		<td>
 			<h3>Operating Hours</h3>
 			<br><b>Mon - Fri</b>:&nbsp;7am - 5pm <br>Closed on weekends &amp; Public Holidays
-		</td></tr></tbody></table>
+		</td>
+
+
+
+</tr></tbody></table>
