@@ -9,7 +9,7 @@ description: ""
 <table>
 	<tbody><tr border="0">
 		<td>
-			<h3>Main Office</h3><b>5209 Ang Mo Kio Avenue 6 <br>Singapore 569845
+			<h3>Main Office</h3><b>5209 Ang Mo Kio Avenue 6 <br>Singapore 569845<br><a src="https://goo.gl/maps/up2bzquYV9KGRFdf8">View Map</a>
 		</b></td>
 		<td>
 			<h3>Operating Hours</h3>
