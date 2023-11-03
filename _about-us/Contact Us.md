@@ -20,15 +20,11 @@ description: ""
 		<td border="0">
 			<h3>Contact Us</h3>
 			<br><b>Tel : </b>+65 6454 3722 <br><b>Fax : </b>+65 6454 3430
+			<br>
+						<b>Email : </b>presbyterian@moe.edu.sg
 			</td>
 		<td>
+			<h6>MAP</h6>
 							<img src="/images/2023images/schmap.jpg">
 		</td></tr>
-		<tr>
-			<td>
-			<b>Email : </b>presbyterian@moe.edu.sg
-		</td>
-			<td>
-			</td>
-	</tr>
 </tbody></table>
