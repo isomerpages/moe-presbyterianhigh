@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - PHS Teaching and Learning Framework.md
-      - English Language and Literature.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Science.md
-      - Humanities.md
       - Craft and Technology.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
       - Physical Education Department.md
+      - Science.md
