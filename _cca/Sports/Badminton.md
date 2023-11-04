@@ -9,14 +9,12 @@ The Badminton Team places a strong emphasis on character building. Our teachers 
 
 <b>
 <h5>Days and Time of Training</h5>
-
 (Boys only)<br>
 Monday : 3–5pm&nbsp;<br>
 Wednesday : 3–5pm&nbsp;<br>
 Friday: 2–4pm (school team)<br>
-
-Venue : Bethel Hall / ISH / Yio Chu Kang Sports Hall<br>
-
+	
+Venue : Bethel Hall / ISH / Yio Chu Kang Sports Hall
 <h5>Teachers-in-Charge</h5>
 Mr Chandrasegaran (OIC)<br>
 Ms Ng Boon Hwee<br>
