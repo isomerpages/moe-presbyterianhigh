@@ -24,5 +24,4 @@ Venue : Band room ISH Level 2
 Ms Siti Sarah Bte Ambo Roslan (OIC)<br>
 Mr Jason Lefort&nbsp;<br>
 Mrs Faith Chen&nbsp;<br>
-Ms Filzah Nadiah<br>
-</b>
+Ms Filzah Nadiah<br></b>
