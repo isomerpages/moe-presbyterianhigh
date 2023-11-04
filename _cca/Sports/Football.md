@@ -13,9 +13,9 @@ The Football Team strives to promote lifelong, sustainable, and active involveme
 
 <b>(Boys only)<br>
 Monday : 3.30–5.30pm<br>
-Wednesday: 3.30–5.30pm<br>
+Wednesday: 3.30–5.30pm<br></b>
 <h5>Venue</h5>
-Football Field<br>
+<b>Football Field<br>
 
 <h5>Teachers-in-Charge</h5>
 Mr Fu Chengwei (OIC)&nbsp;<br>
