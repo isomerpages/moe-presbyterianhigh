@@ -1,16 +1,25 @@
 ---
 title: Symphonic Band
-permalink: /cca/Performing-Arts/Symphonic-Band/
+permalink: /cca/performing-arts/symphonicband/
+variant: markdown
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/symphonicband.png)
+![](/images/2023images/CCAs%202023/symphonic%202023.jpg)
 
-**Introduction**
+The Symphonic Band aims to develop every student’s musical abilities. Regardless of their prior musical experience, students will learn to play music as part of a band, and nurture an appreciation for music. Besides developing their aptitude and interest in music, the CCA places an emphasis on maximising leadership potential in all students.
 
-PHS Symphonic Band's mission is to develop and hone students’ musical abilities. Even without prior background, students will learn to experience playing music together and nurture an appreciation for music. Apart from developing the students' musical performance ability, the PHS Symphonic Band also emphasises on character development and strives to maximise leadership potential in all students.
+<h5>Days and Time of Training&nbsp;</h5>
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|(Full Band &amp; sectionals)<br>Monday: 3.30pm to 5.30pm<br>Wednesday: 3.30pm to 5.30pm|Ms Siti Sarah Bte Ambo Roslan (OIC)<br>Mr Jason Lefort<br>Mrs Faith Chen<br>Ms Filzah Nadiah
-|**Venue** <br>Band room ISH Level 2||
+<b>(Full Band &amp; sectionals)&nbsp;<br>
+Monday: 3.30–5.30pm&nbsp;<br>
+Wednesday: 3.30–5.30pm <br>
+	
+Venue : Band room ISH Level 2<br>
+
+<h5>Teachers-in-Charge&nbsp;</h5>
+
+Ms Siti Sarah Bte Ambo Roslan (OIC)<br>
+Mr Jason Lefort<br>
+Mrs Faith Chen<br>
+Ms Filzah Nadiah<br></b>

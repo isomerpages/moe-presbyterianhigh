@@ -3,13 +3,19 @@ title: Guzheng Ensemble
 permalink: /cca/Performing-Arts/Guzheng-Ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/phsguzheng.png)
-**Introduction**
+![](/images/2023images/CCAs%202023/guzheng%202023.jpg)
 
-Under the guidance of the Guzheng instructor and teachers-in-charge, the Guzheng Ensemble achieved commendable awards at the Singapore Youth Festival yearly. On this journey to success, the members put their heart and soul into practising their 21-stringed Chinese musical instruments. Together, they strove to produce harmonious music that is played expressively and learnt the importance of teamwork, diligence and perseverance.
+The Guzheng Ensemble puts their heart and soul into practising their 21-stringed Chinese musical instrument. United in their pursuit of excellence, the ensemble creates expressive and harmonious music and develops values, such as teamwork, diligence and perseverance. Under the guidance of the Guzheng instructor and teachers-in-charge, the ensemble achieves commendable awards at the Singapore Youth Festival Arts Presentation every year. 
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|Monday: 2.45pm to 5.45pm<br>Wednesday: 2.45pm to 5.45pm|Mrs Kathy Liang (OIC)<br>Mdm Zheng Dahong
-|**Venue** <br>Guzheng room||
+<h5>Days and Time of Training </h5>
+
+**Monday: 2.45–5.45pm <br>
+Wednesday: 2.45–5.45pm <br>
+Venue : Guzheng room**<br>
+
+<h5>Teachers-in-Charge</h5>
+
+**Mrs Kathy Liang (OIC)<br>
+Mdm Zheng Dahong**

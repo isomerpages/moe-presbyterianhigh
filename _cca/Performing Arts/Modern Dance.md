@@ -1,16 +1,23 @@
 ---
 title: Modern Dance
-permalink: /cca/performing-arts/dance/
+permalink: /cca/performing-arts/moderndance/
+variant: markdown
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/moderndance.png)
+![](/images/2023images/CCAs%202023/moderndance%202023.jpg)
 
-**Introduction**
+Modern Dance aims to nurture disciplined and resilient dancers who work cohesively towards success. Recognising the uniqueness of each dancer, the CCA offers creative platforms for them to express their individuality and appreciate the beauty of dance. With an emphasis on values and character, our dancers develop a strong sense of commitment to honing their craft, and learn to cultivate mutual respect and a strong sense of teamwork.
 
-PHS Dance Society has a vision to nurture disciplined and resilient dancers who work as a team to strive for success. The Dance Society provides dancers with a creative outlet, allowing them to express themselves through the beauty of dance. Every individual is unique and different. The Dance Society emphasises this by giving students opportunities to express their individuality while working together as a group to shine brightly.
+  
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|Monday: 3.30pm to 5.30pm<br>Wednesday: 3.30pm to 5.30pm|Ms Michelle Tang (OIC)<br>Mdm Yvonne Thng
-|**Venue** <br>AVA room||
+<h5>Days and Time of Training&nbsp;</h5>
+
+**Monday: 3.30–5.30pm&nbsp;<br>
+Wednesday: 3.30–5.30pm<br>
+Venue : AVA room<br>**
+
+<h5>Teachers-in-Charge</h5>
+
+**Ms Michelle Tang (OIC)<br>
+Mdm Yvonne Thng<br>**
