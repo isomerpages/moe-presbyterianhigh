@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - CCAs/Clubs and Societies.md
       - CCAs/.keep
       - CCAs/Performing Arts.md
       - CCAs/Sports.md
       - CCAs/Uniformed Groups.md
+      - CCAs/Clubs and Societies.md
