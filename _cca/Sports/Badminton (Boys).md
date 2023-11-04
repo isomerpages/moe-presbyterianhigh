@@ -18,6 +18,7 @@ Wednesday : 3–5pm&nbsp;<br>
 Friday: 2–4pm (school team)<br>
 	
 Venue : Bethel Hall / ISH / Yio Chu Kang Sports Hall
+	
 <h5>Teachers-in-Charge</h5>
 Mr Chandrasegaran (OIC)<br>
 Ms Ng Boon Hwee<br>
