@@ -9,5 +9,5 @@ third_nav_title: CCAs
 [Choir](/cca/Performing-Arts/Choir/)<br>
 [Guzheng Ensemble](/cca/performing-arts/guzheng-ensemble/)<br>
 [Modern Dance](/cca/performing-arts/dance/)<br>
-PhDrama<br>
-Symphonic Band<br>
+[PhDrama]()<br>
+[Symphonic Band](/cca/performing-arts/symphonic-band/)<br>
