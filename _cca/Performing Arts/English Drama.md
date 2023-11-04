@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
+![](/images/2023images/CCAs%202023/englishdrama.jpg)
+
 The English Drama Club is committed to developing students’ abilities in storytelling and artistic expression, and bolstering their stage confidence. Our students learn to convey their thoughts passionately and explore different modes of artistic expressions and storytelling techniques. The CCA unites a community of kindred spirits, who find joy and meaning in engaging and delighting its audience. 
 
 <h5>Days and Time of Training </h5>
