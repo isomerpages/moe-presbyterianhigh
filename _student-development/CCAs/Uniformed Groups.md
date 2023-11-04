@@ -9,4 +9,4 @@ third_nav_title: CCAs
 [Boys’ Brigade](/cca/uniformed-groups/boys-brigade/)<br>
 [Girls’ Brigade](/cca/uniformed-groups/girls-brigade/)<br>
 [National Cadet Corps (Sea)](/cca/uniformed-groups/national-cadet-corps-ncc-sea/)<br>
-National Police Cadet Corps<br>
+[National Police Cadet Corps](/cca/uniformed-groups/national-police-cadet-corps-npcc/)<br>
