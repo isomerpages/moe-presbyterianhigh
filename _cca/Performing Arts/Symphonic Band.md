@@ -20,6 +20,6 @@ Venue : Band room ISH Level 2<br>
 <h5>Teachers-in-Charge&nbsp;</h5>
 
 Ms Siti Sarah Bte Ambo Roslan (OIC)<br>
-Mr Jason Lefort&nbsp;<br>
-Mrs Faith Chen&nbsp;<br>
+Mr Jason Lefort<br>
+Mrs Faith Chen<br>
 Ms Filzah Nadiah<br></b>
