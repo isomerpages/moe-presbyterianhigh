@@ -29,3 +29,11 @@ This programme is designed to stretch the capabilities of Secondary One students
 **3. Singapore Mathematical Olympiad (SMO) Training**
 
 SMO Training is a programme designed to impart advanced mathematical concepts to selected Secondary Two to Four students, while developing in them creative mathematical thinking and problem-solving skills.
+
+![](/images/2023images/Mathematics/picture%201.jpg)
+
+![](/images/2023images/Mathematics/picture%202.jpg)
+
+![](/images/2023images/Mathematics/picture%203.jpg)
+
+![](/images/2023images/Mathematics/picture%204.jpeg)
