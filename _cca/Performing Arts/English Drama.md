@@ -12,7 +12,7 @@ The English Drama Club is committed to developing students’ abilities in story
 <b>Monday: 3.30–5.30pm <br>
 Wednesday: 3.30–5.30pm <br>
 *Additional practices on Fridays during SYF period (Jan–April) <br>
-Venue : Drama Room ISH Level 2</b>
+Venue : Drama Room ISH Level 2</b><br>
 
 <h5>Teachers-in-Charge</h5>
 <b>Ms Sherinder Kaur (OIC) <br>
