@@ -45,13 +45,13 @@ MTL Fortnight seeks to create an immersive environment for students to learn and
 
   
 
-4\. Cultural Festivities
+**4\. Cultural Festivities**
 
 We provide platforms for students to develop their presentation skills about various cultural festivities, such as Chinese New Year and Hari Raya Pausa. In the process, students gain insights into the celebrations of different cultures.&nbsp;
 
   
 
-5\. Competitions
+**5\. Competitions**
 
 The MTL Department involves our students in a range of diverse competitions that sharpen students’ language skills. These include the:
 
@@ -66,4 +66,3 @@ The MTL Department involves our students in a range of diverse competitions that
 *   National Chinese Riddle Competition.
     
 
-**
