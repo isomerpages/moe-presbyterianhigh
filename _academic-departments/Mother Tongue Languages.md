@@ -66,3 +66,7 @@ The MTL Department involves our students in a range of diverse competitions that
 *   National Chinese Riddle Competition.
     
 
+![](/images/2023images/Mother%20Tongue%20Languages/picture%201.jpg)
+
+![](/images/2023images/Mother%20Tongue%20Languages/picture%202.jpeg)
+
