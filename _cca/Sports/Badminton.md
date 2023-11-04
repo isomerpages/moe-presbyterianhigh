@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/2023images/CCAs%202023/badminton2023.jpg)The Badminton Team places a strong emphasis on character building. Our teachers and coach encourage active participation in training, a strong commitment to skill development and fostering respect for all. Our players, in turn, train hard to develop their speed, flexibility and strategic thinking. Together, our teachers and coach actively seek opportunities, which enable our players to showcase their abilities and receive recognition for their achievements.&nbsp;
+![](/images/2023images/CCAs%202023/badminton2023.jpg)
+
+The Badminton Team places a strong emphasis on character building. Our teachers and coach encourage active participation in training, a strong commitment to skill development and fostering respect for all. Our players, in turn, train hard to develop their speed, flexibility and strategic thinking. Together, our teachers and coach actively seek opportunities, which enable our players to showcase their abilities and receive recognition for their achievements.&nbsp;
 
 <b>
 <h5>Days and Time of Training</h5>
