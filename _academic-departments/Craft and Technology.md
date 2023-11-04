@@ -8,15 +8,15 @@ variant: markdown
 
 PresHighians as critical thinkers and independent, passionate learners who explore, imagine and create opportunities to bless the community
 
-**Our Approach**
+<h3>Our Approach</h3>
 
 The various units in the department develop curricula that promote active learning processes. This includes the use of the design thinking protocol in Design and Technology, inquiry-based learning in Art, performance-based learning in Music and Nutrition and Food Science, project-based learning in Economics, and collaborative learning in Accounting.
 
 Connecting students to real-world issues, problems and applications allows the department to create more meaningful learning experiences for all PresHighians.
 
-**Our Programmes**
+<h3>Our Programmes</h3>
 
-1. Learning Journeys
+**1. Learning Journeys**
 
 To inculcate an inquisitive mindset in our students, we plan learning journeys to offer opportunities for exploration, wonder and extension of learning.
 
@@ -24,7 +24,7 @@ To inculcate an inquisitive mindset in our students, we plan learning journeys t
 
 Our annual collaboration with the National Organ Transplant Unit provides a platform for Art enthusiasts to make a positive impact on and to bless the community.
 
-Participation in various competitions organised in the various subjects including Art, Design & Technology, Nutrition and Food Science (NFS), and Principles of Accounting (POA) extends learning opportunities for students beyond the curriculum.
+Participation in various competitions organised in the various subjects including Art, Design &amp; Technology, Nutrition and Food Science (NFS), and Principles of Accounting (POA) extends learning opportunities for students beyond the curriculum.
 
 **3. Celebrate Learning Together**
 
