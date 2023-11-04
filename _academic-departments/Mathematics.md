@@ -2,54 +2,38 @@
 title: Mathematics
 permalink: /academic-departments/Mathematics/
 description: ""
+variant: markdown
 ---
-# **Mathematics Department**&nbsp;
+<h2>Our Vision</h2>
 
+Every PresHighian a resilient problem solver who is self-directed and has an appreciation for Mathematics
 
-The Mathematics Department cultivates students' interest in and their appreciation of Mathematics and equips them with necessary knowledge, skills and competencies to think logically, critically and analytically. The study of Mathematics helps students understand real-world phenomena and provides the&nbsp;foundation for many innovations and solutions.&nbsp;
+<h3>Our Approach</h3>
+ 
+To develop effective problem solvers who can skilfully apply mathematical knowledge and procedures, we emphasise learning experiences that deepen conceptual understanding, strengthen mathematical skills and processes, and simultaneously foster 21st-century competencies in our students.
 
-**Learning Mathematics beyond the Classroom**
-![](/images/math1.jpg)
-Sparking students' interest in trigonometry&nbsp;
+Through purposeful questioning and scaffolding, we create opportunities for students to engage in mathematical discussions with both their peers and teachers. As students communicate, reason and articulate their thought processes, they develop critical thinking skills and deepen their grasp of mathematical concepts. Students are also guided to make connections and apply what they learn in Mathematics to real world contexts. This, in turn, helps our students appreciate the relevance and power of mathematics, while kindling the joy of learning in the mathematics classroom.
 
-**Our signature programmes include:**&nbsp;
+The cornerstone of our approach is in building an inclusive and supportive learning environment that promotes collaborative learning. We encourage students to take ownership of their learning and persevere towards achieving success.
 
-*   Mathematics Olympiad training for Sec 1 to 3 students, which hones students' mathematical problem solving skills;
-*   Problem-Based Learning (PBL) projects, which develop creative and critical thinking, collaborative, and problem-solving skills in Sec 2 student. Students conduct research, use technology in design exploration and collaborate to propose a solution to real-world problems;&nbsp;
-*   Mathematics Week, which promotes a positive attitude towards Mathematics and develops the joy of learning.
+<h3>Our Programmes</h3>
 
-  
+**1. Math Week**
 
-**PHS Mathematics Olympiad**&nbsp;   
-PHS Mathematics Olympiad develops Secondary One students who show keen interest in and display potential in mathematical problem solving.
+Math Week is an annual event that engages students in hands-on activities, designed to deepen their appreciation of mathematics and enable them to recognise the presence of mathematics in the world around them.
+ 
+**2. PHS Mathematics Olympiad Preparatory Programme**
 
-![](/images/Math.jpg)
-Preparing students for the PHS Mathematics Olympiad
+This programme is designed to stretch the capabilities of Secondary One students who exhibit a keen interest in and the potential for mathematical problem solving. 
+ 
+**3. Singapore Mathematical Olympiad (SMO) Training**
 
-**Problem-Based Learning (PBL)**  
-PBL develops our students' creative and critical thinking, collaborative and problem-solving skills. Students work in groups to formulate goals and set learning objectives on the topic of Mensuration to solve a given real-world problem. The students conduct research online, use Microsoft Excel for the design exploration stage, and collaborate through the SLS to propose a solution to the problem.
+SMO Training is a programme designed to impart advanced mathematical concepts to selected Secondary Two to Four students, while developing in them creative mathematical thinking and problem-solving skills.
 
-![](/images/2(1).jpg)
+![](/images/2023images/Mathematics/picture%201.jpg)
 
+![](/images/2023images/Mathematics/picture%202.jpg)
 
+![](/images/2023images/Mathematics/picture%203.jpg)
 
-### **Mathematics Week**
-
-
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZbAOjsQo0NV_Ix1U_ngwEpxf76LiDU-3RNABOj4Bny5hkOZuaXuo_LClCmuri_9saS3b0NEKIRV6/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
-Demonstrating creativity with mathematics heuristics during Mathematics Week
-
-
-
-### Our Achievements
-
-
-<img src="/images/All%20Singapore%20Secondary%20Mathematics%20Competition%20For%20Normal%20Course%202022%20Awardee.jpg" 
-     style="width:50%">
-Awardee of the All Singapore Secondary Mathematics Competition for Normal Course
-
-
-![](/images/Singapore%20Mathematics%20Olympiad%20Awardees.jpg)
-Singapore Mathematics Olympiad Awardees
+![](/images/2023images/Mathematics/picture%204.jpeg)

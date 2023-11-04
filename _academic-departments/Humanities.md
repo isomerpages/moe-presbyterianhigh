@@ -4,7 +4,6 @@ permalink: /academic-departments/Humanities/
 description: ""
 variant: markdown
 ---
-
 <h3>Our Vision</h3>
 
   
@@ -29,7 +28,7 @@ To empower our students to be reflective thinkers and confident, self-directed l
 
   
 
-1\. Signature Programme: Humanities Immersion Programme (HIP)
+**1\. Signature Programme: Humanities Immersion Programme (HIP)**
 
   
 
@@ -37,7 +36,7 @@ The Humanities Immersion Programme (HIP) brings together a passionate group of u
 
   
 
-2\. External Competitions and Conferences
+**2\. External Competitions and Conferences**
 
   
 
@@ -53,7 +52,7 @@ We place a strong emphasis on stretching our students’ potential, and we firml
    
   
 
-3\. Learning Beyond the Classroom
+**3\. Learning Beyond the Classroom**
 
 
 Learning experiences beyond the classroom provide our students with authentic opportunities to connect what they have read in textbooks to the real world. These experiences enrich our students’ understanding of the subjects they study and their relevance to appreciating the world around them. They include:&nbsp;
