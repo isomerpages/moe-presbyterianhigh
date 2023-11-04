@@ -70,3 +70,6 @@ The MTL Department involves our students in a range of diverse competitions that
 
 ![](/images/2023images/Mother%20Tongue%20Languages/picture%202.jpeg)
 
+![](/images/2023images/Mother%20Tongue%20Languages/picture%203.jpg)
+
+![](/images/2023images/Mother%20Tongue%20Languages/picture%204.jpg)
