@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCAs
 ---
 # Performing Arts
-Choir<br>
+[Choir](/cca/Performing-Arts/Choir/)<br>
 Guzheng Ensemble<br>
 Modern Dance<br>
 PhDrama<br>
