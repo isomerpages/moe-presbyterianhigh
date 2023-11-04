@@ -3,13 +3,21 @@ title: Badminton
 permalink: /cca/Sports/Badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-![](/images/badminton1.png)
+The Badminton Team places a strong emphasis on character building. Our teachers and coach encourage active participation in training, a strong commitment to skill development and fostering respect for all. Our players, in turn, train hard to develop their speed, flexibility and strategic thinking. Together, our teachers and coach actively seek opportunities, which enable our players to showcase their abilities and receive recognition for their achievements.&nbsp;
 
-**Introduction**<br>
-PHS Badminton CCA fosters character building through active participation during training, commitment to skills development in the sport and respect for all players, teachers, and coaches. Our players train hard to develop their speed, flexibility and strategic thinking. PHS seeks out opportunities for our players to display their prowess and be recognized for their achievement.
+<b>
+<h5>Days and Time of Training</h5>
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|(**Boys only**)<br>Monday: 3.00pm to 5.00pm<br>Wednesday: 3.00pm to 5.00pm<br>Friday: 2.00pm to 4.00pm (school team)| Mr Chandrasegaran (OIC)<br>Ms Ng Boon Hwee<br>Mr Neo Kok Hwee |
-|**Venue** <br>Parade Square / Classroom||
+(Boys only)<br>
+Monday : 3–5pm&nbsp;<br>
+Wednesday : 3–5pm&nbsp;<br>
+Friday: 2–4pm (school team)<br>
+
+Venue : Bethel Hall / ISH / Yio Chu Kang Sports Hall<br>
+
+<h5>Teachers-in-Charge</h5>
+Mr Chandrasegaran (OIC)<br>
+Ms Ng Boon Hwee<br>
+Mr Neo Kok Hwee<br></b>
