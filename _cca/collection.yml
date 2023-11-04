@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Character & Citizenship Edu/.keep
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Modern Dance.md
