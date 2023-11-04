@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCAs
 ---
 # Sports
-Badminton (Boys)<br>
+[Badminton (Boys)](/cca/Sports/badminton/)<br>
 Basketball (Boys &amp; Girls)<br>
 Football <br>
 Volleyball (Boys &amp; Girls) <br>
