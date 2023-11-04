@@ -2,102 +2,68 @@
 title: Mother Tongue Languages
 permalink: /academic-departments/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
-# **Mother Tongue Languages Department**
+<h2>Our Vision</h2>
 
-**Our Mission**
+Students who stay rooted while embracing the future
 
-![](/images/image001.jpg)
+<h3>Our Approach</h3>
 
-The Mother Tongue Languages Department seeks to nurture the love for Mother Tongue Languages and equip students to be proficient and confident communicators for the 21st century.&nbsp;
+
+The Mother Tongue Languages Department is dedicated to nurturing the love for Mother Tongue languages while equipping students to be proficient and confident communicators in the 21st century.
+
+  
 
 母语部致力于培养学生成为21世纪热爱各自母语文化并能够自信地在日常生活中利用母语进行交际互动的学习者。
 
-**Infusing E-Pedagogy in MTL Teaching and Learning**
+  
 
-e-Pedagogy is infused into our daily teaching and learning to make MTL learning fun and engaging for our students.&nbsp;
+In our classes, we seek to build a strong foundation for students in their respective Mother Tongue languages so that they can be proficient and confident in their communication. Beyond the classroom, we organise activities aimed at nurturing a love for our rich heritage and cultures. This helps our students to appreciate their ethnic identities and remain firmly rooted.
 
-为了营造“乐学善用”的母语学习环境，老师们利用了线上教学法和科技来辅助学生学习。
+  
 
-![](/images/Students%20engaged%20in%20a%20Quizlet.jpg)
-Students engage in a Quizlet Live game to check their understanding of a Chinese word application
+<h3>Our Programmes</h3>
 
-![](/images/image005.png)
+  
 
-![](/images/image007.png)
+**1\. Journalism Programme**
 
-![](/images/image009.png)
-Students make&nbsp;use of Purple Culture, Quizlet and Blooket as self-directed learning tools before and after their CL lessons
+Our Journalism Programme provides students with opportunities to hone and practise their journalistic skills and report writing. Additionally, the programme guides students through the process of developing effective questioning techniques and enhances their oratorical skills.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGGUIf9YosNuRoriomklmL1rMxrovaQYxgkuVns8gRpK1kBSW9J5upY5WbPx0WdmWlXxJI_TTXKWcb/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+  
 
+**2\. Reading Programme**
 
-![](/images/mt.jpg)
+Conducted on Fridays, our Reading Programme aims to enrich students’ vocabulary, boosting confidence in both their writing and conversational skills. This programme also fosters a greater awareness and appreciation of the use of their Mother Tongue language, incorporating materials, such as newspapers, novels and short stories.
 
+  
 
+**3\. Mother Tongue Languages Fortnight**&nbsp;
 
+MTL Fortnight seeks to create an immersive environment for students to learn and appreciate their Mother Tongue language and culture. Different themes are explored each year to provide a diverse learning experience for our students.
 
+  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCJy3qf5kjNBbrTa2FU5j7ppb5XxruQ2-6PQtdx-Gr7iuxDn8ApuGSUBFjvNKEqwZRvAOALmiMNwJL/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+4\. Cultural Festivities
 
+We provide platforms for students to develop their presentation skills about various cultural festivities, such as Chinese New Year and Hari Raya Pausa. In the process, students gain insights into the celebrations of different cultures.&nbsp;
 
+  
 
-### **Our Programmes**
+5\. Competitions
 
-**Extensive Reading Programme**  
+The MTL Department involves our students in a range of diverse competitions that sharpen students’ language skills. These include the:
 
-The Extensive Reading Programme cultivates the habit of reading in students by exposing them to various genres of writing as well as providing a platform for students to formulate opinions and engage in discussions on contemporary issues. Every Friday, students read interesting materials in their mother tongue languages.
+*   Malay Language Learning and Promotion Committee (MLLPC) Malay Language Fiesta “1, 2, 3, Aksi!” Skit Competition
+    
+*   National Junior College Inter-Secondary Schools Translation Competition: 3T (Terjemah, Tutur, Tepat)&nbsp;
+    
+*   “Pena Emasku” Malay language essay-writing competition&nbsp;
+    
+*   Committee to Promote Chinese Language Learning (CPCLL) National Text Recital Competition, and
+    
+*   National Chinese Riddle Competition.
+    
 
-![](/images/image029.jpg)
-
-
-**Mother Tongue Languages (MTL) Fortnight**
-
-MTL Fortnight creates an immersive environment for the learning and appreciation of mother tongue languages and cultures. Students gain better insights into the culture and traditions of the Chinese and Malay communities through&nbsp;activities like Chinese opera face mask painting, Chinese fan painting&nbsp;and Malay kite (wau) making.
-
-
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTc5Q5GIAip_aHRSy4Pwr85GGy7ECgrJydQXVri5hRt2Z-MkXsmCOKe8qE6-v-ZfWcWTkPbFlVqL0bU/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
-
-
-
-**Cultural Programme Exposure Scheme (CPES)**&nbsp;**文化随意门**
-
-CPES is offered to our students to deepen their interest in the Chinese Language. Students are given the opportunity to appreciate drama performance online and interact with the actors.
-
-
-![](/images/image047.jpg)
-
-
-**External Compeitions 校外比赛**
-
-Our students participate in national competitions under the guidance of our teachers to gain exposure to language learning.
-
-**5th Text Recital Competition for Primary and Secondary Schools**
-
-第五届中小学课文朗诵比赛
-
-
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWIMX_mjkQ3--9hET2LUhlELYKFsjH1rrdrEFPToeDMGUQU58_cXC7B03YNGsgyYopU8iCLf-SUKQy/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-
-
-**“Creativity, No Boundaries!” National Children’s Story Writing Competition**  
-
-“创意无限”全国儿童故事创作大赛
-
-
-![](/images/image059.jpg)
-Chaa Selena of 3 Faith received the Outstanding Award
-
-
-
-**National Chinese Riddle Competition 2022**
-
-**全国中学生灯谜比赛2022**
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQApb7CLw1wFt0mjDnnbXwc8c0c3s2Px8L_R0mBsyrlPT5PpI7VHIQ0ibBVXEwboziHHKe6eEKPAv_s/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
+**
