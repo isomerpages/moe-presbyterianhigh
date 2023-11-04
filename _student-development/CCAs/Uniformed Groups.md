@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCAs
 ---
 # Uniformed Groups
-[Boys’ Brigade](/cca/uniformed-groups/boys-brigade/)<br>
-[Girls’ Brigade](/cca/uniformed-groups/girls-brigade/)<br>
-[National Cadet Corps (Sea)](/cca/uniformed-groups/national-cadet-corps-ncc-sea/)<br>
+[Boys’ Brigade]()<br>
+[Girls’ Brigade]()<br>
+[National Cadet Corps (Sea)](/cca/uniformed-groups/nccsea/)<br>
 [National Police Cadet Corps](/cca/uniformed-groups/npcc/)<br>
