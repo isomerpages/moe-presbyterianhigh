@@ -14,18 +14,12 @@ The Girls’ Brigade (GB) seeks to develop each Girl to her fullest potential by
 Friday : 2–5pm  <br>
 Saturday : 8–11am <br>
 
-Venue
-
-Chapel Basement / Classroom
-
+Venue<br>
+Chapel Basement / Classroom<br>
+</b>
   
-
-Teachers-in-Charge
-
-Mdm Sudha Joseph (OIC)
-
-Mrs Celine Tan
-
-Ms Li Wei
-
-**</b>
+<h5>Teachers-in-Charge</h5>
+<b>
+Mdm Sudha Joseph (OIC)<br>
+Mrs Celine Tan<br>
+Ms Li Wei<br></b>
