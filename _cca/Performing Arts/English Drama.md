@@ -3,14 +3,19 @@ title: English Drama
 permalink: /cca/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/englishdrama.png)
+![](/images/2023images/CCAs%202023/guzheng%202023.jpg)
 
-**Introduction**
+The Guzheng Ensemble puts their heart and soul into practising their 21-stringed Chinese musical instrument. United in their pursuit of excellence, the ensemble creates expressive and harmonious music and develops values, such as teamwork, diligence and perseverance. Under the guidance of the Guzheng instructor and teachers-in-charge, the ensemble achieves commendable awards at the Singapore Youth Festival Arts Presentation every year. 
 
-The PHS English Drama Club aims to bring together a group of like-minded individuals to work as a team to entertain, reach out and bring joy to our audience.  We express our feelings on issues that excite us and explore different modes of artistic expressions and storytelling. The PHS Drama Club aims to develop our students’ skills in storytelling and artistic expression and increase their stage confidence.
+<h5>Days and Time of Training </h5>
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|Monday: 3.30pm to 5.30pm<br>Wednesday: 3.30pm to 5.30pm<br>*Additional practices on Fridays during SYF period (Jan-April) |Ms Sherinder Kaur (OIC)<br>Mdm Noorizal Mohd Zain<br>Ms Tan Wei Jia, Zenda
-|**Venue** <br>Drama Room ISH Level 2||
+**Monday: 2.45–5.45pm <br>
+Wednesday: 2.45–5.45pm <br>
+Venue : Guzheng room**<br>
+
+<h5>Teachers-in-Charge</h5>
+
+**Mrs Kathy Liang (OIC)<br>
+Mdm Zheng Dahong**
