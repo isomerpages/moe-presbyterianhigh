@@ -25,7 +25,7 @@ Students who exhibit a keen interest and aptitude in the language are given oppo
 
   
 
-1\. Extensive Reading Programme
+**1\. Extensive Reading Programme**
 
   
 
@@ -33,7 +33,7 @@ To cultivate a love for reading and to improve reading fluency, students engage 
 
   
 
-2\. EL &amp; Literature Termly Festivals&nbsp;
+**2\. EL &amp; Literature Termly Festivals&nbsp;**
 
   
 
@@ -41,7 +41,7 @@ Throughout the year, students are exposed to a range of programmes, including wr
 
   
 
-3\. Speaking Enrichment and Competitions
+**3\. Speaking Enrichment and Competitions**
 
   
 
@@ -49,7 +49,7 @@ Students with strong public speaking skills are further developed, with opportun
 
   
 
-4\. National Schools Literature Festival&nbsp;
+**4\. National Schools Literature Festival**
 
   
 
@@ -63,4 +63,3 @@ Both Lower Secondary and Upper Secondary Literature students interested in Liter
 ![](/images/2023images/English%20language%20&amp;%20literature/picture_3%202023.jpg)
 
 ![](/images/2023images/English%20language%20&amp;%20literature/picture%204.jpg)
-
