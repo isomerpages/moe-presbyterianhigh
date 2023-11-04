@@ -15,9 +15,7 @@ The Symphonic Band aims to develop every student’s musical abilities. Regardle
 Monday: 3.30–5.30pm&nbsp;<br>
 Wednesday: 3.30–5.30pm <br>
 	
-Venue : Band room ISH Level 2
-
-  
+Venue : Band room ISH Level 2<br>
 
 <h5>Teachers-in-Charge&nbsp;</h5>
 
