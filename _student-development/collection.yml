@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - CCAs/Uniformed Groups.md
       - CCAs/.keep
       - CCAs/Performing Arts.md
       - CCAs/Sports.md
+      - CCAs/Uniformed Groups.md
