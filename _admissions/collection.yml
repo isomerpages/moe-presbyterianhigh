@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admission/Performing Arts.md
       - Direct School Admission/Leadership.md
       - Direct School Admission/.keep
