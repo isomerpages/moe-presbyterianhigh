@@ -34,5 +34,4 @@ To further develop students with the aptitude for and interest in leadership, Co
 	
 ![](/images/2023images/LLP/picture_8.jpg)
 	
-[Pictures to 3 to 8; no caption]
 </center></li></ul>
