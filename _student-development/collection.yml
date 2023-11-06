@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Character & Citizenship Edu/Education and Career Guidance.md
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/.keep
       - CCAs/.keep
