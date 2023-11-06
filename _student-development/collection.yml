@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Education and Career Guidance.md
       - Character & Citizenship Edu/National Education.md
