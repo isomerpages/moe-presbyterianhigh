@@ -103,19 +103,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img style="width:100%" src="img_nature_wide.jpg">
+  <img style="width:100%" src="/images/img_nature_wide.jpg">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img style="width:100%" src="img_snow_wide.jpg">
+  <img style="width:100%" src="/images/img_snow_wide.jpg">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img style="width:100%" src="img_mountains_wide.jpg">
+  <img style="width:100%" src="/images/img_mountains_wide.jpg">
   <div class="text">Caption Three</div>
 </div>
 
@@ -130,4 +130,3 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
-
