@@ -4,12 +4,16 @@ permalink: /about-us/useful-links/for-public/
 description: ""
 variant: markdown
 ---
-# **NDLP Links**
+<h4>Useful Links</h4>
 
 *   [PDL Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents/)
 
 *   [Latest PDLP GSA Guide](https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing)
+*   Booklists<br>
+	<a href="/files/Booklists/2024%20phs%20sec%202%20booklists.pdf">Sec 2<br>
+	</a><a href="/files/Booklists/2024%20phs%20sec%203%20booklists.pdf">Sec 3<br>
+	</a><a href="/files/Booklists/2024%20phs%20sec%204%20booklists.pdf">Sec 4<br>
+	</a><a href="/files/Booklists/2024%20phs%20sec%205%20booklists.pdf">Sec 5<br>
+		
 
-*   [Parents' Handbook (I) on Learning with a PLD](https://drive.google.com/file/d/1JX0t1KuqArjmAPLIAlSjmVqiG89iE34k/view?usp=drive_link)
-
-*   [Parents' Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/1Hm3exlHWG5tJ0TaSok4EW5jP_sPAkT-w/view?usp=drive_link)
+</a>
