@@ -2,6 +2,8 @@ collections:
   student-development:
     output: true
     order:
+      - National Digital Literacy Prog/Parents' Handbook (II) on Learning with a
+        PLD.md
       - National Digital Literacy Prog/PLD Briefing for PHS Parents.md
       - National Digital Literacy Prog/National Digital Literacy Programme.md
       - National Digital Literacy Prog/.keep
