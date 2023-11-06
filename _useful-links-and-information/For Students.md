@@ -2,6 +2,7 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
+variant: markdown
 ---
 # **For Students**
 
@@ -13,8 +14,6 @@ description: ""
 
 * [Student ICON](https://workspace.google.com/dashboard)
 
-* [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 * [School Bookshop and Uniform Vendor Details](https://drive.google.com/file/d/1N8NlQVf_AVWHJ7uhyGXFiizB3oVEfKIB/view?usp=drive_link)
-
-* [MOE Sexuality Education In Schools](http://presbyterian.moe.edu.sg/programmes/character-and-citizenship-education/sexuality-education)
