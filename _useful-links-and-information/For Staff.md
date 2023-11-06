@@ -2,12 +2,13 @@
 title: For Staff
 permalink: /useful-links/for-staff/
 description: ""
+variant: markdown
 ---
 # **For Staff**
 
-* [HRP](https://www.hrp.gov.sg/hrp/#/)
-
 * [iEXAMS 2.0](https://iexams.seab.gov.sg/iexams2/)
+
+* [HRP](https://www.hrp.gov.sg/hrp/#/)
 
 * [MIMS (MOE IDENTITY MANAGEMENT SYSTEM)](https://portal.mims.moe.gov.sg/)
 
