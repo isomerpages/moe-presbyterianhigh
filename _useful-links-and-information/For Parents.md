@@ -2,11 +2,11 @@
 title: For Parents
 permalink: /about-us/useful-links/for-public/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 # **NDLP Links**
 
-*   [PDL Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents)
+*   [PDL Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents/)
 
 *   [Latest PDLP GSA Guide](https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing)
 
