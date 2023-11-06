@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership.md
       - Student Well Being.md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Education and Career Guidance.md
