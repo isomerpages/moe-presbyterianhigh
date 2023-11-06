@@ -6,9 +6,9 @@ links:
     collection: academic-departments
   - title: Student Development
     collection: student-development
-  - title: Programmes
-    collection: programmes
-  - title: DSA
-    collection: dsa-exercise
   - title: Distinctive Programmes
-    collection: about-us
+    collection: distinctive-programmes
+  - title: Admissions
+    collection: admissions
+  - title: Useful Links and Information
+    collection: useful-links-and-information
