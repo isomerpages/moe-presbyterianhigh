@@ -2,6 +2,7 @@ collections:
   phs:
     output: true
     order:
+      - testslider.md
       - Calendar.md
       - Announcements.md
       - Gallery/Orientation Camp.md

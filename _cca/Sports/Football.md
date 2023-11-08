@@ -1,15 +1,22 @@
 ---
 title: Football
-permalink: /cca/Sports/football/
+permalink: /cca/sports/football/
+variant: markdown
 description: ""
 third_nav_title: Sports
 ---
-![](/images/football1.png)
+![](/images/2023images/CCAs%202023/football.jpg)
 
-**Introduction**<br>
-The PHS Football Team aims to promote lifelong, sustainable and active participation in Football. As it is a team sport, it aims to maximise opportunities for character development and facilitate the development of teamwork and resilience among the players. PHS footballers learn to have a growth mindset and they are persevering individuals who are committed to personal development.
+The Football Team strives to promote lifelong, sustainable, and active involvement in football. Our teachers seek to provide opportunities for character development and foster teamwork and resilience among our footballers. Our footballers cultivate a growth mindset, embodying perseverance and a strong commitment to personal development.
 
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|(Boys only)<br>Monday: 3.30pm to 5.30pm<br>Wednesday: 3.30pm to 5.30pm|Mr Fu Chengwei (OIC)<br>Mr Marcus Ong Hong Wei|
-|**Venue**<br>Football field||
+<h5>Days and Time of Training</h5>
+
+<b>(Boys only)<br>
+Monday : 3.30–5.30pm<br>
+Wednesday: 3.30–5.30pm<br></b>
+<h5>Venue</h5>
+<b>Football Field<br>
+
+<h5>Teachers-in-Charge</h5>
+Mr Fu Chengwei (OIC)&nbsp;<br>
+Mr Marcus Ong Hong Wei <br></b>

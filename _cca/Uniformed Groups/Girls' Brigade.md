@@ -1,18 +1,25 @@
 ---
 title: Girls' Brigade
-permalink: /cca/Uniformed-Groups/girls-brigade/
+permalink: /cca/uniformed-groups/gb/
+variant: markdown
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **Girls' Brigade**
+![](/images/2023images/CCAs%202023/gb%202023.jpg)
 
-![](/images/girlsbrigade1.png)
+The Girls’ Brigade (GB) seeks to develop each Girl to her fullest potential by equipping, empowering and enabling every Girl to be a leader. To fulfil this mission, the GB programme involves each Girl in badgework activities and community service. This cultivates character and values, while strengthening the Girls’ sisterhood and camaraderie.
 
-**Introduction**<br>
-The mission of the Girls’ Brigade (GB) is to develop each girl to her fullest potential by equipping, empowering and enabling every girl to be a leader. To fulfil this mission, the GB programme includes badgework activities and community service to cultivate character and values in every GB girl, while strengthening their sisterhood and camaraderie.
+<h5>Days and Time of Training&nbsp;</h5>
+<b>
+Friday : 2–5pm  <br>
+Saturday : 8–11am <br>
 
-
-|Days and Time of Training|**Teachers-in-Charge** | 
-| -------- | -------- | 
-|Friday: 2.00pm to 5.00pm  <br>Saturday: 8.00am to 11.00am| Mdm Sudha Joseph (OIC)<br>Mrs Celine Tan<br>Ms Li Wei|
-|**Venue** <br>Chapel Basement / Classroom||
+Venue<br>
+Chapel Basement / Classroom<br>
+</b>
+  
+<h5>Teachers-in-Charge</h5>
+<b>
+Mdm Sudha Joseph (OIC)<br>
+Mrs Celine Tan<br>
+Ms Li Wei<br></b>
