@@ -64,7 +64,8 @@ eTeens Programme:
 
   
 
-3. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1rjJlYcgb9PrEgx0s1cEexbsLNGn5BSmg/view?usp=share_link).&nbsp; The completed form is to be submitted by 03/02/2023.
+3. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1rjJlYcgb9PrEgx0s1cEexbsLNGn5BSmg/view?usp=share_link)
+The completed form is to be submitted by 03/02/2023.
 
   
 
