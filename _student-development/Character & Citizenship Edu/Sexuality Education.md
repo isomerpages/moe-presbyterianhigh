@@ -54,16 +54,18 @@ eTeens Programme:
 <h5>Information for Parents</h5>
 
   
-1\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+1. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
   
 
-2\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/12APd8kQuYBblm81MEEHgfwH0gk_5_UqD/view?usp=share_link). The completed form is to be submitted by 03/02/2023.
+2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable 
+[here](https://drive.google.com/file/d/12APd8kQuYBblm81MEEHgfwH0gk_5_UqD/view?usp=share_link)
+. The completed form is to be submitted by 03/02/2023.
 
   
 
-3\. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1rjJlYcgb9PrEgx0s1cEexbsLNGn5BSmg/view?usp=share_link).&nbsp; The completed form is to be submitted by 03/02/2023.
+3. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1rjJlYcgb9PrEgx0s1cEexbsLNGn5BSmg/view?usp=share_link).&nbsp; The completed form is to be submitted by 03/02/2023.
 
   
 
-4\. Parents can contact the school at 6454 3722 for discussion or to seek clarification about the school’s Sexuality Education programme.</ol>
+4. Parents can contact the school at 6454 3722 for discussion or to seek clarification about the school’s Sexuality Education programme.</ol>
