@@ -22,7 +22,11 @@ Guiding Principles for CCE2021 Implementation:
 * <b>Intentionality</b>: We design and carry out programmes and learning experiences within and outside the classroom with intentionality, and we do not leave learning to chance.
 * <b>Coherence</b>: Via a school-wide approach, we ensure that students are able to connect, transfer and apply their learning across different school contexts and learning experiences.
 
-<center><img src="/images/2023images/cce%20framework%202023.jpeg"></center>
+<center>
+	
+![](/images/2023images/CCE/cce%20framework%202023.jpeg)
+</center>
+
 
 <b>(A)  CCE Curriculum Content</b>
 
@@ -50,8 +54,4 @@ Key SDEs comprise the following:
 
 * A school environment that enables effective CCE is one with adult role-modelling, positive teacher-student relationships, peer support and relationships, student voice and ownership, and consistent and coherent messaging on CCE.
 
-* To foster a caring and enabling environment, we seek to understand and address the needs and strengths of each student through multiple touch points, such as TEAM PHS Time and 1-1 chit chats with FTs. 
-
-
-
-
+* To foster a caring and enabling environment, we seek to understand and address the needs and strengths of each student through multiple touch points, such as TEAM PHS Time and 1-1 chit chats with FTs.
