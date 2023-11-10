@@ -10,7 +10,7 @@ variant: markdown
 
 * [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
 
-* [Preshigh Email](http://mail.preshigh.edu.sg/)
+* [Preshigh Email](http://mail.google.com/)
 
 * [Student ICON](https://workspace.google.com/dashboard)
 
