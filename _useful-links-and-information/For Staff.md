@@ -20,7 +20,7 @@ variant: markdown
  
 * [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
 
-* [Preshigh Email](http://mail.preshigh.edu.sg/)
+* [Preshigh Email](http://mail.google.com)
 
 * [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
 
