@@ -15,9 +15,9 @@ The Badminton Team places a strong emphasis on character building. Our teachers 
 (Boys only)<br>
 Monday : 3–5pm&nbsp;<br>
 Wednesday : 3–5pm&nbsp;<br>
-Friday: 2–4pm (school team)<br>
+Friday: 2–4pm (school team)<br></b>
 	
-Venue : Bethel Hall, ISH, Yio Chu Kang Sports Hall</b>
+<b>Venue : Bethel Hall, ISH, Yio Chu Kang Sports Hall</b>
 	
 <h5>Teachers-in-Charge</h5>
 <b>
