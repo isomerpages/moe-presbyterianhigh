@@ -4,7 +4,7 @@ permalink: /academic-departments/physical-education-department/
 description: ""
 variant: markdown
 ---
-# **Physical Education **
+<h1> Physical Education</h1>
 
 <img align="right" style="width:150px;height:150px;margin-left:15px;" src="/images/PE2.png">
 
