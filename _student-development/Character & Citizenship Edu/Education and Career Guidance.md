@@ -23,8 +23,8 @@ Guiding Principles for CCE2021 Implementation:
 * <b>Coherence</b>: Via a school-wide approach, we ensure that students are able to connect, transfer and apply their learning across different school contexts and learning experiences.
 
 <center>
-	
-![](/images/2023images/CCE/cce%20framework%202023.jpeg)
+![](/images/3_2_CCE_Framework.jpeg)
+
 </center>
 
 
