@@ -2,5 +2,4 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (9) Appeal to Transfer in Form.md
       - (10) Enroll for Health and Dental Services.md
