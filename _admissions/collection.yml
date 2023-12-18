@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration/(4) Sec 1 Booklists & Uniform and PE Attire.md
       - Sec 1 Registration/(5) MOE School Based Financial Assistance Scheme.md
       - Sec 1 Registration/(6) Music or Art Elective Programme.md
       - Sec 1 Registration/(7) CCA Selection.md
