@@ -1,5 +1,4 @@
 collections:
   sec-1-registration-exercise:
     output: true
-    order:
-      - (10) Enroll for Health and Dental Services.md
+    order: []
