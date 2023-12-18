@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration/(9) Appeal to Transfer in Form.md
       - Sec 1 Registration/(10) Enroll for Health and Dental Services.md
       - Sec 1 Registration/.keep
       - Sec 1 Registration/Principal's Welcome Message.md
