@@ -2,7 +2,6 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (3) Higher Mother Tongue Language.md
       - (4) Sec 1 Booklists & Uniform and PE attire.md
       - (5) MOE School Based Financial Assistance Scheme.md
       - (6) Music or Art Elective Programme.md
