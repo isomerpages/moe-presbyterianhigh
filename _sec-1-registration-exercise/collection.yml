@@ -2,6 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - (5) MOE School Based Financial Assistance Scheme.md
       - (6) Music or Art Elective Programme.md
       - (7) CCA Selection.md
       - (8) PHS Parent Support Group.md
