@@ -1,5 +1,5 @@
 collections:
-  sec-1-e-reg-exercise:
+  sec-1-e-registration-exercise:
     output: true
     order:
       - Principal's Welcome Video.md
