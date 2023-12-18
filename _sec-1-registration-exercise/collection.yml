@@ -2,6 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - (6) Music or Art Elective Programme.md
       - (7) CCA Selection.md
       - (8) PHS Parent Support Group.md
       - (9) Appeal to Transfer in Form.md
