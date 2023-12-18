@@ -2,7 +2,6 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
       - (3) Higher Mother Tongue Language.md
       - (4) Sec 1 Booklists & Uniform and PE attire.md
