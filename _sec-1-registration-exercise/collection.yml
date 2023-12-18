@@ -2,6 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - (2) Full Subject Based Banding (FSBB) Matters.md
       - (3) Higher Mother Tongue Language.md
       - (4) Sec 1 Booklists & Uniform and PE attire.md
       - (5) MOE School Based Financial Assistance Scheme.md
