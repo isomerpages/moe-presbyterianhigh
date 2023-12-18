@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
-      - Sec 1 Registration/(1) Sec 1 Orientation.md
-      - Sec 1 Registration/Principal's Welcome Message.md
       - Sec 1 Registration/.keep
+      - Sec 1 Registration/Principal's Welcome Message.md
+      - Sec 1 Registration/(1) Sec 1 Orientation.md
       - Direct School Admission/.keep
       - Direct School Admission/Leadership.md
       - Direct School Admission/Performing Arts.md
