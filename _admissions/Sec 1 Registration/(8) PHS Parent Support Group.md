@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-<p>More information will be posted when available. Sorry for the inconveniences caused. </p>
+<p>More information will be posted when available. Sorry for the inconveniences caused.</p>
