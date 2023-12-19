@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Secondary One Registration
+        - title: Secondary One e-Registration
           description: ""
           url: https://presbyterian.moe.edu.sg/admissions/sec-1-registration/pwelcomemsg/
         - title: Latest @ PHS
