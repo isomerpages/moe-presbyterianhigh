@@ -2,8 +2,9 @@
 title: (3) Higher Mother Tongue Language
 permalink: /secondary-one-e-registration-exercise-2023-cohort/3-higher-mother-tongue-language/
 description: ""
+variant: markdown
 ---
-# **SECONDARY ONE E-REGISTRATION EXERCISE (2023 COHORT)**
+# **SECONDARY ONE E-REGISTRATION EXERCISE (2024 COHORT)**
 
 ### (3) Higher Mother Tongue Language
 

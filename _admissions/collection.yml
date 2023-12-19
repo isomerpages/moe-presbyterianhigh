@@ -2,6 +2,18 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration/.keep
+      - Sec 1 Registration/Principal's Welcome Message.md
+      - Sec 1 Registration/(1) Sec 1 Orientation.md
+      - Sec 1 Registration/(2) Full Subject Based Banding (FSBB) Matters.md
+      - Sec 1 Registration/(3) Higher Mother Tongue Language.md
+      - Sec 1 Registration/(4) Sec 1 Booklists & Uniform and PE Attire.md
+      - Sec 1 Registration/(5) MOE School Based Financial Assistance Scheme.md
+      - Sec 1 Registration/(6) Music or Art Elective Programme.md
+      - Sec 1 Registration/(7) CCA Selection.md
+      - Sec 1 Registration/(8) PHS Parent Support Group.md
+      - Sec 1 Registration/(9) Appeal to Transfer in Form.md
+      - Sec 1 Registration/(10) Enroll for Health and Dental Services.md
       - Direct School Admission/.keep
       - Direct School Admission/Leadership.md
       - Direct School Admission/Performing Arts.md
