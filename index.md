@@ -9,9 +9,9 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Open House 2023
+        - title: Secondary One Registration
           description: ""
-          url: https://sites.google.com/preshigh.edu.sg/phse-openhouse2023/home
+          url: https://presbyterian.moe.edu.sg/admissions/sec-1-registration/pwelcomemsg/
         - title: Latest @ PHS
           description: ""
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
