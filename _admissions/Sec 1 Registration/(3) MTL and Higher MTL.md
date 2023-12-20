@@ -1,7 +1,7 @@
 ---
-title: (3) Higher Mother Tongue Language
+title: (3) MTL and Higher MTL
 permalink: /admissions/sec-1-registration/hmtl/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Sec 1 Registration
 ---
