@@ -23,7 +23,7 @@ Parade Square / Classroom
 
 <h5>Teachers-in-Charge</h5>
 <b>
-Mr Sherman See (OIC)&nbsp;<br>
+Mr Sherman See (i/c)&nbsp;<br>
 Mrs Sherry Tan<br>
 Mr Andy Chng<br>
 </b>
