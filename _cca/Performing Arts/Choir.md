@@ -22,7 +22,7 @@ Venue : Music Room Level 4**
   
 
 <h5>Teachers-in-Charge</h5>
-
-**Mdm Chung Bee Chee (OIC) <br>
-Mdm Ong Bi Ru &nbsp;<br>
-Ms Ng Wan Jee**
+<b>
+Mdm Chung Bee Chee (OIC) <br>
+Ms Ng Wan Jee<br>
+Mr Tan Tee Wee<br></b>
