@@ -20,6 +20,7 @@ Chapel Basement / Classroom<br>
   
 <h5>Teachers-in-Charge</h5>
 <b>
-Mdm Sudha Joseph (OIC)<br>
-Mrs Celine Tan<br>
-Ms Li Wei<br></b>
+Mdm Sudha Joseph (i/c)<br>
+Ms Li Wei<br>
+Ms Cynthia Lim<br>
+</b>
