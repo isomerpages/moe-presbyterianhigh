@@ -18,4 +18,5 @@ Venue : Guzheng room**<br>
 <h5>Teachers-in-Charge</h5>
 
 **Mrs Kathy Liang (OIC)<br>
-Mdm Zheng Dahong**
+Mdm Zheng Dahong
+Mdm Cheng Shu Chen**
