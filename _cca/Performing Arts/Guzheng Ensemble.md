@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/2023images/CCAs%202023/guzheng%202023.jpg)
+/c![](/images/2023images/CCAs%202023/guzheng%202023.jpg)
 
 The Guzheng Ensemble puts their heart and soul into practising their 21-stringed Chinese musical instrument. United in their pursuit of excellence, the ensemble creates expressive and harmonious music and develops values, such as teamwork, diligence and perseverance. Under the guidance of the Guzheng instructor and teachers-in-charge, the ensemble achieves commendable awards at the Singapore Youth Festival Arts Presentation every year. 
 
@@ -17,6 +17,6 @@ Venue : Guzheng room**<br>
 
 <h5>Teachers-in-Charge</h5>
 
-**Mrs Kathy Liang (OIC)<br>
+**Mrs Kathy Liang (i/c)<br>
 Mdm Zheng Dahong
 Mdm Cheng Shu Chen**
