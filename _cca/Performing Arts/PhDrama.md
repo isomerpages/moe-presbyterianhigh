@@ -18,4 +18,5 @@ Venue : Drama Room ISH Level 2</b><br>
 
 <h5>Teachers-in-Charge</h5>
 <b>Ms Sherinder Kaur (OIC) <br>
-Mdm Noorizal Mohd Zain</b><br>
+Mdm Noorizal Mohd Zain<br>
+Mdm Leong Si Min Celine<br></b>
