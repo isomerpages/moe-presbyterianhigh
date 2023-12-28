@@ -7,7 +7,7 @@ variant: markdown
 ---
 |  | 
 | -------- |
-|![](/images/Keypersonnel/1.png) |
+|![](/images/Keypersonnel/1a.png) |
 |![](/images/Keypersonnel/2.png)|
 |![](/images/Keypersonnel/3.png)|
 |![](/images/Keypersonnel/4.png) |
@@ -15,4 +15,3 @@ variant: markdown
 |![](/images/Keypersonnel/6.png)|
 |![](/images/Keypersonnel/7.png)|
 |![](/images/Keypersonnel/8.png)|
-
