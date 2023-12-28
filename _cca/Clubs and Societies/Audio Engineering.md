@@ -17,6 +17,6 @@ Wednesday: 3–5.30pm<b>
 Bethel Hall, Gallery Level 3</b>
 
 <b>Teachers-in-Charge
-Ms Michelle Goh (OIC)&nbsp;<br>
+Ms Michelle Goh (i/c)&nbsp;<br>
 Mr Chang Wai San&nbsp;<br>
-Mr Wong Shao Mun</b></b></b>
+Mr Wong Shao Mun(CAJT)</b></b></b>

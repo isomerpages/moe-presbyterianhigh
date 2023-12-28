@@ -23,6 +23,4 @@ Venue
 <h5>Teachers-in-Charge</h5>
 <b>Mr Li Mingzhu (OIC)&nbsp;<br>
 Mdm Herlina Abdullah&nbsp;<br>
-Ms Jocelyn Lau<br>
-Ms Wong Yi Ting</b>
-
+Ms Jocelyn Lau<br></b>

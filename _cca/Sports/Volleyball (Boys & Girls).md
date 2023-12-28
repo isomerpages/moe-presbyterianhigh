@@ -32,12 +32,11 @@ ISH3<br>
 
 <h5>Teachers-in-Charge</h5>
 <b>
-Mdm Lum Ping Ping (OIC)<br>
-Mrs Stephanie Augustine (2IC)<br>
-Mdm Chua Min Hui<br>
-Mdm Anis Fazerina&nbsp;<br>
-Ms Jade Neo <br>
-Mdm Azriana Abdul Manan&nbsp;<br>
-Mr Tan Tee Wee <br>
-Mr Ha Yeong Fook <br>
+Ms Stephanie Ong (i/c)<br>
+Mdm Lum Ping Ping<br>
+Mr Ha Yeong Fook<br>
+Mr Chandrasegaran Palaniswamy<br>
+Miss Jade Neo<br>
+Ms Azriana Binte Abdul Manan<br>
+Mr Timothy Foo<br>
 </b>

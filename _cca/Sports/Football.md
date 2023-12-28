@@ -21,4 +21,4 @@ Wednesday: 3.30–5.30pm<br></b>
 <h5>Teachers-in-Charge</h5>
 
 <b>Mr Fu Chengwei (OIC)&nbsp;<br>
-Mr Marcus Ong Hong Wei <br></b>
+Mr Ong Hong Wei <br></b>

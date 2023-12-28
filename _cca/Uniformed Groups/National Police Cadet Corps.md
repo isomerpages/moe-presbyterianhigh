@@ -17,6 +17,6 @@ NPCC Room / Classroom<br></b>
 
 <h5>Teachers-in-Charge</h5>
 <b>
-Mr Norhidayat (OIC)&nbsp;<br>
+Mr Norhidayat (i/c)&nbsp;<br>
 Ms Seah Li Ping <br>
 Ms Sivakami <br></b>

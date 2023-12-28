@@ -19,5 +19,6 @@ Venue : AVA room<br>**
 
 <h5>Teachers-in-Charge</h5>
 
-**Ms Michelle Tang (OIC)<br>
-Mdm Yvonne Thng<br>**
+**Ms Michelle Tang (i/c)<br>
+Mdm Yvonne Thng<br>
+Mdm Anis Fazerina<br> **
