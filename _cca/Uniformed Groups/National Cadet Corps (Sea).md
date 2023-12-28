@@ -21,7 +21,7 @@ Parade Square/ Classroom
 
 <h5>Teachers-in-Charge</h5>
 <b>
-Mr Gregory Quek (OIC)&nbsp;<br>
+Mr Gregory Quek (i/c)&nbsp;<br>
 Mdm Michelle Chiu<br>
 Mr Lim Ke Hong<br>
 </b>
