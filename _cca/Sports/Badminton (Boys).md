@@ -21,6 +21,7 @@ Friday: 2–4pm (school team)<br></b>
 	
 <h5>Teachers-in-Charge</h5>
 <b>
-Mr Chandrasegaran (OIC)<br>
+Mr Neo Kok Hwee(i/c)<br>
 Ms Ng Boon Hwee<br>
-Mr Neo Kok Hwee<br></b>
+Mr Stanley Lian (CAJT)<br>
+</b>
