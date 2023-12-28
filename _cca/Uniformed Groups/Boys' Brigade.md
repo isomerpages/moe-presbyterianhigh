@@ -25,5 +25,5 @@ Parade Square / Classroom
 <b>
 Mr Sherman See (OIC)&nbsp;<br>
 Mrs Sherry Tan<br>
-Ms Cynthia Lim<br>
+Mr Andy Chng<br>
 </b>
