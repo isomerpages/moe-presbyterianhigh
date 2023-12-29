@@ -9,4 +9,5 @@ third_nav_title: CCAs
 [Badminton (Boys)](/cca/sports/badminton/)<br>
 [Basketball (Boys &amp; Girls)](/cca/sports/basketball/)<br>
 [Football ](/cca/sports/football/)<br>
+[Table Tennis](/cca/sports/tabletennis/)<br>
 [Volleyball (Boys &amp; Girls)](/cca/sports/volleyball/) <br>
