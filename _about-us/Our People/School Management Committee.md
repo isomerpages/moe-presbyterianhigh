@@ -10,4 +10,4 @@ variant: markdown
 |![](/images/2023images/SMC/smc%20chart%201.jpg)  |   
 |![](/images/2023images/SMC/smc%20chart%202.jpg) |
 |![](/images/2023images/SMC/smc%20chart%203.jpg) |
-|![](/images/2023images/SMC/smc%20chart%204.jpg) |
+|![](/images/Keypersonnel/SMC_chart_last.png) |
