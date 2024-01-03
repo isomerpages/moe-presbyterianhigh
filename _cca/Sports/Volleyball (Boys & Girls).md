@@ -13,16 +13,16 @@ The Volleyball Team seeks to nurture a generation of athletes with a deep passio
 <h5>Days and Time of Training</h5>
 <b>
 Girls<br>
-Monday : 3–6pm<br>&nbsp;
-Friday : 1–3.30pm <br> 
-Saturday : 7.30–10.30am&nbsp;<br></b>
+Monday : 2.45pm-5.45pm<br>&nbsp;
+Tuesday : 2.45pm–5.45pm <br> 
+Friday : 1.00pm–3.30pm&nbsp;<br></b>
 <br>
 
 <b>
 Boys<br>
-Wednesday : 3–6pm  <br>
-Friday : 2.30–5pm  <br>
-Saturday : 9am–12pm  <br>
+Tuesday : 2.45pm-5.45pm<br>
+Wednesday : 2.45pm to 5.45pm  <br>
+Friday : 2.30pm-5.00pm  <br>
 </b>
 
 <h5>Venue</h5>

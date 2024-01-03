@@ -10,11 +10,12 @@ PHMedia’s mission is to create awareness of the importance of capturing signif
 
 
 <h5>Days and Time of Training</h5>
-<b>Wednesday: 3–5pm<br></b>
+<b>Wednesday: 3.00pm–5.00pm<br></b>
 
 <b>Venue<br>
 Computer Lab 4</b><br>
 
 <b>Teachers-in-Charge<br>
 Mr Clement Yew (i/c)  <br>
+Ms N Amala <br>
 Mr Fabian Lim (FAJT) <br></b>

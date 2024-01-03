@@ -11,8 +11,8 @@ The Girls’ Brigade (GB) seeks to develop each Girl to her fullest potential by
 
 <h5>Days and Time of Training&nbsp;</h5>
 <b>
-Friday : 2–5pm  <br>
-Saturday : 8–11am <br>
+Friday : 2.00pm–5.00pm  <br>
+Saturday : 8.00am–11.00am <br>
 
 Venue<br>
 Chapel Basement / Classroom<br>

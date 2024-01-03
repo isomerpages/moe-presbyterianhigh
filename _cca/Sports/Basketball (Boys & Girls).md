@@ -15,7 +15,7 @@ The Basketball Team strives to develop basketballers creatively and competitivel
 <h5>Days and Time of Training</h5>
 <b>
 Girls<br>
-Monday : 3–5.30pm <br>Wednesday : 3–5.30pm <br>Saturday : 8–10.30am&nbsp;<br>
+Monday : 3–5.30pm <br>Friday : 1.30pm–3.30pm <br>Saturday : 8–10.30am&nbsp;<br>
 <h5>Teachers-in-Charge</h5>
 Mr Huang Ying<br>
 Ms Cheri Nur Aini<br>
@@ -26,4 +26,3 @@ Mdm Siti Khadijah Bte Isnin	<br>
 Mr Steven Ong (i/c)<br>
 Ms Rekha d/o Gopal Chandradas<br>
 Mdm Siti Aisha Binte Kassim</b>
-

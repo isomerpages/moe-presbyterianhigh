@@ -1,5 +1,5 @@
 ---
-title: PhDrama
+title: English Drama
 permalink: /cca/performing-arts/phdrama/
 variant: markdown
 description: ""

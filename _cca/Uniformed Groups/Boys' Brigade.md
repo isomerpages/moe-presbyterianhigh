@@ -13,8 +13,8 @@ The Boys’ Brigade’s (BB) vision is to be the youth organisation of choice. T
 
 <h5>Days and Time of Training&nbsp;</h5>
 <b>
-Monday: 3–5pm  <br>
-Saturday: 8.30am–12pm/<br>
+Monday: 3.00pm–5.00pm  <br>
+Saturday: 8.30am–12pm<br>
 
 Venue<br>
 Parade Square / Classroom

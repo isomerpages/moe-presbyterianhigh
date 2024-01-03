@@ -11,7 +11,7 @@ The National Police Cadet Corps aspires to be the best youth organisation in Sin
 
 <h5>Days and Time of Training</h5>
 <b>
-Friday : 2–5.30pm<br>
+Friday : 2.00pm–5.30pm<br>
 Venue<br>
 NPCC Room / Classroom<br></b>
 
