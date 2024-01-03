@@ -12,8 +12,7 @@ The National Cadet Corps (Sea) is dedicated to developing its cadets into extrao
 <h5>Days and Time of Training</h5>
 <b>
 (Boys only)<br>
-Wednesday : 3–6pm  <br>
-Friday : 1.30–4.30pm <br>
+Friday : 1.30pm–4.30pm <br>
 
 Venue<br>
 Parade Square/ Classroom
