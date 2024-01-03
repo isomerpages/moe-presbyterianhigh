@@ -14,8 +14,8 @@ The Choir learns a repertoire of songs of different periods, styles and language
 
 <h5>Days and Time of Training</h5>
 
-**Wednesday: 3–5pm  <br>
-Friday: 2–4pm  <br>
+**Wednesday: 3.15–5.30pm  <br>
+Friday: 1.45pm–4.00pm  <br>
 Additional practices in SYF year <br>
 Venue : Music Room Level 4**
 
