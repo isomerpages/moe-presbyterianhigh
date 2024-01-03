@@ -12,9 +12,9 @@ The Table Tennis Team places a strong emphasis on discipline as the bedrock of s
 <h5>Days and Time of Training</h5>
 
 <b>(Boys and Girls)
-<br>Monday: 2.30–5.30pm&nbsp;<br>
-Wednesday: 2.30–5.30pm&nbsp;<br>
-Friday: 1.30–4.30pm
+<br>Monday: 3.00pm–5.30pm&nbsp;<br>
+Wednesday: 3.00pm–5.30pm&nbsp;<br>
+Friday: 1.45–4.45pm
 
 Venue
 <br>Rifle Range Room</b>
