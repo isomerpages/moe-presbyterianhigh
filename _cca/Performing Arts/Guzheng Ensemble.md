@@ -11,8 +11,8 @@ The Guzheng Ensemble puts their heart and soul into practising their 21-stringed
 
 <h5>Days and Time of Training </h5>
 
-**Monday: 2.45–5.45pm <br>
-Wednesday: 2.45–5.45pm <br>
+**Monday: 3.00pm–6.00pm <br>
+Wednesday: 3.00pm–6.00pm <br>
 Venue : Guzheng room**<br>
 
 <h5>Teachers-in-Charge</h5>
