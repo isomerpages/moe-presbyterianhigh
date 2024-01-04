@@ -6,6 +6,8 @@ variant: markdown
 ---
 <h4>Useful Links</h4>
 
+* [How to read the Time Table and Time Table lists](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
+
 *   [PDL Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents/)
 
 *   [Latest PDLP GSA Guide](https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing)

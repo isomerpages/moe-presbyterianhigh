@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **For Students**
 
-* [How to read the Time Table](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
+* [How to read the Time Table and Time Table lists](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
 
 * [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
