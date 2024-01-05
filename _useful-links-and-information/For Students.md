@@ -6,7 +6,9 @@ variant: markdown
 ---
 # **For Students**
 
-* [How to read the Time Table and Time Table lists](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
+* [Guide on Reading the Timetable](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
+
+* [2024 Sec 1 Class Timetable](https://drive.google.com/file/d/15zxEPOZSO17lsCcWfWHR0gx97LFeCdWj/view?usp=drive_link)
 
 * [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
