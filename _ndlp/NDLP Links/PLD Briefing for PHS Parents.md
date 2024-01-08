@@ -18,3 +18,5 @@ variant: markdown
 [DMA Parent Guide - Option A](https://drive.google.com/file/d/1sjG_A3wiFtDgi8rCOxA6TrZtM1smKB3g/view?usp=drive_link)
 
 [DMA Parent Guide - Option B](https://drive.google.com/file/d/1gcslxXRCm-iwsT9AXIsbcjYPWpruC4b6/view?usp=drive_link)
+
+[Parents Handbook and other information](https://drive.google.com/drive/folders/18VDMY8onS5fLfMNskwuT00Z05Gh7SKaX?usp=sharing)
