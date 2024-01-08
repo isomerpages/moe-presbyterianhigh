@@ -3,8 +3,20 @@ title: PLD Briefing for PHS Parents
 permalink: /ndlp/ndlp-links/pld-briefing-for-phs-parents/
 description: ""
 third_nav_title: NDLP Links
+variant: markdown
 ---
 <h1><b>PLD Briefing for PHS Parents</b></h1>
 
+[Parent Account Reset](https://drive.google.com/file/d/1PibZm-tgqCYfuL3kHUtWvg_Z3iUwsqzP/view?usp=drive_link)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgUGIzlp3gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Overriding School Sleep Hours](https://drive.google.com/file/d/1uznrSdUjWnHhfGxDg4RbT1hsxhojDLae/view?usp=drive_link)
+
+[Setting Rules to Restrict Usage](https://drive.google.com/file/d/1gHE25Ub_t8MSN651jvYLrbIEmkDpjZrY/view?usp=drive_link)
+
+[DMA Parent Guide - Default Option](https://drive.google.com/open?id=1lBvbsa38EiYzP3HjJxa3V_0Kyzbw8rpe&amp;usp=drive_copy)
+
+[DMA Parent Guide - Option A](https://drive.google.com/file/d/1sjG_A3wiFtDgi8rCOxA6TrZtM1smKB3g/view?usp=drive_link)
+
+[DMA Parent Guide - Option B](https://drive.google.com/file/d/1gcslxXRCm-iwsT9AXIsbcjYPWpruC4b6/view?usp=drive_link)
+
+[Parents Handbook and other information](https://drive.google.com/drive/folders/18VDMY8onS5fLfMNskwuT00Z05Gh7SKaX?usp=sharing)

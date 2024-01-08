@@ -6,6 +6,10 @@ variant: markdown
 ---
 <h4>Useful Links</h4>
 
+
+* [Secondary One MTP 2024](https://drive.google.com/drive/folders/18VDMY8onS5fLfMNskwuT00Z05Gh7SKaX?usp=drive_link)
+
+
 * [Guide on Reading the Timetable](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
 
 * [2024 Sec 1 Class Timetable](https://drive.google.com/file/d/15zxEPOZSO17lsCcWfWHR0gx97LFeCdWj/view?usp=drive_link)
