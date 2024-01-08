@@ -7,7 +7,7 @@ variant: markdown
 <h4>Useful Links</h4>
 
 
-* [Secondary One MTP 2024](https://drive.google.com/drive/folders/18VDMY8onS5fLfMNskwuT00Z05Gh7SKaX?usp=drive_link)
+* [Secondary One MTP 2024](https://drive.google.com/drive/folders/1VDD8axX4RXCu25hemACbG_2utiarg3a7?usp=drive_link)
 
 
 * [Guide on Reading the Timetable](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
@@ -15,7 +15,7 @@ variant: markdown
 * [2024 Sec 1 Class Timetable](https://drive.google.com/file/d/15zxEPOZSO17lsCcWfWHR0gx97LFeCdWj/view?usp=drive_link)
 
 
-*   [PDLP Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents/)
+*   [PDLP Briefing for PHS Parents](https://drive.google.com/drive/folders/16N5KGLaT0sEGaEVVsnz59sG3SueJwOZN?usp=drive_link)
 
 *   [Latest PDLP GSA Guide](https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing)
 
