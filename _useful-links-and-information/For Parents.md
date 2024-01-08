@@ -15,7 +15,7 @@ variant: markdown
 * [2024 Sec 1 Class Timetable](https://drive.google.com/file/d/15zxEPOZSO17lsCcWfWHR0gx97LFeCdWj/view?usp=drive_link)
 
 
-*   [PDLP Briefing for PHS Parents](/ndlp/ndlp-links/pld-briefing-for-phs-parents/)
+*   [PDLP Briefing for PHS Parents](https://drive.google.com/drive/folders/16N5KGLaT0sEGaEVVsnz59sG3SueJwOZN?usp=drive_link)
 
 *   [Latest PDLP GSA Guide](https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing)
 
