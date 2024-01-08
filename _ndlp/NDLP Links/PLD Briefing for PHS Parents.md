@@ -12,3 +12,9 @@ variant: markdown
 [Overriding School Sleep Hours](https://drive.google.com/file/d/1uznrSdUjWnHhfGxDg4RbT1hsxhojDLae/view?usp=drive_link)
 
 [Setting Rules to Restrict Usage](https://drive.google.com/file/d/1gHE25Ub_t8MSN651jvYLrbIEmkDpjZrY/view?usp=drive_link)
+
+[DMA Parent Guide - Default Option](https://drive.google.com/open?id=1lBvbsa38EiYzP3HjJxa3V_0Kyzbw8rpe&amp;usp=drive_copy)
+
+[DMA Parent Guide - Option A](https://drive.google.com/file/d/1sjG_A3wiFtDgi8rCOxA6TrZtM1smKB3g/view?usp=drive_link)
+
+[DMA Parent Guide - Option B](https://drive.google.com/file/d/1gcslxXRCm-iwsT9AXIsbcjYPWpruC4b6/view?usp=drive_link)
