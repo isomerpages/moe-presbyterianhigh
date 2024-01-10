@@ -6,6 +6,8 @@ variant: markdown
 ---
 <h4>Useful Links</h4>
 
+* [2023 GCE O-Level Results Release: Supporting Your Teen](https://drive.google.com/file/d/1-7gIm-US-121qB2X6qWYAfcH0-dpXCm4/view?usp=sharing)
+
 
 * [Secondary One MTP 2024](https://drive.google.com/drive/folders/1VDD8axX4RXCu25hemACbG_2utiarg3a7?usp=drive_link)
 
