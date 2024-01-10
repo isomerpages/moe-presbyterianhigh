@@ -8,7 +8,7 @@ variant: markdown
 
 * [2023 GCE O-Level Results Release: Supporting Your Teen](https://drive.google.com/file/d/1-7gIm-US-121qB2X6qWYAfcH0-dpXCm4/view?usp=sharing)
 
-* [Compulsory Secondary 1 ICT Training Schedule](https://docs.google.com/document/d/1sziTTUkq7u83GQxaJmmfTq7zX1GgWIU18O6ePkjlEAk/edit?usp=drive_link)
+* [Compulsory Secondary 1 ICT Training Schedule](https://drive.google.com/file/d/1ZbgBkestrxUhLYDEv5R5TiwrGx4iLDJi/view?usp=drive_link)
 
 * [Secondary One MTP 2024](https://drive.google.com/drive/folders/1VDD8axX4RXCu25hemACbG_2utiarg3a7?usp=drive_link)
 
