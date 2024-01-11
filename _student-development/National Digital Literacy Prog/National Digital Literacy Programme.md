@@ -74,4 +74,8 @@ The role of the parent is also key in partnering the school to support and hel
 
 You can refer to the Parent Handbook(I) on Learning with a Personal Learning Device (PLD) which shares more information on how owning a PLD will enhance the child’s learning, as well as provides some digital parenting tips, strategies and resources.
 
+
+
 This handbook is disseminated to parents via Parents Gateway and a copy can also be found in the school’s website.
+
+Please see the latest content at our [Useful Quick Links for Parents](https://www.presbyterian.moe.edu.sg/about-us/useful-links/for-public/)
