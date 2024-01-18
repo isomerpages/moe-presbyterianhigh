@@ -19,9 +19,8 @@ The Applied Learning Programme (ALP) enhances all lower secondary students’ en
 
 As part of their entrepreneurial journey, students also harness Artificial Intelligence to create innovative and sustainable packaging designs for their prototypes, e.g., using beeswax wrap. </li>
 	
-![](/images/2023images/ALP/picture%201.jpg)
-		
-![](/images/2023images/ALP/picture%201.jpg)
+
+	
 		
 ![](/images/2023images/ALP/picture%202.jpg)
 
