@@ -18,6 +18,8 @@ The Applied Learning Programme (ALP) enhances all lower secondary students’ en
 		<br>Tier 1 programmes expose students to organic chemistry and sustainability. Students learn to use the design thinking protocol to create a prototype of a soap product. They then test the efficacy of these products in reducing the transmission of viruses. 
 
 As part of their entrepreneurial journey, students also harness Artificial Intelligence to create innovative and sustainable packaging designs for their prototypes, e.g., using beeswax wrap. </li>
+	
+![](/images/2023images/ALP/picture%201.jpg)
 		
 ![](/images/2023images/ALP/picture%201.jpg)
 		
