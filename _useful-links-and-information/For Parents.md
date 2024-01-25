@@ -12,9 +12,6 @@ variant: markdown
 
 * [Secondary One MTP 2024](https://drive.google.com/drive/folders/1VDD8axX4RXCu25hemACbG_2utiarg3a7?usp=drive_link)
 
-* [Sec 1 MTP FAQs 2024](https://drive.google.com/file/d/1ATqWFRZa_wx9n_xRSKxKQF3JcwOpXFP6/view?usp=drive_link)
-
-
 * [Guide on Reading the Timetable](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
 
 * [2024 Sec 1 Class Timetable](https://drive.google.com/file/d/1J4HhR3AhBAuFpiAIKQkuH3vtawYTBpQt/view?usp=sharing)
