@@ -1,0 +1,10 @@
+collections:
+  phs:
+    output: true
+    order:
+      - testslider.md
+      - Calendar.md
+      - Announcements.md
+      - Gallery/Orientation Camp.md
+      - Gallery/Total Defence Day.md
+      - Gallery/.keep

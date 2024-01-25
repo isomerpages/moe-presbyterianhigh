@@ -1,0 +1,15 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Full Subject Based Banding.md
+      - Character and Citizenship/Character First.md
+      - Character and Citizenship/Cyberwellness.md
+      - Character and Citizenship/.keep
+      - Well Being and Development/.keep
+      - Well Being and Development/Student Well Being and Development.md
+      - Well Being and Development/Student Well being Framework.md
+      - Well Being and Development/Programmes for Holistic Development.md
+      - Well Being and Development/Student Leadership.md
+      - Learning for Life Programme (LLP) Community and Youth Leadership.md
+      - Applied Learning Programme (ALP) Health Science.md

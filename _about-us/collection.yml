@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Information at a Glance.md
+      - Principal's Message.md
+      - Our History/.keep
+      - Our History/School History.md
+      - Our History/Our Past Principals.md
+      - Our Identity/.keep
+      - Our Identity/Mission, Vision & Values.md
+      - Our Identity/Our School Crest and Motto.md
+      - Our Identity/School Song.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Our Key Personnel.md
+      - Our People/Teaching Staff.md
+      - Our People/Parent Support Group.md
+      - Contact Us.md

@@ -1,0 +1,12 @@
+collections:
+  academic-departments:
+    output: true
+    order:
+      - PHS Teaching and Learning Framework.md
+      - Craft and Technology.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md

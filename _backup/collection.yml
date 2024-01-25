@@ -1,0 +1,27 @@
+collections:
+  backup:
+    output: true
+    order:
+      - Form.md
+      - Canteen Stall Application.md
+      - Performing Arts.md
+      - Uniformed Groups.md
+      - Gallery/.keep
+      - Commencement Services/.keep
+      - What's happening in PHS/Total Defence Day.md
+      - What's happening in PHS/Secondary 4 GLOW Programme.md
+      - What's happening in PHS/Guzheng Ensemble SYF.md
+      - What's happening in PHS/Table Tennis Boys' South Zone National School
+        Games.md
+      - What's happening in PHS/NRIC Ceremony.md
+      - What's happening in PHS/International Friendship Day 2021.md
+      - What's happening in PHS/Peer Support Leaders Appointment Ceremony.md
+      - What's happening in PHS/PEC Staff Dedication.md
+      - What's happening in PHS/Secondary One Orientation Camp.md
+      - What's happening in PHS/Commencement Service.md
+      - What's happening in PHS/Reading Fest.md
+      - What's happening in PHS/Feature Articles.md
+      - What's happening in PHS/2021 GCE N Level Examinations.md
+      - What's happening in PHS/2022 LEAP Award Nomination 飞跃教师奖.md
+      - What's happening in PHS/Invitation to Triple P L2 Seminars (Mandarin).md
+      - What's happening in PHS/.keep

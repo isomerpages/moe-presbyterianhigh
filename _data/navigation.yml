@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Academic Development
+    collection: academic-departments
+  - title: Student Development
+    collection: student-development
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Admissions
+    collection: admissions
+  - title: Useful Links and Information
+    collection: useful-links-and-information

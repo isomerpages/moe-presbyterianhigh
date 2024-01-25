@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Symphonic Band.md
+      - Sports/.keep
+      - Sports/Badminton (Boys).md
+      - Sports/Basketball (Boys & Girls).md
+      - Sports/Football.md
+      - Sports/Table Tennis.md
+      - Sports/Volleyball (Boys & Girls).md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/National Cadet Corps (Sea).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/.keep
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Audio Engineering.md
+      - Clubs and Societies/PHMedia.md

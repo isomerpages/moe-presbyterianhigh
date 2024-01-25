@@ -1,0 +1,7 @@
+collections:
+  useful-links-and-information:
+    output: true
+    order:
+      - For Parents.md
+      - For Students.md
+      - For Staff.md
