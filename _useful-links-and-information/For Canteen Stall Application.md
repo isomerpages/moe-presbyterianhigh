@@ -5,6 +5,33 @@ variant: tiptap
 description: ""
 ---
 <h3>Canteen Stall Advertisement</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Western Stall (Halal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Dec2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal Certified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
