@@ -14,4 +14,4 @@ variant: markdown
 |![](/images/Keypersonnel/5a.png)|
 |![](/images/Keypersonnel/6i.png)|
 |![](/images/Keypersonnel/7i.png)|
-|![](/images/Keypersonnel/8i.png)|
+![](/images/Keypersonnel/8ii.png)
