@@ -2,7 +2,7 @@ collections:
   useful-links-and-information:
     output: true
     order:
-      - For Public.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - For Public.md
