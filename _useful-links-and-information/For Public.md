@@ -9,8 +9,8 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
+<p>Download and complete the <a href="https://drive.google.com/file/d/14WgxeFqKwXL_agOJE1997EdAcUcEoHKS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
+You may also request for a hardcopy from the School’s General Office.</p>
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
@@ -24,9 +24,6 @@ hardcopy from the School’s General Office.</p>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
-<p>Application Form</p>
-</li>
-<li>
 <p>A Singapore Government Agency Website</p>
 </li>
 <li>
@@ -37,9 +34,9 @@ etc.</p>
 <p></p>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office.</p>
-<p>Address: <strong>5209 Ang Mo Kio Avenue 6</strong> 
+<p>Address: <strong>5209 Ang Mo Kio Avenue 6</strong>
 </p>
-<p>Contact No: <strong>6454 3722</strong> 
+<p>Contact No: <strong>6454 3722</strong>
 </p>
 <p>Email: <a href="mailto:presbyterian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">presbyterian@moe.edu.sg</a>
 </p>
