@@ -1,6 +1,6 @@
 ---
 title: Audio Engineering
-permalink: /cca/Clubs-and-Societies/audio-engineering/
+permalink: /cca/clubs-and-societies/audio-engineering/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap

@@ -1,9 +1,9 @@
 ---
 title: PHMedia
-permalink: /cca/Clubs-and-Societies/PHMedia/
+permalink: /cca/clubs-and-societies/phmedia/
 description: ""
 third_nav_title: Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
 ![](/images/phmedia.PNG)
 PHMedia’s mission is to create awareness of the importance of capturing significant yet fleeting moments in daily life. Our Lower Secondary members acquire the necessary skills of using a Digital Single-lens Reflex (DSLR) camera to capture pictures and videos, and editing them for the purposes of school publicity. To nurture confidence, our Upper Secondary members are given opportunities to engage in public speaking and conduct enrichment courses on video editing for their juniors.
