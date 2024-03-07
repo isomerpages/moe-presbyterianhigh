@@ -1,29 +1,24 @@
 ---
 title: Boys' Brigade
 permalink: /cca/uniformed-groups/bb/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/2023images/CCAs%202023/bb%202023.jpg)
-
-The Boys’ Brigade’s (BB) vision is to be the youth organisation of choice. The CCA is focused on nurturing and grooming Boys to become leaders of tomorrow. The BB’s badge work system and values-driven programmes continue to be key in the holistic development of the Boys. Values are inculcated during drills and through activities, such as leadership camps, bagpipe playing, community service, kayaking, knot tying and structure building.
-
-  
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/bb%202023.jpg">
+</div>
+<p>The Boys’ Brigade’s (BB) vision is to be the youth organisation of choice.
+The CCA is focused on nurturing and grooming Boys to become leaders of
+tomorrow. The BB’s badge work system and values-driven programmes continue
+to be key in the holistic development of the Boys. Values are inculcated
+during drills and through activities, such as leadership camps, bagpipe
+playing, community service, kayaking, knot tying and structure building.</p>
 <h5>Days and Time of Training&nbsp;</h5>
-<b>
-Monday: 3.00pm–5.00pm  <br>
-Saturday: 8.30am–12pm<br>
-
-Venue<br>
-Parade Square / Classroom
-</b>
-  
-
+<p><strong>Monday: 3.00pm–5.00pm <br>Saturday: 8.30am–12pm<br></strong>
+</p>
+<p><strong>Venue<br>Parade Square / Classroom</strong>
+</p>
 <h5>Teachers-in-Charge</h5>
-<b>
-Mr Sherman See (i/c)&nbsp;<br>
-Mrs Sherry Tan<br>
-Mr Andy Chng<br>
-</b>
+<p><strong>Mr Sherman See (i/c)&nbsp;<br>Mrs Sherry Tan<br>Mr Andy Chng<br></strong>
+</p>
