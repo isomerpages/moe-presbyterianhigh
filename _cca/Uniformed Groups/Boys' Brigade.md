@@ -15,10 +15,10 @@ to be key in the holistic development of the Boys. Values are inculcated
 during drills and through activities, such as leadership camps, bagpipe
 playing, community service, kayaking, knot tying and structure building.</p>
 <h5>Days and Time of Training&nbsp;</h5>
-<p><strong> Monday: 3.00pm–5.00pm <br>Saturday: 8.30am–12pm<br></strong>
+<p><strong>Monday: 3.00pm–5.00pm <br>Saturday: 8.30am–12pm<br></strong>
 </p>
 <p><strong>Venue<br>Parade Square / Classroom</strong>
 </p>
 <h5>Teachers-in-Charge</h5>
-<p><strong> Mr Sherman See (i/c)&nbsp;<br>Mrs Sherry Tan<br>Mr Andy Chng<br></strong>
+<p><strong>Mr Sherman See (i/c)&nbsp;<br>Mrs Sherry Tan<br>Mr Andy Chng<br></strong>
 </p>
