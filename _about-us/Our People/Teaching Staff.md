@@ -246,17 +246,6 @@ variant: tiptap
 <p>HUM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Tang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>michelle_tang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HUM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Sarah</p>
 </td>
 <td rowspan="1" colspan="1">
