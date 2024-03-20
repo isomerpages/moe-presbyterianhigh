@@ -114,17 +114,6 @@ variant: tiptap
 <p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Anthony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pierre_michelle_edmond@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Sherry Tan Shan Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,17 +151,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_mui_lieng_jocelyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Foo Thiam Sin, Timothy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_thiam_sin_timothy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -881,6 +859,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LT PHYSICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Wei Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_wei_yong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH SCI</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -899,17 +888,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yew_kai_long@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT PHYSICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Wei Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_wei_yong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
