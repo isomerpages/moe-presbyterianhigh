@@ -3,11 +3,44 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-|  | 
-| -------- | 
-|![](/images/2023images/SMC/smc%20chart%201.jpg)  |   
-|![](/images/2023images/SMC/smc%20chart%202.jpg) |
-|![](/images/2023images/SMC/smc%20chart%203.jpg) |
-|![](/images/Keypersonnel/SMC_chart_last.png) |
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/SMC/smc%20chart%201.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/SMC/smc%20chart%202.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/SMC/smc%20chart%203.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keypersonnel/SMC_chart_last1.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
