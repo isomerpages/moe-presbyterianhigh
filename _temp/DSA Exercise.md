@@ -1,7 +1,8 @@
 ---
 title: DSA Exercise
-permalink: /dsa-exercise/dsa-exercise/
+permalink: /temp/dsa-exercise/
 description: ""
+variant: tiptap
 ---
 ### Direct School Admission Exercise
 

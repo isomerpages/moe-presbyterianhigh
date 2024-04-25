@@ -1,7 +1,8 @@
 ---
 title: DSA PERFORMING ARTS
-permalink: /direct-school-admission-exercise/dsa-performing-arts/
+permalink: /temp/dsa-performing-arts/
 description: ""
+variant: tiptap
 ---
 # **DSA PERFORMING ARTS**
 

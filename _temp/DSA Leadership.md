@@ -1,7 +1,8 @@
 ---
 title: DSA Leadership
-permalink: /direct-school-admission-exercise/dsa-leadership/
+permalink: /temp/dsa-leadership/
 description: ""
+variant: tiptap
 ---
 # **DSA Leadership**
 

@@ -1,7 +1,8 @@
 ---
 title: DSA SPORTS
-permalink: /direct-school-admission-exercise/dsa-sports/
+permalink: /temp/dsa-sports/
 description: ""
+variant: tiptap
 ---
 # **DSA SPORTS**
 

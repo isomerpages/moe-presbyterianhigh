@@ -1,7 +1,8 @@
 ---
 title: DSA STEM
-permalink: /direct-school-admission-exercise/dsa-stem/
+permalink: /temp/dsa-stem/
 description: ""
+variant: tiptap
 ---
 # **DSA STEM**
 
