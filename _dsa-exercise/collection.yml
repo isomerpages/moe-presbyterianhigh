@@ -1,5 +1,4 @@
 collections:
   dsa-exercise:
     output: true
-    order:
-      - Frequently Asked Questions (FAQ).md
+    order: []
