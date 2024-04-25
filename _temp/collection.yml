@@ -1,0 +1,10 @@
+collections:
+  temp:
+    output: true
+    order:
+      - Frequently Asked Questions (FAQ).md
+      - DSA SPORTS.md
+      - DSA PERFORMING ARTS.md
+      - DSA STEM.md
+      - DSA Leadership.md
+      - DSA Exercise.md
