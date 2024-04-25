@@ -2,7 +2,6 @@ collections:
   dsa-exercise:
     output: true
     order:
-      - DSA Leadership.md
       - DSA STEM.md
       - DSA PERFORMING ARTS.md
       - DSA SPORTS.md
