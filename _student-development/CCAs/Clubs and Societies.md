@@ -7,4 +7,4 @@ third_nav_title: CCAs
 ---
 # Clubs and Societies 
 [Audio Engineering Club](/cca/clubs-and-societies/audio-engineering/)<br>
-[PHMedia](/cca/clubs-and-societies/PHMedia/)<br>
+[PHMedia](/cca/clubs-and-societies/phmedia/)<br>
