@@ -3,6 +3,7 @@ title: Cyberwellness
 permalink: /programmes/character-and-citizenship-education/cyberwellness/
 description: ""
 third_nav_title: Character and Citizenship
+variant: markdown
 ---
 # **Cyberwellness**
 **Aim**
@@ -90,6 +91,4 @@ Students also have a chance to learn new developments in the cyberspace through 
 
 Parents who are interested to find out more on Cyber Wellness can click on the links below for useful resources:
 
-[https://ictconnection.moe.edu.sg/cyber-wellness/for-parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
-
-[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+[MOE website on Cyberwellness](https://moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
