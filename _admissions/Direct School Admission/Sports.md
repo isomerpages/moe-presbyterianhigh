@@ -50,7 +50,7 @@ the area of talent.</p>
 <p>Application for DSA-Sec must be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 June 2024, 3pm. For more details, please refer to MOE website at
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec-application</a>
+<a href="https://www.moe.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec-application</a>
 </p>
 <p>If you have any queries, please call the General Office at 6454 3722.</p>
 <p></p>
@@ -65,12 +65,12 @@ High School.</p>
 <p>General Ability Tests (GAT) and Higher Ability Selection Tests (HAST)
 will not be included in our selection process.</p>
 <p>All applicants will be notified of results of application by email. Please
-see <a href="http://www.presbyterian.moe.edu.sg/direct-school-admission/dsa-timeline" rel="noopener noreferrer nofollow" target="_blank">Timeline</a>.</p>
+see Timeline.</p>
 <p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
 </p>
 <p>The selection criteria and process for the talent areas will be updated
 by 6 May 2024. For more information on DSA-Sec, please refer to the MOE
-website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Students successfully allocated to their DSA-Sec schools will <strong>NOT be allowed to participate in the annual S1 Posting to opt for secondary schools, </strong>and
 are expected to honour the commitment to the allocated DSA-Sec school for
