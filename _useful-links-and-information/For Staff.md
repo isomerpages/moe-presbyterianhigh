@@ -12,8 +12,6 @@ variant: markdown
 
 * [MIMS (MOE IDENTITY MANAGEMENT SYSTEM)](https://portal.mims.moe.gov.sg/)
 
-* [MOE Intranet](https://intranet.moe.gov.sg/)
-
 * [My Skillfuture Portal](https://www.myskillsfuture.gov.sg/)
 
 * [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
