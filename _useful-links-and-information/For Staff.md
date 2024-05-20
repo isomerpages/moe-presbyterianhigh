@@ -14,7 +14,7 @@ variant: markdown
 
 * [MOE Intranet](https://intranet.moe.gov.sg/)
 
-* [My Skillfuture Portal](https://www.myskillsfuture.sg/content/portal/en/index.html)
+* [My Skillfuture Portal](https://www.myskillsfuture.gov.sg/)
 
 * [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
  
