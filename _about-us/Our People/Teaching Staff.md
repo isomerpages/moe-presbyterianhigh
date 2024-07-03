@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -276,6 +281,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Josephine Mary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>j_mary_saminathan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -485,6 +501,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST MATH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gregory Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>quek_siew_ming_gregory@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -529,7 +556,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MATH</p>
+<p>ST MATH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gregory Quek</p>
@@ -554,32 +581,10 @@ variant: tiptap
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lian Boon Shen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lian_boon_shen_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MATH</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Wong Shao Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong.shaomun@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
