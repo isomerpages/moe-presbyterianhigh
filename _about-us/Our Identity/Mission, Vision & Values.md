@@ -34,27 +34,19 @@ as a total person worthy of God and man</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TEAM%20PHS%20poster.jpg">
 </div>
 <hr>
-<p><strong>焚而不毁 (fén ér bù huǐ)</strong>
-<br><strong>这是本校校训，指的是在困难面前持守信念，坚忍不移的韧性。</strong>
-</p>
-<p>The school motto, “Aflame for Truth”, teaches us to be resilient and to
-uphold our corporate belief and integrity in adversity.</p>
-<p><strong>饮水思源 (yǐn shuǐ sī yuán)<br>对国家、学校、家庭心怀感恩，懂得敬老尊贤，有责任心，积极回馈社会。</strong>
-</p>
-<p>We should be grateful and respectful to our parents, teachers, school
-and nation. We are responsible and accountable for our actions and should
-actively contribute to society.</p>
-<p><strong>立己立人 (lì jǐ lì rén)<br>这是校歌当中的一句，教导我们培养良好品德，立志成就自我，再感染他人向善。我们应先尽本分，再服务他人，建设社会。</strong>
-</p>
-<p>We build our character and inspire others to exemplify goodness. We develop
-ourselves, while serving others and the community.</p>
-<p><strong>School Philosophy, Culture and Ethos</strong>
-<br>The school provides a Christian environment where there is a strong culture
-of Teamwork, Excellence, Affirmation and Mission-mindedness (TEAM PHS).
-To develop our students to be Passionate Learners, Servant Leaders and
-Stewards of Tomorrow, the school places emphasis on nurturing and developing
-good character as well as harnessing the leadership potential in every
-child, inculcating in students a sense of gratitude and responsibility
-to the community and nation. Providing a holistic education, the school
-seeks to enable our students to discover and grow in their strengths and
-talents to fulfil their potential.</p>
+<h3>SCHOOL MOTTO</h3>
+<p>The Burning Bush with the school motto, ‘Aflame for Truth’, is inspired
+by Exodus 3:1-12.&nbsp; The school is a place where students are taught
+the importance of integrity and upholding the truth in thought, word and
+deed.&nbsp;</p>
+<p>The Burning Bush and school motto therefore remind us of God’s presence
+and faithfulness, and that we are part of the community of Christians in
+Presbyterian Churches all over the world.&nbsp; They encourage us to be
+honest and upright, and to exemplify the school values with God as our
+Creator and Guide.&nbsp;</p>
+<p></p>
+<h3>Biblical Heritage<br></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_08_22_09_50_20_PowerPoint_Slide_Show_____Envisioning___Biblical_Heritage_Descriptors__Endorsed_.png">
+</div>
+<p></p>
