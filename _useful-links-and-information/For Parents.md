@@ -7,6 +7,10 @@ variant: tiptap
 <h4>Useful Links</h4>
 <ul>
 <li>
+<p><a href="https://drive.google.com/file/d/1DPnen6Gcb6r0QOzS9tFpzTVHHcj-euVC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Briefing Slides (5D4N 2025 MOC)</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/drive/folders/1MpSGOlYYqnhLGjowLpH6e4RUoz4Tpl4T?usp=drive_link2025 Secondary 3 Subject Combination Briefing" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 3 Subject Combination Briefing Slides</a>
 </p>
 </li>
