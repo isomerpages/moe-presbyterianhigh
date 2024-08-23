@@ -44,7 +44,7 @@ and faithfulness, and that we are part of the community of Christians in
 Presbyterian Churches all over the world.&nbsp; It encourages us to be
 honest and upright, and to exemplify the school values with God as our
 Creator and Guide.&nbsp;</p>
-<p></p>
+<hr>
 <h3>Biblical Heritage<br></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_08_22_09_50_20_PowerPoint_Slide_Show_____Envisioning___Biblical_Heritage_Descriptors__Endorsed_.png">
