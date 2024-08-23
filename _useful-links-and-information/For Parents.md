@@ -7,7 +7,7 @@ variant: tiptap
 <h4>Useful Links</h4>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1DPnen6Gcb6r0QOzS9tFpzTVHHcj-euVC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Briefing Slides (5D4N 2025 MOC)</a>
+<p><a href="https://drive.google.com/file/d/1DPnen6Gcb6r0QOzS9tFpzTVHHcj-euVC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Briefing Slides (5D4N 2025 MOE-OBS)</a>
 </p>
 </li>
 <li>
