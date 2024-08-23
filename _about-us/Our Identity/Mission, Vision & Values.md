@@ -41,7 +41,7 @@ the importance of integrity and upholding the truth in thought, word and
 deed.&nbsp;</p>
 <p>The Burning Bush and school motto therefore remind us of God’s presence
 and faithfulness, and that we are part of the community of Christians in
-Presbyterian Churches all over the world.&nbsp; They encourage us to be
+Presbyterian Churches all over the world.&nbsp; It encourages us to be
 honest and upright, and to exemplify the school values with God as our
 Creator and Guide.&nbsp;</p>
 <p></p>
