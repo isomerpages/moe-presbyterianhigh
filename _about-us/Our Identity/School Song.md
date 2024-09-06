@@ -3,10 +3,11 @@ title: School Song
 permalink: /about-us/school-history/school-song/
 description: ""
 third_nav_title: Our Identity
+variant: markdown
 ---
-
-
 <a style="text-decoration:none;" href="https://drive.google.com/file/d/1D7XjTZPJ0aGqorwX1Y6R61-apdSWipxx/view?usp=drive_link">Listen</a>
+
+**Composer: Mr Lian Sek Lin**
 
 **Behold the burning bush,**    
 看 荆 棘 焚 而 不 毁   
