@@ -3,6 +3,7 @@ title: National Digital Literacy Programme
 permalink: /ndlp/national-digital-literacy-programme/
 description: ""
 third_nav_title: NDLP Links
+variant: markdown
 ---
 # **National Digital Literacy Programme**
 
@@ -15,7 +16,7 @@ Digital Literacies will better enable our students, at different stages of their
 
 ![](/images/ndlp1.jpg)
 
-Through the NDLP, all secondary school students will **own a school-prescribed Personal Learning Device (PLD)** by Term 3, 2021.
+Through the NDLP, all secondary school students will **own a school-prescribed Personal Learning Device (PLD)**.
 
 The device will be used to facilitate an environment that **encourages personalised learning.**
 
@@ -61,7 +62,7 @@ Device management application (DMA) software will be installed on your child�
 These include:
 
 * Introductory sessions to key ICT platforms for all Secondary One students i.e. Preshigh email
-* Annual ICT Day for Sec 1 – 3 to familiarise students on home-based learning and self-directed learning using technology
+* Home-based Learning Days to familiarise students on home-based learning and self-directed learning using technology
 * Collaborative projects that tap on use of ICT and encourage peer support
 * Personal lockers in every classroom which allow students to keep their PLDs
 
