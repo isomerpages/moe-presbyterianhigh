@@ -62,7 +62,7 @@ Device management application (DMA) software will be installed on your child�
 These include:
 
 * Introductory sessions to key ICT platforms for all Secondary One students i.e. Preshigh email
-* Annual ICT Day for Sec 1 – 3 to familiarise students on home-based learning and self-directed learning using technology
+* Home-based Learning Days to familiarise students on home-based learning and self-directed learning using technology
 * Collaborative projects that tap on use of ICT and encourage peer support
 * Personal lockers in every classroom which allow students to keep their PLDs
 
