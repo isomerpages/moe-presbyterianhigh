@@ -3,7 +3,7 @@ title: (9) Appeal to Transfer in Form
 permalink: /admissions/sec-1-registration/appeal/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: Secondary 1 posting
 ---
 **Please click on the image below to access the form.** 👇🏼
 

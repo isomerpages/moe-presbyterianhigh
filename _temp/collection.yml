@@ -2,9 +2,22 @@ collections:
   temp:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
-      - DSA SPORTS.md
-      - DSA PERFORMING ARTS.md
-      - DSA STEM.md
-      - DSA Leadership.md
-      - DSA Exercise.md
+      - DSA backup/DSA STEM.md
+      - DSA backup/DSA Leadership.md
+      - DSA backup/DSA Exercise.md
+      - DSA backup/DSA PERFORMING ARTS.md
+      - DSA backup/DSA SPORTS.md
+      - DSA backup/Frequently Asked Questions (FAQ).md
+      - DSA backup/.keep
+      - Secondary 1 posting/(8) PHS Parent Support Group.md
+      - Secondary 1 posting/(7) CCA Selection.md
+      - Secondary 1 posting/(10) Enroll for Health and Dental Services.md
+      - Secondary 1 posting/(9) Appeal to Transfer in Form.md
+      - Secondary 1 posting/(6) Music or Art Elective Programme.md
+      - Secondary 1 posting/(5) MOE School Based Financial Assistance Scheme.md
+      - Secondary 1 posting/(4) Sec 1 Booklists & Uniform and PE Attire.md
+      - Secondary 1 posting/(3) MTL and Higher MTL.md
+      - Secondary 1 posting/(2) Full Subject Based Banding (FSBB) Matters.md
+      - Secondary 1 posting/(1) Sec 1 Orientation.md
+      - Secondary 1 posting/Principal's Welcome Message.md
+      - Secondary 1 posting/.keep

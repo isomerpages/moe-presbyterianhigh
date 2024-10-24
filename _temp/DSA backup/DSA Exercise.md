@@ -3,6 +3,7 @@ title: DSA Exercise
 permalink: /temp/dsa-exercise/
 description: ""
 variant: tiptap
+third_nav_title: DSA backup
 ---
 ### Direct School Admission Exercise
 
