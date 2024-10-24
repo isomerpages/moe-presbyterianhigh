@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - Secondary 1 posting/(1) Sec 1 Orientation.md
       - Secondary 1 posting/Principal's Welcome Message.md
       - Secondary 1 posting/.keep
       - Frequently Asked Questions (FAQ).md
