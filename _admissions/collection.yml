@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/(3) MTL and Higher MTL.md
       - Sec 1 Registration/(4) Sec 1 Booklists & Uniform and PE Attire.md
       - Sec 1 Registration/(5) MOE School Based Financial Assistance Scheme.md
       - Sec 1 Registration/(6) Music or Art Elective Programme.md
