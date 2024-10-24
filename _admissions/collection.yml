@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/Principal's Welcome Message.md
       - Sec 1 Registration/(1) Sec 1 Orientation.md
       - Sec 1 Registration/(2) Full Subject Based Banding (FSBB) Matters.md
       - Sec 1 Registration/(3) MTL and Higher MTL.md
