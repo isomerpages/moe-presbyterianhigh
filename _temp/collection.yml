@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - DSA backup/DSA Exercise.md
       - DSA backup/DSA PERFORMING ARTS.md
       - DSA backup/DSA SPORTS.md
       - DSA backup/Frequently Asked Questions (FAQ).md
