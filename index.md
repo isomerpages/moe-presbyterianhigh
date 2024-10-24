@@ -9,9 +9,6 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Secondary One e-Registration
-          description: ""
-          url: https://presbyterian.moe.edu.sg/admissions/sec-1-registration/pwelcomemsg/
         - title: Latest @ PHS
           description: ""
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
