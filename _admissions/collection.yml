@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/(9) Appeal to Transfer in Form.md
       - Sec 1 Registration/(10) Enroll for Health and Dental Services.md
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/.keep
