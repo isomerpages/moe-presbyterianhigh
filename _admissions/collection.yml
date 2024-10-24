@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/(7) CCA Selection.md
       - Sec 1 Registration/(8) PHS Parent Support Group.md
       - Sec 1 Registration/(9) Appeal to Transfer in Form.md
       - Sec 1 Registration/(10) Enroll for Health and Dental Services.md
