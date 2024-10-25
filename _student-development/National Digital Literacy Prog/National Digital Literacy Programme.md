@@ -74,7 +74,7 @@ child, and to&nbsp;help administer the device to enhance teaching and learning.<
 <p>Introductory sessions to key ICT platforms for all Secondary One students&nbsp;i.e.&nbsp;Preshigh&nbsp;email</p>
 </li>
 <li>
-<p>Annual&nbsp;ICT Day for Sec 1 – 3&nbsp;to&nbsp;familiarise&nbsp;students
+<p><strong>Home-based Learning Day</strong> for Sec 1 – 3&nbsp;to&nbsp;familiarise&nbsp;students
 on home-based learning and self-directed learning using&nbsp;technology</p>
 </li>
 <li>
