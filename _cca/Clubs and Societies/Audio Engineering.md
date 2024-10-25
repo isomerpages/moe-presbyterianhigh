@@ -23,5 +23,7 @@ and resilience in students.</p>
 <p><strong>Venue<br>Bethel Hall, Gallery Level 3</strong>
 </p>
 <p></p>
-<h5>[Teachers-in-charge]<br><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun(CAJT)</strong></h5>
+<h5>[Teachers-in-charge]</h5>
+<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun(CAJT)</strong>
+</p>
 <p></p>
