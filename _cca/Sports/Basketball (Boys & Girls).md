@@ -24,7 +24,7 @@ our basketballers to attain remarkable success.</p>
 <p><strong>Girls<br>Monday : 3–5.30pm <br>Friday : 1.30pm–3.30pm <br>Saturday : 8–10.30am&nbsp;<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin </strong>
+<p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin</strong>
 </p>
 <p><strong><br></strong>
 </p>
