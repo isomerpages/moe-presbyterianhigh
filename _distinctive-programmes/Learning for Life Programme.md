@@ -4,9 +4,7 @@ permalink: /distinctive-programmes/llp/
 variant: markdown
 description: ""
 ---
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%203.jpeg">
 </div>
@@ -25,6 +23,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture_8.jpg">
 </div>
-</li>
-</ol>
+
+
 <p></p>
