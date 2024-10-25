@@ -19,7 +19,6 @@ our basketballers to attain remarkable success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/basketball2.jpg">
 </div>
-<h5>Days and Time of Training</h5>
 <h5>[Timing for CCA]</h5>
 <p><strong>Girls<br>Monday : 3–5.30pm <br>Friday : 1.30pm–3.30pm <br>Saturday : 8–10.30am&nbsp;<br></strong>
 </p>
@@ -28,7 +27,9 @@ our basketballers to attain remarkable success.</p>
 </p>
 <p><strong><br></strong>
 </p>
-<h5>[Timing for CCA]<br><strong>Boys<br>Wednesday : 3–5.30pm <br>Friday : 3pm–5.30pm <br>Saturday : 9.30am–12pm&nbsp;</strong></h5>
+<h5>[Timing for CCA]</h5>
+<p><strong>Boys<br>Wednesday : 3–5.30pm <br>Friday : 3pm–5.30pm <br>Saturday : 9.30am–12pm&nbsp;</strong>
+</p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
 <p><strong>Mr Steven Ong (i/c)<br>Ms Rekha d/o Gopal Chandradas<br>Mdm Siti Aisha Binte Kassim</strong>
