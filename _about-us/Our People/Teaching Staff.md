@@ -471,7 +471,7 @@ variant: tiptap
 <p>HOD MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan Su Lynn</p>
+<p>Ms Sabrina Tan Su Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_su_lynn_sabrina@moe.edu.sg</p>
