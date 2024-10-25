@@ -18,6 +18,6 @@ at the Singapore Youth Festival Arts Presentation every year.</p>
 <p><strong>Monday: 3.00pm–6.00pm <br>Wednesday: 3.00pm–6.00pm <br>Venue : Guzheng room</strong>
 <br>
 </p>
-<h5>[Teachers-in-Charge]</h5>
+<h5>[Teachers-in-charge]</h5>
 <p><strong>Mrs Kathy Liang (i/c)<br>Mdm Zheng Dahong Mdm Cheng Shu Chen</strong>
 </p>
