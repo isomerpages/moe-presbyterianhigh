@@ -28,7 +28,7 @@ our basketballers to attain remarkable success.</p>
 <p><strong><br></strong>
 </p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Boys<br>Wednesday : 3–5.30pm <br>Friday : 3pm–5.30pm <br>Saturday : 9.30am–12pm&nbsp;</strong>
+<p><strong>Boys<br>Wednesday : 3–5.30pm <br>Friday : 3pm–5.30pm <br>Saturday : 10–12pm&nbsp;</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
