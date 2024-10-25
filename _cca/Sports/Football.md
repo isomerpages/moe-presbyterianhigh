@@ -16,8 +16,8 @@ a strong commitment to personal development.</p>
 <h5>[Timing for CCA]</h5>
 <p><strong>(Boys only)<br>Monday : 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
 </p>
-<p>Venue</p>
-<p><strong>Football Field<br></strong>
+<p><strong>Venue</strong>
+<br><strong>Football Field<br></strong>
 </p>
 <h5>[Teachers-in-Charge]</h5>
 <p><strong>Mr Fu Chengwei (i/c)&nbsp;<br>Mr Ong Hong Wei <br></strong>
