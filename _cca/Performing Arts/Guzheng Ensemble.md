@@ -15,9 +15,10 @@ as teamwork, diligence and perseverance. Under the guidance of the Guzheng
 instructor and teachers-in-charge, the ensemble achieves commendable awards
 at the Singapore Youth Festival Arts Presentation every year.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Monday: 3.00pm–6.00pm <br>Wednesday: 3.00pm–6.00pm <br>Venue : Guzheng room</strong>
+<p><strong>Monday: 3pm–6am <br>Wednesday: 3pm–6pm <br>Venue : Guzheng room</strong>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mrs Kathy Liang (i/c)<br>Mdm Zheng Dahong Mdm Cheng Shu Chen</strong>
+<p><strong>Mrs Kathy Liang (i/c)<br>Mdm Zheng Dahong </strong>
+<br><strong>Mdm Cheng Shu Chen</strong>
 </p>
