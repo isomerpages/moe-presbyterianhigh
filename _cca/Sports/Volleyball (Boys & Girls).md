@@ -21,5 +21,5 @@ practise humility and learn the importance of teamwork. &nbsp;</p>
 <br><strong>ISH3<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Stephanie Ong (i/c)<br>Mdm Lum Ping Ping<br>Mr Ha Yeong Fook<br>Mr Chandrasegaran Palaniswamy<br>Miss Jade Neo<br>Ms Azriana Binte Abdul Manan<br>Mr Timothy Foo<br></strong>
+<p><strong>Ms Stephanie Ong (i/c)<br>Mdm Lum Ping Ping<br>Mr Ha Yeong Fook<br>Mr Chandrasegaran Palaniswamy<br>Miss Jade Neo<br>Ms Azriana Binte Abdul Manan<br><br></strong>
 </p>
