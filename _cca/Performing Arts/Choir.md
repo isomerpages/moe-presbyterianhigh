@@ -18,6 +18,7 @@ Collectively, the choir produces music that a singer alone cannot create.&nbsp;<
 <h5>[Timing for CCA]</h5>
 <p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45pm–4.00pm <br>Additional practices in SYF year <br>Venue : Music Room Level 4</strong>
 </p>
+<p></p>
 <h5>[Teachers-in-charge]</h5>
 <p><strong>Mdm Chung Bee Chee (i/c) <br>Ms Ng Wan Jee<br>Mr Tan Tee Wee<br></strong>
 </p>
