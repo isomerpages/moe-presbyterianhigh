@@ -471,7 +471,7 @@ variant: tiptap
 <p>HOD MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan Su Lynn</p>
+<p>Ms Sabrina Tan Su Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_su_lynn_sabrina@moe.edu.sg</p>
@@ -552,17 +552,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>thng_yi_wen_yvonne@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST MATH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gregory Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_siew_ming_gregory@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
