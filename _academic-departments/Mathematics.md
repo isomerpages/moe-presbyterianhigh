@@ -20,7 +20,7 @@ The cornerstone of our approach is in building an inclusive and supportive learn
 
 **1. Math Week**
 
-Math Week is an annual event that engages students in hands-on activities, designed to deepen their appreciation of mathematics and enable them to recognise the presence of mathematics in the world around them.
+Math Day is an annual event that engages students in hands-on activities, designed to deepen their appreciation of mathematics and enable them to recognise the presence of mathematics in the world around them.
  
 **2. PHS Mathematics Olympiad Preparatory Programme**
 
