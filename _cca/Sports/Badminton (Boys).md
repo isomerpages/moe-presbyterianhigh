@@ -16,9 +16,9 @@ Together, our teachers and coach actively seek opportunities, which enable
 our players to showcase their abilities and receive recognition for their
 achievements.&nbsp;</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>(Boys only)<br>Monday : 3.15–5.15pm&nbsp;<br>Wednesday : 3.15–5.15pm&nbsp;<br>Friday: 2–4pm<br>Venue : Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
+<p><strong>(Boys only)<br>Monday : 3.15–5.15pm&nbsp;<br>Wednesday : 3.15–5.15pm&nbsp;<br>Venue : Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mr Neo Kok Hwee(i/c)<br>Ms Ng Boon Hwee<br>Mr Stanley Lian (CAJT)<br></strong>
+<p><strong>Mr Neo Kok Hwee(i/c)<br>Ms Josephine Mary Saminathan<br><br></strong>
 </p>
