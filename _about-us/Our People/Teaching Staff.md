@@ -556,17 +556,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST MATH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gregory Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_siew_ming_gregory@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
