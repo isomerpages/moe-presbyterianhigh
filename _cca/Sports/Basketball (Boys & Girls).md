@@ -20,7 +20,7 @@ our basketballers to attain remarkable success.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/basketball2.jpg">
 </div>
 <h5>[Timing for CCA]</h5>
-<p><strong>Girls<br>Monday : 3–5.30pm <br>Friday : 1.30pm–3.30pm <br>Saturday : 8–10.30am&nbsp;<br></strong>
+<p><strong>Girls<br>Monday : 3–5.30pm <br>Friday : 1.30–3.30pm <br>Saturday : 8–10.30am&nbsp;<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
 <p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin</strong>
