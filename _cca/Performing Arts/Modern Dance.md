@@ -18,5 +18,5 @@ and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm<br>Venue : AVA room<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Michelle Tang (i/c)<br>Mdm Yvonne Thng<br>Mdm Anis Fazerina<br></strong>
+<p><strong>Mdm Yvonne Thng (i/c)<br>Mdm Anis Fazerina<br></strong>
 </p>
