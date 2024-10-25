@@ -20,5 +20,5 @@ Collectively, the choir produces music that a singer alone cannot create.&nbsp;<
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mdm Chung Bee Chee (i/c) <br>Ms Ng Wan Jee<br>Mr Tan Tee Wee<br></strong>
+<p><strong>Ms Ong Bi Ru (i/c) <br>Ms Ng Wan Jee<br>Mr Tan Tee Wee<br></strong>
 </p>
