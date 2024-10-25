@@ -19,5 +19,5 @@ delighting its audience.</p>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Sherinder Kaur (OIC) <br>Mdm Noorizal Mohd Zain<br>Mdm Leong Si Min Celine<br></strong>
+<p><strong>Ms Sherinder Kaur (i/c) <br>Mdm Noorizal Mohd Zain<br>Mdm Leong Si Min Celine<br></strong>
 </p>
