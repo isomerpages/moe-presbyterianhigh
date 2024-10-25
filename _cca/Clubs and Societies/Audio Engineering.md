@@ -16,10 +16,12 @@ group of students, the club also serves the school diligently and responsibly
 in various events and programmes throughout the year. By extending their
 support during school events, the club inculcates values and builds character
 and resilience in students.</p>
-<h5>Days and Time of Training</h5>
-<p><strong>Monday: 3.00pm–5.30pm Wednesday: 3.00pm–5.30pm <br></strong>
+<h5>[Timing for CCA]</h5>
+<p><strong>Monday: 3pm–5.30pm </strong>
+<br><strong>Wednesday: 3pm–5.30pm <br></strong>
 </p>
 <p><strong>Venue<br>Bethel Hall, Gallery Level 3</strong>
 </p>
-<p><strong>Teachers-in-Charge Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun(CAJT)</strong>
-</p>
+<p></p>
+<h5>[Teachers-in-charge]<br><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun(CAJT)</strong></h5>
+<p></p>
