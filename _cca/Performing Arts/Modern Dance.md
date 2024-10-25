@@ -14,9 +14,9 @@ the CCA offers creative platforms for them to express their individuality
 and appreciate the beauty of dance. With an emphasis on values and character,
 our dancers develop a strong sense of commitment to honing their craft,
 and learn to cultivate mutual respect and a strong sense of teamwork.</p>
-<h5>Days and Time of Training&nbsp;</h5>
+<h5>[Timing for CCA]</h5>
 <p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm<br>Venue : AVA room<br></strong>
 </p>
-<h5>Teachers-in-Charge</h5>
+<h5>[Teachers-in-charge]</h5>
 <p><strong>Ms Michelle Tang (i/c)<br>Mdm Yvonne Thng<br>Mdm Anis Fazerina<br></strong>
 </p>
