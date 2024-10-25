@@ -15,13 +15,13 @@ naval traditions, fitness training and kayaking. Proficiency badges are
 earned when they acquire the related skills and competencies. Our cadets
 are not only resilient but they also embody core values, such as loyalty
 to country, uprightness, leadership, discipline, commitment, responsibility,
-and care for fellow cadets.&nbsp;</p>
+care for fellow cadets and adventurous spirit.&nbsp;</p>
 <h5>[Timing for CCA]</h5>
-<p><strong> (Boys only)<br>Friday : 1.30pm–4.30pm <br></strong>
+<p><strong>(Boys only)<br>Friday : 1.30pm–4.30pm <br></strong>
 </p>
 <p><strong>Venue<br>Parade Square/ Classroom</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong> Mr Gregory Quek (i/c)&nbsp;<br>Mdm Michelle Chiu<br>Mr Lim Ke Hong<br></strong>
+<p><strong>Mr Gregory Quek (i/c)&nbsp;<br>Mdm Michelle Chiu<br>Mr Lim Ke Hong<br></strong>
 </p>
