@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - Student Leadership.md
       - DSA backup/DSA STEM.md
       - DSA backup/DSA Leadership.md
       - DSA backup/DSA Exercise.md
