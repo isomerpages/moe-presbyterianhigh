@@ -34,7 +34,20 @@ and promoting class bonding.</p>
 for Secondary One students and the Frisbee Competition for Secondary Two
 students. These activities allow students to showcase their talents while
 learning to work in teams through competitive events.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PE2024/Picture_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PE2024/Picture_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PE2024/Picture_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PE2024/Picture_4.jpg">
+</div>
 <p></p>
