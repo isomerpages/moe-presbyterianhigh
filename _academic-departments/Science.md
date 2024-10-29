@@ -2,46 +2,79 @@
 title: Science
 permalink: /academic-departments/Science/
 description: ""
+variant: tiptap
 ---
-# **Science**
-
-We inculcate in students the spirit of scientific inquiry and the quest to innovate and&nbsp;generate creative solutions to solve real-world problems. Learning experiences are provided for students to strengthen their conceptual understanding, integrate practice with theory and facilitate interdisciplinary connections across the Sciences. We believe that, when our students acquire a strong foundation in Science, they will be equipped to pursue STEM-related endeavors in future.
-
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1G1vMwapbEgeXDMBhUIRevmrBlPmSM3QUtqf4ILCj5JwaoGmQhmbXzOLJG9VCRs4n5hbqO8mXRZdj/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
-Secondary One students use scientific inquiry skills to apply to real life situations.
-
-
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIazA7Kqdk3hn21Le6qBoA8EYMzmYcDfGMVa54OcnHTAXMZwZ-kDuqctH8WdsZlqDMG7cUarUJXjwK/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5uex_YOD2quFBOvahHm4ZCZLraTpNqJ4Ham0rQLJWjOHhf7-YzsJ_cUyb0cD9fSQrG-BdPrhLNlKk/embed?start=true&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-Infusing e-Pedagogy into Science lessons to make learning come alive
-
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDU4fzgzm481O1DLM2OI9iOBpZoOXBcZv5v66aI22HY6kXLJClF4ai2ODdie3vYWfrVvV-5cCZMDpu/embed?start=true&amp;loop=false&amp;delayms=5000"></iframe>
-Authentic learning using the PLD: flower parts and pollination  
-
------------------------------------------------------------------
-
-  
-
-### Participation and Achievements
-
-Annually, our students participate in external competitions, which serve to stretch their potential academically.&nbsp;
-
-  
-
-The key competitions include:&nbsp;
-
-*   Singapore Junior Chemistry Olympiad
-*   Youth STEM Empowerment Programme (YSEP)
-
-  
-
-In 2022, Gu Zhaoyuan of 4 Endurance was awarded Merit at the Singapore Junior Chemistry Olympiad.
+<h1><strong>Science</strong></h1>
+<p><strong>Science Department</strong>
+</p>
+<p><strong>Our Vision</strong>
+<br>Every PresHighian a passionate STEM (Science, Technology, Engineering,
+and Math) learner who endeavours to be:</p>
+<ul>
+<li>
+<p>Curious: Finds out how STEM knowledge and skills are relevant to the world
+around them,&nbsp;</p>
+</li>
+<li>
+<p>Creative: Applies STEM concepts and generates ideas to solve real-world
+problems,</p>
+</li>
+<li>
+<p>The Change: Solves problems using STEM to serve the community and to better
+society.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Our Approach</strong>
+<br>Our science curriculum is committed to providing students with diverse
+learning experiences and assessment methods. We emphasise the application
+of scientific knowledge to understand and solve real-world problems in
+a global context. This approach strengthens the integration of theory and
+practical application, exemplified by projects such as the water filtration
+project undertaken by all our Secondary One students. This hands-on project
+not only reinforces theoretical knowledge but also encourages students
+to apply their learning in real-world scenarios.</p>
+<p>We embrace a two-pronged approach to challenge and stretch our students.
+The first approach centres around our Talent Development Programme, aimed
+at nurturing excellence and honing the skills of our high-achieving students
+in various STEM disciplines. This programme provides opportunities for
+these students to delve deeper into their chosen fields, engaging in advanced
+prototyping and research. The second approach involves actively engaging
+and exploring learning opportunities with various interest groups.&nbsp;
+This includes learning journeys and applied learning modules that allow
+students to gain practical skills and knowledge beyond the classroom.</p>
+<p><strong>Our Programmes</strong>
+<br>1. <u>Talent Development Programme</u>
+<br>Students get a chance to participate in various science events, including
+the Singapore International STEM Innovation Challenge (SISTEMIC) for Lower
+Secondary students, the Singapore Junior Chemistry Olympiad for Upper Secondary
+students, the Youth STEM Empowerment Programme (YSEP), and the Research
+&amp; Development Experience Programme (R&amp;DEP).</p>
+<p></p>
+<p>2. <u>Interest-based Programmes</u>
+<br>Our students are also involved in interest-based programmes that aim to
+make STEM education more exciting, relevant and accessible to students,
+encouraging them to explore their interest in Science. Some of these activities
+include the Scientist-in-School Programme, Work Attachment to the Genome
+Institute of Singapore, the Art and Science Pharmaceutical Compounding
+Applied Learning Module at Republic Polytechnic, and the Chemistry Escape
+Room.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Science2024/Picture_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Science2024/Picture_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Science2024/Picture_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Science2024/Picture_4.jpg">
+</div>
+<p>
+<br>
+</p>
