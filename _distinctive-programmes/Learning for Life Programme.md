@@ -4,38 +4,134 @@ permalink: /distinctive-programmes/llp/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Learning for Life Programme: Community Youth Leadership Igniting Hearts@PresHigh</strong></h3>
-<p>
-<br><strong>Vision</strong>
-</p>
-<p>The school’s Learning for Life Programme (LLP) <em>– Igniting Hearts@PresHigh</em> aims
+<h3><strong>Learning for Life Programme: Community Youth Leadership&nbsp;</strong><br></h3>
+<h4><strong>Igniting Hearts@PresHigh</strong></h4>
+<p><strong>Vision&nbsp;</strong>
+<br>The school’s Learning for Life Programme (LLP) <em>– Igniting Hearts@PresHigh</em> aims
 to nurture all PresHighians to be Servant Leaders who Serve with Empathy,
-Lead with Humility, and Excel with Integrity.</p>
+Lead with Humility, and Excel with Integrity.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/llp_line_art.jpg">
+</div>
 <p></p>
 <p><strong>Approach</strong>
-</p>
-<p>The school’s LLP Framework is anchored in The Leadership Challenge Model
+<br>The school’s LLP Framework is anchored in The Leadership Challenge Model
 (5 practices of exemplary leadership), and leverages the Design Thinking
 process as a key pedagogy.&nbsp; Through nurturing them holistically through
 the ‘Heads, Hearts and Hands’ approach, PresHighians are guided to learn
-how to lead themselves, lead others, and make a difference in our community.</p>
+how to lead themselves, lead others, and make a difference in our community.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%203.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%204.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%205.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%206.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture%207.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/LLP/picture_8.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Igniting Hearts @ PresHigh</strong></h4>
+<p><strong>Learning Outcomes: Lead Self, Lead Others, Make a Difference&nbsp;<br>Curriculum: The Leadership Challenge&nbsp;<br>Key Pedagogy: Design Thinking</strong>
+</p>
+<h4></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tiers</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Groups of Student Leaders</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Leadership Development</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All PresHighians</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>CF (Character First Lessons) –&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Includes introduction of executive functioning skills (e.g. planning,
+organisation, time management)&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>LLP Lessons (Lower Sec)&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Includes customised modules based on The Leadership Challenge</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Class Values-In-Action (VIA) Projects&nbsp;</p>
+</li>
+<li>
+<p>CCA VIA Projects</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Student Leaders&nbsp;</p>
+<p>(Student Council, Class Leaders, CCA Leaders)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Additional leadership development opportunities (e.g. leadership workshops,
+Student Leadership Camp) based on The Leadership Challenge.</p>
+</li>
+<li>
+<p>Partners teachers in leading and organising school-wide events such as
+Sec 1 Orientation and Teachers’ Day Celebrations.</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected Student Leaders</p>
+<p>(Student Council ExCo, LLP ExCo, Class Council)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Stretch leadership opportunities, such as participation in leadership
+conferences or organising school-community events (e.g. the school’s annual
+Project Blessing, Chinese New Year Lohei with foreign workers, Student
+Leadership camp with Chaoyang School students, and Kindness Week).&nbsp;</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
