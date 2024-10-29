@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/basketballmain.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/basketball_boys.jpg">
 </div>
 <p>The Basketball Team strives to develop basketballers creatively and competitively.
 Our basketballers dedicate themselves to rigorous training in order to
