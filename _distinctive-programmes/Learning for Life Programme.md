@@ -10,10 +10,9 @@ description: ""
 <br>The school’s Learning for Life Programme (LLP) <em>– Igniting Hearts@PresHigh</em> aims
 to nurture all PresHighians to be Servant Leaders who Serve with Empathy,
 Lead with Humility, and Excel with Integrity.&nbsp;</p>
-<p>
-<br>
-</p>
-<p>=========================picture==============================</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/llp_line_art.jpg">
+</div>
 <p></p>
 <p><strong>Approach</strong>
 <br>The school’s LLP Framework is anchored in The Leadership Challenge Model
@@ -21,9 +20,7 @@ Lead with Humility, and Excel with Integrity.&nbsp;</p>
 process as a key pedagogy.&nbsp; Through nurturing them holistically through
 the ‘Heads, Hearts and Hands’ approach, PresHighians are guided to learn
 how to lead themselves, lead others, and make a difference in our community.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,14 +30,10 @@ how to lead themselves, lead others, and make a difference in our community.&nbs
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Igniting Hearts @ PresHigh</strong>
+<h4><strong>Igniting Hearts @ PresHigh</strong></h4>
+<p><strong>Learning Outcomes: Lead Self, Lead Others, Make a Difference&nbsp;<br>Curriculum: The Leadership Challenge&nbsp;<br>Key Pedagogy: Design Thinking</strong>
 </p>
-<p></p>
-<p><strong>Learning Outcomes: Lead Self, Lead Others, Make a Difference&nbsp;</strong>
-<br><strong>Curriculum: The Leadership Challenge&nbsp;</strong>
-<br><strong>Key Pedagogy: Design Thinking</strong>
-</p>
-<p></p>
+<h4></h4>
 </td>
 </tr>
 <tr>
