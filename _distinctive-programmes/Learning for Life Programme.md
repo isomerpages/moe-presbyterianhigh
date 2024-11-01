@@ -96,7 +96,7 @@ skills (e.g. planning, organisation, time management)&nbsp;</p>
 Student Leadership Camp) based on <em>The Leadership Challenge</em>.</p>
 </li>
 <li>
-<p>Partners teachers in leading and organisinschool-wide events, such as
+<p>Partners teachers in leading and organising school-wide events, such as
 Sec 1 Orientation and Teachers’ Day Celebrations.</p>
 </li>
 </ul>
