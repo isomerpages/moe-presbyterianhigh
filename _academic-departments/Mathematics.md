@@ -25,7 +25,7 @@ learning environment that promotes collaborative learning. We encourage
 students to take ownership of their learning and persevere towards achieving
 success.</p>
 <h3>Our Programmes</h3>
-<p><strong>1. Math Week</strong>
+<p><strong>1. Math Day</strong>
 </p>
 <p>Math Day is an annual event that engages students in hands-on activities,
 designed to deepen their appreciation of mathematics and enable them to
