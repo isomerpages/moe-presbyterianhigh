@@ -111,24 +111,73 @@ helping them explore <strong>STEM-related careers</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
 </div>
-<p></p>
+<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_5_Tier_2.jpg">
 </div>
-<p></p>
-<p></p>
+<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/8_Tier_2.jpg">
 </div>
-<p></p>
+<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/9_Tier_2.jpg">
 </div>
+<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/10_Tier_2.jpg">
+</div>
+<p><em>Tier 2 students participating in a learning journey to Republic Polytechnic.</em>
+</p>
+<p></p>
+<p><strong>Tier 3: Talent-Development Programme</strong>
+</p>
+<p>&nbsp;</p>
+<p>Our Tier 3 Programme aims to challenge and stretch students who has both
+aptitude and passion for STEM. This tier provides students with opportunities
+to participate in <strong>competitions</strong>, pursue <strong>self-initiated projects</strong>,
+and take on <strong>mentorship roles</strong> to guide and inspire juniors.</p>
+<p>&nbsp;</p>
+<p>Students in this tier will gain hands-on experience and deepen their skills
+through STEM competitions such as:</p>
+<p>&nbsp;</p>
+<p>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)</p>
+<p>o&nbsp;&nbsp; App Design Challenge</p>
+<p>o&nbsp;&nbsp; App Development Challenge</p>
+<p>o&nbsp;&nbsp; Health &amp; Food Science Competition (STEM Inc)</p>
+<p>o&nbsp;&nbsp; S1 Cluster Design Innovation Challenge</p>
+<p>o&nbsp;&nbsp; National Youth AI Prompt Challenge</p>
+<p>&nbsp;</p>
+<p>Our tiered developmental approach seeks to encourage all PresHighians
+to hone their digital competencies, harness emerging technologies in Health
+&amp; Food Science, and become creative and collaborative Stewards of Tomorrow.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/9_Tier_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/11_Tier_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/12_Tier_3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/15_Tier_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/14Tier_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/15_1Tier_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/13_Tier_3.jpg">
+</div>
 <p></p>
 <p></p>
