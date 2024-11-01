@@ -8,7 +8,7 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Batminton_2024_v1.png">
 </div>
-<p>The Badminton Team places a strong emphasis on character building. Our
+<p>The Badminton team places a strong emphasis on character building. Our
 teachers and coach encourage active participation in training, a strong
 commitment to skill development and fostering respect for all. Our players,
 in turn, train hard to develop their speed, flexibility and strategic thinking.
