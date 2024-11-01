@@ -23,7 +23,7 @@ conducted as a means to assess the students’ fitness in various components.</p
 <p><strong>Our Programmes</strong>
 <br><strong>1. Secondary One Adventure Camp and Secondary Three Outward Bound Singapore (OBS) Challenge</strong>
 <br>These outdoor adventure camps serve as platforms for students to learn
-independence, to challenge their abilities, and to build camaraderie and
+independence, to challenge their abilities and to build camaraderie and
 teamwork.</p>
 <p><strong>2. Sports Enrichment Programme</strong>
 <br>This programme introduces students to novel sports and activities such
@@ -31,9 +31,9 @@ as golfing, bowling and Kin-ball, thereby enriching their experiences and
 promoting class bonding.</p>
 <p><strong>3. Sports Fiesta</strong>
 <br>The Sports Fiesta includes track events, the Captain’s Ball Competition
-for Secondary One students and the Frisbee Competition for Secondary Two
-students. These activities allow students to showcase their talents while
-learning to work in teams through competitive events.</p>
+for Secondary 1 students and the Frisbee Competition for Secondary 2 students.
+These activities allow students to showcase their talents while learning
+to work in teams through competitive events.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PE2024/Picture_1.jpg">
