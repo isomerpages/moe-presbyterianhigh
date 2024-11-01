@@ -15,7 +15,8 @@ modes of artistic expressions and storytelling techniques. The CCA unites
 a community of kindred spirits, who find joy and meaning in engaging and
 delighting its audience.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Monday: 3.30–5.30pm <br>Wednesday: 3.30–5.30pm <br>*Additional practices on Fridays during SYF period (Jan–April) <br>Venue: Drama Room (ISH Level 2)</strong>
+<p><strong>Monday: 3.30–5.30pm <br>Wednesday: 3.30–5.30pm <br>*Additional practices on Fridays during SYF period (Jan–April) </strong>
+<br><strong><br>Venue: Drama Room (ISH Level 2)</strong>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
