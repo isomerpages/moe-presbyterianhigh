@@ -16,7 +16,7 @@ Singapore Youth Festival Arts Presentation and performances in school and
 in public, but also builds their confidence, leadership skills and character.
 Collectively, the choir produces music that a singer alone cannot create.&nbsp;</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45pm–4pm <br>Additional practices in SYF year <br>Venue : Music Room Level 4</strong>
+<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45–4pm <br>Additional practices in SYF year <br>Venue: Music Room Level 4</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
