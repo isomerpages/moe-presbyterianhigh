@@ -40,6 +40,15 @@ the curriculum. Students will learn about the principles of AI, machine
 learning and the ethical considerations of using AI. They will also be
 empowered with the knowledge to use AI tools responsibly, as well as how
 to critically evaluate AI-generated information to make good discernment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/3_Tier_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/4_Tier_1.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -47,23 +56,6 @@ to critically evaluate AI-generated information to make good discernment.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/3_Tier_1.jpg">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/4_Tier_1.jpg">
-</div>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><em>Students presenting their working prototypes in Tier 1 Lessons.</em>
@@ -75,35 +67,27 @@ to critically evaluate AI-generated information to make good discernment.</p>
 <p><strong>Tier 2</strong>: <strong>Interest-Based Programmes</strong>
 <br>Our Tier 2 programme develops students with a deeper interest in STEM
 by providing rich opportunities for hands-on learning through workshops,
-learning journeys and industry attachments.</p>
-<p>Students will explore topics beyond the classroom, such as</p>
-<p>o&nbsp;&nbsp; Drone Adventure with Python Programming</p>
-<p>o&nbsp;&nbsp; Learning Journey and attachment to A*STAR&nbsp; Genome Institute
-of Singapore (GIS)</p>
-<p>o&nbsp;&nbsp; 3D printing workshops</p>
+learning journeys and industry attachments.
+<br>Students will explore topics beyond the classroom, such as
+<br>
+<br>o&nbsp;Drone Adventure with Python Programming
+<br>o&nbsp;Learning Journey and attachment to A*STAR&nbsp; Genome Institute
+of Singapore (GIS)
+<br>o&nbsp;3D printing workshops</p>
 <p>Through an active curation of external partnerships, our students get
 to deepen their learning with Institutes of Higher Learning and other industry-leading
 institutions. These experiences bridge classroom knowledge with real-world
 applications, exposing students to <strong>emerging technologies</strong> and
 helping them explore <strong>STEM-related careers</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/6_Tier_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
-</div>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
@@ -134,27 +118,21 @@ helping them explore <strong>STEM-related careers</strong>.</p>
 </p>
 <p></p>
 <p><strong>Tier 3: Talent-Development Programme</strong>
-</p>
-<p>&nbsp;</p>
-<p>Our Tier 3 Programme aims to challenge and stretch students who has both
+<br>Our Tier 3 Programme aims to challenge and stretch students who has both
 aptitude and passion for STEM. This tier provides students with opportunities
 to participate in <strong>competitions</strong>, pursue <strong>self-initiated projects</strong>,
-and take on <strong>mentorship roles</strong> to guide and inspire juniors.</p>
-<p>&nbsp;</p>
-<p>Students in this tier will gain hands-on experience and deepen their skills
-through STEM competitions such as:</p>
-<p>&nbsp;</p>
-<p>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)</p>
-<p>o&nbsp;&nbsp; App Design Challenge</p>
-<p>o&nbsp;&nbsp; App Development Challenge</p>
-<p>o&nbsp;&nbsp; Health &amp; Food Science Competition (STEM Inc)</p>
-<p>o&nbsp;&nbsp; S1 Cluster Design Innovation Challenge</p>
-<p>o&nbsp;&nbsp; National Youth AI Prompt Challenge</p>
-<p>&nbsp;</p>
+and take on <strong>mentorship roles</strong> to guide and inspire juniors.
+<br>Students in this tier will gain hands-on experience and deepen their skills
+through STEM competitions such as:
+<br>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)
+<br>o&nbsp;&nbsp; App Design Challenge
+<br>o&nbsp;&nbsp; App Development Challenge
+<br>o&nbsp;&nbsp; Health &amp; Food Science Competition (STEM Inc)
+<br>o&nbsp;&nbsp; S1 Cluster Design Innovation Challenge
+<br>o&nbsp;&nbsp; National Youth AI Prompt Challenge</p>
 <p>Our tiered developmental approach seeks to encourage all PresHighians
 to hone their digital competencies, harness emerging technologies in Health
 &amp; Food Science, and become creative and collaborative Stewards of Tomorrow.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/11_Tier_3.jpg">
 </div>
