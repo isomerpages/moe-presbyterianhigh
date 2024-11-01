@@ -40,47 +40,78 @@ the curriculum. Students will learn about the principles of AI, machine
 learning and the ethical considerations of using AI. They will also be
 empowered with the knowledge to use AI tools responsibly, as well as how
 to critically evaluate AI-generated information to make good discernment.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/3_Tier_1.jpg">
 </div>
+</th>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/4_Tier_1.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><em>Students presenting their working prototypes in Tier 1 Lessons.</em>
 </p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Tier 2</strong>: <strong>Interest-Based Programmes</strong>
-</p>
-<p>&nbsp;</p>
-<p>Our Tier 2 programme develops students with a deeper interest in STEM
+<br>Our Tier 2 programme develops students with a deeper interest in STEM
 by providing rich opportunities for hands-on learning through workshops,
 learning journeys and industry attachments.</p>
-<p>&nbsp;</p>
 <p>Students will explore topics beyond the classroom, such as</p>
-<p>&nbsp;</p>
 <p>o&nbsp;&nbsp; Drone Adventure with Python Programming</p>
 <p>o&nbsp;&nbsp; Learning Journey and attachment to A*STAR&nbsp; Genome Institute
 of Singapore (GIS)</p>
 <p>o&nbsp;&nbsp; 3D printing workshops</p>
-<p>&nbsp;</p>
 <p>Through an active curation of external partnerships, our students get
 to deepen their learning with Institutes of Higher Learning and other industry-leading
 institutions. These experiences bridge classroom knowledge with real-world
 applications, exposing students to <strong>emerging technologies</strong> and
 helping them explore <strong>STEM-related careers</strong>.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/6_Tier_2.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_5_Tier_2.jpg">
 </div>
