@@ -15,7 +15,7 @@ as teamwork, diligence and perseverance. Under the guidance of the Guzheng
 instructor and teachers-in-charge, the ensemble achieves commendable awards
 at the Singapore Youth Festival Arts Presentation every year.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Monday: 3–6am <br>Wednesday: 3–6pm <br>Venue: Guzheng room</strong>
+<p><strong>Monday: 3–6pm <br>Wednesday: 3–6pm <br>Venue: Guzheng room</strong>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
