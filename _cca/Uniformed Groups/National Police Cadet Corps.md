@@ -20,5 +20,5 @@ and adventure training camps.</p>
 <p><strong>Friday: 2.00–5.30pm<br>Venue: NPCC Room / Classroom<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mr Norhidayat (i/c)&nbsp;<br>Ms Seah Li Ping <br>Ms Sivakami <br></strong>
+<p><strong>Mr Norhidayat (i/c)&nbsp;<br>Ms Seah Li Ping <br>Ms Sivakami Senthil Murugan<br></strong>
 </p>
