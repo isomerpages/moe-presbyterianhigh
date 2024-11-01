@@ -22,7 +22,7 @@ our basketballers to attain remarkable success.</p>
 </div>
 <h5>[Timing for CCA]</h5>
 <p><strong>Girls<br>Monday: 3–5.30pm </strong>
-<br><strong>Friday: 1–3pm<br>Saturday: 7.30–10pm&nbsp;<br></strong>
+<br><strong>Friday: 1–3pm<br>Saturday: 7.30–10am&nbsp;<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
 <p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin</strong>
@@ -30,7 +30,7 @@ our basketballers to attain remarkable success.</p>
 <p><strong><br></strong>
 </p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Boys<br>Wednesday : 3–5.30pm <br>Friday : 3pm–5.30pm <br>Saturday : 7.30-10am&nbsp;</strong>
+<p><strong>Boys<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 7.30–10am&nbsp;</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
