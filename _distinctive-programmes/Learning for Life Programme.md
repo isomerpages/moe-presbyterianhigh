@@ -7,19 +7,19 @@ description: ""
 <h3><strong>Learning for Life Programme: Community Youth Leadership&nbsp;</strong><br></h3>
 <h4><strong>Igniting Hearts@PresHigh</strong></h4>
 <p><strong>Vision&nbsp;</strong>
-<br>The school’s Learning for Life Programme (LLP) <em>– Igniting Hearts@PresHigh</em> aims
+<br>The school’s Learning for Life Programme (LLP) <em>– Igniting Hearts@PresHigh</em>  <em>– </em>aims
 to nurture all PresHighians to be Servant Leaders who Serve with Empathy,
-Lead with Humility, and Excel with Integrity.&nbsp;</p>
+Lead with Humility and Excel with Integrity.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/llp_line_art.jpg">
 </div>
 <p></p>
 <p><strong>Approach</strong>
-<br>The school’s LLP Framework is anchored in The Leadership Challenge Model
-(5 practices of exemplary leadership), and leverages the Design Thinking
+<br>The school’s LLP Framework is anchored in <em>The Leadership Challenge</em> model
+(five practices of exemplary leadership), and leverages the Design Thinking
 process as a key pedagogy.&nbsp; Through nurturing them holistically through
 the ‘Heads, Hearts and Hands’ approach, PresHighians are guided to learn
-how to lead themselves, lead others, and make a difference in our community.&nbsp;</p>
+how to lead themselves, lead others and make a difference in our community.&nbsp;</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -61,23 +61,14 @@ how to lead themselves, lead others, and make a difference in our community.&nbs
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>CF (Character First Lessons) –&nbsp;</p>
+<p>Character First (CF) Lessons –include introduction of executive functioning
+skills (e.g. planning, organisation, time management)&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Includes introduction of executive functioning skills (e.g. planning,
-organisation, time management)&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>LLP Lessons (Lower Sec)&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Includes customised modules based on The Leadership Challenge</p>
+<p>LLP Lessons (Lower Sec)&nbsp;include customised modules based on <em>The Leadership Challenge</em>
+</p>
 </li>
 </ul>
 <ul>
@@ -102,10 +93,10 @@ organisation, time management)&nbsp;</p>
 <ul>
 <li>
 <p>Additional leadership development opportunities (e.g. leadership workshops,
-Student Leadership Camp) based on The Leadership Challenge.</p>
+Student Leadership Camp) based on <em>The Leadership Challenge</em>.</p>
 </li>
 <li>
-<p>Partners teachers in leading and organising school-wide events such as
+<p>Partner teachers in leading and organisingschool-wide events, such as
 Sec 1 Orientation and Teachers’ Day Celebrations.</p>
 </li>
 </ul>
@@ -124,9 +115,9 @@ Sec 1 Orientation and Teachers’ Day Celebrations.</p>
 <ul>
 <li>
 <p>Stretch leadership opportunities, such as participation in leadership
-conferences or organising school-community events (e.g. the school’s annual
-Project Blessing, Chinese New Year Lohei with foreign workers, Student
-Leadership camp with Chaoyang School students, and Kindness Week).&nbsp;</p>
+conferences or organising school-community events (e.g. PHS's annual Project
+Blessing, Chinese New Year Lohei with foreign workers, Student Leadership
+camp with Chaoyang School students, and Kindness Week).&nbsp;</p>
 </li>
 </ul>
 <p></p>
