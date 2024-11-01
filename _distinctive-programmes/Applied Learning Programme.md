@@ -4,4 +4,131 @@ permalink: /distinctive-programmes/alp/
 variant: tiptap
 description: ""
 ---
-<h4>Applied Learning Programme: Health and Food Science</h4><h5>Our Programme</h5><p>The Applied Learning Programme (ALP) enhances all lower secondary students’ engagement with Science, Technology, Engineering &amp; Mathematics (STEM) through Health and Food Science. Students learn to craft innovative ideas and come up with sustainable and effective solutions for minimising virus transmissions. They also hone computational skills and knowledge as they ideate, code with micro:bit, and design prototypes to solve real-world problems.</p><h6>Our Approach</h6><ul><li><p>Tier 1</p><ul><li><p><strong>Sec 1 ALP: Health Stewards for Tomorrow</strong> <br>Tier 1 programmes expose students to organic chemistry and sustainability. Students learn to use the design thinking protocol to create a prototype of a soap product. They then test the efficacy of these products in reducing the transmission of viruses.</p><p>As part of their entrepreneurial journey, students also harness Artificial Intelligence to create innovative and sustainable packaging designs for their prototypes, e.g., using beeswax wrap.</p></li><li><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture 1.jpg"></div></li><li><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture%202.jpg"></div></li><li><p><strong>Sec 2 ALP: Coding to Strengthen Food Security</strong> <br>To support Singapore’s ‘30 by 30’ Green Plan, students apply computational thinking through micro:bit coding and create innovative prototypes. In the process, they collaborate with other students to refine their ideas and address diverse stakeholder needs.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture%203.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture%204.jpg"></div></li></ul></li><li><p>Tier 2</p><ul><li><p><strong>Learning Journeys &amp; STEM Competitions</strong><br>Tier 2 programmes aim to develop students’ passion in STEM through enriching learning journeys and exciting competitions.</p><p>Learning journeys to A*STAR Advanced Remanufacturing and Technology Centre forge a deep connection between classroom learning and real-world contexts, and introduce students to emerging technologies in industries and STEM-related careers.</p><p>Competitions, such as the Swift Explorer Singapore Competition, introduce students to the basics of Swift coding and inspire them to create apps to solve issues that they are passionate about – from helping the elderly and those with food allergies to improving mental wellness.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture%205.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/ALP/picture%206.jpeg"></div></li></ul></li></ul><p></p>
+<p><strong>Applied Learning Programme: STEM (Health &amp; Food Science)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Igniting Minds@PresHigh</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong>Vision</strong>
+</p>
+<p>&nbsp;</p>
+<p>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em> broadens
+students’ horizons in Science, Technology, Engineering &amp; Mathematics
+(STEM). Our programme aims to nurture all PresHighians to be <strong>Passionate Learners</strong> and <strong>Stewards of Tomorrow</strong> in
+the fields of Health and Food Science.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/1_Igniting_Minds_at_PresHigh.jpg">
+</div>
+<p><strong>Student Outcomes</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><em>Immerse</em></strong>
+</p>
+<p>Develop a deep knowledge in digital literacies and explore emerging technologies,
+including Artificial Intelligence (AI).</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><em>Ignite</em></strong>
+</p>
+<p>Cultivate a passion for STEM and be a changemaker to solve real-world
+challenges.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><em>Innovate</em></strong>
+</p>
+<p>Embrace a mindset of continuous learning and improvement, striving to
+create human-centric solutions.</p>
+<p>&nbsp;</p>
+<p><strong>Approach</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Tier 1: Programme for all PresHighians</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Our Tier 1 Programme focuses on developing <strong>computational thinking</strong> and <strong>design thinking skills</strong> among
+all PresHighians, to solve future challenges in Health and Food Sustainability.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Aligned with the <strong>Healthier SG Initiative</strong> and <strong>Singapore Green Plan 2030</strong>,
+students will apply coding through <strong>block-based programming</strong> and
+create innovative prototypes to address these challenges. In the Lower
+Secondary ALP lessons, students work collaboratively in teams to empathise
+with users, define their problem, ideate solutions, refine and test their
+prototypes to address user needs.</p>
+<p>&nbsp;</p>
+<p>Our Tier 1 programme will also integrate <strong>AI literacy</strong> into
+the curriculum. Students will learn about the principles of AI, machine
+learning and the ethical considerations of using AI. They will also be
+empowered with the knowledge to use AI tools responsibly, as well as how
+to critically evaluate AI-generated information to make good discernment.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/3_Tier_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/4_Tier_1.jpg">
+</div>
+<p><em>Students presenting their working prototypes in Tier 1 Lessons.</em>
+</p>
+<p></p>
+<p><strong>Tier 2</strong>: <strong>Interest-Based Programmes</strong>
+</p>
+<p>&nbsp;</p>
+<p>Our Tier 2 programme develops students with a deeper interest in STEM
+by providing rich opportunities for hands-on learning through workshops,
+learning journeys and industry attachments.</p>
+<p>&nbsp;</p>
+<p>Students will explore topics beyond the classroom, such as</p>
+<p>&nbsp;</p>
+<p>o&nbsp;&nbsp; Drone Adventure with Python Programming</p>
+<p>o&nbsp;&nbsp; Learning Journey and attachment to A*STAR&nbsp; Genome Institute
+of Singapore (GIS)</p>
+<p>o&nbsp;&nbsp; 3D printing workshops</p>
+<p>&nbsp;</p>
+<p>Through an active curation of external partnerships, our students get
+to deepen their learning with Institutes of Higher Learning and other industry-leading
+institutions. These experiences bridge classroom knowledge with real-world
+applications, exposing students to <strong>emerging technologies</strong> and
+helping them explore <strong>STEM-related careers</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/6_Tier_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_5_Tier_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/8_Tier_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/9_Tier_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/9_Tier_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
