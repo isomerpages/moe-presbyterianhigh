@@ -8,16 +8,15 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/football.jpg">
 </div>
-<p>The Football team strives to promote lifelong, sustainable, and active
+<p>The Football team strives to promote lifelong, sustainable and active
 involvement in football. Our teachers seek to provide opportunities for
 character development and foster teamwork and resilience among our footballers.
 Our footballers cultivate a growth mindset, embodying perseverance and
 a strong commitment to personal development.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>(Boys only)<br>Monday : 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
+<p><strong>(Boys only)<br>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
 </p>
-<p><strong>Venue</strong>
-<br><strong>Football Field<br></strong>
+<p><strong>Venue: Football Field<br></strong>
 </p>
 <h5>[Teachers-in-Charge]</h5>
 <p><strong>Mr Fu Chengwei (i/c)&nbsp;<br>Mr Ong Hong Wei <br></strong>
