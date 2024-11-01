@@ -27,8 +27,8 @@ independence, to challenge their abilities, and to build camaraderie and
 teamwork.</p>
 <p><strong>2. Sports Enrichment Programme</strong>
 <br>This programme introduces students to novel sports and activities such
-as golfing, bowling, and Kin-ball, thereby enriching their experiences
-and promoting class bonding.</p>
+as golfing, bowling and Kin-ball, thereby enriching their experiences and
+promoting class bonding.</p>
 <p><strong>3. Sports Fiesta</strong>
 <br>The Sports Fiesta includes track events, the Captain’s Ball Competition
 for Secondary One students and the Frisbee Competition for Secondary Two
