@@ -996,13 +996,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT ASSOCIATE</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Sim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edwin@preshigh.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -18,9 +18,9 @@ are not only resilient but they also embody core values, such as loyalty
 to country, uprightness, leadership, discipline, commitment, responsibility,
 care for fellow cadets and adventurous spirit.&nbsp;</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>(Boys only)<br>Friday : 1.30–4.30pm <br></strong>
+<p><strong>(Boys only)<br>Friday: 1.30–4.30pm <br></strong>
 </p>
-<p><strong>Venue<br>Parade Square/ Classroom</strong>
+<p><strong>Venue: Parade Square/ Classroom</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>

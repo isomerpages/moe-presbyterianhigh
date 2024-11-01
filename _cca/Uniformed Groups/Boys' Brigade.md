@@ -17,7 +17,7 @@ playing, community service, kayaking, knot tying and structure building.</p>
 <h5>[Timing for CCA]&nbsp;</h5>
 <p><strong>Monday: 3pm–5pm <br>Saturday: 8.30am–12pm<br></strong>
 </p>
-<p><strong>Venue<br>Parade Square / Classroom</strong>
+<p><strong>Venue: Parade Square / Classroom</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>

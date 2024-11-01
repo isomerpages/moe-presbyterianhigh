@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Applied Learning Programme: STEM (Health &amp; Food Science)</strong></h3>
 <h4><strong>Igniting Minds@PresHigh</strong></h4>
 <p><strong>Vision</strong>
-<br>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em> broadens
+<br>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em>  <em>– </em>broadens
 students’ horizons in Science, Technology, Engineering &amp; Mathematics
 (STEM). Our programme aims to nurture all PresHighians to be <strong>Passionate Learners</strong> and <strong>Stewards of Tomorrow</strong> in
 the fields of Health and Food Science.</p>
@@ -33,13 +33,13 @@ all PresHighians, to solve future challenges in Health and Food Sustainability.
 students will apply coding through <strong>block-based programming</strong> and
 create innovative prototypes to address these challenges. In the Lower
 Secondary ALP lessons, students work collaboratively in teams to empathise
-with users, define their problem, ideate solutions, refine and test their
-prototypes to address user needs.</p>
+with users, define their problem, ideate solutions, and refine and test
+their prototypes to address user needs.</p>
 <p>Our Tier 1 programme will also integrate <strong>AI literacy</strong> into
 the curriculum. Students will learn about the principles of AI, machine
 learning and the ethical considerations of using AI. They will also be
-empowered with the knowledge to use AI tools responsibly, as well as how
-to critically evaluate AI-generated information to make good discernment.</p>
+empowered with the knowledge to use AI tools responsibly, as well as to
+critically evaluate AI-generated information to make good discernment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
 </div>
@@ -64,11 +64,11 @@ to critically evaluate AI-generated information to make good discernment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Tier 2</strong>: <strong>Interest-Based Programmes</strong>
+<p><strong>Tier 2</strong>: <strong>Interest-Based Programme</strong>
 <br>Our Tier 2 programme develops students with a deeper interest in STEM
 by providing rich opportunities for hands-on learning through workshops,
-learning journeys and industry attachments.
-<br>Students will explore topics beyond the classroom, such as
+learning journeys and industry attachments. Students will explore topics
+beyond the classroom, such as:
 <br>
 <br>o&nbsp;Drone Adventure with Python Programming
 <br>o&nbsp;Learning Journey and attachment to A*STAR&nbsp; Genome Institute
@@ -118,10 +118,11 @@ helping them explore <strong>STEM-related careers</strong>.</p>
 </p>
 <p></p>
 <p><strong>Tier 3: Talent-Development Programme</strong>
-<br>Our Tier 3 Programme aims to challenge and stretch students who has both
+<br>Our Tier 3 Programme aims to challenge and stretch students who have both
 aptitude and passion for STEM. This tier provides students with opportunities
-to participate in <strong>competitions</strong>, pursue <strong>self-initiated projects</strong>,
-and take on <strong>mentorship roles</strong> to guide and inspire juniors.
+to participate in <strong>competitions</strong>, pursue <strong>self-initiated projects</strong> and
+take on <strong>mentorship roles</strong> to guide and inspire juniors.
+<br>
 <br>Students in this tier will gain hands-on experience and deepen their skills
 through STEM competitions such as:
 <br>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)
@@ -156,11 +157,11 @@ to hone their digital competencies, harness emerging technologies in Health
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/15_1Tier_3.jpg">
 </div>
-<p><em>Presentation of app at Raffles Girls School for Swift Accelerator Programme</em>
+<p><em>Presentation of app at Raffles Girls' School for Swift Accelerator Programme</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/13_Tier_3.jpg">
 </div>
-<p><em>Tier 3 mentor guiding junior in their STEM competition.</em>
+<p><em>Tier 3 mentor guiding juniors in their STEM competition</em>
 </p>
 <p></p>

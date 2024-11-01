@@ -10,20 +10,20 @@ variant: tiptap
 </div>
 <p>The Audio Engineering Club aims to cultivate students’ skills in audio
 reinforcement for live concerts and emerging technologies in New Media.
-It provides valuable&nbsp; hands-on learning opportunities for students
-to sharpen their communication and leadership skills. Comprising a dedicated
-group of students, the club also serves the school diligently and responsibly
+It provides valuable hands-on learning opportunities for students to sharpen
+their communication and leadership skills. Comprising a dedicated group
+of students, the club also serves the school diligently and responsibly
 in various events and programmes throughout the year. By extending their
 support during school events, the club inculcates values and builds character
 and resilience in students.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Monday: 3pm–5.30pm </strong>
-<br><strong>Wednesday: 3pm–5.30pm <br></strong>
+<p><strong>Monday: 3–5.30pm </strong>
+<br><strong>Wednesday: 3–5.30pm <br></strong>
 </p>
-<p><strong>Venue<br>Bethel Hall, Gallery Level 3</strong>
+<p><strong>Venue: Bethel Hall, Gallery Level 3</strong>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun(CAJT)</strong>
+<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun (CAJT)</strong>
 </p>
 <p></p>
