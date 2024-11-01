@@ -159,25 +159,31 @@ to hone their digital competencies, harness emerging technologies in Health
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/11_Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Presentation of shortlisted app at Apple Store Orchard for App Design Challenge</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/12_Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Presentation of shortlisted app at Crescent Girls’ School for App Development Challenge</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/15_Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Presentation of prototype at Republic Polytechnic for Health &amp; Food Science Competition</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/14Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Presentation of winning prototype at Science Centre</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/15_1Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Presentation of app at Raffles Girls School for Swift Accelerator Programme</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/13_Tier_3.jpg">
 </div>
-<p></p>
+<p><em>Tier 3 mentor guiding junior in their STEM competition.</em>
+</p>
 <p></p>
