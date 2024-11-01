@@ -17,7 +17,7 @@ Lead with Humility and Excel with Integrity.&nbsp;</p>
 <p><strong>Approach</strong>
 <br>The school’s LLP Framework is anchored in <em>The Leadership Challenge</em> model
 (five practices of exemplary leadership), and leverages the Design Thinking
-process as a key pedagogy.&nbsp; Through nurturing them holistically through
+process as a key pedagogy. Through nurturing them holistically through
 the ‘Heads, Hearts and Hands’ approach, PresHighians are guided to learn
 how to lead themselves, lead others and make a difference in our community.&nbsp;</p>
 <p></p>
@@ -96,7 +96,7 @@ skills (e.g. planning, organisation, time management)&nbsp;</p>
 Student Leadership Camp) based on <em>The Leadership Challenge</em>.</p>
 </li>
 <li>
-<p>Partner teachers in leading and organisingschool-wide events, such as
+<p>Partners teachers in leading and organisinschool-wide events, such as
 Sec 1 Orientation and Teachers’ Day Celebrations.</p>
 </li>
 </ul>
