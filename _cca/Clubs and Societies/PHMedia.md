@@ -16,9 +16,9 @@ of school publicity. To nurture confidence, our Upper Secondary members
 are given opportunities to engage in public speaking and conduct enrichment
 courses on video editing for their juniors.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Wednesday: 3pm–5pm<br></strong>
+<p><strong>Wednesday: 3–5pm<br></strong>
 </p>
-<p><strong>Venue<br>Computer Lab 4</strong>
+<p><strong>Venue: Computer Lab 4</strong>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
