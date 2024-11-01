@@ -15,8 +15,8 @@ skills, build their character and cultivate a strong sense of teamwork.</p>
 <h5>Days and Time of Training</h5>
 <p><strong>(Boys and Girls) <br>Monday: 3–5.30pm&nbsp;<br>Wednesday: 3–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
 </p>
-<p><strong>Venue <br>Rifle Range Room</strong>
+<p><strong>Venue: Rifle Range Room</strong>
 </p>
 <h5>Teachers-in-Charge</h5>
-<p><strong>Mr Li Mingzhu (OIC)&nbsp;<br>Mdm Herlina Abdullah&nbsp;<br>Mdm Chua Min Hui&nbsp;<br>Ms Jocelyn Lau<br></strong>
+<p><strong>Mr Li Mingzhu (i/c)&nbsp;<br>Mdm Herlina Abdullah&nbsp;<br>Mdm Chua Min Hui&nbsp;<br>Ms Jocelyn Lau<br></strong>
 </p>
