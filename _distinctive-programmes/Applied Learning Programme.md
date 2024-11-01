@@ -4,80 +4,48 @@ permalink: /distinctive-programmes/alp/
 variant: tiptap
 description: ""
 ---
-<p><strong>Applied Learning Programme: STEM (Health &amp; Food Science)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Igniting Minds@PresHigh</strong>
-</p>
-<p>&nbsp;</p>
+<h3><strong>Applied Learning Programme: STEM (Health &amp; Food Science)</strong></h3>
+<h4><strong>Igniting Minds@PresHigh</strong></h4>
 <p><strong>Vision</strong>
-</p>
-<p>&nbsp;</p>
-<p>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em> broadens
+<br>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em> broadens
 students’ horizons in Science, Technology, Engineering &amp; Mathematics
 (STEM). Our programme aims to nurture all PresHighians to be <strong>Passionate Learners</strong> and <strong>Stewards of Tomorrow</strong> in
 the fields of Health and Food Science.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/1_Igniting_Minds_at_PresHigh.jpg">
 </div>
-<p><strong>Student Outcomes</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Student Outcomes</strong></h4>
 <p><strong><em>Immerse</em></strong>
-</p>
-<p>Develop a deep knowledge in digital literacies and explore emerging technologies,
+<br>Develop a deep knowledge in digital literacies and explore emerging technologies,
 including Artificial Intelligence (AI).</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><em>Ignite</em></strong>
-</p>
-<p>Cultivate a passion for STEM and be a changemaker to solve real-world
+<br>Cultivate a passion for STEM and be a changemaker to solve real-world
 challenges.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><em>Innovate</em></strong>
-</p>
-<p>Embrace a mindset of continuous learning and improvement, striving to
+<br>Embrace a mindset of continuous learning and improvement, striving to
 create human-centric solutions.</p>
-<p>&nbsp;</p>
-<p><strong>Approach</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Approach</strong></h4>
 <p><strong>Tier 1: Programme for all PresHighians</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Our Tier 1 Programme focuses on developing <strong>computational thinking</strong> and <strong>design thinking skills</strong> among
-all PresHighians, to solve future challenges in Health and Food Sustainability.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Aligned with the <strong>Healthier SG Initiative</strong> and <strong>Singapore Green Plan 2030</strong>,
+<br>Our Tier 1 Programme focuses on developing <strong>computational thinking</strong> and <strong>design thinking skills</strong> among
+all PresHighians, to solve future challenges in Health and Food Sustainability.
+<br>
+<br>Aligned with the <strong>Healthier SG Initiative</strong> and <strong>Singapore Green Plan 2030</strong>,
 students will apply coding through <strong>block-based programming</strong> and
 create innovative prototypes to address these challenges. In the Lower
 Secondary ALP lessons, students work collaboratively in teams to empathise
 with users, define their problem, ideate solutions, refine and test their
 prototypes to address user needs.</p>
-<p>&nbsp;</p>
 <p>Our Tier 1 programme will also integrate <strong>AI literacy</strong> into
 the curriculum. Students will learn about the principles of AI, machine
 learning and the ethical considerations of using AI. They will also be
 empowered with the knowledge to use AI tools responsibly, as well as how
 to critically evaluate AI-generated information to make good discernment.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/3_Tier_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/4_Tier_1.jpg">
 </div>
