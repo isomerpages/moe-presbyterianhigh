@@ -15,7 +15,7 @@ to be key in the holistic development of the Boys. Values are inculcated
 during drills and through activities, such as leadership camps, bagpipe
 playing, community service, kayaking, knot tying and structure building.</p>
 <h5>[Timing for CCA]&nbsp;</h5>
-<p><strong>Monday: 3pm–5pm <br>Saturday: 8.30am–12pm<br></strong>
+<p><strong>Monday: 3–5pm <br>Saturday: 8.30am–12pm<br></strong>
 </p>
 <p><strong>Venue: Parade Square / Classroom</strong>
 </p>
