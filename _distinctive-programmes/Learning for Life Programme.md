@@ -61,19 +61,23 @@ how to lead themselves, lead others and make a difference in our community.&nbsp
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Character First (CF) Lessons –include introduction of executive functioning
-skills (e.g. planning, organisation, time management)&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>LLP Lessons (Lower Sec)&nbsp;include customised modules based on <em>The Leadership Challenge</em>
+<p>Character First (CF) Lessons – include introduction of executive functioning
+skills (e.g. planning, organisation, time management)&nbsp;
+<br>
 </p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Class Values-In-Action (VIA) Projects&nbsp;</p>
+<p>LLP Lessons (Lower Sec) –&nbsp;include customised modules based on <em>The Leadership Challenge</em>
+</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Class Values-In-Action (VIA) Projects&nbsp;
+<br>
+</p>
 </li>
 <li>
 <p>CCA VIA Projects</p>
