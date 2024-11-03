@@ -14,7 +14,7 @@ character development and foster teamwork and resilience among our footballers.
 Our footballers cultivate a growth mindset, embodying perseverance and
 a strong commitment to personal development.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>(Boys only)<br>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
+<p><strong>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
 </p>
 <p><strong>Venue: Football Field<br></strong>
 </p>
