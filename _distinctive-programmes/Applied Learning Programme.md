@@ -126,8 +126,8 @@ take on <strong>mentorship roles</strong> to guide and inspire juniors.
 <br>Students in this tier will gain hands-on experience and deepen their skills
 through STEM competitions such as:
 <br>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)
-<br>o&nbsp;&nbsp; App Design Challenge
-<br>o&nbsp;&nbsp; App Development Challenge
+<br>- App Design Challenge
+<br>- App Development Challenge
 <br>o&nbsp;&nbsp; Health &amp; Food Science Competition (STEM Inc)
 <br>o&nbsp;&nbsp; S1 Cluster Design Innovation Challenge
 <br>o&nbsp;&nbsp; National Youth AI Prompt Challenge</p>
