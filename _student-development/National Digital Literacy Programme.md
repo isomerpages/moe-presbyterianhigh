@@ -3,7 +3,6 @@ title: National Digital Literacy Programme
 permalink: /student-development/national-digital-literacy-prog/national-digital-literacy-programme/
 variant: tiptap
 description: ""
-third_nav_title: National Digital Literacy Prog
 ---
 <h1><strong>National Digital Literacy Programme</strong></h1>
 <p><strong>Digital technology is becoming increasingly pervasive in&nbsp; jobs, workplaces and society.</strong> The
@@ -74,7 +73,7 @@ child, and to&nbsp;help administer the device to enhance teaching and learning.<
 <p>Introductory sessions to key ICT platforms for all Secondary One students&nbsp;i.e.&nbsp;Preshigh&nbsp;email</p>
 </li>
 <li>
-<p><strong>Home-based Learning Day</strong> for Sec 1 – 3&nbsp;to&nbsp;familiarise&nbsp;students
+<p><strong>Home-based Learning Days</strong> for Sec 1 – 3&nbsp;to&nbsp;familiarise&nbsp;students
 on home-based learning and self-directed learning using&nbsp;technology</p>
 </li>
 <li>

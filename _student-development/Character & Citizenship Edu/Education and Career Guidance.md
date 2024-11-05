@@ -65,8 +65,6 @@ Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness
 <p>CCE is enacted intentionally through learning platforms such as Character
 First (CF) Lessons, key Student Development Experiences (SDEs), school-based
 initiatives, other subject lessons and learning experiences beyond school.</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
