@@ -17,7 +17,8 @@ by providing the cadets with opportunities to participate in authentic
 police programmes, such as Crime Scene Investigation, Crime Prevention
 and adventure training camps.</p>
 <h5>[Timing for CCA]</h5>
-<p><strong>Friday: 2–5.30pm<br>Venue: NPCC Room / Classroom<br></strong>
+<p><strong>Friday: 2–5.30pm</strong>
+<br><strong><br>Venue: NPCC Room / Classroom<br></strong>
 </p>
 <h5>[Teachers-in-charge]</h5>
 <p><strong>Mr Norhidayat (i/c)&nbsp;<br>Ms Seah Li Ping <br>Ms Sivakami Senthil Murugan<br></strong>

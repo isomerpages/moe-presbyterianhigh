@@ -15,21 +15,21 @@ third_nav_title: Direct School Admission
 <p>The school provides a range of opportunities for students to learn and
 practise personal and community leadership, and to nurture the school values
 of Resilience, Integrity, Courage, Empathy, and Excellence.&nbsp; All students
-will participate in customised LLP modules based on The Leadership Challenge
-by James Kouzes and Barry Z. Posner in Lower Secondary.&nbsp; They will
-also learn about the Design Thinking process through the planning of Values-In-Action
+will participate in customised LLP modules based on <em>The Leadership Challenge</em> by
+James Kouzes and Barry Z. Posner in Lower Secondary.&nbsp; They will also
+learn about the Design Thinking process through the planning of Values-In-Action
 (VIA) projects.</p>
 <p>The school’s Character First and Student Leadership Development Programmes
 also seek to develop the potential of every student to build character,
-hone leadership, and strengthen a heart for service.&nbsp; Various student
+hone leadership and strengthen a heart for service.&nbsp;Various student
 leadership opportunities are also provided.&nbsp; These aim to develop
-PresHighians to lead themselves, lead others, and make a difference to
-their community.&nbsp; &nbsp;</p>
+PresHighians to lead themselves, lead others and make a difference to their
+community.&nbsp; &nbsp;</p>
 <p><strong>SELECTION CRITERIA</strong>
 </p>
 <p><em>LEADERSHIP</em>
 </p>
-<p>Students have assumed a leadership role in Primary School e.g. Prefect,
+<p>Students have assumed a leadership role in Primary School, e.g. Prefect,
 Class Monitor, CCA Leader&nbsp;</p>
 <p><strong>OR</strong>
 </p>
