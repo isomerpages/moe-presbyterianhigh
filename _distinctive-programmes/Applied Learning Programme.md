@@ -9,8 +9,8 @@ description: ""
 <p><strong>Vision</strong>
 <br>The school’s Applied Learning Programme (ALP) <em>– Igniting Minds@PresHigh</em>  <em>– </em>broadens
 students’ horizons in Science, Technology, Engineering &amp; Mathematics
-(STEM). Our programme aims to nurture all PresHighians to be <strong>Passionate Learners</strong> and <strong>Stewards of Tomorrow</strong> in
-the fields of Health and Food Science.</p>
+(STEM). Our programme aims to nurture all PresHighians to be Passionate
+Learners and Stewards of Tomorrow in the fields of Health and Food Science.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/1_Igniting_Minds_at_PresHigh.jpg">
 </div>
@@ -26,20 +26,21 @@ challenges.</p>
 create human-centric solutions.</p>
 <h4><strong>Approach</strong></h4>
 <p><strong>Tier 1: Programme for all PresHighians</strong>
-<br>Our Tier 1 Programme focuses on developing <strong>computational thinking</strong> and <strong>design thinking skills</strong> among
-all PresHighians, to solve future challenges in Health and Food Sustainability.
+<br>Our Tier 1 Programme focuses on developing computational thinking and
+design thinking skills among all PresHighians, to solve future challenges
+in Health and Food Sustainability.
 <br>
-<br>Aligned with the <strong>Healthier SG Initiative</strong> and <strong>Singapore Green Plan 2030</strong>,
-students will apply coding through <strong>block-based programming</strong> and
-create innovative prototypes to address these challenges. In the Lower
-Secondary ALP lessons, students work collaboratively in teams to empathise
-with users, define their problem, ideate solutions, and refine and test
-their prototypes to address user needs.</p>
-<p>Our Tier 1 programme will also integrate <strong>AI literacy</strong> into
-the curriculum. Students will learn about the principles of AI, machine
-learning and the ethical considerations of using AI. They will also be
-empowered with the knowledge to use AI tools responsibly, as well as to
-critically evaluate AI-generated information to make good discernment.</p>
+<br>Aligned with the Healthier SG Initiative and Singapore Green Plan 2030,
+students will apply coding through block-based programming and create innovative
+prototypes to address these challenges. In the Lower Secondary ALP lessons,
+students work collaboratively in teams to empathise with users, define
+their problem, ideate solutions, and refine and test their prototypes to
+address user needs.</p>
+<p>Our Tier 1 programme will also integrate AI literacy into the curriculum.
+Students will learn about the principles of AI, machine learning and the
+ethical considerations of using AI. They will also be empowered with the
+knowledge to use AI tools responsibly, as well as to critically evaluate
+AI-generated information to make good discernment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/2_Tier_1.jpg">
 </div>
