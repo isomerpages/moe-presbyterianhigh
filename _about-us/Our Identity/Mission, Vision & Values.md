@@ -45,8 +45,17 @@ Presbyterian Churches all over the world.&nbsp; It encourages us to be
 honest and upright, and to exemplify the school values with God as our
 Creator and Guide.&nbsp;</p>
 <hr>
-<h3>Biblical Heritage<br></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_08_22_09_50_20_PowerPoint_Slide_Show_____Envisioning___Biblical_Heritage_Descriptors__Endorsed_.png">
-</div>
+<h3>Biblical Heritage</h3>
+<p><strong>焚而不毁 (fén ér bù huǐ)</strong>
+<br>Exodus 3:1-12
+<br>Like the burning bush that was not consumed, we stand firm in God’s faithfulness
+and presence.&nbsp;</p>
+<p>
+<br>Our biblical heritage reminds us of God's faithfulness to all generations
+of staff and students of PHS. Today, in a volatile and complex world, our
+biblical heritage anchors us in God, connects us to the Presbyterian community,
+and affirms our role as a mission school, with humble beginnings as a rural
+Chinese school. Inspired by our heritage, we will continue to place our
+hope in God, confident that He will strengthen us, and serve our neighbours
+with love</p>
 <p></p>
