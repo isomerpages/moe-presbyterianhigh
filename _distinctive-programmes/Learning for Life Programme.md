@@ -76,9 +76,7 @@ functioning skills (e.g. planning, organisation, time management)&nbsp;
 </ul>
 <ul>
 <li>
-<p>Class Values-In-Action (VIA) Projects&nbsp;
-<br>
-</p>
+<p>Class Values-In-Action (VIA) Projects&nbsp;</p>
 </li>
 <li>
 <p>CCA VIA Projects</p>
