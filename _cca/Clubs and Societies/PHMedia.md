@@ -15,9 +15,9 @@ camera to capture pictures and videos, and editing them for the purposes
 of school publicity. To nurture confidence, our Upper Secondary members
 are given opportunities to engage in public speaking and conduct enrichment
 courses on video editing for their juniors.</p>
-<p><strong>Wednesday: 3–5pm</strong>
-</p>
-<p><strong>Venue: Computer Lab 4</strong>
+<p>
+<br><strong>Wednesday: 3–5pm</strong>
+<br><strong>Venue: Computer Lab 4</strong>
 <br>
 </p>
 <h5>Teachers-in-charge</h5>
