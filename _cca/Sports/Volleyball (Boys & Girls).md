@@ -16,7 +16,7 @@ practise humility and learn the importance of teamwork. &nbsp;</p>
 <h5>[Timing for CCA]</h5>
 <p><strong>(Girls)<br>Monday: 2.45–5.45pm<br>Tuesday: 2.45–5.45pm <br>Friday: 1–3.30pm&nbsp;</strong>
 <br><strong>Selected Saturdays in the term<br></strong>
-<br>(<strong>Boys)<br>Tuesday: 2.45–5.45pm<br>Wednesday: 2.45–5.45pm <br>Friday: 2.30–5pm </strong>
+<br><strong>(Boys)<br>Tuesday: 2.45–5.45pm<br>Wednesday: 2.45–5.45pm <br>Friday: 2.30–5pm </strong>
 <br><strong>Selected Saturdays in the term</strong>
 </p>
 <p>
