@@ -22,7 +22,7 @@ courses on video editing for their juniors.</p>
 <br>
 </p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Mr Clement Yew (i/c) <br>Ms N Amala <br>Mr Fabian Lim (FAJT) </strong>
+<p><strong>Mr Clement Yew (i/c) <br>Ms N Amala <br>Mr Fabian Lim  </strong>
 <br>
 </p>
 <p></p>
