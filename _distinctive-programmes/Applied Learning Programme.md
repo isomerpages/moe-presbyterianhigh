@@ -58,7 +58,7 @@ critically evaluate AI-generated information to make good discernment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em>Students presenting their working prototypes in Tier 1 Lessons.</em>
+<p><em>Students presenting their working prototypes in Tier 1 Lessons</em>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ helping them explore <strong>STEM-related careers</strong>.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
+<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying</em>
 </p>
 </td>
 </tr>
@@ -99,22 +99,22 @@ helping them explore <strong>STEM-related careers</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_5_Tier_2.jpg">
 </div>
-<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying.</em>
+<p><em>Tier 2 students work in teams to apply their Python programming skills in autonomous drone flying</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/8_Tier_2.jpg">
 </div>
-<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding.</em>
+<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/9_Tier_2.jpg">
 </div>
-<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding.</em>
+<p><em>Tier 2 students facilitating a workshop on micro:bit block-based coding</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/10_Tier_2.jpg">
 </div>
-<p><em>Tier 2 students participating in a learning journey to Republic Polytechnic.</em>
+<p><em>Tier 2 students participating in a learning journey to Republic Polytechnic</em>
 </p>
 <p></p>
 <p><strong>Tier 3: Talent-Development Programme</strong>
