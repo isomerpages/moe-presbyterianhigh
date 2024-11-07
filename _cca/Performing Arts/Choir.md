@@ -15,11 +15,10 @@ choral training not only stands them in good stead to participate in the
 Singapore Youth Festival Arts Presentation and performances in school and
 in public, but also builds their confidence, leadership skills and character.
 Collectively, the choir produces music that a singer alone cannot create.&nbsp;</p>
-<h5>[Timing for CCA]</h5>
-<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45–4pm <br>Additional practices in SYF year</strong>
-<br><strong> <br>Venue: Music Room Level 4</strong>
+<h5></h5>
+<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45–4pm <br>Additional practices in SYF year<br>Venue: Music Room Level 4</strong>
 </p>
 <p></p>
-<h5>[Teachers-in-charge]</h5>
+<h5>Teachers-in-charge</h5>
 <p><strong>Ms Ong Bi Ru (i/c) <br>Ms Ng Wan Jee<br>Mr Tan Tee Wee<br></strong>
 </p>
