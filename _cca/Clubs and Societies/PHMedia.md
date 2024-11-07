@@ -15,14 +15,13 @@ camera to capture pictures and videos, and editing them for the purposes
 of school publicity. To nurture confidence, our Upper Secondary members
 are given opportunities to engage in public speaking and conduct enrichment
 courses on video editing for their juniors.</p>
-<h5>[Timing for CCA]</h5>
-<p><strong>Wednesday: 3–5pm<br></strong>
+<p><strong>Wednesday: 3–5pm</strong>
 </p>
 <p><strong>Venue: Computer Lab 4</strong>
 <br>
 </p>
-<h5>[Teachers-in-charge]</h5>
-<p><strong>Mr Clement Yew (i/c) <br>Ms N Amala <br>Mr Fabian Lim  </strong>
+<h5>Teachers-in-charge</h5>
+<p><strong>Mr Clement Yew (i/c) <br>Ms N Amala <br>Mr Fabian Lim </strong>
 <br>
 </p>
 <p></p>
