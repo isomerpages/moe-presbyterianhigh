@@ -78,8 +78,8 @@ of Singapore (GIS)
 <p>Through an active curation of external partnerships, our students get
 to deepen their learning with Institutes of Higher Learning and other industry-leading
 institutions. These experiences bridge classroom knowledge with real-world
-applications, exposing students to <strong>emerging technologies</strong> and
-helping them explore <strong>STEM-related careers</strong>.</p>
+applications, exposing students to emerging technologies and helping them
+explore STEM-related<strong> </strong>careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ALP/7_Tier_2.jpg">
 </div>
