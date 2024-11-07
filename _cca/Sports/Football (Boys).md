@@ -13,11 +13,10 @@ involvement in football. Our teachers seek to provide opportunities for
 character development and foster teamwork and resilience among our footballers.
 Our footballers cultivate a growth mindset, embodying perseverance and
 a strong commitment to personal development.</p>
-<h5>[Timing for CCA]</h5>
-<p><strong>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm<br></strong>
+<h5></h5>
+<p><strong>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm</strong>
+<br><strong>Venue: Football Field<br></strong>
 </p>
-<p><strong>Venue: Football Field<br></strong>
-</p>
-<h5>[Teachers-in-Charge]</h5>
+<h5>Teachers-in-Charge</h5>
 <p><strong>Mr Fu Chengwei (i/c)&nbsp;<br>Mr Ong Hong Wei <br></strong>
 </p>
