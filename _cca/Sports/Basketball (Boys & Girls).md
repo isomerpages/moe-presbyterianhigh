@@ -20,17 +20,16 @@ our basketballers to attain remarkable success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/basketball2.jpg">
 </div>
-<h5>[Timing for CCA]</h5>
-<p><strong>(Girls)<br>Monday: 3–5.30pm </strong>
+<p>
+<br><strong>(Girls)<br>Monday: 3–5.30pm </strong>
 <br><strong>Friday: 1–3pm<br>Saturday: 7.30–10am&nbsp;<br></strong>
 </p>
-<h5>[Teachers-in-charge]</h5>
+<h5>Teachers-in-charge</h5>
 <p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin<br></strong>
 </p>
-<h5>[Timing for CCA]</h5>
 <p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 7.30–10am&nbsp;</strong>
 </p>
 <p></p>
-<h5>[Teachers-in-charge]</h5>
+<h5>Teachers-in-charge</h5>
 <p><strong>Mr Steven Ong (i/c)<br>Ms Rekha d/o Gopal Chandradas<br>Mdm Siti Aisha Binte Kassim</strong>
 </p>
