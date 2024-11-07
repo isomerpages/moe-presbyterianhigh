@@ -24,6 +24,6 @@ and resilience in students.</p>
 </p>
 <p></p>
 <h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun (CAJT)</strong>
+<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun </strong>
 </p>
 <p></p>
