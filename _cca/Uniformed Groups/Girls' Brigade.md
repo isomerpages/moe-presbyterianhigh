@@ -13,11 +13,9 @@ by equipping, empowering and enabling every Girl to be a leader. To fulfil
 this mission, the GB programme involves each Girl in badgework activities
 and community service. This cultivates character and values, while strengthening
 the Girls’ sisterhood and camaraderie.</p>
-<h5>[Timing for CCA]</h5>
-<p><strong>Friday: 2–5pm <br>Saturday: 8–11am <br></strong>
+<p><strong>Friday: 2–5pm <br>Saturday: 8–11am </strong>
+<br><strong>Venue: Chapel Basement / Classroom<br></strong>
 </p>
-<p><strong>Venue: Chapel Basement / Classroom<br></strong>
-</p>
-<h5>[Teachers-in-charge]</h5>
+<h5>Teachers-in-charge</h5>
 <p><strong>Mdm Sudha Joseph (i/c)<br>Ms Li Wei<br>Ms Cynthia Lim<br></strong>
 </p>
