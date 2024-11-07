@@ -4,9 +4,6 @@ permalink: /academic-departments/Science/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Science</strong></h1>
-<p><strong>Science Department</strong>
-</p>
 <p><strong>Our Vision</strong>
 <br>Every PresHighian a passionate STEM (Science, Technology, Engineering
 and Math) learner who endeavours to be:</p>
