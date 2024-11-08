@@ -4,7 +4,7 @@ permalink: /academic-departments/craft-and-technology/
 description: ""
 variant: tiptap
 ---
-<h1>Our Vision</h1>
+<h3>Our Vision</h3>
 <p>PresHighians as critical thinkers and independent, passionate learners
 who explore, imagine and create opportunities to bless the community.</p>
 <h3>Our Approach</h3>
