@@ -4,7 +4,7 @@ permalink: /academic-departments/mother-tongue-languages/
 description: ""
 variant: markdown
 ---
-<h2>Our Vision</h2>
+<h3>Our Vision</h3>
 
 Students who stay rooted while embracing the future
 
