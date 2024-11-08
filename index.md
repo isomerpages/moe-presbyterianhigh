@@ -15,5 +15,8 @@ sections:
         - title: Home-Based Learning
           description: ""
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
+        - title: PHS Open House 2024
+          description: Watch this space
+          url: ""
       background: /images/websites landing 1-4-3.jpg
 ---
