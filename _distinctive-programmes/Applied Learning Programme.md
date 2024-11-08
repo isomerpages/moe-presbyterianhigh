@@ -17,13 +17,13 @@ Learners and Stewards of Tomorrow in the fields of Health and Food Science.</p>
 <h4><strong>Student Outcomes</strong></h4>
 <p><strong><em>Immerse</em></strong>
 <br>Develop a deep knowledge in digital literacies and explore emerging technologies,
-including Artificial Intelligence (AI).</p>
+including Artificial Intelligence (AI)</p>
 <p><strong><em>Ignite</em></strong>
 <br>Cultivate a passion for STEM and be a changemaker to solve real-world
-challenges.</p>
+challenges</p>
 <p><strong><em>Innovate</em></strong>
 <br>Embrace a mindset of continuous learning and improvement, striving to
-create human-centric solutions.</p>
+create human-centric solutions</p>
 <h4><strong>Approach</strong></h4>
 <p><strong>Tier 1: Programme for all PresHighians</strong>
 <br>Our Tier 1 Programme focuses on developing computational thinking and
