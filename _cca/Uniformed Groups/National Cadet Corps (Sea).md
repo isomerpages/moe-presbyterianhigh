@@ -18,12 +18,11 @@ earned when they acquire the related skills and competencies. Our cadets
 are not only resilient but they also embody core values, such as loyalty
 to country, uprightness, leadership, discipline, commitment, responsibility,
 care for fellow cadets and adventurous spirit.&nbsp;</p>
-<h5>[Timing for CCA]</h5>
-<p><strong>(Boys only)<br>Friday: 1.30–4.30pm <br></strong>
-</p>
-<p><strong>Venue: Parade Square/ Classroom</strong>
+<p>
+<br><strong>(Boys only)<br>Friday: 1.30–4.30pm </strong>
+<br><strong>Venue: Parade Square/ Classroom</strong>
 </p>
 <p></p>
-<h5>[Teachers-in-charge]</h5>
+<h5>Teachers-in-charge</h5>
 <p><strong>Mr Gregory Quek (i/c)&nbsp;<br>Mdm Michelle Chiu<br>Mr Lim Ke Hong<br></strong>
 </p>

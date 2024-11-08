@@ -16,14 +16,12 @@ of students, the club also serves the school diligently and responsibly
 in various events and programmes throughout the year. By extending their
 support during school events, the club inculcates values and builds character
 and resilience in students.</p>
-<h5>[Timing for CCA]</h5>
 <p><strong>Monday: 3–5.30pm </strong>
-<br><strong>Wednesday: 3–5.30pm <br></strong>
-</p>
-<p><strong>Venue: Bethel Hall, Gallery Level 3</strong>
+<br><strong>Wednesday: 3–5.30pm </strong>
+<br><strong>Venue: Bethel Hall, Gallery Level 3</strong>
 </p>
 <p></p>
-<h5>[Teachers-in-charge]</h5>
-<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun (CAJT)</strong>
+<h5>Teachers-in-charge</h5>
+<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Mr Wong Shao Mun</strong>
 </p>
 <p></p>
