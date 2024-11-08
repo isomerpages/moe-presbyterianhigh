@@ -1,7 +1,7 @@
 ---
 title: Applied Learning Programme
 permalink: /distinctive-programmes/alp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>Applied Learning Programme: STEM (Health &amp; Food Science)</strong></h3>
@@ -71,12 +71,19 @@ by providing rich opportunities for hands-on learning through workshops,
 learning journeys and industry attachments. Students will explore topics
 beyond the classroom, such as:
 <br>
-	</p><ul>
-<li>Drone Adventure with Python Programming
-</li><li>Learning Journey and attachment to A*STAR&nbsp; Genome Institute
-of Singapore (GIS)
-</li><li>3D printing workshops
-</li></ul>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drone Adventure with Python Programming</p>
+</li>
+<li>
+<p>Learning Journey and attachment to A*STAR&nbsp; Genome Institute of Singapore
+(GIS)</p>
+</li>
+<li>
+<p>3D printing workshops</p>
+</li>
+</ul>
 <p></p>
 <p>Through an active curation of external partnerships, our students get
 to deepen their learning with Institutes of Higher Learning and other industry-leading
@@ -124,19 +131,24 @@ explore STEM-related<strong> </strong>careers.</p>
 <p><strong>Tier 3: Talent-Development Programme</strong>
 <br>Our Tier 3 Programme aims to challenge and stretch students who have both
 aptitude and passion for STEM. This tier provides students with opportunities
-to participate in <strong>competitions</strong>, pursue <strong>self-initiated projects</strong> and
-take on <strong>mentorship roles</strong> to guide and inspire juniors.
+to participate in competitions, pursue self-initiated projects and take
+on mentorship roles to guide and inspire juniors.
 <br>
 <br>Students in this tier will gain hands-on experience and deepen their skills
-through STEM competitions such as:
-	</p><ul>
-<li> Swift Explorers Singapore (Apple)
+through STEM competitions such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Swift Explorers Singapore (Apple)
 <br>- App Design Challenge
-<br>- App Development Challenge
-</li><li>Health &amp; Food Science Competition (STEM Inc)
+<br>- App Development Challenge</p>
+</li>
+<li>
+<p>Health &amp; Food Science Competition (STEM Inc)
 <br>- S1 Cluster Design Innovation Challenge
-<br>- National Youth AI Prompt Challenge
-		</li></ul><p></p>
+<br>- National Youth AI Prompt Challenge</p>
+</li>
+</ul>
+<p></p>
 <p>Our tiered developmental approach seeks to encourage all PresHighians
 to hone their digital competencies, harness emerging technologies in Health
 &amp; Food Science, and become creative and collaborative Stewards of Tomorrow.</p>
