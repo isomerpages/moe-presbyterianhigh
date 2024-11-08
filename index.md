@@ -18,7 +18,7 @@ sections:
         - title: Home-Based Learning
           description: ""
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
-      background: /images/websites landing 1-4-3.jpg
+      background: /images/2024/web_banner_1.jpg
   - infopic:
       title: Presbyterian High School Open House
       id: infopic
