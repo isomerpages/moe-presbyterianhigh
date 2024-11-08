@@ -4,7 +4,7 @@ permalink: /academic-departments/Mathematics/
 description: ""
 variant: tiptap
 ---
-<h2>Our Vision</h2>
+<h3>Our Vision</h3>
 <p>Every PresHighian a resilient problem solver who is self-directed and
 has an appreciation for Mathematics</p>
 <h3>Our Approach</h3>
