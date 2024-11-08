@@ -71,10 +71,13 @@ by providing rich opportunities for hands-on learning through workshops,
 learning journeys and industry attachments. Students will explore topics
 beyond the classroom, such as:
 <br>
-<br>o&nbsp;Drone Adventure with Python Programming
-<br>o&nbsp;Learning Journey and attachment to A*STAR&nbsp; Genome Institute
+	</p><ul>
+<li>Drone Adventure with Python Programming
+</li><li>Learning Journey and attachment to A*STAR&nbsp; Genome Institute
 of Singapore (GIS)
-<br>o&nbsp;3D printing workshops</p>
+</li><li>3D printing workshops
+</li></ul>
+<p></p>
 <p>Through an active curation of external partnerships, our students get
 to deepen their learning with Institutes of Higher Learning and other industry-leading
 institutions. These experiences bridge classroom knowledge with real-world
@@ -126,12 +129,14 @@ take on <strong>mentorship roles</strong> to guide and inspire juniors.
 <br>
 <br>Students in this tier will gain hands-on experience and deepen their skills
 through STEM competitions such as:
-<br>o&nbsp;&nbsp; Swift Explorers Singapore (Apple)
+	</p><ul>
+<li> Swift Explorers Singapore (Apple)
 <br>- App Design Challenge
 <br>- App Development Challenge
-<br>o&nbsp;&nbsp; Health &amp; Food Science Competition (STEM Inc)
-<br>o&nbsp;&nbsp; S1 Cluster Design Innovation Challenge
-<br>o&nbsp;&nbsp; National Youth AI Prompt Challenge</p>
+</li><li>Health &amp; Food Science Competition (STEM Inc)
+<br>- S1 Cluster Design Innovation Challenge
+<br>- National Youth AI Prompt Challenge
+		</li></ul><p></p>
 <p>Our tiered developmental approach seeks to encourage all PresHighians
 to hone their digital competencies, harness emerging technologies in Health
 &amp; Food Science, and become creative and collaborative Stewards of Tomorrow.</p>
