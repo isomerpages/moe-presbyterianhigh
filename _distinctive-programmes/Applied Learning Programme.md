@@ -145,7 +145,7 @@ through STEM competitions such as:</p>
 <li>
 <p>Health &amp; Food Science Competition (STEM Inc)
 <br>- S1 Cluster Design Innovation Challenge
-<br>- National Youth AI Prompt Challenge</p>
+<br>- National Youth AI Prompt Challenge.</p>
 </li>
 </ul>
 <p></p>
