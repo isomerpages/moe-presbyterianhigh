@@ -81,7 +81,7 @@ beyond the classroom, such as:
 (GIS)</p>
 </li>
 <li>
-<p>3D printing workshops</p>
+<p>3D printing workshops.</p>
 </li>
 </ul>
 <p></p>
