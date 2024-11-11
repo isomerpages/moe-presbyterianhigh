@@ -2,7 +2,7 @@
 title: Education and Career Guidance
 permalink: /programmes/character-and-citizenship-education/education-and-career-guidance/
 description: ""
-third_nav_title: Character & Citizenship Edu
+third_nav_title: CCE
 variant: tiptap
 ---
 <h3>Character and Citizenship Education</h3>

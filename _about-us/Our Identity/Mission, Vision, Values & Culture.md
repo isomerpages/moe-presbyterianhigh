@@ -1,5 +1,5 @@
 ---
-title: Mission, Vision & Values
+title: Mission, Vision, Values & Culture
 permalink: /about-us/mission-vision-n-values/
 description: ""
 third_nav_title: Our Identity

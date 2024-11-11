@@ -3,7 +3,7 @@ title: National Education
 permalink: /student-development/character-and-citizenship-edu/ne/
 variant: tiptap
 description: ""
-third_nav_title: Character & Citizenship Edu
+third_nav_title: CCE
 ---
 <p>The National Education Programme focuses on helping students understand
 their role as citizens of Singapore and what love and commitment to the
