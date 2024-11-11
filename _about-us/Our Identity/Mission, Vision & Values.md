@@ -30,6 +30,15 @@ as a total person worthy of God and man</p>
 <br>We take pride in all that we do and strive for continual growth.</p>
 <hr>
 <h3>SCHOOL CULTURE</h3>
+<p>The school provides a Christian environment where there is a strong culture
+of Teamwork, Excellence, Affirmation and Mission-mindedness (TEAM PHS).
+To develop our students to be Passionate Learners, Servant Leaders and
+Stewards of Tomorrow, the school places emphasis on nurturing and developing
+good character as well as harnessing the leadership potential in every
+child, inculcating in students a sense of gratitude and responsibility
+to the community and nation. Providing a holistic education, the school
+seeks to enable our students to discover and grow in their strengths and
+talents to fulfil their potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TEAM%20PHS%20poster.jpg">
 </div>
