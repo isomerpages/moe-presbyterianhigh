@@ -24,7 +24,7 @@ our commitment to learning and growth.</p>
 white symbolises the quest for truth, while blue represents the pursuit
 of excellence.</p>
 <p></p>
-<p></p>
+<p>[<strong>LOGO</strong>]</p>
 <p>Exodus 3:1-12 recounts God's revelation to Moses at the burning bush.
 This biblical account inspires our school motto, 'Aflame for Truth'. Together
 with the emblem of the Burning Bush, which is the symbol of Presbyterian
