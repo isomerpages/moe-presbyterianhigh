@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - School Song.md
       - Student Leadership.md
       - DSA backup/DSA STEM.md
       - DSA backup/DSA Leadership.md
