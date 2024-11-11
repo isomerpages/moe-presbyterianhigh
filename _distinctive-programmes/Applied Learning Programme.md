@@ -81,7 +81,7 @@ beyond the classroom, such as:
 (GIS)</p>
 </li>
 <li>
-<p>3D printing workshops</p>
+<p>3D printing workshops.</p>
 </li>
 </ul>
 <p></p>
@@ -128,7 +128,7 @@ explore STEM-related<strong> </strong>careers.</p>
 <p><em>Tier 2 students participating in a learning journey to Republic Polytechnic</em>
 </p>
 <p></p>
-<p><strong>Tier 3: Talent-Development Programme</strong>
+<p><strong>Tier 3: Talent Development Programme</strong>
 <br>Our Tier 3 Programme aims to challenge and stretch students who have both
 aptitude and passion for STEM. This tier provides students with opportunities
 to participate in competitions, pursue self-initiated projects and take
@@ -145,7 +145,7 @@ through STEM competitions such as:</p>
 <li>
 <p>Health &amp; Food Science Competition (STEM Inc)
 <br>- S1 Cluster Design Innovation Challenge
-<br>- National Youth AI Prompt Challenge</p>
+<br>- National Youth AI Prompt Challenge.</p>
 </li>
 </ul>
 <p></p>
