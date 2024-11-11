@@ -36,4 +36,3 @@ truth in thought, word and deed. They also connect us to Christians in
 Presbyterian Churches all over the world. As members of this global community,
 we are called to exemplify our school values, with God as our Creator and
 Guide.</p>
-<p>symbolises our pursuit of excellence.</p>
