@@ -8,7 +8,7 @@ variant: markdown
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/schoolcrest.jpg">
+<img style="width: 40%" height="auto" width="40%" alt="" src="/images/schoolcrest.jpg">
 </div>
 <p>The school crest features two waves at the top, symbolising the continuous
 growth and development of our school, from its origins as Li Sun High School
