@@ -18,8 +18,7 @@ Humanities learner.</p>
 learners, we craft extended learning opportunities for our students.These
 include learning journeys, field trips, competitions and national seminars
 – all of which are designed to unlock their full potential.</p>
-<p><strong>Our Programmes</strong>
-</p>
+<h3>Our Programmes</h3>
 <p><strong>1. Signature Programme: Humanities Immersion Programme (HIP)</strong>
 </p>
 <p>The Humanities Immersion Programme (HIP) brings together a passionate
