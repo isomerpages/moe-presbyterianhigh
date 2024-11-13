@@ -4,8 +4,8 @@ permalink: /academic-departments/Science/
 description: ""
 variant: tiptap
 ---
-<p><strong>Our Vision</strong>
-<br>Every PresHighian a passionate STEM (Science, Technology, Engineering
+<h3>Our Vision</h3>
+<p>Every PresHighian a passionate STEM (Science, Technology, Engineering
 and Math) learner who endeavours to be:</p>
 <ul>
 <li>
@@ -22,8 +22,8 @@ society.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Our Approach</strong>
-<br>Our science curriculum is committed to providing students with diverse
+<h3>Our Approach</h3>
+<p>Our science curriculum is committed to providing students with diverse
 learning experiences and assessment methods. We emphasise the application
 of scientific knowledge to understand and solve real-world problems in
 a global context. This approach strengthens the integration of theory and
@@ -40,8 +40,8 @@ prototyping and research. The second approach involves actively engaging
 and exploring learning opportunities with various interest groups.&nbsp;
 This includes learning journeys and applied learning modules that allow
 students to gain practical skills and knowledge beyond the classroom.</p>
-<p><strong>Our Programmes</strong>
-<br>1. <u>Talent Development Programme</u>
+<h3>Our Programmes</h3>
+<p>1. <u>Talent Development Programme</u>
 <br>Students get a chance to participate in various science events, including
 the Singapore International STEM Innovation Challenge (SISTEMIC) for Lower
 Secondary students, the Singapore Junior Chemistry Olympiad for Upper Secondary
