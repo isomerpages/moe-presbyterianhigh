@@ -4,11 +4,11 @@ permalink: /academic-departments/physical-education-department/
 description: ""
 variant: tiptap
 ---
-<p><strong>Our Vision</strong>
-<br>Every PresHighian a robust individual who is fit, knowledgeable and skilled
+<h3>Our Vision</h3>
+<p>Every PresHighian a robust individual who is fit, knowledgeable and skilled
 at pursuing an active and healthy lifestyle</p>
-<p><strong>Our Approach</strong>
-<br>The Physical Education (PE) Department achieves its vision through four
+<h3>Our Approach</h3>
+<p>The Physical Education (PE) Department achieves its vision through four
 key pillars of physical education: fitness, health, sports and outdoor
 education.</p>
 <p>The department introduces students to physical health education, eight
@@ -20,7 +20,8 @@ and practical assessments. The department also places an emphasis on modular
 games assessments and quizzes as they evaluate students’ knowledge and
 skills acquisition. The National Physical Fitness Award (NAPFA) test is
 conducted as a means to assess the students’ fitness in various components.</p>
-<p><strong>Our Programmes</strong>
+<h3>Our Programmes</h3>
+<p>
 <br><strong>1. Secondary One Adventure Camp and Secondary Three Outward Bound Singapore (OBS) Challenge</strong>
 <br>These outdoor adventure camps serve as platforms for students to learn
 independence, to challenge their abilities and to build camaraderie and
