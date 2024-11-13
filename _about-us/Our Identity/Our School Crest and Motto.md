@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Our Identity
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/schoolcrest.jpg">
-</div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/crest_sharpened.png">
+</div>
 <p>The school crest features two waves at the top, symbolising the continuous
 growth and development of our school, from its origins as Li Sun High School
 to its present identity as Presbyterian High School.</p>
