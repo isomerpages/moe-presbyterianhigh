@@ -41,14 +41,14 @@ and exploring learning opportunities with various interest groups.&nbsp;
 This includes learning journeys and applied learning modules that allow
 students to gain practical skills and knowledge beyond the classroom.</p>
 <h3>Our Programmes</h3>
-<p>1. <u>Talent Development Programme</u>
+<p>1. <strong>Talent Development Programme</strong>
 <br>Students get a chance to participate in various science events, including
 the Singapore International STEM Innovation Challenge (SISTEMIC) for Lower
 Secondary students, the Singapore Junior Chemistry Olympiad for Upper Secondary
 students, the Youth STEM Empowerment Programme (YSEP), and the Research
 &amp; Development Experience Programme (R&amp;DEP).</p>
 <p></p>
-<p>2. <u>Interest-based Programmes</u>
+<p>2. <strong>Interest-based Programmes</strong>
 <br>Our students are also involved in interest-based programmes that aim to
 make STEM education more exciting, relevant and accessible to students,
 encouraging them to explore their interest in Science. Some of these activities
