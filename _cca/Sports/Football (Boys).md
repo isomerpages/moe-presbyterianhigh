@@ -10,7 +10,7 @@ third_nav_title: Sports
 </div>
 <p>The Football team strives to promote lifelong, sustainable and active
 involvement in football. Our teachers seek to provide opportunities for
-character development and foster teamwork and resilience among our footballers.
+character development, and foster teamwork and resilience among our footballers.
 Our footballers cultivate a growth mindset, embodying perseverance and
 a strong commitment to personal development.</p>
 <p></p>
