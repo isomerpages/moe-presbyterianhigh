@@ -8,6 +8,7 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/football.jpg">
 </div>
+<h4>(Not for 2025 Secondary 1 cohort onwards)</h4>
 <p>The Football team strives to promote lifelong, sustainable and active
 involvement in football. Our teachers seek to provide opportunities for
 character development and foster teamwork and resilience among our footballers.
