@@ -8,12 +8,14 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tabletennis_2023.jpg">
 </div>
-<h4>(No enrolment in the boys' team from 2025 onwards)</h4>
 <p>The Table Tennis team places a strong emphasis on discipline as the bedrock
 of skill development and sporting excellence. Guided by dedicated teachers
 and their coach, members participate in rigorous training to hone their
 skills, build their character and cultivate a strong sense of teamwork.</p>
-<h5></h5>
+<p></p>
+<p><strong>(No new intake for the boys' team from 2025)</strong>
+</p>
+<p></p>
 <p><strong>Monday: 3–5.30pm&nbsp;<br>Wednesday: 3–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
 <br><strong>Venue: Rifle Range Room</strong>
 </p>
