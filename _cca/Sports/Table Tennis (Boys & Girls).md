@@ -8,7 +8,7 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tabletennis_2023.jpg">
 </div>
-<h4>(No enrolment into boys team from 2025 onwards)</h4>
+<h4>(No enrolment in the boys' team from 2025 onwards)</h4>
 <p>The Table Tennis team places a strong emphasis on discipline as the bedrock
 of skill development and sporting excellence. Guided by dedicated teachers
 and their coach, members participate in rigorous training to hone their
