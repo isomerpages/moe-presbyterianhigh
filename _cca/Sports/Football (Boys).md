@@ -14,8 +14,7 @@ character development, and foster teamwork and resilience among our footballers.
 Our footballers cultivate a growth mindset, embodying perseverance and
 a strong commitment to personal development.</p>
 <p></p>
-<p><strong>(No new intake from 2024.)</strong>
-</p>
+<p></p>
 <p></p>
 <p><strong>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm</strong>
 <br><strong>Venue: Football Field<br></strong>
