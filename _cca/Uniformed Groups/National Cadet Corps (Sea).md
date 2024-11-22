@@ -16,8 +16,8 @@ modules and sea activities, where they acquire knowledge about the military,
 naval traditions, fitness training and kayaking. Proficiency badges are
 earned when they acquire the related skills and competencies. Our cadets
 are not only resilient but they also embody core values, such as loyalty
-to country, uprightness, leadership, discipline, commitment, responsibility,
-care for fellow cadets and adventurous spirit.&nbsp;</p>
+to country, uprightness, leadership, discipline, commitment and responsibility,
+care for fellow cadets, an adventurous spirit and safety. &nbsp;</p>
 <p>
 <br><strong>(Boys only)<br>Friday: 1.30–4.30pm </strong>
 <br><strong>Venue: Parade Square/ Classroom</strong>
