@@ -13,7 +13,7 @@ variant: tiptap
 <p>The school crest features two waves at the top, symbolising the continuous
 growth and development of our school, from its origins as Li Sun High School
 to its present identity as Presbyterian High School.</p>
-<p>At the centre of the crest is the burning bush, a symbol of Presbyterian
+<p>At the centre of the crest is the Burning Bush, a symbol of Presbyterian
 Churches worldwide, accompanied by the Latin motto 'Nec Tamen Consumebatur',
 which means ‘Yet it was not consumed’.&nbsp; From these Presbyterian roots,
 we adopted our school motto, Aflame for Truth, which aligns with our school's
