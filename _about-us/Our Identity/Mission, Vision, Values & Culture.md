@@ -52,27 +52,23 @@ Chinese school. Inspired by our heritage, we will continue to place our
 hope in God, confident that He will strengthen us, and serve our neighbours
 with love.&nbsp;</p>
 <p></p>
-<p><strong>焚而不毁 (fén ér bù huǐ)</strong>
-</p>
-<p>Exodus 3:1-12</p>
-<p>Like the burning bush that was not consumed, we stand firm in God’s faithfulness
-and presence.&nbsp;&nbsp;</p>
-<p>我们屹立在神的信实和同在中</p>
-<p>犹如燃烧的荆棘不会被火烧毁</p>
+<p><strong>焚而不毁</strong> (fén ér bù huǐ)
+<br><strong>Exodus 3:1-12</strong>
+<br>Like the burning bush that was not consumed, we stand firm in God’s faithfulness
+and presence.&nbsp;&nbsp;
+<br>我们屹立在神的信实和同在中
+<br>犹如燃烧的荆棘不会被火烧毁</p>
 <p></p>
-<p><strong>饮水思源 (yǐn shuǐ sī yuán)</strong>
-</p>
-<p>Luke 17:11-17</p>
-<p>Just as water gives life, we remember that God is our Creator and the
-source of life.&nbsp;</p>
-<p>我们紧记神是造物主生命源头</p>
-<p>犹如滋养生物延续生命的泉源</p>
+<p><strong>饮水思源 </strong>(yǐn shuǐ sī yuán)
+<br><strong>Luke 17:11-17</strong>
+<br>Just as water gives life, we remember that God is our Creator and the
+source of life.&nbsp;&nbsp;
+<br>我们紧记神是造物主生命源头
+<br>犹如滋养生物延续生命的泉源</p>
 <p></p>
-<p><strong>立己立人 (lì jǐ lì rén)</strong>
-</p>
-<p>Luke 2:41-52</p>
-<p>Just as God first loved us, we strive to grow and mature in Christ to
-love others in the same way.</p>
-<p>我们立志基督里成长爱神爱人</p>
-<p>犹如神先爱了我们为我们舍命</p>
-<p></p>
+<p><strong>立己立人</strong> (lì jǐ lì rén)
+<br><strong>Luke 2:41-52</strong>
+<br>Just as God first loved us, we strive to grow and mature in Christ to
+love others in the same way.&nbsp;
+<br>我们立志基督里成长爱神爱人
+<br>犹如神先爱了我们为我们舍命</p>
