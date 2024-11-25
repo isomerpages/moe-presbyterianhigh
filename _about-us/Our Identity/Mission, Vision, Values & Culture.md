@@ -57,28 +57,22 @@ with love.&nbsp;</p>
 <p>Exodus 3:1-12</p>
 <p>Like the burning bush that was not consumed, we stand firm in God’s faithfulness
 and presence.&nbsp;&nbsp;</p>
-<p><strong>我们屹立在神的信实和同在中</strong>
-</p>
-<p><strong>犹如燃烧的荆棘不会被火烧毁</strong>
-</p>
+<p>我们屹立在神的信实和同在中</p>
+<p>犹如燃烧的荆棘不会被火烧毁</p>
 <p></p>
 <p><strong>饮水思源 (yǐn shuǐ sī yuán)</strong>
 </p>
 <p>Luke 17:11-17</p>
 <p>Just as water gives life, we remember that God is our Creator and the
 source of life.&nbsp;</p>
-<p><strong>我们紧记神是造物主生命源头</strong>
-</p>
-<p><strong>犹如滋养生物延续生命的泉源</strong>
-</p>
+<p>我们紧记神是造物主生命源头</p>
+<p>犹如滋养生物延续生命的泉源</p>
 <p></p>
 <p><strong>立己立人 (lì jǐ lì rén)</strong>
 </p>
 <p>Luke 2:41-52</p>
 <p>Just as God first loved us, we strive to grow and mature in Christ to
 love others in the same way.</p>
-<p><strong>我们立志基督里成长爱神爱人</strong>
-</p>
-<p><strong>犹如神先爱了我们为我们舍命</strong>
-</p>
+<p>我们立志基督里成长爱神爱人</p>
+<p>犹如神先爱了我们为我们舍命</p>
 <p></p>
