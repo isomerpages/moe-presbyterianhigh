@@ -9,7 +9,7 @@ third_nav_title: Our Identity
 <p><strong>Lyrics </strong>by Rev Lee Huai Kwang (Chinese) (Original) and
 Thomas Khng (English)
 <br><strong>Music </strong>by Lian Sek Lin
-<br><strong>Music re-arrangemen</strong>t by Quay Yi Ming</p>
+<br><strong>Music re-arrangement </strong>by Quay Yi Ming</p>
 <p></p>
 <p>看 荆 棘 焚 而 不 毁
 <br>Kan &nbsp;jing &nbsp;ji &nbsp;fen &nbsp;er &nbsp;bu &nbsp;hui
