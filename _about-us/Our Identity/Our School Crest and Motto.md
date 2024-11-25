@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Identity
 variant: tiptap
 ---
-<h4><strong>Our School Crest</strong></h4>
+<h3>Our School Crest</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="40%" alt="" src="/images/schoolcrest.jpg">
@@ -25,7 +25,7 @@ our commitment to learning and growth.</p>
 white symbolises the quest for truth, while blue represents the pursuit
 of excellence.</p>
 <p></p>
-<h4><strong>Our School Motto</strong></h4>
+<h3>Our School Motto</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/crest_sharpened_1.png">
