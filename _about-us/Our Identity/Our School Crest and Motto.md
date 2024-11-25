@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Our School Crest</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%" height="auto" width="40%" alt="" src="/images/schoolcrest.jpg">
+<img style="width: 20%;" height="auto" width="40%" alt="" src="/images/schoolcrest.jpg">
 </div>
 <p>The school crest features two waves at the top, symbolising the continuous
 growth and development of our school, from its origins as Li Sun High School
@@ -28,7 +28,7 @@ of excellence.</p>
 <h3>Our School Motto</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/crest_sharpened_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024/crest_sharpened_1.png">
 </div>
 <p>Exodus 3:1-12 recounts God's revelation to Moses at the burning bush.
 This biblical account inspires our school motto, 'Aflame for Truth'. Together
