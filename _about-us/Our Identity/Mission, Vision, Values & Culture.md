@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Our Identity
 variant: tiptap
 ---
-<h3>SCHOOL VISION</h3>
+<h3>School Vision</h3>
 <p>A Christ-centred community nurturing Passionate Learners, Servant Leaders
 and Stewards of Tomorrow</p>
 <hr>
-<h3>SCHOOL MISSION</h3>
+<h3>School Mission</h3>
 <p>To inculcate Christian values in every individual and develop his potential
 as a total person worthy of God and man</p>
 <hr>
-<h3>SCHOOL VALUES</h3>
+<h3>School Values</h3>
 <p><strong>Resilience</strong>
 <br>We persevere through challenges and emerge stronger.
 <br>
@@ -29,7 +29,7 @@ as a total person worthy of God and man</p>
 <br><strong>Excellence</strong>
 <br>We take pride in all that we do and strive for continual growth.</p>
 <hr>
-<h3>SCHOOL CULTURE</h3>
+<h3>School Culture</h3>
 <p>The school provides a Christian environment where there is a strong culture
 of Teamwork, Excellence, Affirmation and Mission-mindedness (TEAM PHS).
 To develop our students to be Passionate Learners, Servant Leaders and
@@ -42,17 +42,6 @@ talents to fulfil their potential.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TEAM%20PHS%20poster.jpg">
 </div>
-<hr>
-<h3>SCHOOL MOTTO</h3>
-<p>The Burning Bush with the school motto, ‘Aflame for Truth’, is inspired
-by Exodus 3:1-12.&nbsp; The school is a place where students are taught
-the importance of integrity and upholding the truth in thought, word and
-deed.&nbsp;</p>
-<p>The Burning Bush and school motto therefore remind us of God’s presence
-and faithfulness, and that we are part of the community of Christians in
-Presbyterian Churches all over the world.&nbsp; It encourages us to be
-honest and upright, and to exemplify the school values with God as our
-Creator and Guide.&nbsp;</p>
 <hr>
 <h3>Biblical Heritage</h3>
 <p>Our biblical heritage reminds us of God's faithfulness to all generations
@@ -68,15 +57,28 @@ with love.&nbsp;</p>
 <p>Exodus 3:1-12</p>
 <p>Like the burning bush that was not consumed, we stand firm in God’s faithfulness
 and presence.&nbsp;&nbsp;</p>
+<p><strong>我们屹立在神的信实和同在中</strong>
+</p>
+<p><strong>犹如燃烧的荆棘不会被火烧毁</strong>
+</p>
+<p></p>
 <p><strong>饮水思源 (yǐn shuǐ sī yuán)</strong>
 </p>
 <p>Luke 17:11-17</p>
 <p>Just as water gives life, we remember that God is our Creator and the
 source of life.&nbsp;</p>
+<p><strong>我们紧记神是造物主生命源头</strong>
+</p>
+<p><strong>犹如滋养生物延续生命的泉源</strong>
+</p>
+<p></p>
 <p><strong>立己立人 (lì jǐ lì rén)</strong>
 </p>
 <p>Luke 2:41-52</p>
 <p>Just as God first loved us, we strive to grow and mature in Christ to
 love others in the same way.</p>
-<p></p>
+<p><strong>我们立志基督里成长爱神爱人</strong>
+</p>
+<p><strong>犹如神先爱了我们为我们舍命</strong>
+</p>
 <p></p>
