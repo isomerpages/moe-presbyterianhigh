@@ -14,7 +14,7 @@ sections:
           url: https://instagram.com/presbyterianhigh_official?igshid=NTc4MTIwNjQ2YQ==
         - title: PHS DSA 2024
           description: Learn about our DSA Exercise
-          url: ""
+          url: /direct-school-admission
         - title: Home-Based Learning
           description: Access HBL lesson plans
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
