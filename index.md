@@ -19,7 +19,7 @@ sections:
           description: Access HBL lesson plans
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/2024/Website.gif
-      variant: image
+      variant: center
   - infopic:
       title: PHS e-Open House
       id: infopic
