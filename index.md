@@ -25,7 +25,7 @@ sections:
       id: infopic
       button: Click here
       url: https://sites.google.com/preshigh.edu.sg/sec-1-e-registration
-      image: /images/2024/Registration_Website.png
+      image: /images/2024/RegistrationWebsite.png
       alt: Image alt text
   - infobar:
       id: infobar
