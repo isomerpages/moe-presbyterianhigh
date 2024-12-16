@@ -27,6 +27,8 @@ sections:
       url: https://sites.google.com/preshigh.edu.sg/sec-1-e-registration
       image: /images/2024/registrationwebsite.png
       alt: Image alt text
+  - infobar:
+      id: infobar
   - infopic:
       title: PHS e-Open House
       id: infopic
@@ -36,5 +38,5 @@ sections:
       subtitle: Explore PHS
       description: Our Open House has concluded, but you can still learn more about
         PHS on our e-Open House site!
-      button: Click here
+      button: Click here to visit
 ---
