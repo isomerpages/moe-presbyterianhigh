@@ -36,4 +36,5 @@ sections:
       subtitle: Explore PHS
       description: Our Open House has concluded, but you can still learn more about
         PHS on our e-Open House site!
+      button: Click here
 ---
