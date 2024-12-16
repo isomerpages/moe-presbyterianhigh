@@ -21,9 +21,15 @@ sections:
       background: /images/2024/Website.gif
       variant: center
   - infopic:
+      title: Secondary 1 E-Registration 2025 Cohort
+      id: infopic
+      button: Click here
+      url: https://sites.google.com/preshigh.edu.sg/sec-1-e-registration
+      image: /images/2024/registrationwebsite.png
+      alt: Image alt text
+  - infopic:
       title: PHS e-Open House
       id: infopic
-      button: Click to visit the site
       url: https://go.gov.sg/phsopenhouseweb
       image: /images/2024/OH_Website.png
       alt: Image alt text
