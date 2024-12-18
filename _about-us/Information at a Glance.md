@@ -54,8 +54,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Mother Tongue Languages offered:</strong> Chinese / Malay / *Tamil
-*Students taking Tamil language will attend lessons at designated centres.</p>
+<p><strong>Mother Tongue Languages offered:</strong> Chinese / Malay / *Tamil</p>
+<p>*Students taking Tamil language will attend lessons at designated centres.</p>
 <p><strong>Affiliations:</strong> St. Andrew’s Junior College</p>
 <p><strong>School Nature &amp; Type:</strong> Co-Ed School, Government Aided
 School</p>
