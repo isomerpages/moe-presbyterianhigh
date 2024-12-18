@@ -4,7 +4,7 @@ permalink: /about-us/infoataglance/
 description: ""
 variant: tiptap
 ---
-<p><strong>PSLE Score Range of 2023</strong>
+<p><strong>PSLE Score Range of 2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Posting Group 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 - 13</p>
+<p>7 - 12</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Posting Group 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 - 23</p>
+<p>21 - 24</p>
 </td>
 </tr>
 <tr>
