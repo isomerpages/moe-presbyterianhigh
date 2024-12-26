@@ -977,10 +977,21 @@ variant: tiptap
 <p>HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund Choo Swee Teck</p>
+<p>Ms Katherine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edmund@preshigh.edu.sg</p>
+<p>katherine@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>michelle.goh@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -992,17 +1003,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>paul@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
