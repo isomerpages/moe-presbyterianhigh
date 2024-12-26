@@ -138,6 +138,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Caroline Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>caroline_patricia_thomas@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,6 +167,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_pei_pei_pauline@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Binbin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_binbin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
