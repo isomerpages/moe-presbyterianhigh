@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AG HOD EL/LIT</p>
+<p>HOD EL/LIT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadzli Abdul Hamid</p>
@@ -504,6 +504,17 @@ variant: tiptap
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Rene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_lian_er_rene@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATH</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Tee Wee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,7 +523,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag HOD MTL</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chay Chia Ling</p>
@@ -886,7 +908,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>AG SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Michelle Goh</p>
