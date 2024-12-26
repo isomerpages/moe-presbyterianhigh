@@ -9,7 +9,7 @@ description: ""
 <table>
 	<tbody><tr border="0">
 		<td>
-			<h3>Main Office</h3><b>5209 Ang Mo Kio Avenue 6 <br>Singapore 569845<br><a href="https://goo.gl/maps/up2bzquYV9KGRFdf8">View Map</a>
+			<h3>Main Office</h3><b>5209 <br>Ang Mo Kio Avenue 6 <br>Singapore 569845<br><a href="https://goo.gl/maps/up2bzquYV9KGRFdf8">View Map</a>
 		</b></td>
 		<td>
 			<h3>Operating Hours</h3>
@@ -20,6 +20,7 @@ description: ""
 		<td border="0">
 			<h3>Contact Us</h3>
 			<br><b>Tel : </b>+65 6454 3722 <br><b>Fax : </b>+65 6454 3430
+			<br>
 			<br>
 						<b>Email : </b>presbyterian@moe.edu.sg
 			</td>
