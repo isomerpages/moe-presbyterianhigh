@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
+<p>ST EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Caroline Thomas</p>
@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HUM</p>
+<p>SH HUM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Binbin</p>
