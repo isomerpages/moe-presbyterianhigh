@@ -479,6 +479,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Katherine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>katherine@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
