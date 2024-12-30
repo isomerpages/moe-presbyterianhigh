@@ -292,6 +292,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Special Projects C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Liang Huiyi Benjamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liang_huiyi_benjamin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>AYH LOWER SEC</p>
 </td>
 <td rowspan="1" colspan="1">
