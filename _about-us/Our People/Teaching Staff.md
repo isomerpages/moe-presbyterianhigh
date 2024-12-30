@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
+<p>ST EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Caroline Thomas</p>
@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HUM</p>
+<p>SH HUM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Binbin</p>
@@ -288,6 +288,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>peck_lih_ping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Special Projects C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Liang Huiyi Benjamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liang_huiyi_benjamin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -464,6 +475,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_pei_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Katherine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>katherine@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
