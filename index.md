@@ -29,14 +29,10 @@ sections:
       alt: Image alt text
   - infobar:
       id: infobar
-  - infopic:
-      title: PHS e-Open House
-      id: infopic
-      url: https://go.gov.sg/phsopenhouseweb
-      image: /images/2024/OH_Website.png
-      alt: Image alt text
-      subtitle: Explore PHS
-      description: Our Open House has concluded, but you can still learn more about
-        PHS on our e-Open House site!
-      button: Click here to visit
+  - infobar:
+      title: Release of O-Level Results 2024
+      id: infobar
+      description: Click here to see more information.
+      button: Click Here
+      url: https://drive.google.com/drive/folders/1t3JANR2dfhzUiMjgOm-BKaPhiXpaiod3?usp=sharing
 ---
