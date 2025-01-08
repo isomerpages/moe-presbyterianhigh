@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1TgoAphzfgrsIg17VgGriFDzuiYWQttka?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary One MTP 2025</a>
+<p><a href="https://drive.google.com/drive/folders/1TgoAphzfgrsIg17VgGriFDzuiYWQttka?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary One MTP</a>
 </p>
 </li>
 <li>
