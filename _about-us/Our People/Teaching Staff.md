@@ -14,13 +14,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dept/Designation</p>
+<p><strong>Dept/Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
