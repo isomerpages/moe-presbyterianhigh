@@ -29,7 +29,7 @@ description: ""
 <p>Western Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>28 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>None</p>
