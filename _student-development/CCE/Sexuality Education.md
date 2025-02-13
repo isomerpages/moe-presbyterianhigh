@@ -6,8 +6,6 @@ description: ""
 third_nav_title: CCE
 ---
 <h3><strong>PRESBYTERIAN HIGH SCHOOL</strong></h3>
-<p><strong>MOE Sexuality Education in Schools</strong>
-</p>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education

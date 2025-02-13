@@ -46,5 +46,5 @@ aimed to encourage and affirm their efforts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/C%20and%20T/sec%203nt%20students%20rehearsing%20for%20their%20performance%202%20(1).jpeg">
 </div>
-<p>.</p>
+<p></p>
 <p></p>
