@@ -14,7 +14,7 @@ in Design and Technology, inquiry-based learning in Art, performance-based
 learning in Music and Nutrition and Food Science, project-based learning
 in Economics, and collaborative learning in Accounting.</p>
 <p>Connecting students to real-world issues, problems and applications allows
-the department to create more meaningful learning experiences for all PresHighian.</p>
+the department to create more meaningful learning experiences for all PresHighians.</p>
 <h3>Our Programmes</h3>
 <p><strong>1. Learning Journeys</strong>
 </p>
