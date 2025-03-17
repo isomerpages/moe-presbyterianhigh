@@ -16,8 +16,8 @@ instructor and teachers-in-charge, the ensemble achieves commendable awards
 at the Singapore Youth Festival Arts Presentation every year.</p>
 <h5></h5>
 <p><strong>Monday: 3–6pm <br>Wednesday: 3–6pm </strong>
-<br><strong>Venue: Guzheng room</strong>
-<br>
+<br>Additional Practices on Fridays during SYF period</p>
+<p><strong>Venue: Guzheng room</strong>
 </p>
 <h5>Teachers-in-charge</h5>
 <p><strong>Mrs Kathy Liang (i/c)<br>Mdm Zheng Dahong </strong>
