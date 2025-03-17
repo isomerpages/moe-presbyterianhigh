@@ -15,8 +15,13 @@ developing their aptitude and interest in music, the CCA places an emphasis
 on maximising leadership potential in all students.</p>
 <h5></h5>
 <p><strong>(Full Band &amp; sectionals)&nbsp;<br>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm </strong>
+<br><em>*Practices will end at 4.30pm on Fridays during SYF period</em>
+</p>
+<p>
 <br><strong>Venue: Band room (ISH Level 2)<br></strong>
 </p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Ms Siti Sarah Bte Ambo Roslan (i/c)<br>Mr Jason Lefort<br>Mrs Faith Chen<br>Ms Filzah Nadiah<br></strong>
+<p><strong>Mrs Faith Chen (i/c)<br>Mdm Chung Bee Chee</strong>
+<br><strong>Ms Filzah Nadiah</strong>
+<br><strong>Mr Jason Lefort<br></strong>
 </p>
