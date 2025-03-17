@@ -2,22 +2,42 @@
 title: For Students
 permalink: /useful-links/for-students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **For Students**
-
-* [Guide on Reading the Timetable](https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link)
-
-* [2025 Sec 1 Class Timetable ](https://drive.google.com/file/d/18RHOKK7OuhnK2d5cdAuVSTSV-VUwlJJ2/view?usp=drive_link): [How to read the timetable](https://drive.google.com/file/d/1eOj2b8j6Je3zEFPQdzc5iqigrDZ54b8y/view?usp=drive_link)
-
-* [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
-
-* [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
-
-* [Preshigh Email](http://mail.google.com/)
-
-* [Student ICON](https://workspace.google.com/dashboard)
-
-* [Student Learning Space  (SLS)](https://vle.learning.moe.edu.sg/login)
-
-* [School Bookshop and Uniform Vendor Details](https://drive.google.com/file/d/1N8NlQVf_AVWHJ7uhyGXFiizB3oVEfKIB/view?usp=drive_link)
+<h1><strong>For Students</strong></h1>
+<ul>
+<li>
+<p><a href="https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Guide on Reading the Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/18RHOKK7OuhnK2d5cdAuVSTSV-VUwlJJ2/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Class Timetable </a>:
+<a href="https://drive.google.com/file/d/1eOj2b8j6Je3zEFPQdzc5iqigrDZ54b8y/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">How to read the timetable</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/presbyterianhigh/" rel="noopener noreferrer nofollow" target="_blank">OPAC - SCHOOL LIBRARY</a>
+</p>
+</li>
+<li>
+<p><a href="http://mail.google.com/" rel="noopener noreferrer nofollow" target="_blank">Preshigh Email</a>
+</p>
+</li>
+<li>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student  ICON</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1N8NlQVf_AVWHJ7uhyGXFiizB3oVEfKIB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School Bookshop and Uniform Vendor Details</a>
+</p>
+</li>
+</ul>
+<p></p>
