@@ -24,12 +24,15 @@ our basketballers to attain remarkable success.</p>
 <br><strong>(Girls)<br>Monday: 3–5.30pm </strong>
 <br><strong>Friday: 1–3pm<br>Saturday: 7.30–10am&nbsp;<br></strong>
 </p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mr Huang Ying<br>Ms Cheri Nur Aini<br>Mdm Siti Khadijah Bte Isnin<br></strong>
+<p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 9.30–12.00pm&nbsp;</strong>
 </p>
-<p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 7.30–10am&nbsp;</strong>
+<p><strong>Venue: ISH1/ Outdoor Basketball Court</strong>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mr Steven Ong (i/c)<br>Ms Rekha d/o Gopal Chandradas<br>Mdm Siti Aisha Binte Kassim</strong>
+<p><strong>Mr Steven Ong (i/c)<br>Mr Huang Ying</strong>
+<br><strong>Mr Marcus Ong</strong>
+<br><strong>Mdm Siti Aisha</strong>
+<br><strong>Mdm Siti Khadijah</strong>
+<br><strong>Ms Rene Goh</strong>
 </p>
