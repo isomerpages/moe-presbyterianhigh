@@ -895,7 +895,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI CHEMISTRY</p>
+<p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Clement Yew Kai Long</p>
