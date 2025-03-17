@@ -2,7 +2,6 @@ collections:
   academic-departments:
     output: true
     order:
-      - Applied Learning Programme.md
       - PHS Teaching and Learning Framework.md
       - Craft and Technology.md
       - English Language and Literature.md
@@ -11,3 +10,4 @@ collections:
       - Mother Tongue Languages.md
       - Physical Education.md
       - Science.md
+      - Applied Learning Programme.md
