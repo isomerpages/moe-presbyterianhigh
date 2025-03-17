@@ -20,5 +20,6 @@ achievements.&nbsp;</p>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mr Neo Kok Hwee (i/c)<br>Ms Josephine Mary Saminathan<br><br></strong>
+<p><strong>Mr Neo Kok Hwee (i/c)<br>Mr Tan Tee Wee</strong>
+<br><strong>Mr Tan Chee Wee<br><br></strong>
 </p>
