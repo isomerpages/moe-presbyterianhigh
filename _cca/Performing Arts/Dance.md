@@ -16,6 +16,8 @@ our dancers develop a strong sense of commitment to honing their craft,
 and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <h5></h5>
 <p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm</strong>
+</p>
+<p>
 <br><strong>Venue: AVA room<br></strong>
 </p>
 <h5>Teachers-in-charge</h5>
