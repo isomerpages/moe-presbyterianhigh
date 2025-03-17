@@ -755,10 +755,10 @@ variant: tiptap
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Ruminathan</p>
+<p>Mr Paul Chandra Tjahjono</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">v_ruminathan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">paul_chandra_tjahjono@moe.edu.sg</a>
 </p>
 </td>
 </tr>
