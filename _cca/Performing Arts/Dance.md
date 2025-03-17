@@ -16,6 +16,7 @@ our dancers develop a strong sense of commitment to honing their craft,
 and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <h5></h5>
 <p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm</strong>
+<br><em>*Practices will end at 4.30pm on Fridays during SYF period</em>
 </p>
 <p>
 <br><strong>Venue: AVA room<br></strong>
