@@ -1,6 +1,4 @@
 collections:
   distinctive-programmes:
     output: true
-    order:
-      - Applied Learning Programme.md
-      - Learning for Life Programme.md
+    order: []

@@ -20,19 +20,15 @@ sections:
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/2024/Website.gif
       variant: center
-  - infobar:
-      title: Release of O-Level Results 2024
-      id: infobar
-      description: Click here to see more information.
-      button: Click Here
-      url: https://drive.google.com/drive/folders/1t3JANR2dfhzUiMjgOm-BKaPhiXpaiod3?usp=sharing
-  - infobar:
-      id: infobar
   - infopic:
-      title: Secondary 1 E-Registration 2025 Cohort
+      title: Celebrating 60 years as PHS
+      subtitle: WE'RE 60!
       id: infopic
-      button: Click here
-      url: https://sites.google.com/preshigh.edu.sg/sec-1-e-registration
-      image: /images/2024/RegistrationWebsite.png
+      description: This year, we celebrate God's faithfulness and continue our mission
+        as TEAM PHS. We've unveiled a special logo and will soon launch the sale
+        of PHS bears.
+      button: READ THE ARTIST STATEMENT
+      url: /60th-anniversary/
+      image: /images/2025/60_anniversary.png
       alt: Image alt text
 ---

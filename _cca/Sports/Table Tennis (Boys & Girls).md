@@ -15,10 +15,9 @@ skills, build their character and cultivate a strong sense of teamwork.</p>
 <p></p>
 <p><strong>(No new intake for the boys' team from 2025)</strong>
 </p>
-<p></p>
 <p><strong>Monday: 3–5.30pm&nbsp;<br>Wednesday: 3–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
 <br><strong>Venue: Rifle Range Room</strong>
 </p>
 <h5>Teachers-in-Charge</h5>
-<p><strong>Mr Li Mingzhu (i/c)&nbsp;<br>Mdm Herlina Abdullah&nbsp;<br>Mdm Chua Min Hui&nbsp;<br>Ms Jocelyn Lau<br></strong>
+<p><strong>Mr Li Mingzhu (i/c)&nbsp;<br>Mdm Herlina Abdullah&nbsp;<br>Ms Jocelyn Lau<br></strong>
 </p>

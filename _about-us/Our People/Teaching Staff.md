@@ -755,10 +755,10 @@ variant: tiptap
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Ruminathan</p>
+<p>Mr Paul Chandra Tjahjono</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">v_ruminathan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">paul_chandra_tjahjono@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -812,13 +812,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr V Ruminathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:v_ruminathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">v_ruminathan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -895,7 +907,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI CHEMISTRY</p>
+<p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Clement Yew Kai Long</p>

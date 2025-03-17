@@ -16,9 +16,11 @@ Together, our teachers and coach actively seek opportunities, which enable
 our players to showcase their abilities and receive recognition for their
 achievements.&nbsp;</p>
 <h5></h5>
-<p><strong>Monday: 3.15–5.15pm&nbsp;<br>Wednesday: 3.15–5.15pm&nbsp;<br>Venue: Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
+<p><strong>Monday: 3.00–5.00pm&nbsp;<br>Wednesday: 3.00–5.00pm</strong>
+<br><strong>Friday: 2.00pm to 4.00pm (school team)&nbsp;<br>Venue: Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mr Neo Kok Hwee (i/c)<br>Ms Josephine Mary Saminathan<br><br></strong>
+<p><strong>Mr Neo Kok Hwee (i/c)<br>Mr Tan Tee Wee</strong>
+<br><strong>Mr Tan Chee Wee<br><br></strong>
 </p>
