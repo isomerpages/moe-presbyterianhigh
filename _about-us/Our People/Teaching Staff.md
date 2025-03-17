@@ -812,13 +812,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr V Ruminathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:v_ruminathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">v_ruminathan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
