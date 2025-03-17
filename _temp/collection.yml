@@ -2,7 +2,6 @@ collections:
   temp:
     output: true
     order:
-      - 60th Anniversary.md
       - School Song.md
       - Student Leadership.md
       - DSA backup/DSA STEM.md
