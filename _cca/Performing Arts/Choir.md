@@ -16,9 +16,10 @@ Singapore Youth Festival Arts Presentation and performances in school and
 in public, but also builds their confidence, leadership skills and character.
 Collectively, the choir produces music that a singer alone cannot create.&nbsp;</p>
 <h5></h5>
-<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45–4pm <br></strong><em>Additional practices in SYF year</em><strong><br>Venue: Music Room Level 4</strong>
+<p><strong>Wednesday: 3.15–5.30pm <br>Friday: 1.45–4pm <br></strong><em>*Practices will end at 4.30pm on Fridays during SYF period</em><strong><br>Venue: Music Room Level 4</strong>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Ms Ong Bi Ru (i/c) <br>Ms Ng Wan Jee<br>Mr Tan Tee Wee<br></strong>
+<p><strong>Ms Ong Bi Ru (i/c) <br>Ms Ng Wan Jee<br>Mdm Chua Min Hui</strong>
+<br><strong>Ms Rachel Balakrishnan<br></strong>
 </p>
