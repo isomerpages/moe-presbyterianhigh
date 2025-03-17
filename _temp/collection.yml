@@ -2,6 +2,7 @@ collections:
   temp:
     output: true
     order:
+      - Artist Statement on the logo.md
       - School Song.md
       - Student Leadership.md
       - DSA backup/DSA STEM.md
