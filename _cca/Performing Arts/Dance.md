@@ -22,5 +22,6 @@ and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <br><strong>Venue: AVA room<br></strong>
 </p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mdm Yvonne Thng (i/c)<br>Mdm Anis Fazerina<br></strong>
+<p><strong>Mdm Yvonne Thng (i/c)<br>Mdm Anis Fazerina</strong>
+<br><strong>Mdm Eu Siew Mun<br></strong>
 </p>
