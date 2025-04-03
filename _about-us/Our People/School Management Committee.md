@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,15 +24,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/SMC/smc%20chart%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keypersonnel/smcnew2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/SMC/smc%20chart%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keypersonnel/smcnew3.png">
 </div>
 </td>
 </tr>
