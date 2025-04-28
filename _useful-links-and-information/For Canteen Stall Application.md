@@ -26,20 +26,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Stall (Non-Halal)</p>
+<p>None available</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>None</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <h4>Application Procedure</h4>
-<p>Please click <a href="https://drive.google.com/file/d/1muWbpQJOhkkc7qGGc5JqIeB3_4wnEF6c/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://presbyterian.moe.edu.sg" rel="noopener nofollow" target="_blank">here</a> to
 apply.</p>
 <p></p>
 <p></p>
