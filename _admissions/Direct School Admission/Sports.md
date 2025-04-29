@@ -21,8 +21,7 @@ their skills and deepen their passion for the sports.</p>
 actively in the National School Games.&nbsp; With the commitment of the
 teachers, student-athletes and coaches, the teams have managed to achieve
 outstanding results in the National School Games.&nbsp;</p>
-<p><strong>Selection Criteria</strong>
-</p>
+<h4><strong>Selection Criteria</strong></h4>
 <p><strong><em>CCA EXCELLENCE</em></strong>
 </p>
 <p>Students should preferably have represented their primary schools in sports
