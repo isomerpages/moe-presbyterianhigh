@@ -22,8 +22,7 @@ hone leadership, and strengthen a heart for service.&nbsp; Various student
 leadership opportunities are also provided.&nbsp; These aim to develop
 PresHighians to lead themselves, lead others, and make a difference to
 their community.&nbsp;&nbsp;</p>
-<p><strong>Selection Criteria</strong>
-</p>
+<h4><strong>Selection Criteria</strong></h4>
 <p><strong><em>LEADERSHIP</em></strong>
 </p>
 <p>Students should have assumed a leadership role in Primary School e.g.
