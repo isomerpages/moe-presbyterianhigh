@@ -10,27 +10,21 @@ third_nav_title: Direct School Admission
 of developing every student to his or her fullest potential. It is our
 mission to provide all our students with opportunities for a balanced broad-based
 education and all-round development through the school’s holistic programmes.</p>
-<p>&nbsp;</p>
 <p>We seek to develop our learners in the various domains and importantly,
 to shape and mould character so that our students will be active and concerned
 citizens who will serve their communities. It is our desire that every
 PHS graduand will be exemplary in action, word and deed, living out the
 school’s vision of Passionate Learners, Servant Leaders and Stewards of
 Tomorrow.</p>
-<p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">The school is inviting applications for DSA in the following talent areas:</a>
+<p><strong>The school is inviting applications for DSA in the following talent areas:</strong>
 </p>
 <p>(1)&nbsp;&nbsp; Science, Technology, Engineering and Mathematics (STEM)</p>
 <p>(2)&nbsp;&nbsp; Leadership</p>
 <p>(3)&nbsp;&nbsp; Sports: Basketball, Table Tennis (Girls only), and Volleyball</p>
 <p>(4)&nbsp;&nbsp; Performing Arts: Guzheng Ensemble and Concert Band</p>
-<p>&nbsp;</p>
 <p>Please click on the link for each area to see the selection criteria.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>DSA Expectations</strong>
+<p><strong><u>DSA Expectations</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Secondary 1 to 4. They
@@ -39,31 +33,21 @@ to opt for secondary schools. However, if they are eligible for third language
 and /or Posting Group options, they may enter these options during the
 School Choice Submission period via the S1 Posting. They will also <strong>NOT be allowed to transfer to another school</strong> after
 the release of the PSLE results.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Application Procedure</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong><u>Application Procedure</u></strong>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitude and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
 to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Selection Process</strong>
+<p><strong><u>Selection Process</u></strong>
 </p>
 <p>Shortlisted applicants will receive notification from the school by 18
 July 2025 to undergo Direct School Admission (DSA) selection. All applicants
 will receive their application outcomes between 25 Aug and 4 Sep 2025.</p>
-<p>&nbsp;</p>
-<p><strong>DSA Timeline</strong>
+<p><strong><u>DSA Timeline</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
