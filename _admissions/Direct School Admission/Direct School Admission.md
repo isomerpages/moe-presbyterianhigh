@@ -16,8 +16,7 @@ citizens who will serve their communities. It is our desire that every
 PHS graduand will be exemplary in action, word and deed, living out the
 school’s vision of Passionate Learners, Servant Leaders and Stewards of
 Tomorrow.</p>
-<p><strong>The school is inviting applications for DSA in the following talent areas:</strong>
-</p>
+<h4><strong>The school is inviting applications for DSA in the following talent areas:</strong></h4>
 <p>(1)&nbsp;&nbsp; Science, Technology, Engineering and Mathematics (STEM)</p>
 <p>(2)&nbsp;&nbsp; Leadership</p>
 <p>(3)&nbsp;&nbsp; Sports: Basketball, Table Tennis (Girls only), and Volleyball</p>
