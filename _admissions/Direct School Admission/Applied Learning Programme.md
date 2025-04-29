@@ -19,8 +19,7 @@ related to the Health and Food Science industry. Students will also get
 to develop computational thinking skills through coding with micro:bit.
 They will apply the design thinking process and use their computational
 thinking skills to ideate and design prototypes to solve real-world problems.</p>
-<p><strong>Selection Criteria</strong>
-</p>
+<h4><strong>Selection Criteria</strong></h4>
 <p><strong><em>ACADEMIC EXCELLENCE</em></strong>
 </p>
 <p>Students should have a strong interest in Science and/or Mathematics and
