@@ -15,10 +15,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1ekXuT1N89sO4ys35HbbAU-GjUtEiKlsv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 2 Subject Combination Briefing FAQ</a>
-</p>
-</li>
-<li>
 <p><a href="https://drive.google.com/file/d/1-7gIm-US-121qB2X6qWYAfcH0-dpXCm4/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023 GCE O-Level Results Release: Supporting Your Teen</a>
 </p>
 </li>
