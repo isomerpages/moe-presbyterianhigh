@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student  ICON</a>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a>
 </p>
 </li>
 <li>
@@ -40,4 +40,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+<p>More information on the School's Alumni can be found <a href="https://www.phs-aa.org/" rel="noopener nofollow" target="_blank">here</a>
+</p>
