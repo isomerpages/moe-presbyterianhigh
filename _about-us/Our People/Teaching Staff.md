@@ -119,28 +119,6 @@ variant: tiptap
 <p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sherry Tan Shan Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sherry_peng_shanying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Wan Jee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_wan_jee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lau Mui Lieng Jocelyn</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,28 +174,6 @@ variant: tiptap
 <p>HUM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sherinder Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sherinder_kaur@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HUM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Anis Fazerina Mohamad Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>anis_fazerina_mohamad_ibrahim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HUM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Celine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,17 +200,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>filzah_nadiah_zainal_abidin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HUM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Josephine Mary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>j_mary_saminathan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
