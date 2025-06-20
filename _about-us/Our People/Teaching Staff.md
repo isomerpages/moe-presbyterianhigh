@@ -226,6 +226,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ma Xinyi Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ma_xinyi_sarah@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
