@@ -138,6 +138,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Chi Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_chi_yong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
