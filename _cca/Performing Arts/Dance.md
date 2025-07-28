@@ -16,12 +16,15 @@ our dancers develop a strong sense of commitment to honing their craft,
 and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <h5></h5>
 <p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm</strong>
-<br><em>*Practices will end at 4.30pm on Fridays during SYF period</em>
+<br><strong><em>Additional practices on Fridays during SYF period</em></strong>
 </p>
 <p>
 <br><strong>Venue: AVA room<br></strong>
 </p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mdm Yvonne Thng (i/c)<br>Mdm Anis Fazerina</strong>
-<br><strong>Mdm Eu Siew Mun<br></strong>
+<p>&nbsp;<strong>Ms Goh Peini (i/c)</strong>
+</p>
+<p><strong> Mdm Chua Min Hui</strong>
+</p>
+<p><strong>&nbsp;Mdm Eu Siew Mun<br></strong>
 </p>
