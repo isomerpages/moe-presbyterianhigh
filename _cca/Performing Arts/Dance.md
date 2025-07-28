@@ -24,7 +24,7 @@ and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <h5>Teachers-in-charge</h5>
 <p>&nbsp;<strong>Ms Goh Peini (i/c)</strong>
 </p>
-<p><strong> Mdm Chua Min Hui</strong>
+<p><strong>Mdm Chua Min Hui</strong>
 </p>
 <p><strong>&nbsp;Mdm Eu Siew Mun<br></strong>
 </p>
