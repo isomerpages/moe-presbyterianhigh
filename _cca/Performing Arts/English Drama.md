@@ -19,6 +19,6 @@ delighting its audience.</p>
 <br>
 </p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mdm Noorizal Mohd Zain(i/c) <br>Mrs Celine Tan</strong>
-<br><strong>Ms Sherinder Kaur<br></strong>
+<p><strong>Mdm Noorizal Mohd Zain(i/c) <br>Mdm Leong Si Min Celine</strong>
+<br><strong>Ms Loei Xiao Wen Rachael<br></strong>
 </p>

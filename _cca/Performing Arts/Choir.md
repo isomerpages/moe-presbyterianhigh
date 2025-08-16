@@ -20,6 +20,5 @@ Collectively, the choir produces music that a singer alone cannot create.&nbsp;<
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Ms Ong Bi Ru (i/c) <br>Ms Ng Wan Jee<br>Mdm Chua Min Hui</strong>
-<br><strong>Ms Rachel Balakrishnan<br></strong>
+<p><strong>Mdm Ong Bi Ru (i/c) <br>Ms Sarah Ma<br>Ms Rachel Balakrishnan<br></strong>
 </p>

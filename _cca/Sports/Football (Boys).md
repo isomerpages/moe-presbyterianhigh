@@ -21,5 +21,6 @@ a strong commitment to personal development.</p>
 <br><strong>Venue: Football Field<br></strong>
 </p>
 <h5>Teachers-in-Charge</h5>
-<p><strong>Mr Fu Chengwei (i/c)&nbsp;<br>Mr Ong Hong Wei <br></strong>
+<p><strong>Mr Fu Chengwei (i/c)</strong>
+<br><strong>Mr V Ruminathan<br>Mr Yang Yung Chang<br></strong>
 </p>
