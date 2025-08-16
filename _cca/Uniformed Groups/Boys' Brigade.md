@@ -20,5 +20,6 @@ playing, community service, kayaking, knot tying and structure building.</p>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Mr Sherman See (i/c)&nbsp;<br>Mrs Sherry Tan<br></strong>
+<p><strong>Mr Sherman See (i/c)&nbsp;<br>Mdm Lee Hui Jun</strong>
+<br><strong>Mr Teo Chi Yong<br></strong>
 </p>
