@@ -22,6 +22,6 @@ and resilience in students.</p>
 </p>
 <p></p>
 <h5>Teachers-in-charge</h5>
-<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Mr Chang Wai San&nbsp;<br>Ms Ivy Ng</strong>
+<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Ms Ng Luan Cheng Ivy<br>Mr Chow Chia Yung</strong>
 </p>
 <p></p>
