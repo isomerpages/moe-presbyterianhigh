@@ -25,5 +25,6 @@ care for fellow cadets, an adventurous spirit and safety. &nbsp;</p>
 <p></p>
 <h5>Teachers-in-charge</h5>
 <p><strong>Mr Gregory Quek (i/c)&nbsp;<br>Mr Lim Ke Hong</strong>
-<br><strong>Ms Rishika Ghanamoorthy<br></strong>
+<br><strong>Ms Rishika Ghanamoorthy</strong>
+<br><strong>Mr Zhao Xinyu<br></strong>
 </p>
