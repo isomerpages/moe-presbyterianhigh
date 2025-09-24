@@ -31,4 +31,10 @@ sections:
       url: /60th-anniversary/
       image: /images/2025/60_anniversary.png
       alt: Image alt text
+  - infopic:
+      title: PHS Open House 2025
+      subtitle: OPEN HOUSE 2025
+      id: infopic
+      image: /images/2025/2025_PHS_Open_House_banner_sm.png
+      alt: Image alt text
 ---
