@@ -21,6 +21,12 @@ sections:
       background: /images/2024/Website.gif
       variant: center
   - infopic:
+      title: PHS Open House 2025
+      subtitle: Welcome to PHS OPEN HOUSE 2025
+      id: infopic
+      image: /images/2025/2025_PHS_Open_House_banner_sm.png
+      alt: Image alt text
+  - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
       id: infopic
@@ -30,11 +36,5 @@ sections:
       button: READ THE ARTIST STATEMENT
       url: /60th-anniversary/
       image: /images/2025/60_anniversary.png
-      alt: Image alt text
-  - infopic:
-      title: PHS Open House 2025
-      subtitle: OPEN HOUSE 2025
-      id: infopic
-      image: /images/2025/2025_PHS_Open_House_banner_sm.png
       alt: Image alt text
 ---
