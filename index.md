@@ -21,8 +21,7 @@ sections:
       background: /images/2024/Website.gif
       variant: center
   - infopic:
-      title: PHS Open House 2025
-      subtitle: Welcome to PHS OPEN HOUSE 2025
+      title: Presbyterian High School Open House 2025
       id: infopic
       image: /images/2025/2025_PHS_Open_House_banner_sm.png
       alt: Image alt text
