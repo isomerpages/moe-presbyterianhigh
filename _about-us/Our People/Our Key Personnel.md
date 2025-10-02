@@ -40,9 +40,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keypersonnel/4new1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/4new11.png">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
