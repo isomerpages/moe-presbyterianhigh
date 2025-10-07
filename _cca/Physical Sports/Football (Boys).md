@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/CCAs%202023/football.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Football_concept.jpg">
 </div>
 <p>The Football team strives to promote lifelong, sustainable and active
 involvement in football. Our teachers seek to provide opportunities for
