@@ -22,9 +22,9 @@ our basketballers to attain remarkable success.</p>
 </div>
 <p>
 <br><strong>(Girls)<br>Monday: 3–5.30pm </strong>
-<br><strong>Friday: 1–3pm<br>Saturday: 7.30–10am&nbsp;<br></strong>
+<br><strong>Friday: 1–3pm<br>Saturday: 8.00–10.30am&nbsp;<br></strong>
 </p>
-<p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 9.30–12.00pm&nbsp;</strong>
+<p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 10.00am –12.30pm&nbsp;</strong>
 </p>
 <p><strong>Venue: ISH1/ Outdoor Basketball Court</strong>
 </p>
