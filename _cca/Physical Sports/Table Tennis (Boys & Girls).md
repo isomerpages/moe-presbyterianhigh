@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tabletennis_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Table_Tennis_concept_2.jpg">
 </div>
 <p>The Table Tennis team places a strong emphasis on discipline as the bedrock
 of skill development and sporting excellence. Guided by dedicated teachers
