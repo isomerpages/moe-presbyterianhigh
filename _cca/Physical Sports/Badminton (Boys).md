@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Batminton_2024_v1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Badminton_concept.jpg">
 </div>
 <p>The Badminton team places a strong emphasis on character building. Our
 teachers and coach encourage active participation in training, a strong
