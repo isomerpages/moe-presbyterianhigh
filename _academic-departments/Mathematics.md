@@ -56,7 +56,7 @@ mathematical thinking and problem-solving skills.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Math2024/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/02_Escape_room_2_math.jpg">
 </div>
 <p></p>
 <p></p>
