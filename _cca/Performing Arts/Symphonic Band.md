@@ -14,8 +14,8 @@ music as part of a band, and nurture an appreciation for music. Besides
 developing their aptitude and interest in music, the CCA places an emphasis
 on maximising leadership potential in all students.</p>
 <h5></h5>
-<p><strong>(Full Band &amp; sectionals)&nbsp;<br>Monday: 3.30pm–5.30pm&nbsp;<br>Wednesday: 3.30pm–5.30pm </strong>
-<br><em>*Practices will end at 4.30pm on Fridays during SYF period</em>
+<p><strong>(Full Band &amp; sectionals)&nbsp;</strong>
+<br><em>*Practices will be extended on Friday during SYF year</em>
 </p>
 <p><strong>(From 2026)<br>Wednesday: 3.30pm-6.00pm<br>Friday: 1.30pm-4.30pm</strong>
 </p>
