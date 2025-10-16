@@ -35,7 +35,7 @@ practise humility and learn the importance of teamwork. &nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Volleyball_group__NEW_.jpg">
 </div>
 <p><strong>(Girls)<br>Monday: 3.00pm-6.00pm<br>Tuesday: 3.00pm–6.00pm <br>Friday: 1.00pm–4.00pm&nbsp;<br></strong>
-<br><strong>(Boys)<br>Tuesday: 3.00pm–6.00pm<br>Wednesday: 23.00pm–6.00pm <br>Friday: 2.00pm–5.00pm</strong>
+<br><strong>(Boys)<br>Tuesday: 3.00pm–6.00pm<br>Wednesday: 3.00pm–6.00pm <br>Friday: 2.00pm–5.00pm</strong>
 </p>
 <p><strong>Selected divisions</strong>
 <br><strong>Selected Saturdays 8.00am to 12.00pm</strong>
