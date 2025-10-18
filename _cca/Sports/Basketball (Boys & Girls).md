@@ -3,7 +3,7 @@ title: Basketball (Boys & Girls)
 permalink: /cca/sports/basketball/
 variant: tiptap
 description: ""
-third_nav_title: Physical Sports
+third_nav_title: Sports
 ---
 <p></p>
 <div class="isomer-image-wrapper">

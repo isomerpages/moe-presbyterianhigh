@@ -3,7 +3,7 @@ title: Table Tennis (Boys & Girls)
 permalink: /cca/sports/tabletennis/
 variant: tiptap
 description: ""
-third_nav_title: Physical Sports
+third_nav_title: Sports
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -14,8 +14,6 @@ of skill development and sporting excellence. Guided by dedicated teachers
 and their coach, members participate in rigorous training to hone their
 skills, build their character and cultivate a strong sense of teamwork.</p>
 <p></p>
-<p><strong>(No new intake for the boys' team from 2025)</strong>
-</p>
 <p><strong>Monday: 3–5.30pm&nbsp;<br>Wednesday: 3–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
 <br><strong>Venue: Rifle Range Room</strong>
 </p>

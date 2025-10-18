@@ -1,7 +1,7 @@
 ---
-title: Sports
+title: Physical Sports
 permalink: /student-development/ccas/sports/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: CCAs
 ---
