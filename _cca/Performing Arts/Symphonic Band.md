@@ -14,13 +14,14 @@ music as part of a band, and nurture an appreciation for music. Besides
 developing their aptitude and interest in music, the CCA places an emphasis
 on maximising leadership potential in all students.</p>
 <h5></h5>
-<p><strong>(Full Band &amp; sectionals)&nbsp;</strong>
-<br><em>*Practices will be extended on Friday during SYF year</em>
-</p>
+<p></p>
 <p><strong>(From 2026)<br>Wednesday: 3.30pm-6.00pm<br>Friday: 1.30pm-4.30pm</strong>
 </p>
-<p>
-<br><strong>Venue: Band room (ISH Level 2)<br></strong>
+<p><strong>(Full Band &amp; sectionals)&nbsp;</strong>
+<br><em>*Practices will be extended on Friday during SYF year</em>
+<br>
+</p>
+<p><strong>Venue: Band room (ISH Level 2)<br></strong>
 </p>
 <h5>Teachers-in-charge</h5>
 <p><strong>Mrs Faith Chen (i/c)<br>Mdm Chung Bee Chee</strong>
