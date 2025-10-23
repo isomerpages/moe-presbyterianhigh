@@ -28,8 +28,7 @@ is also at the heart of the EL and Literature signature programme. At PHS,
 where we are ‘Aflame for Truth’, this programme nurtures in every learner
 a passion for language and a commitment to seeking truth about the world
 around them. Here, words carry weight, stories shape worlds, and truth
-is</p>
-<p>discovered not only in what we say, but how we choose to say it.</p>
+is discovered not only in what we say, but how we choose to say it.</p>
 <p></p>
 <p>In an increasingly polarised world where misinformation blurs the lines
 of truth, Veritas invites you to pause, question and seek clarity. If you
