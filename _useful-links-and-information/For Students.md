@@ -36,6 +36,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/drive/folders/1s64ut10wy0it6Gt6607VhCfiKcDIWFNs?usp=sharing" rel="noopener nofollow" target="_blank">Booklists</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1N8NlQVf_AVWHJ7uhyGXFiizB3oVEfKIB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School Bookshop and Uniform Vendor Details</a>
 </p>
 </li>
