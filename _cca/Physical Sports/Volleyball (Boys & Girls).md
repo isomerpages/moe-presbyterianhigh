@@ -3,7 +3,7 @@ title: Volleyball (Boys & Girls)
 permalink: /cca/sports/volleyball/
 variant: tiptap
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <p>The Volleyball team seeks to nurture a generation of athletes with a deep
 passion for playing volleyball and a strong sense of service. Our volleyballers

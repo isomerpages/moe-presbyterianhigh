@@ -3,7 +3,7 @@ title: Football (Boys)
 permalink: /cca/sports/football/
 variant: tiptap
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <p></p>
 <div class="isomer-image-wrapper">

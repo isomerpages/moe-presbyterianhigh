@@ -3,7 +3,7 @@ title: Table Tennis (Boys & Girls)
 permalink: /cca/sports/tabletennis/
 variant: tiptap
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <p></p>
 <div class="isomer-image-wrapper">

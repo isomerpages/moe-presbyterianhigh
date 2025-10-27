@@ -39,11 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Booklists
-<br><a href="/files/Booklists/2024phssec2booklists.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a> 
-<br><a href="/files/Booklists/2024phssec3booklists.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
-<br><a href="/files/Booklists/2024phssec4booklists.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a> 
-<br><a href="/files/Booklists/2024phssec5booklists.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5</a> 
+<p><a href="https://drive.google.com/drive/folders/1s64ut10wy0it6Gt6607VhCfiKcDIWFNs?usp=sharing" rel="noopener nofollow" target="_blank">Booklists</a>
 <br>
 </p>
 </li>

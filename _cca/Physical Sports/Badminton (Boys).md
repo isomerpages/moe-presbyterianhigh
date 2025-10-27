@@ -3,7 +3,7 @@ title: Badminton (Boys)
 permalink: /cca/sports/badminton/
 variant: tiptap
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <p></p>
 <div class="isomer-image-wrapper">

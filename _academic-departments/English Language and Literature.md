@@ -28,22 +28,20 @@ is also at the heart of the EL and Literature signature programme. At PHS,
 where we are ‘Aflame for Truth’, this programme nurtures in every learner
 a passion for language and a commitment to seeking truth about the world
 around them. Here, words carry weight, stories shape worlds, and truth
-is</p>
-<p>discovered not only in what we say, but how we choose to say it.</p>
+is discovered not only in what we say, but how we choose to say it.</p>
 <p></p>
 <p>In an increasingly polarised world where misinformation blurs the lines
 of truth, Veritas invites you to pause, question and seek clarity. If you
 seek to understand perspectives beyond your own and craft your own voice
 with empathy, insight and care – you belong in Veritas. As a student in
-Veritas, you will explore the power of language and literature, and</p>
-<p>nurture your growth in four key focus areas:</p>
+Veritas, you will explore the power of language and literature, and nurture
+your growth in four key focus areas:</p>
 <p></p>
 <h4>1. Oracy and Debate</h4>
 <p>You will learn to speak with purpose and passion, through classroom debates
 and school-wide speech events, and take your voice to the national stage
 in competitions like the YMCA Plain English Speaking Award (PESA) and the
-National Schools Literature Festival</p>
-<p>(NSLF) Unseen Debate.
+National Schools Literature Festival (NSLF) Unseen Debate.
 <br>
 </p>
 <h4>2. Media and Information Literacy</h4>
@@ -66,10 +64,10 @@ Writing Challenge and the National Poetry Recitation Competition.</p>
 the much-loved Lower Secondary Literature text Emily of Emerald Hill, to
 supporting charity initiatives such as NLB’s Read for Books, which promotes
 reading and shares its joy with the less privileged, to international essay
-competitions like Cambridge Re:think, which fosters</p>
-<p>critical thinking and invites exploration of thought-provoking and sometimes
-controversial topics, you will connect learning to lived experiences and
-emerge with a deeper understanding of the world and your place in it.</p>
+competitions like Cambridge Re:think, which fosters critical thinking and
+invites exploration of thought-provoking and sometimes controversial topics,
+you will connect learning to lived experiences and emerge with a deeper
+understanding of the world and your place in it.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023images/English%20language%20&amp;%20literature/picture%201.jpg">
