@@ -1,5 +1,4 @@
 collections:
   preshigh-go-beyond-borders:
     output: true
-    order:
-      - PresHigh GO! Beyond Borders Programme.md
+    order: []
