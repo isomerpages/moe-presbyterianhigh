@@ -25,6 +25,8 @@ sections:
       id: infopic
       image: /images/2025/2025_PHS_Open_House_banner_sm.png
       alt: Image alt text
+      button: Visit the Site
+      url: http://go.gov.sg/phseopenhouse2025
   - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
