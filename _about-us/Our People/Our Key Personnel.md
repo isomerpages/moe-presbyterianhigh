@@ -44,8 +44,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/4new11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/4new11m.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
