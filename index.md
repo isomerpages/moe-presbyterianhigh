@@ -20,6 +20,12 @@ sections:
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/2024/Website.gif
       variant: center
+  - infobar:
+      title: Information for 2026 Secondary 1 students
+      subtitle: Add informational text
+      id: infobar
+      description: Coming soon!
+      button: Button Text
   - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
@@ -31,10 +37,4 @@ sections:
       url: /60th-anniversary/
       image: /images/2025/60_anniversary.png
       alt: Image alt text
-  - infobar:
-      title: Information for 2026 Secondary 1 students
-      subtitle: Add informational text
-      id: infobar
-      description: Coming soon!
-      button: Button Text
 ---
