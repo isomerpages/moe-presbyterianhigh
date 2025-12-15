@@ -20,13 +20,12 @@ sections:
           url: https://sites.google.com/preshigh.edu.sg/phshblsilmicrosite/home
       background: /images/2024/Website.gif
       variant: center
-  - infopic:
-      title: Presbyterian High School Open House 2025
-      id: infopic
-      image: /images/2025/2025_PHS_Open_House_banner_sm.png
-      alt: Image alt text
-      button: Visit the Site
-      url: http://go.gov.sg/phseopenhouse2025
+  - infobar:
+      title: Information for 2026 Secondary 1 students
+      subtitle: Add informational text
+      id: infobar
+      description: Coming soon!
+      button: Button Text
   - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
