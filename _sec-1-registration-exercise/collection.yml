@@ -2,7 +2,6 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (9) PLD Initiative.md
       - Principal's Welcome Message.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
@@ -12,3 +11,4 @@ collections:
       - (6) Music or Art Elective Programme.md
       - (7) CCA Selection.md
       - (8) PHS Parent Support Group.md
+      - (9) PLD Initiative.md
