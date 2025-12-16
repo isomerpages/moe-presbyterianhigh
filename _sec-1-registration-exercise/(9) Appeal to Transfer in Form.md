@@ -2,8 +2,9 @@
 title: (9) Appeal to Transfer in Form
 permalink: /secondary-one-e-registration-exercise-2023-cohort/9-appeal-to-transfer-in-form/
 description: ""
+variant: markdown
 ---
-# **SECONDARY ONE E-REGISTRATION EXERCISE (2023 COHORT)**
+# **SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)**
 
 ### (9) Appeal to Transfer-in Form
 
