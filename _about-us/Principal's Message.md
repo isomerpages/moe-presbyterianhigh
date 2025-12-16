@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/School_Website_Ms_Loh.jpg">
+</div>
 <p></p>
 <p>Welcome to Presbyterian High School (PHS)! It is with gratitude and a
 strong sense of stewardship that I assume the role of Principal at this
@@ -48,7 +51,6 @@ as we build on these firm foundations whilst thoughtfully embracing change
 and innovation. May PHS continue to be a place where values are lived out,
 learning is purposeful, and every student is empowered to make a positive
 difference in the world.</p>
-<p>&nbsp;</p>
 <p>Aflame for Truth,</p>
 <p>Ms Loh Sein Ling
 <br>Principal</p>
