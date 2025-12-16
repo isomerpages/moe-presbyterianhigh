@@ -9,5 +9,3 @@ variant: markdown
 ### (7) CCA Selection
 
 Coming soon! December 2025
-
-Link: [PHS CCA HANDBOOK 2023](https://drive.google.com/drive/folders/1M-PNtcyBwCY9GJuWtHDhNS_5yHRqBHvF?usp=sharing)
