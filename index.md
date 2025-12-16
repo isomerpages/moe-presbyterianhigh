@@ -21,11 +21,9 @@ sections:
       background: /images/2024/Website.gif
       variant: center
   - infobar:
-      title: Information for 2026 Secondary 1 students
-      subtitle: Add informational text
+      title: Information for 2026 Secondary 1 Students and Parents
       id: infobar
       description: Coming soon!
-      button: Button Text
   - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
