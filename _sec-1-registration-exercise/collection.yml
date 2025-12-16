@@ -2,7 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - Principal's Welcome Video.md
+      - Principal's Welcome Message.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
       - (3) Higher Mother Tongue Language.md
@@ -11,5 +11,7 @@ collections:
       - (6) Music or Art Elective Programme.md
       - (7) CCA Selection.md
       - (8) PHS Parent Support Group.md
-      - (9) Appeal to Transfer in Form.md
-      - (10) Enroll for Health and Dental Services.md
+      - (9) PLD Initiative.md
+      - (10) School Hours, Home Based Learning (HBL) and Student Initiated
+        Learning (SIL).md
+      - (11) School Attire and Expectations.md
