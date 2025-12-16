@@ -1,5 +1,5 @@
 collections:
-  ndlp:
+  pld-initiative:
     output: true
     order:
       - NDLP Links/.keep
