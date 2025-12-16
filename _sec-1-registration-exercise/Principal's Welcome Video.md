@@ -4,7 +4,7 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/principals-welcome
 description: ""
 variant: markdown
 ---
-# **SECONDARY ONE E-REGISTRATION EXERCISE (2024 COHORT)**
+# **SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)**
 
 ### Principal's Welcome Message
 
