@@ -2,6 +2,8 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - (10) School Hours, Home Based Learning (HBL) and Student Initiated
+        Learning (SIL).md
       - Principal's Welcome Message.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
