@@ -35,14 +35,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/16N5KGLaT0sEGaEVVsnz59sG3SueJwOZN?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">PDLP Briefing for PHS Parents</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/drive/folders/1YjkQ6xaE9Sn4lCR8lVN6AVfIDQo1_oBb?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Latest PDLP GSA Guide</a>
-</p>
-</li>
-<li>
 <p><a href="https://drive.google.com/drive/folders/1s64ut10wy0it6Gt6607VhCfiKcDIWFNs?usp=sharing" rel="noopener nofollow" target="_blank">Booklists</a>
 <br>
 </p>
