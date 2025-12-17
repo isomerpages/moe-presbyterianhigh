@@ -2,7 +2,6 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (12) Appeal to Transfer In.md
       - Principal's Welcome Message.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
@@ -15,3 +14,4 @@ collections:
       - (9) Personal Learning Device (PLD).md
       - (10) School Hours and Home Based Learning (HBL).md
       - (11) School Attire and Expectations.md
+      - (12) Appeal to Transfer In.md
