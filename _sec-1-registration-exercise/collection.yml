@@ -2,6 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - (12) Appeal to Transfer In.md
       - Principal's Welcome Message.md
       - (1) Sec 1 Orientation.md
       - (2) Full Subject Based Banding (FSBB) Matters.md
