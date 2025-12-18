@@ -52,40 +52,47 @@ for his/her CL/ ML/ TL examination at the end of Secondary 4, if he/she
 is taking HMTL?</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No. Students who offer HMTL will sit for
-the Singapore-Cambridge Secondary Education Certificate (SEC) G3 MTL examination
-at the end of Secondary 3.&nbsp; They will only sit for the HMTL examination
-at the Singapore-Cambridge Secondary Education Certificate (SEC) Examination
-at the end of Secondary 4. &nbsp;</p>
+<p>No. Students who offer HMTL will sit for the Singapore-Cambridge Secondary
+Education Certificate (SEC) G3 MTL examination at the end of Secondary
+3.&nbsp; They will only sit for the HMTL examination at the Singapore-Cambridge
+Secondary Education Certificate (SEC) Examination at the end of Secondary
+4. &nbsp;</p>
+</li>
+<li>
+<p>Students who are unable to cope with HMTL learning at the end of Secondary
+3 may choose to offer G3 MTL instead of HMTL in Secondary 4 and re-take
+the G3 MTL examination in the following year.&nbsp; As students are not
+allowed to sit for the MTL and HMTL examinations in the same academic year,
+these students will NOT be offered HMTL in Secondary 4.</p>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are unable to cope with HMTL
-learning at the end of Secondary 3 may choose to offer G3 MTL instead of
-HMTL in Secondary 4 and re-take the G3 MTL examination in the following
-year.&nbsp; As students are not allowed to sit for the MTL and HMTL examinations
-in the same academic year, these students will NOT be offered HMTL in Secondary
-4.</p>
 <p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child is not offered HMTL.
 Can my child appeal to offer HMTL?</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE has identified a list of students
-who are eligible* to take HMTL (HCL/HML/HTL).&nbsp; The school will admit
-the Secondary 1 students based on this list.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the end of Secondary 1 and Secondary
-2, students who have done well in their MTL and their overall results,
-and who have met the school’s criteria, will be offered HMTL by the school.&nbsp;&nbsp;
-&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;* From 2026 onwards, Secondary 1 students who attain AL1/ AL2 in
-MTL or a distinction/ merit in HMTL in the PSLE are eligible to take HMTL.</p>
-<p>&nbsp;</p>
-<p><u>Mother Tongue/ Non-Tamil Indian/ Foreign/ Asian/ Third Languages Taken at External Venues</u>
-</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE has identified a list of students who are eligible* to take HMTL (HCL/HML/HTL).&nbsp;
+The school will admit the Secondary 1 students based on this list.&nbsp;</p>
+</li>
+<li>
+<p>At the end of Secondary 1 and Secondary 2, students who have done well
+in their MTL and their overall results, and who have met the school’s criteria,
+will be offered HMTL by the school.&nbsp;&nbsp; &nbsp;&nbsp;</p>
+</li>
+<li>
+<p>From 2026 onwards, Secondary 1 students who attain AL1/ AL2 in MTL or
+a distinction/ merit in HMTL in the PSLE are eligible to take HMTL.</p>
+</li>
+</ul>
+<p><strong>&nbsp;<u>Mother Tongue/ Non-Tamil Indian/ Foreign/ Asian/ Third Languages Taken at External Venues</u></strong>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the venues for external
 MTL lessons? How will it affect my child’s CCA?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamil Language – Guangyang Sec School
 (designated centre) &nbsp;&nbsp;</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foreign Language as Third Language – MOE
 Language Centre (Bishan) / (Newton)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Special Programme as Third Language
