@@ -165,9 +165,7 @@ hours of the school gates</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>FOR PEDESTRIANS</strong>
+<p><strong>&nbsp;FOR PEDESTRIANS</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
