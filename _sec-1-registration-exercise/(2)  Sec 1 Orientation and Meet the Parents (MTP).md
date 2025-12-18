@@ -284,4 +284,5 @@ is next to the school. No parking is available in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/mapsec1.png">
 </div>
-<p></p>
+<p>Thank you.</p>
+<p>The Sec 1 Orientation Organising Committee</p>
