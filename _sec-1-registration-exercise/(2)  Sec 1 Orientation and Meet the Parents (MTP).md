@@ -62,18 +62,15 @@ the school canteen.</p>
 Class he/she is in on the boards in the school canteen.</p>
 <p>Your child/ward will need to purchase his/her own meals from the canteen
 for recess and lunch. An afternoon snack is provided by the school.</p>
-<p>&nbsp;</p>
 <p>Do bring a water bottle, a story book, a notebook and a pen.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>6.00 pm</p>
+<p>&nbsp;6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Dismissal</p>
+<p>&nbsp;Dismissal</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +93,6 @@ for recess and lunch. An afternoon snack is provided by the school.</p>
 <p>&nbsp;Your child/ward will need to purchase his/her own meals from the
 canteen for recess and lunch. An afternoon snack is provided by the school.Do
 bring a water bottle, a story book, a notebook and a pen.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -135,8 +131,6 @@ day. Their dismissal time will be per their Timetable.</p>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Induction Ceremony and Meet-the-Parents (MTP) Talk &amp; Sec 1 Orientation
 Finale</p>
-<p><u>&nbsp;</u>
-</p>
 </td>
 </tr>
 <tr>

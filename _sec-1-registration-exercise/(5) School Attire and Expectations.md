@@ -1,5 +1,5 @@
 ---
-title: (5) School Attire and Expectation
+title: (5) School Attire and Expectations
 permalink: /school-attire-and-expectation/
 variant: tiptap
 description: ""

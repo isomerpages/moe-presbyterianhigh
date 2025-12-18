@@ -153,7 +153,7 @@ Urdu?&nbsp; &nbsp;</p>
 Centre for Hindi lessons. The Board for the Teaching and Testing of South
 Asian Languages (BTTSAL) oversees NTIL instruction and assessment.&nbsp;
 The list of NTIL centres can also be found on the official BTTSAL website
-at <a rel="noopener noreferrer nofollow" target="_blank">bttsal.com</a>.</p>
+at <a href="bttsal.com" rel="noopener noreferrer nofollow" target="_blank">bttsal.com</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Maintain regular attendance at the centre.&nbsp;</p>
