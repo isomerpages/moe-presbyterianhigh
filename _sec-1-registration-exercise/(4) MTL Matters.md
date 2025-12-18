@@ -4,7 +4,6 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/3-higher-mother-to
 description: ""
 variant: tiptap
 ---
-<h1><strong>SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)</strong></h1>
 <h3>(3) Higher Mother Tongue Language</h3>
 <p><strong>Frequently Asked Questions (FAQ) on Mother Tongue Languages</strong>
 </p>
