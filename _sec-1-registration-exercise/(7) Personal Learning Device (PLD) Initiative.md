@@ -55,8 +55,7 @@ provided.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; School-based FAS: Up to $50 out of pocket&nbsp;after
 subsidies.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; Subsides are <strong>not applicable</strong> for
-non-FAS SC students whose</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Gross Monthly Household income (GMH) exceeds
+non-FAS SC students, whose Gross Monthly Household income (GMH) exceeds
 $5,500 or Per Capita Income (PCI) exceeds $1,375. Parents/Guardians can
 use their child’s/ward’s Edusave or cash to defray the device bundle cost.</p>
 <p><strong>For Non-SC Students</strong>
