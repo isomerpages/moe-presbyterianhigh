@@ -18,7 +18,7 @@ MOE FAS via the following ways:
 <br>1.&nbsp;&nbsp;&nbsp; Submit the application online via FormSG Link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
 <br>or
 <br>2.&nbsp;&nbsp;&nbsp; Download the Application Form from our school’s website
-(click here)
+(click <a href="https://drive.google.com/file/d/1MJ9SnbbxEngFG2UPnRvcuwr-qOgkIlnb/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>)
 <br>or
 <br>3.&nbsp;&nbsp;&nbsp; Collect a copy of the Application Form from our General
 Office.</p>
