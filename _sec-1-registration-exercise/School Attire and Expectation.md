@@ -4,12 +4,9 @@ permalink: /school-attire-and-expectation/
 variant: tiptap
 description: ""
 ---
-<p><strong>School Attire and Expectations on Grooming</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Students are to wear the prescribed school uniform. Any form of modification
-to the uniform is not allowed.</p>
+<h3><strong>School Attire and Expectations on Grooming</strong></h3>
+<p><strong>&nbsp;</strong>Students are to wear the prescribed school uniform.
+Any form of modification to the uniform is not allowed.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
