@@ -151,16 +151,7 @@ Finale</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; Overview of Sec 1 Orientation Programme</strong>
+<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp; Overview of Sec 1 Orientation Programme</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -277,22 +268,6 @@ Finale</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Sec 1 Meet-the-Parents (MTP) 9 Jan (Fri)</strong>
 </p>
 <p>Parents are invited to the MTP to hear more about Presbyterian High School.
