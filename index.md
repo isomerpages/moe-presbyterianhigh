@@ -23,7 +23,8 @@ sections:
   - infobar:
       title: Information for 2026 Secondary 1 Students and Parents
       id: infobar
-      description: Coming soon!
+      url: sec-1-registration-exercise
+      button: Click Here
   - infopic:
       title: Celebrating 60 years as PHS
       subtitle: WE'RE 60!
