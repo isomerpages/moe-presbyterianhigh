@@ -4,7 +4,7 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/1-sec-1-orientatio
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3>(2) Sec 1 Orientation and Meet the Parents ((MTP)</h3>
 <p>The Sec 1 Orientation Programme will take place on 2 Jan (Fri) and 5 Jan
 (Mon) to welcome our Sec 1 students to Presbyterian High School. Their
 orientation will culminate in an Induction Ceremony, together with the
