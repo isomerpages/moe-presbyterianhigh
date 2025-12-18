@@ -1,5 +1,5 @@
 ---
-title: Principal's Welcome Messaage
+title: Principal's Welcome Message
 permalink: /principal-s-welcome-messaage/
 variant: tiptap
 description: ""

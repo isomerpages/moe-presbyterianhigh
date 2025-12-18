@@ -32,9 +32,7 @@ each subject. Students will attend the lessons based on the level they
 are eligible for.</p>
 <p>Should the student be eligible to offer a subject at a more demanding
 level, a letter of offer would be sent via Parents Gateway (PG). Please
-exercise your option(s) <strong><u>by 26 Dec 2025 via PG</u></strong>.</p>
+exercise your option(s) <strong><u>by 24th Dec 2025 via PG</u></strong>.</p>
 <p><strong>Important notes:</strong>
 </p>
-<p>1. For Posting Group 1 students who are offered the subject(s) at G2 or
-G3 Level, remember to indicate the level accepted.</p>
-<p>2. For more information on Full SBB, visit <a href="http://www.moe.gov.sg/microsites/psle-fsbb" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/microsites/psle-fsbb</a>.</p>
+<p>For more information on Full SBB, visit <a href="http://www.moe.gov.sg/microsites/psle-fsbb" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/microsites/psle-fsbb</a>.</p>

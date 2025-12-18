@@ -119,3 +119,91 @@ school pants/shorts/skirt. Please refer to the “School Attire and Expectations
 tab for further details.</p>
 <p>4.&nbsp;&nbsp;&nbsp; Co-curriculum activities (CCA) or academic support
 programmes may continue after 3.00pm.</p>
+<h3><strong>School Traffic Management</strong></h3>
+<p>To ensure the safety of our school community, we kindly request parents
+and students to:</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exercise caution while
+using the pedestrian walkway</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reduce your vehicle
+speed when approaching the school</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comply with all traffic
+signs and directions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take note of operating
+hours of the school gates</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/schoolhours.png">
+</div>
+<p><strong>FOR DRIVERS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Main Gate B</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00 am to 6.30 pm (Monday to Friday)</p>
+<p>6.30 am to 12.30pm (Saturday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Main Gate C (<strong><u>Exit Only</u></strong>)</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.40am to 7.40am (Monday to Friday)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;FOR PEDESTRIANS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Side Gate A (with Turnstile)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>*SIDE GATE (During School Days)</u></strong>
+</p>
+<p>6.15 am to 7.40 am (Monday to Friday)</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>TURNSTILE (During School Days)</u></strong>
+</p>
+<p>1.30 pm to 6.00 pm (Monday to Thursday)</p>
+<p>12.30 pm to 6.00 pm (Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Side Gate B (Main Gate)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;7.30 am to 6.30 pm (Monday to Friday)</a>
+</p>
+<p>&nbsp;6.30 am to 12.30pm (Saturday)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Students who walk to school should enter via side gate A before 7.40
+am, and via main gate B after 7.40 am.</p>
+<p></p>
+<p></p>

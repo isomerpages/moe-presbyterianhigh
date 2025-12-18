@@ -1,8 +1,8 @@
 ---
 title: (2)  Sec 1 Orientation and Meet the Parents (MTP)
-permalink: /secondary-one-e-registration-exercise-2023-cohort/1-sec-1-orientation/
-description: ""
+permalink: /example-title-2-sec-1-orientation-and-meet-the-parents-mtp/
 variant: tiptap
+description: ""
 ---
 <h3>Sec 1 Orientation and Meet the Parents (MTP)</h3>
 <p>The Sec 1 Orientation Programme will take place on 2 Jan (Fri) and 5 Jan
@@ -35,7 +35,7 @@ below:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2 Jan (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,26 +55,35 @@ below:</p>
 <td rowspan="1" colspan="1">
 <p><u>Sec 1 Orientation</u>
 </p>
+<p>&nbsp;</p>
 <p>Report to school in half uniform (PHS polo T-shirt and shorts/skirt) at
 the school canteen.</p>
 <p>(<em>If you have not purchased the attire, your child/ward can report in his/her primary school uniform.</em>)</p>
-<p>&nbsp;Upon reporting to school, your child/ward should check which Form
-Class he/she is in on the boards in the school canteen.</p>
+<p>&nbsp;</p>
+<p>Upon reporting to school, your child/ward should check which Form Class
+he/she is in on the boards in the school canteen.</p>
+<p>&nbsp;</p>
 <p>Your child/ward will need to purchase his/her own meals from the canteen
 for recess and lunch. An afternoon snack is provided by the school.</p>
+<p>&nbsp;</p>
 <p>Do bring a water bottle, a story book, a notebook and a pen.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;6.00 pm</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Dismissal</p>
+<p>&nbsp;</p>
+<p>6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Dismissal</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>5 Jan (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,13 +98,20 @@ for recess and lunch. An afternoon snack is provided by the school.</p>
 <td rowspan="1" colspan="1">
 <p><u>Sec 1 Orientation</u>
 </p>
-<p>&nbsp;Report to school in PE attire.</p>
-<p>&nbsp;Your child/ward will need to purchase his/her own meals from the
-canteen for recess and lunch. An afternoon snack is provided by the school.Do
-bring a water bottle, a story book, a notebook and a pen.</p>
+<p>&nbsp;</p>
+<p>Report to school in PE attire.</p>
+<p>&nbsp;</p>
+<p>Your child/ward will need to purchase his/her own meals from the canteen
+for recess and lunch. An afternoon snack is provided by the school.</p>
+<p>&nbsp;</p>
+<p>Do bring a water bottle, a story book, a notebook and a pen.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>6.00 pm</p>
 </td>
@@ -131,6 +147,8 @@ day. Their dismissal time will be per their Timetable.</p>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Induction Ceremony and Meet-the-Parents (MTP) Talk &amp; Sec 1 Orientation
 Finale</p>
+<p><u>&nbsp;</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +157,8 @@ Finale</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End</p>
-<p>&nbsp;<em>*9 Jan is a normal school day. Students are to follow the timetable for the day for lessons. Students are dismissed after their lessons and are to return to school for the evening segment.</em>
+<p>&nbsp;</p>
+<p><em>*9 Jan is a normal school day. Students are to follow the timetable for the day for lessons. Students are dismissed after their lessons and are to return to school for the evening segment.</em>
 </p>
 </td>
 </tr>
@@ -251,15 +270,6 @@ Finale</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Sec 1 Meet-the-Parents (MTP) 9 Jan (Fri)</strong>
@@ -274,6 +284,5 @@ is next to the school. No parking is available in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/mapsec1.png">
 </div>
-<p>Thank you.
-<br>The Sec 1 Orientation Organising Committee</p>
-<p></p>
+<p>Thank you.</p>
+<p>The Sec 1 Orientation Organising Committee</p>
