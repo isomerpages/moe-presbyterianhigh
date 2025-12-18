@@ -36,6 +36,5 @@ help you feel ready and confident for the start of school. More information
 will be sent via Parents’ Gateway shortly.</p>
 <p>Once again, welcome to Presbyterian High School. Let's make this a wonderful
 year together!</p>
-<p>&nbsp;</p>
 <p>Your Principal,
 <br>Ms Loh Sein Ling</p>
