@@ -40,4 +40,4 @@ will be sent via Parents’ Gateway shortly.
 <br>Once again, welcome to Presbyterian High School. Let's make this a wonderful
 year together!</p>
 <p>Your Principal,
-<br>Ms Loh Sein L</p>
+<br>Ms Loh Sein Ling</p>
