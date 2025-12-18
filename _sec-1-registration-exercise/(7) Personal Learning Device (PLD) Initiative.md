@@ -68,7 +68,7 @@ check supported iPad models)</p>
 <p><strong><u>Timeline for Parents/Guardians</u></strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; <strong>7 Jan 2026 (Wed): </strong>Parental Consent
-for the Purchase of PLD sent via a Parent Gateway (PG)</p>
+for the Purchase of PLD sent via a Parent Gateway</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; <strong>9 Jan 2026 (Fri): </strong>Parents’ Engagement
 Session during Sec 1 MTP</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; <strong>By 14 Jan 2026 (Wed):</strong>
