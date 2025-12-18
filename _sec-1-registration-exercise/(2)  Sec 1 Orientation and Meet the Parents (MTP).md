@@ -40,33 +40,26 @@ below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.15 am</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Sec 1 Orientation</u>
 </p>
-<p>&nbsp;</p>
 <p>Report to school in half uniform (PHS polo T-shirt and shorts/skirt) at
 the school canteen.</p>
 <p>(<em>If you have not purchased the attire, your child/ward can report in his/her primary school uniform.</em>)</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Upon reporting to school, your child/ward should check which Form Class
 he/she is in on the boards in the school canteen.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Your child/ward will need to purchase his/her own meals from the canteen
 for recess and lunch. An afternoon snack is provided by the school.</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p>Do bring a water bottle, a story book, a notebook and a pen.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -74,12 +67,10 @@ for recess and lunch. An afternoon snack is provided by the school.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Dismissal</p>
+<p>&nbsp;Dismissal</p>
 </td>
 </tr>
 <tr>
@@ -88,24 +79,16 @@ for recess and lunch. An afternoon snack is provided by the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.25 am</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Sec 1 Orientation</u>
 </p>
-<p>&nbsp;</p>
 <p>Report to school in PE attire.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Your child/ward will need to purchase his/her own meals from the canteen
 for recess and lunch. An afternoon snack is provided by the school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Do bring a water bottle, a story book, a notebook and a pen.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -124,12 +107,10 @@ for recess and lunch. An afternoon snack is provided by the school.</p>
 <p>6 Jan (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Start of Lessons</u>
-</p>
-<p><u>&nbsp;</u>
 </p>
 <p>Students will report at 7.25am in the expected school uniform for the
 day. Their dismissal time will be per their Timetable.</p>
@@ -141,14 +122,10 @@ day. Their dismissal time will be per their Timetable.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.00 pm</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Induction Ceremony and Meet-the-Parents (MTP) Talk &amp; Sec 1 Orientation
 Finale</p>
-<p><u>&nbsp;</u>
-</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +134,6 @@ Finale</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End</p>
-<p>&nbsp;</p>
 <p><em>*9 Jan is a normal school day. Students are to follow the timetable for the day for lessons. Students are dismissed after their lessons and are to return to school for the evening segment.</em>
 </p>
 </td>
