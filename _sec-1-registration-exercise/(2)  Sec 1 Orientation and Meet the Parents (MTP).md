@@ -277,3 +277,9 @@ where we formally welcome the Sec 1 students into Presbyterian High School.</p>
 location is at the carpark near block 634 (via Ang Mo Street 61), which
 is next to the school. No parking is available in school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/mapsec1.png">
+</div>
+<p>Thank you.
+<br>The Sec 1 Orientation Organising Committee</p>
+<p></p>
