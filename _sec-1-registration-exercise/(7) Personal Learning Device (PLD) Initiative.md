@@ -23,17 +23,8 @@ their child’s PLD:</p>
 <p>The school has made arrangements for parents to purchase the PLD from <strong>AsiaPac Distribution Pte. Ltd.</strong>,
 the MOE-appointed vendor.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ipad2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Screenshot_2025_12_18_172747.png">
 </div>
-<p><strong>Insurance Coverage (claimable)</strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Fire, Lightning, Power Surges</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Accidental damage (e.g water spillage, drops)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Theft due to forcible entry, Robbery</p>
-<p><strong><em>Note:</em></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Accidental loss is not covered</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Maximum of 2 repairs and 1 replacement</p>
 <p><strong>Funding Support for Singapore Citizen (SC) Students</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; <strong>Payment can be made using your child’s/ward’s Edusave account</strong>,
@@ -67,22 +58,11 @@ below $1,375.</p>
 </p>
 <p>Parents/Guardians who do not opt for the MOE iPad bundle must ensure that
 the existing iPad meet <strong>all </strong>the following requirements:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Compatible stylus and keyboard cover</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; DMA installation allowed</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; <strong>Factory reset required</strong>
-</p>
-<p>(All existing data will be erased. Parents are advised to back up data
-before reset.)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Processor: <strong>A14 Fusion or better</strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Capacity: <strong>64 GB or higher</strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Version: <strong>iPadOS 18</strong>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; (please click <a href="https://support.apple.com/en-gb/guide/ipad/ipad213a25b2/26/ipados/26" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025/Screenshot_2025_12_18_173303.png">
+</div>
+<p>(please click <a href="https://support.apple.com/en-gb/guide/ipad/ipad213a25b2/26/ipados/26" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 check supported iPad models)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; Screen Size: 10.0 inches and above (recommended
-for learning)</p>
 <p><strong>A separate PG notification will be sent to inform parents of the date their child should bring the device to school for suitability checks and DMA installation.</strong>
 </p>
 <p><strong><u>Timeline for Parents/Guardians</u></strong>
