@@ -4,7 +4,6 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/2-full-subject-bas
 description: ""
 variant: tiptap
 ---
-<h1><strong>SECONDARY ONE E-REGISTRATION EXERCISE (2024 COHORT)</strong></h1>
 <h3>(3) Full Subject-Based Banding</h3>
 <p><strong>Full Subject-Based Banding (Full SBB) Matters</strong>
 <br>At PHS, our Lower Secondary students are grouped in mixed form classes,
