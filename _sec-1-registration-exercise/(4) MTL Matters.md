@@ -89,51 +89,72 @@ a distinction/ merit in HMTL in the PSLE are eligible to take HMTL.</p>
 MTL lessons? How will it affect my child’s CCA?</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamil Language – Guangyang Sec School
-(designated centre) &nbsp;&nbsp;</p>
+<p>Tamil Language – Guangyang Sec School (designated centre) &nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Foreign Language as Third Language – MOE Language Centre (Bishan) / (Newton)</p>
+</li>
+<li>
+<p>Chinese Special Programme as Third Language – MOE Language Centre (Newton)
+/ Changkat Changi Sec School</p>
+</li>
+<li>
+<p>Malay Special Programme as Third Language – MOE Language Centre (Bishan)
+/ Zhonghua Sec School</p>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foreign Language as Third Language – MOE
-Language Centre (Bishan) / (Newton)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Special Programme as Third Language
-– MOE Language Centre (Newton) / Changkat Changi Sec School</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malay Special Programme as Third Language
-– MOE Language Centre (Bishan) / Zhonghua Sec School</p>
 <p>External MTL lessons will take precedence over other activities in school,
 including remedial and CCA. Students are strongly encouraged to choose
 a CCA that would not affect their external lessons.</p>
 <p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will students not taking
 MTL in school be doing during MTL periods?&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not taking MTL in school
-will do self-directed learning during MTL periods in the library.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the students have MTL lessons externally,
-they will be excused from lessons from 2pm to make their way to the centres.&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are not taking MTL in school will do self-directed learning
+during MTL periods in the library.&nbsp;</p>
+</li>
+<li>
+<p>If the students have MTL lessons externally, they will be excused from
+lessons from 2pm to make their way to the centres.&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the things to note
 for Foreign Language (e.g. French/ German) in-lieu of MTL?</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is no need to reapply for MTL if
-approval is granted in primary school.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vacancy to take lessons at MOELC is limited
-and priority is given to Third language students.&nbsp; If a student would
-like to be placed on the waiting list, obtain the application form from
-the HOD/MTL and re-submit the application.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are expected to seek tuition
-externally and provide proof of attendance to the school periodically,
-if they do not get a place in the MOELC.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the end of Secondary 4, students will
-take the SEC MTL examination.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>There is no need to reapply for MTL if approval is granted in primary
+school.&nbsp;</p>
+</li>
+<li>
+<p>Vacancy to take lessons at MOELC is limited and priority is given to Third
+language students.&nbsp; If a student would like to be placed on the waiting
+list, obtain the application form from the HOD/MTL and re-submit the application.</p>
+</li>
+<li>
+<p>Students are expected to seek tuition externally and provide proof of
+attendance to the school periodically, if they do not get a place in the
+MOELC.</p>
+</li>
+<li>
+<p>At the end of Secondary 4, students will take the SEC MTL examination.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the things to note
 for Non-Tamil Indian Languages (NTIL) - Bengali/ Gujarati/ Hindi/ Punjabi/
 Urdu?&nbsp; &nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school does not conduct NTIL class
-during MTL lessons. &nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents should enrol their children in
-an NTIL centre, e.g. Hindi Society Centre for Hindi lessons. The Board
-for the Teaching and Testing of South Asian Languages (BTTSAL) oversees
-NTIL instruction and assessment.&nbsp; The list of NTIL centres can also
-be found on the official BTTSAL website at <a rel="noopener noreferrer nofollow" target="_blank">bttsal.com</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The school does not conduct NTIL class during MTL lessons. &nbsp;&nbsp;</p>
+</li>
+</ul>
+<p>Parents should enrol their children in an NTIL centre, e.g. Hindi Society
+Centre for Hindi lessons. The Board for the Teaching and Testing of South
+Asian Languages (BTTSAL) oversees NTIL instruction and assessment.&nbsp;
+The list of NTIL centres can also be found on the official BTTSAL website
+at <a rel="noopener noreferrer nofollow" target="_blank">bttsal.com</a>.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain regular attendance at the centre.&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results from the centre will be reflected
 in the report book.</p>
