@@ -26,5 +26,10 @@ school on 2 January 2026.</p>
 do not hear from the school by 5 January 2026.</p>
 <p>6.&nbsp;&nbsp;&nbsp; Please note no hardcopy submission/documents are
 required unless requested.</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
 <p>If any of the information provided in this application is in any way false
 or incorrect, the application will be rejected.</p>
+</li>
+</ol>
+<p></p>
