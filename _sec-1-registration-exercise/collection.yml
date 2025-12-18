@@ -2,13 +2,13 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (6) Sale of Textbooks and School Uniform.md
-      - (5) School Attire and Expectation.md
       - Principal's Welcome Message.md
       - (1) School Hours.md
       - (2)  Sec 1 Orientation and Meet the Parents (MTP).md
       - (3) Full Subject Based Banding.md
       - (4) MTL Matters.md
+      - (5) School Attire and Expectation.md
+      - (6) Sale of Textbooks and School Uniform.md
       - (9) MOE School Based Financial Assistance Scheme.md
       - (6) Music or Art Elective Programme.md
       - (7) CCA Selection.md
