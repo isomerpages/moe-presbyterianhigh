@@ -43,7 +43,7 @@ deduction<strong> on 13 Feb 2026</strong>.</p>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; MOE FAS: $0 out-of-pocket. Subsidies are automatically
 provided.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; School-based FAS: Up to $50 out of pocket&nbsp;after
+<p>•&nbsp;&nbsp;&nbsp;&nbsp; School-based FAS: Up to $50 out-of-pocket&nbsp;after
 subsidies.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp; Subsides are <strong>not applicable</strong> for
 non-FAS SC students, whose Gross Monthly Household income (GMH) exceeds
