@@ -2,10 +2,11 @@
 title: Principal's Welcome Message
 permalink: /secondary-one-e-registration-exercise-2023-cohort/principals-welcome-video/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)**
-
-### Principal's Welcome Message
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/acqaB3rLYuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h1><strong>SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)</strong></h1>
+<h3>Principal's Welcome Message</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/acqaB3rLYuM"></iframe>
+</div>
+<p></p>
