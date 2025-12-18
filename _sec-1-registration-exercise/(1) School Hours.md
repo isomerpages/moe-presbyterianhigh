@@ -122,7 +122,6 @@ programmes may continue after 3.00pm.</p>
 <h3><strong>School Traffic Management</strong></h3>
 <p>To ensure the safety of our school community, we kindly request parents
 and students to:</p>
-<p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exercise caution while
 using the pedestrian walkway</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reduce your vehicle
@@ -155,12 +154,9 @@ hours of the school gates</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Main Gate C (<strong><u>Exit Only</u></strong>)</p>
-<p><em>&nbsp;</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.40am to 7.40am (Monday to Friday)</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -182,8 +178,6 @@ hours of the school gates</p>
 <p><strong><u>*SIDE GATE (During School Days)</u></strong>
 </p>
 <p>6.15 am to 7.40 am (Monday to Friday)</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>TURNSTILE (During School Days)</u></strong>
 </p>
 <p>1.30 pm to 6.00 pm (Monday to Thursday)</p>
