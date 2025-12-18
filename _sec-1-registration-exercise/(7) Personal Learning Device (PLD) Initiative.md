@@ -155,4 +155,4 @@ in each DMA option.</p>
 </tr>
 </tbody>
 </table>
-<p>For more information on the PLD initiative, please refer to the <strong><a href="https://go.gov.sg/pld-parent-deck-2026" rel="noopener noreferrer nofollow" target="_blank">Parent’s Engagement Deck</a></strong>.</p>
+<p>For more information on the PLD Initiative, please refer to the <strong><a href="https://go.gov.sg/pld-parent-deck-2026" rel="noopener noreferrer nofollow" target="_blank">Parent’s Engagement Deck</a></strong>.</p>
