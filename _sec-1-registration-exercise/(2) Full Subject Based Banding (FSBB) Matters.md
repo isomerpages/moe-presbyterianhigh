@@ -2,38 +2,40 @@
 title: (2) Full Subject Based Banding (FSBB) Matters
 permalink: /secondary-one-e-registration-exercise-2023-cohort/2-full-subject-based-banding-fsbb-matters/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **SECONDARY ONE E-REGISTRATION EXERCISE (2024 COHORT)**
-
-### (2) Full Subject-Based Banding (FSBB) Matters
-
-Dear Parents/Guardians,  
-  
-
-PHS is embarking on Full Subject-Based Banding (Full SBB) in 2023 with our incoming Secondary One cohort. 
-
-Our 2023 cohort of Secondary 1 students will be grouped in mixed form classes, comprising students from different courses of study. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
-
-In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.
-
-  
-
-These subjects are:
-
-* Art
-* Character and Citizenship Education
-* Design and Technology
-* Food and Consumer Education
-* Music
-* Physical Education
-  
-Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
-
-English Language, Mother Tongue Languages, Mathematics, and Science will continue to be offered at Express Level, N(A) Level, and N(T) Level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
-
-
-Please exercise your options when you receive a PG message offering subject(s) at more demanding level.  
-(This is for eligible students only.) If you would like have more information on subject-based banding, kindly see attached.
-
-[SBB Information for Parents](/files/(2)%20FSBB%20Briefing%20for%20Parents_2023.pdf)
+<h1><strong>SECONDARY ONE E-REGISTRATION EXERCISE (2024 COHORT)</strong></h1>
+<h3>(3) Full Subject-Based Banding</h3>
+<p><strong>Full Subject-Based Banding (Full SBB) Matters</strong>
+<br>At PHS, our Lower Secondary students are grouped in mixed form classes,
+comprising students from different Posting Groups. Mixed form classes present
+more opportunities for students to interact with other students taking
+different subject combinations, and with different strengths and interests.
+<br>
+<br>In their mixed form classes, students will take a set of subjects at a
+common level, amounting to about one-third of curriculum time. This would
+allow students in mixed form classes to spend curriculum time together
+in these subjects.</p>
+<p>These subjects are:</p>
+<p>• Art</p>
+<p>• Character and Citizenship Education</p>
+<p>• Design and Technology</p>
+<p>• Food and Consumer Education</p>
+<p>• Music</p>
+<p>• Physical Education
+<br>
+<br>Teachers will adopt a range of teaching approaches to meet the different
+learning needs and pace of their students in the same form class.
+<br>
+<br>English Language, Mother Tongue Languages, Mathematics, and Science will
+be taught at G1, G2 or G3 Level, based on the students’ PSLE AL Score for
+each subject. Students will attend the lessons based on the level they
+are eligible for.</p>
+<p>Should the student be eligible to offer a subject at a more demanding
+level, a letter of offer would be sent via Parents Gateway (PG). Please
+exercise your option(s) <strong><u>by 26 Dec 2025 via PG</u></strong>.</p>
+<p><strong>Important notes:</strong>
+</p>
+<p>1. For Posting Group 1 students who are offered the subject(s) at G2 or
+G3 Level, remember to indicate the level accepted.</p>
+<p>2. For more information on Full SBB, visit <a href="http://www.moe.gov.sg/microsites/psle-fsbb" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/microsites/psle-fsbb</a>.</p>
