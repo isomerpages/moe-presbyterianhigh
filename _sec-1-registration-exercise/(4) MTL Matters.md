@@ -6,6 +6,8 @@ variant: tiptap
 ---
 <h1><strong>SECONDARY ONE E-REGISTRATION EXERCISE (2026 COHORT)</strong></h1>
 <h3>(3) Higher Mother Tongue Language</h3>
+<p><strong>Frequently Asked Questions (FAQ) on Mother Tongue Languages</strong>
+</p>
 <p><strong><u>Mother Tongue Languages (MTL) and Higher Mother Tongue Languages (HMTL)</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the venue of HMTL
@@ -24,7 +26,6 @@ lesson after school in Anderson Secondary School. &nbsp;&nbsp;</p>
 lesson after school at Umar Pulavar Tamil Language Centre (UPTLC). &nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does my child need to take
 both MTL and HMTL? Does my child need to stay back after school for HMTL
 lessons?</p>
@@ -44,9 +45,9 @@ Their lessons at the external centre are conducted once a week after school.&nbs
 <li>
 <p>Students taking HTL will do self-directed learning during MTL periods.&nbsp;
 Their lessons at the external centre are conducted once a week after school.&nbsp;&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does my child need to sit
 for his/her CL/ ML/ TL examination at the end of Secondary 4, if he/she
 is taking HMTL?</p>
@@ -64,9 +65,9 @@ Secondary Education Certificate (SEC) Examination at the end of Secondary
 the G3 MTL examination in the following year.&nbsp; As students are not
 allowed to sit for the MTL and HMTL examinations in the same academic year,
 these students will NOT be offered HMTL in Secondary 4.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child is not offered HMTL.
 Can my child appeal to offer HMTL?</p>
 <ul data-tight="true" class="tight">
@@ -106,7 +107,6 @@ MTL lessons? How will it affect my child’s CCA?</p>
 <p>External MTL lessons will take precedence over other activities in school,
 including remedial and CCA. Students are strongly encouraged to choose
 a CCA that would not affect their external lessons.</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will students not taking
 MTL in school be doing during MTL periods?&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -117,9 +117,9 @@ during MTL periods in the library.&nbsp;</p>
 <li>
 <p>If the students have MTL lessons externally, they will be excused from
 lessons from 2pm to make their way to the centres.&nbsp;&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the things to note
 for Foreign Language (e.g. French/ German) in-lieu of MTL?</p>
 <ul data-tight="true" class="tight">
@@ -139,9 +139,9 @@ MOELC.</p>
 </li>
 <li>
 <p>At the end of Secondary 4, students will take the SEC MTL examination.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the things to note
 for Non-Tamil Indian Languages (NTIL) - Bengali/ Gujarati/ Hindi/ Punjabi/
 Urdu?&nbsp; &nbsp;</p>
@@ -155,26 +155,37 @@ Centre for Hindi lessons. The Board for the Teaching and Testing of South
 Asian Languages (BTTSAL) oversees NTIL instruction and assessment.&nbsp;
 The list of NTIL centres can also be found on the official BTTSAL website
 at <a rel="noopener noreferrer nofollow" target="_blank">bttsal.com</a>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain regular attendance at the centre.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results from the centre will be reflected
-in the report book.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the end of Secondary 4, students will
-take the SEC MTL examination.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maintain regular attendance at the centre.&nbsp;</p>
+</li>
+<li>
+<p>Results from the centre will be reflected in the report book.</p>
+</li>
+<li>
+<p>At the end of Secondary 4, students will take the SEC MTL examination.</p>
+</li>
+</ul>
 <p><u>Others</u>
 </p>
-<p>&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I apply for MTL ‘B’
-syllabus (CLB/ MLB/ TLB) for my child?</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With the implementation of Full SBB and
-the provision to offer MTL at G1, G2 or G3, the Secondary MTL ‘B’ syllabus
-will be discontinued from the 2024 Secondary 1 cohort onwards.&nbsp; The
-school will assess holistically and recommend the MTL at a Less Demanding
-Level for the student if there is a need.&nbsp;</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I apply for Exemption
-from MTL/ Change of MTL for my child?</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obtain the application form from HOD/MTL.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only students entering Singapore system
-after Primary 1 or students with medical reasons may apply for exemption.</p>
+<p>1) How can I apply for MTL ‘B’ syllabus (CLB/ MLB/ TLB) for my child?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>With the implementation of Full SBB and the provision to offer MTL at
+G1, G2 or G3, the Secondary MTL ‘B’ syllabus will be discontinued from
+the 2024 Secondary 1 cohort onwards.&nbsp; The school will assess holistically
+and recommend the MTL at a Less Demanding Level for the student if there
+is a need.&nbsp;</p>
+</li>
+</ul>
+<p>2) How can I apply for Exemption from MTL/ Change of MTL for my child?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Obtain the application form from HOD/MTL.</p>
+</li>
+<li>
+<p>Only students entering Singapore system after Primary 1 or students with
+medical reasons may apply for exemption.</p>
+</li>
+</ul>
 <p>Changing of MTL is not allowed at secondary school level. &nbsp;&nbsp;</p>
