@@ -7,10 +7,8 @@ description: ""
 <h3><strong>Sale of Textbooks and School Uniform</strong></h3>
 <p><strong><u>Sale of Textbooks</u></strong>
 </p>
-<p>Please refer to “<a href="https://drive.google.com/file/d/1xau3oiJ_5CjdXJbrO1WUO5t0JlcBUHJy/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 2026 Booklist</a>”
-on textbooks and materials required. Please note that students who are
-eligible for and accepted the option to offer subjects at a more demanding
-level via Parents Gateway, should purchase textbooks for that level offered.</p>
+<p><strong><em>Please refer to “<a href="https://drive.google.com/file/d/1xau3oiJ_5CjdXJbrO1WUO5t0JlcBUHJy/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 2026 Booklist</a>” on textbooks and materials required. Please note that students who are eligible for and accepted the option to offer subjects at a more demanding level via Parents Gateway, should purchase textbooks for that level offered.</em></strong>
+</p>
 <p>Online orders may be placed via the online bookshop platform. Delivery
 charges of $12 apply.</p>
 <p>Website: <a href="https://dyeducation.net/" rel="noopener noreferrer nofollow" target="_blank">https://dyeducation.net/</a> (Password:
@@ -27,8 +25,8 @@ order for self-collection at school to avoid a long waiting time on site.</p>
 </p>
 <p><strong><u>Sale of School Uniform</u></strong>
 </p>
-<p>Please refer to the tab “School Attire &amp; Expectations” on School Uniform
-required.</p>
+<p><strong><em>Please refer to the tab “School Attire &amp; Expectations” on School Uniform required.</em></strong>
+</p>
 <p>Online orders may be placed via the online platform. Delivery charges
 of $9 apply.</p>
 <p>Website: <a href="https://www.shirleyuni.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.shirleyuni.com/</a>
