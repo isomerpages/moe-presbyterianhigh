@@ -4,4 +4,25 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/5-moe-school-based
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents / Guardians,</p><p>The application for MOE Financial Assistance Scheme (FAS) 2024 is now open.</p><p>We have attached the MOE FAS criteria eligibility (Pamphlet) and FAS Application Form. All compulsory documents must be submitted together with your completed application form for approval.</p><p>Parents may also choose to apply MOE FAS through eFAS (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>). The link for eFAS and the hardcopy application form are attached in this notification, including the QR code.</p><p>Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via e-FAS link, by 15 Jan 2024 (Monday).</p><p>Application strictly via hardcopy form is required for below scenarios:</p><p>• family with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</p><p>• family with more than 5 children in govt school</p><p>• family with more than 4 unmarried children not in govt school</p><p>• family with more than 3 grandparents in the household</p><p>Note:</p><p>If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.</p><p>School reserves the right to request for any other documents as and when required for the purpose of verifying the income and other status.</p><p>Please prepare in advance all softcopy supporting documents.</p><p>If you have any queries, please contact the school at Tel: 64543722 or via email: <a href="mailto:presbyterian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">presbyterian@moe.edu.sg</a>.</p><p>Parents / Guardians who want to know more about MOE FAS and the eligibility calculator can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p><p>Thank you.</p><p>In Partnership with You,</p><p>Mrs Angeline Chan</p><p>Principal</p><p>Presbyterian High School</p><hr><p>Application Form (eFAS) for 2024: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a></p><p>Information on MOE Financial Assistance: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></p><hr><p><a href="https://drive.google.com/file/d/18ESKQTVadSgKq0s09BZlBrXOsiF3-hS0/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a></p><p><a href="https://drive.google.com/file/d/1iUtbtH65fWiBkOm-sR4b8aIIVcsJQ2iv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphet</a></p>
+<h1><strong>MOE Financial Assistance Scheme (FAS)</strong></h1>
+<p>&nbsp;</p>
+<p>MOE provides financial assistance to Singaporean students from Government
+and Government-Aided Schools who need financial assistance for their studies.
+<br>The application for MOE FAS 2026 is now open. The revised eligibility
+criteria are as follows:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross Monthly Household
+Income of $4,000 or below; or</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Per Capita Income of
+$1,000 or below.If your child is/children are eligible, you can apply for
+MOE FAS via the following ways:
+<br>1.&nbsp;&nbsp;&nbsp; Submit the application online via FormSG Link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
+<br>or
+<br>2.&nbsp;&nbsp;&nbsp; Download the Application Form from our school’s website
+(click here)
+<br>or
+<br>3.&nbsp;&nbsp;&nbsp; Collect a copy of the Application Form from our General
+Office.</p>
+<p>If your family and child/children are existing beneficiaries of MSF Comcare,
+your child/children will be auto-granted MOE FAS. You do not need to apply
+for MOE FAS separately.
+<br>You may contact our General Office at 64543722 for enquiries.</p>
