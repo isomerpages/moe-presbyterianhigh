@@ -4,7 +4,7 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/3-higher-mother-to
 description: ""
 variant: tiptap
 ---
-<h3>Higher Mother Tongue Language</h3>
+<h3>MTL Matters</h3>
 <p><strong>Frequently Asked Questions (FAQ) on Mother Tongue Languages</strong>
 </p>
 <p><strong><u>Mother Tongue Languages (MTL) and Higher Mother Tongue Languages (HMTL)</u></strong>
