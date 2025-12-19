@@ -14,11 +14,11 @@ criteria are as follows:</p>
 Income of $4,000 or below; or</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Per Capita Income of
 $1,000 or below.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your child is/children
-are eligible, you can apply for MOE FAS via the following ways:
 <br>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp; Submit the application online via FormSG Link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
+<p>If your child is/children are eligible, you can apply for MOE FAS via
+the following ways:
+<br>1.&nbsp;&nbsp;&nbsp; Submit the application online via FormSG Link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
 <br>or
 <br>2.&nbsp;&nbsp;&nbsp; Download the Application Form from our school’s website
 (click <a href="https://drive.google.com/file/d/1MJ9SnbbxEngFG2UPnRvcuwr-qOgkIlnb/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>)
