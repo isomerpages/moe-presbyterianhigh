@@ -1,6 +1,6 @@
 ---
 title: Principal's Welcome Message
-permalink: /principal-s-welcome-message/
+permalink: /principals-welcome-message/
 variant: tiptap
 description: ""
 ---
