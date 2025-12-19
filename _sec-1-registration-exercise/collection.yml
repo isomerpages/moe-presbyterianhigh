@@ -2,6 +2,7 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
+      - Principal's Welcome Message(.md
       - Principal's Welcome Message.md
       - (1) School Hours.md
       - (2) Sec 1 Orientation and Meet the Parents  (MTP).md
