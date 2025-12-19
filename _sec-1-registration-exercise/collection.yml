@@ -2,7 +2,6 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (9) MOE Financial Assistance Scheme(.md
       - Principal's Welcome Message.md
       - (1) School Hours.md
       - (2) Sec 1 Orientation and Meet the Parents  (MTP).md
@@ -12,5 +11,6 @@ collections:
       - (6) Sale of Textbooks and School Uniform.md
       - (7) Personal Learning Device (PLD) Initiative.md
       - (8) CCA Matters.md
+      - (9) MOE Financial Assistance Scheme(.md
       - (10) PHS Parent Support Group.md
       - (11) Sec 1 Posting Appeal.md
