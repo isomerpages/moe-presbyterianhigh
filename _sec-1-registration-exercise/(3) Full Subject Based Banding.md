@@ -1,8 +1,8 @@
 ---
 title: (3) Full Subject Based Banding
-permalink: /secondary-one-e-registration-exercise-2023-cohort/2-full-subject-based-banding-fsbb-matters/
-description: ""
+permalink: /3-full-subject-based-banding/
 variant: tiptap
+description: ""
 ---
 <h3>Full Subject-Based Banding</h3>
 <p><strong>Full Subject-Based Banding (Full SBB) Matters</strong>

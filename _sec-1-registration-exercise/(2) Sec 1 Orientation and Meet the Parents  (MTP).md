@@ -1,6 +1,6 @@
 ---
-title: (2)  Sec 1 Orientation and Meet the Parents (MTP)
-permalink: /example-title-2-sec-1-orientation-and-meet-the-parents-mtp/
+title: (2) Sec 1 Orientation and Meet the Parents  (MTP)
+permalink: /2-sec-1-orientation-and-meet-the-parents-mtp/
 variant: tiptap
 description: ""
 ---
@@ -262,3 +262,4 @@ is next to the school. No parking is available in school.</p>
 </div>
 <p>Thank you.</p>
 <p>The Sec 1 Orientation Organising Committee</p>
+<p></p>

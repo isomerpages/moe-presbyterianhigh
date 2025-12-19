@@ -4,7 +4,7 @@ permalink: /secondary-one-e-registration-exercise-2023-cohort/8-phs-parent-suppo
 description: ""
 variant: tiptap
 ---
-<h3>(9) PHS Parent Support Group</h3>
+<h3>PHS Parent Support Group</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Slide1.png">

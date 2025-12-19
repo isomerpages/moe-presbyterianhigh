@@ -1,8 +1,8 @@
 ---
 title: (4) MTL Matters
-permalink: /secondary-one-e-registration-exercise-2023-cohort/3-higher-mother-tongue-language/
-description: ""
+permalink: /4-mtl-matters/
 variant: tiptap
+description: ""
 ---
 <h3>MTL Matters</h3>
 <p><strong>Frequently Asked Questions (FAQ) on Mother Tongue Languages</strong>

@@ -1,8 +1,8 @@
 ---
-title: (9) MOE Financial Assistance Scheme
-permalink: /secondary-one-e-registration-exercise-2023-cohort/5-moe-school-based-financial-assistance-scheme/
-description: ""
+title: (9) MOE Financial Assistance Scheme(
+permalink: /9-moe-financial-assistance-scheme/
 variant: tiptap
+description: ""
 ---
 <h1><strong>MOE Financial Assistance Scheme (FAS)</strong></h1>
 <p>&nbsp;</p>
@@ -13,8 +13,9 @@ criteria are as follows:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross Monthly Household
 Income of $4,000 or below; or</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Per Capita Income of
-$1,000 or below.If your child is/children are eligible, you can apply for
-MOE FAS via the following ways:
+$1,000 or below.</p>
+<p>If your child is/children are eligible, you can apply for MOE FAS via
+the following ways:
 <br>1.&nbsp;&nbsp;&nbsp; Submit the application online via FormSG Link: <strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
 <br>or
 <br>2.&nbsp;&nbsp;&nbsp; Download the Application Form from our school’s website
