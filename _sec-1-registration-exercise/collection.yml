@@ -2,9 +2,9 @@ collections:
   sec-1-registration-exercise:
     output: true
     order:
-      - (2) Sec 1 Orientation and Meet the Parents  (MTP).md
       - Principal's Welcome Message.md
       - (1) School Hours.md
+      - (2) Sec 1 Orientation and Meet the Parents  (MTP).md
       - (3) Full Subject Based Banding.md
       - (4) MTL Matters.md
       - (5) School Attire and Expectations.md
