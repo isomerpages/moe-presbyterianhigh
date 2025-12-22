@@ -65,7 +65,9 @@ Any form of modification to the uniform is not allowed.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/school_uniform_2025.jpg">
+</div>
 <p>Every Wednesday, students are to wear the full school uniform, i.e. shirt/blouse
 and pants/shorts/skirt.&nbsp; Students are allowed to wear half uniform
 on other days of the week. Half uniform comprises the Polo T-shirt and
