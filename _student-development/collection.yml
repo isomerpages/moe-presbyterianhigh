@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Code of Conduct.md
       - National Digital Literacy Programme.md
       - CCAs/.keep
       - CCAs/Performing Arts.md
@@ -16,5 +15,6 @@ collections:
       - Learning for Life Programme.md
       - Full Subject Based Banding.md
       - Student Well Being.md
-      - PresHigh GO! Beyond Borders/PresHigh GO! Beyond Borders Programme.md
       - PresHigh GO! Beyond Borders/.keep
+      - PresHigh GO! Beyond Borders/PresHigh GO! Beyond Borders Programme.md
+      - Code of Conduct.md
