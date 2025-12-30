@@ -352,19 +352,16 @@ or paraphernalia</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 3 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
+<p>•1 to 3 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (no better than ‘Fair’)</p>
+<p>•1 stroke of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
+<p>•3 to 5 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for
-boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (no better than ‘Fair’)</p>
+<p>•Up to 2 strokes of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
 </td>
 </tr>
 <tr>
@@ -372,20 +369,17 @@ grade adjustment (no better than ‘Fair’)</p>
 <p>Second-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<p>•3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for
-boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (no better than ‘Fair’)</p>
+<p>•Up to 2 strokes of the cane (for boys only)</p>
+<p>•&nbsp;<strong><u>AND</u></strong> conduct grade adjustment (no better
+than ‘Fair’)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong>&nbsp;suspension; <strong><u>and/or</u></strong>
+<p>•5 to 14 days of detention <strong><u>and/or</u></strong>&nbsp;suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for
-boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (‘Poor’)</p>
+<p>•Up to 3 strokes of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
 </td>
 </tr>
 <tr>
@@ -393,12 +387,10 @@ grade adjustment (‘Poor’)</p>
 <p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<p>•5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for
-boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct
-grade adjustment (‘Poor’)</p>
+<p>•Up to 3 strokes of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
 </td>
 </tr>
 </tbody>
@@ -416,31 +408,22 @@ Forgery, Inappropriate Behaviour, Leaving School Grounds without Permission,
 Pornography, Possession of Weapons, Open Defiance, Smoking, Truancy (third
 offence onwards), Theft, Trespassing, Vandalism, Vaping and other offences
 that are a breach of law.</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The table shows the <strong><u>baseline disciplinary measures (i.e., minimum)</u>.</strong> The <strong>school has the autonomy to add to the&nbsp;school-based consequences, </strong>based
+<p>The table shows the baseline disciplinary measures (i.e., minimum). The
+school has the autonomy to add to the&nbsp;school-based consequences, based
 on the school's assessment of the case and for behavioural change (example:
 reflection, corrective work, restoration of damaged property, restoration
 of stolen items, zero marks for assessment, counselling).</p>
-</li>
-<li>
 <p>For all serious offences, measures may include Ineligibility for Scholarships/Awards,
 Leadership Appointments, School Trips, School Team Representation.</p>
-</li>
-<li>
 <p>For serious offence which also&nbsp;involves a breach of the law (e.g.,
 Substance Abuse, Vaping,&nbsp;Theft, Possession of weapons, Scams and Frauds),&nbsp;the
 school will report the offence to the relevant law enforcement agencies.&nbsp;
-The school-based disciplinary measures will be meted out <strong><u>in addition to</u></strong> penalties
-imposed by the Courts or Law Enforcement Agencies.</p>
-</li>
-<li>
+The school-based disciplinary measures will be meted out in addition to
+penalties imposed by the Courts or Law Enforcement Agencies.</p>
 <p>Suspension can be in-school or out-of-school suspension, based on the
 school's assessment of the case.</p>
 </li>
-</ul>
+</ol>
 <p><strong>For Smoking and Vaping Offences</strong>
 </p>
 <table style="minWidth: 50px">
@@ -468,52 +451,43 @@ school's assessment of the case.</p>
 </p>
 <p><u>Baseline consequences</u>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; 1 to 3 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
+<p>•1 to 3 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for boys only, with aggravating
-factors)</p>
-<p>•&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct grade adjustment
-(no better than ‘Fair’)</p>
-<p>&nbsp;</p>
+<p>•1 stroke of the cane (for boys only, with aggravating factors)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
 <p><u>Engagement &amp; Support</u>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; Report offence to HSA. To attend Cessation Clinic</p>
-<p>•&nbsp;&nbsp;&nbsp; Counselling by School Counsellor</p>
-<p>•&nbsp;&nbsp;&nbsp; Form Teacher/ Discipline Coordinator to inform parents</p>
-<p>&nbsp;</p>
-<p><strong>2<sup>nd</sup> offence</strong>
+<p>•Report offence to HSA. To attend Cessation Clinic</p>
+<p>•Counselling by School Counsellor</p>
+<p>•Form Teacher/ Discipline Coordinator to inform parents</p>
+<p>&nbsp;<strong>2<sup>nd</sup> offence</strong>
 </p>
 <p><u>Baseline consequences</u>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<p>•3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp; <strong><u>AND</u></strong> conduct grade adjustment
-(no better than ‘Fair’)</p>
-<p>&nbsp;</p>
+<p>•Up to 2 strokes of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (no better than ‘Fair’)</p>
 <p><u>Engagement &amp; Support</u>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; Report offence to HSA. To attend Cessation Clinic</p>
-<p>•&nbsp;&nbsp;&nbsp; Counselling by School Counsellor</p>
-<p>•&nbsp;&nbsp;&nbsp; Parents to see Discipline Coordinator/Discipline Master/Year
-Head</p>
-<p>&nbsp;</p>
+<p>•Report offence to HSA. To attend Cessation Clinic</p>
+<p>•Counselling by School Counsellor</p>
+<p>•Parents to see Discipline Coordinator/Discipline Master/Year Head</p>
 <p><strong>Subsequent offences</strong>
 </p>
 <p><u>Baseline consequences</u>
 </p>
-<p>•&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
+<p>•5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp; Up to 3 strokes of the cane (for boys only)</p>
-<p>•&nbsp;&nbsp; <strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
+<p>• Up to 3 strokes of the cane (for boys only)</p>
+<p>•<strong><u>AND</u></strong> conduct grade adjustment (‘Poor’)</p>
 <p>&nbsp;</p>
 <p><u>Engagement &amp; Support</u>
 </p>
-<p>•&nbsp;&nbsp;&nbsp; Report offence to HSA. To attend Cessation Clinic</p>
-<p>•&nbsp;&nbsp;&nbsp; Counselling by School Counsellor</p>
-<p>•&nbsp;&nbsp;&nbsp; Parents to see Discipline Coordinator/Discipline Master/Year
-Head/School Leader</p>
-<p>&nbsp;</p>
+<p>•Report offence to HSA. To attend Cessation Clinic</p>
+<p>•Counselling by School Counsellor</p>
+<p>•Parents to see Discipline Coordinator/Discipline Master/Year Head/School
+Leader</p>
 </td>
 </tr>
 <tr>
