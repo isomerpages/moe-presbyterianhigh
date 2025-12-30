@@ -115,21 +115,15 @@ at the General Office and seek help promptly.</p>
 <p><strong>&nbsp;CLASSROOM CONDUCT</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp; Observe the GRACE routine.</p>
-<p>&nbsp;</p>
-<p></p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grace.jpg">
+</div>
 <p>b) Students should seek permission and obtain an exit pass from the teacher
 before leaving the class.</p>
 <p>c) Classrooms should be kept clean at all times. The cleanliness of the
 classrooms is the responsibility of the students.</p>
 <p>d) Show consideration to others by keeping the noise level low.</p>
 <p>e) Switch off all lights, fans and projector in the room after use.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>SCHOOL UNIFORM</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp; Students are to wear the prescribed school uniform.
