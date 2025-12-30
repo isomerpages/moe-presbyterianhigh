@@ -258,3 +258,13 @@ commit minor offences will be referred to the respective Discipline Coordinator
 or the Discipline Master.</p>
 <p>c)&nbsp;&nbsp;&nbsp; Consequences will be meted out according to the school
 rules.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table1.png">
+</div>
+<p>Students should note that a ‘Fair’ conduct grade will negatively affect
+their eligibility for:
+<br>Edusave Awards and school-based awards
+<br>School representation in competition and games the selection for school
+programmes and activities.</p>
+<p></p>
