@@ -177,17 +177,13 @@ must be tied up neatly.</p>
 hairstyle is allowed. No hair extension is allowed.<strong>&nbsp;</strong>
 </p>
 <h4><strong>HAIRSTYLES</strong></h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h4><strong>ATTIRE</strong></h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hairstyles.png">
+</div>
+<h4>&nbsp;<strong>ATTIRE</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/attire.png">
+</div>
 <h4><strong>ORNAMENTS AND JEWELLERY</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp; Only female students are allowed to wear one pair
 of similar, small, round ear studs. The diameter of the studs should not
@@ -197,7 +193,6 @@ be more than 3mm. Only one ear stud may be worn on each ear lobe.</p>
 these items may be kept in the purse or wallet.</p>
 <p>d)&nbsp;&nbsp;&nbsp; No tattoo is allowed on any part of the body. Removal
 of tattoo is to be done.</p>
-<p>&nbsp;</p>
 <h4><strong>FINGERNAILS AND MAKE-UP</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp; Fingernails must be kept short and neat.</p>
 <p>b)&nbsp;&nbsp;&nbsp; No nail polish is allowed.</p>
