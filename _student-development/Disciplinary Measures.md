@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Overview of Offences</h2>
 <h3>Disciplinary Measures</h3>
-<h4>List of Serious Offences and Descriptions </h4>
+<h4>List of Serious Offences and Descriptions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -242,7 +242,6 @@ accounts</p>
 <p>Being involved in a confrontation between individuals or opposing groups
 in which each attempt to harm or gain power over the other, as with bodily
 force or weapons</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +270,6 @@ whether actual or attempted</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consuming/ possessing/ distributing/ selling pornographic materials</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +291,6 @@ or distress</p>
 the modesty of students or staff</p>
 <p>Being involved in attempted rape, underage sex, sexual grooming, peeping,
 etc</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +304,6 @@ etc</p>
 <p>Using/ possessing/ distributing/ selling cigarettes, tobacco products
 or paraphernalia</p>
 <p>Using/ possessing/ distributing/ selling e-vaporisers or paraphernalia</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -315,22 +311,16 @@ or paraphernalia</p>
 <p>Types of Abuse:</p>
 <p>&nbsp;</p>
 <p>Alcohol</p>
-<p>&nbsp;</p>
 <p>Drug</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Inhalant</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Others</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Consuming/ possessing/ distributing/ selling alcohol</p>
-<p>&nbsp;</p>
 <p>Using/ possessing/ distributing/ selling drugs</p>
-<p>&nbsp;</p>
 <p>Using/ possessing/ distributing/ selling inhalants</p>
-<p>&nbsp;</p>
 <p>Other serious offences that do not fall in above categories.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
