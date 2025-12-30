@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Disciplinary Measures.md
       - National Digital Literacy Programme.md
       - CCAs/.keep
       - CCAs/Performing Arts.md
