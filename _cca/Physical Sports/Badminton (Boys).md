@@ -18,10 +18,9 @@ our players to showcase their abilities and receive recognition for their
 achievements.&nbsp;</p>
 <h5></h5>
 <p><strong>Monday: 3.15–5.15pm&nbsp;<br>Wednesday: 3.15–5.15pm</strong>
-<br><strong>Friday: 2.00pm to 4.00pm (school team)&nbsp;<br>Venue: Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
+<br><strong>Friday: 1:30pm to 3:30pm (school team)&nbsp;<br>Venue: Bethel Hall, ISH, Yio Chu Kang Sports Hall</strong>
 </p>
 <p></p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mr Neo Kok Hwee (i/c)<br>Mr Tan Tee Wee</strong>
-<br><strong>Mr Tan Chee Wee<br><br></strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mr Neo Kok Hwee<br><br></strong>
 </p>
