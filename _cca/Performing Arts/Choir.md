@@ -16,9 +16,9 @@ Singapore Youth Festival Arts Presentation and performances in school and
 in public, but also builds their confidence, leadership skills and character.
 Collectively, the choir produces music that a singer alone cannot create.&nbsp;</p>
 <h5></h5>
-<p><strong>Wednesday: 3.15–4.30pm <br>Friday: 1.45–4.30pm <br>Venue: Music Room Level 4</strong>
+<p><strong>Wednesday: 3:15pm–5:30pm <br>Friday: 1:45pm–4:30pm <br>Venue: Music Room Level 4</strong>
 </p>
 <p></p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mdm Ong Bi Ru (i/c) <br>Ms Sarah Ma<br>Ms Rachel Balakrishnan<br></strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mdm Ong Bi Ru<br><br></strong>
 </p>
