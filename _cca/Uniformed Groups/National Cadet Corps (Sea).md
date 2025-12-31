@@ -19,12 +19,10 @@ are not only resilient but they also embody core values, such as loyalty
 to country, uprightness, leadership, discipline, commitment and responsibility,
 care for fellow cadets, an adventurous spirit and safety. &nbsp;</p>
 <p>
-<br><strong>(Boys only)<br>Friday: 1.30–4.30pm </strong>
+<br><strong>(Boys only)<br>Friday: 1:30pm–4:30pm </strong>
 <br><strong>Venue: Parade Square/ Classroom</strong>
 </p>
 <p></p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mr Gregory Quek (i/c)&nbsp;<br>Mr Lim Ke Hong</strong>
-<br><strong>Ms Rishika Ghanamoorthy</strong>
-<br><strong>Mr Zhao Xingyu<br></strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mr Gregory Quek</strong>
 </p>
