@@ -15,16 +15,14 @@ and appreciate the beauty of dance. With an emphasis on values and character,
 our dancers develop a strong sense of commitment to honing their craft,
 and learn to cultivate mutual respect and a strong sense of teamwork.</p>
 <h5></h5>
-<p><strong>Monday: 3.30–5.30pm&nbsp;<br>Wednesday: 3.30–5.30pm</strong>
+<p><strong>Monday: 3.30pm–5.30pm&nbsp;<br>Wednesday: 3.30pm–5.30pm</strong>
 <br><strong><em>Additional practices on Fridays during SYF period</em></strong>
 </p>
 <p>
 <br><strong>Venue: AVA room<br></strong>
 </p>
-<h5>Teachers-in-charge</h5>
-<p>&nbsp;<strong>Ms Goh Peini (i/c)</strong>
+<h5>Teacher-in-charge</h5>
+<p>&nbsp;<strong>Ms Goh Peini</strong>
 </p>
-<p><strong>Mdm Chua Min Hui</strong>
-</p>
-<p><strong>&nbsp;Mdm Eu Siew Mun<br></strong>
+<p><strong><br></strong>
 </p>
