@@ -21,7 +21,6 @@ a strong commitment to personal development.</p>
 <p><strong>Monday: 3.30–5.30pm<br>Wednesday: 3.30–5.30pm</strong>
 <br><strong>Venue: Football Field<br></strong>
 </p>
-<h5>Teachers-in-Charge</h5>
-<p><strong>Mr Fu Chengwei (i/c)</strong>
-<br><strong>Mr V Ruminathan<br>Mr Yang Yung Chang<br></strong>
+<h5>Teacher-in-Charge</h5>
+<p><strong>Mr Fu Chengwei</strong>
 </p>
