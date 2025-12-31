@@ -16,12 +16,12 @@ of students, the club also serves the school diligently and responsibly
 in various events and programmes throughout the year. By extending their
 support during school events, the club inculcates values and builds character
 and resilience in students.</p>
-<p><strong>Monday: 3–5.30pm </strong>
-<br><strong>Wednesday: 3–5.30pm </strong>
+<p><strong>Monday: 3:30pm–5.30pm </strong>
+<br><strong>Wednesday: 3:30pm–5.30pm </strong>
 <br><strong>Venue: Bethel Hall, Gallery Level 3</strong>
 </p>
 <p></p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Ms Michelle Goh (i/c)&nbsp;<br>Ms Ng Luan Cheng Ivy<br>Mr Chow Chia Yung</strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Ms Michelle Goh<br></strong>
 </p>
 <p></p>
