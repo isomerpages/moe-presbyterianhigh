@@ -23,10 +23,9 @@ leadership and creative problem-solving, equipping students with both artistic
 and practical skills that extend beyond the stage.</p>
 <p></p>
 <p>
-<br><strong>Monday: 3.30–5.30pm <br>Wednesday: 3.30–5.30pm <br>*Additional practices on Fridays during SYF period<br>Venue: Drama Room (ISH Level 2)</strong>
+<br><strong>Monday: 3.30pm–5.30pm <br>Wednesday: 3.30pm–5.30pm <br>*Additional practices on Fridays during SYF period<br>Venue: Drama Room (ISH Level 2)</strong>
 <br>
 </p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mdm Noorizal Mohd Zain(i/c) <br>Mdm Leong Si Min Celine</strong>
-<br><strong>Ms Loei Xiao Wen Rachael<br></strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mdm Noorizal Mohd Zain<br><br></strong>
 </p>
