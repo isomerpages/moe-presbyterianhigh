@@ -24,5 +24,5 @@ care for fellow cadets, an adventurous spirit and safety. &nbsp;</p>
 </p>
 <p></p>
 <h5>Teacher-in-charge</h5>
-<p><strong>Mr Gregory Quek</strong>
+<p><strong>Mr Gregory Quek Siew Ming</strong>
 </p>
