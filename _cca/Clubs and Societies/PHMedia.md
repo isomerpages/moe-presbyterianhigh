@@ -16,12 +16,12 @@ of school publicity. To nurture confidence, our Upper Secondary members
 are given opportunities to engage in public speaking and conduct enrichment
 courses on video editing for their juniors.</p>
 <p>
-<br><strong>Wednesday: 3–5pm</strong>
+<br><strong>Wednesday: 3:00pm–5:00pm</strong>
 <br><strong>Venue: Computer Lab 4</strong>
 <br>
 </p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mr Clement Yew (i/c) <br>Ms Caroline Patricia Thomas<br>Mr Fabian Lim </strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Ms Caroline Patricia Thomas<br></strong>
 <br>
 </p>
 <p></p>
