@@ -23,8 +23,6 @@ on maximising leadership potential in all students.</p>
 </p>
 <p><strong>Venue: Band room (ISH Level 2)<br></strong>
 </p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mrs Faith Chen (i/c)<br>Mdm Chung Bee Chee</strong>
-<br><strong>Ms Filzah Nadiah</strong>
-<br><strong>Mr Jason Lefort<br></strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mrs Faith Chen</strong>
 </p>
