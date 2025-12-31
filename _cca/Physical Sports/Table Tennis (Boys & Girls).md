@@ -14,9 +14,9 @@ of skill development and sporting excellence. Guided by dedicated teachers
 and their coach, members participate in rigorous training to hone their
 skills, build their character and cultivate a strong sense of teamwork.</p>
 <p></p>
-<p><strong>Monday: 3–5.30pm&nbsp;<br>Wednesday: 3–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
+<p><strong>Monday: 3:00pm–5.30pm&nbsp;<br>Wednesday: 3:00pm–5.30pm&nbsp;<br>Friday: 1.45–4.45pm</strong>
 <br><strong>Venue: Rifle Range Room</strong>
 </p>
-<h5>Teachers-in-Charge</h5>
-<p><strong>Mr Li Mingzhu (i/c)&nbsp;<br>Mdm Herlina Abdullah&nbsp;<br>Ms Jocelyn Lau<br></strong>
+<h5>Teacher-in-Charge</h5>
+<p><strong>Mr Li Mingzhu<br><br></strong>
 </p>
