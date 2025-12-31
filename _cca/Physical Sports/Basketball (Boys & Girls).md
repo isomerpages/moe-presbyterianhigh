@@ -49,18 +49,14 @@ our basketballers to attain remarkable success.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/IMG_6075.jpg">
 </div>
 <p>
-<br><strong>(Girls)<br>Monday: 3–5.30pm </strong>
-<br><strong>Friday: 1–3pm<br>Saturday: 8.00–10.30am&nbsp;<br></strong>
+<br><strong>(Girls)<br>Monday: 3:00pm–5.30pm </strong>
+<br><strong>Friday: 1:00pm–3:30pm<br>Saturday: 8:00am–10.30am&nbsp;<br></strong>
 </p>
-<p><strong>(Boys)<br>Wednesday: 3–5.30pm <br>Friday: 3–5.30pm <br>Saturday: 10.00am –12.30pm&nbsp;</strong>
+<p><strong>(Boys)<br>Wednesday: 3:00pm–5.30pm <br>Friday: 3:00pm–5.30pm <br>Saturday: 10:30am –12.30pm&nbsp;</strong>
 </p>
 <p><strong>Venue: ISH1/ Outdoor Basketball Court</strong>
 </p>
 <p></p>
-<h5>Teachers-in-charge</h5>
-<p><strong>Mr Steven Ong (i/c)<br>Mr Huang Ying</strong>
-<br><strong>Mr Marcus Ong</strong>
-<br><strong>Mdm Siti Aisha</strong>
-<br><strong>Mdm Siti Khadijah</strong>
-<br><strong>Ms Rene Goh</strong>
+<h5>Teacher-in-charge</h5>
+<p><strong>Mr Steven Ong <br></strong>
 </p>
