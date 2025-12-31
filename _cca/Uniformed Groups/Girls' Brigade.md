@@ -16,6 +16,6 @@ the Girls’ sisterhood and camaraderie.</p>
 <p><strong>Friday: 2:00pm–5:00pm <br>Saturday: 8:00am–11:00am </strong>
 <br><strong>Venue: Chapel Basement / Classroom<br></strong>
 </p>
-<h5>Teachers-in-charge</h5>
+<h5>Teacher-in-charge</h5>
 <p><strong>Mdm Sudha Joseph</strong>
 </p>
