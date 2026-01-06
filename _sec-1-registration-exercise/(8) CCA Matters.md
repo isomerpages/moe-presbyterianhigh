@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>CCA Matters</strong></h3>
+<p>[<a href="https://drive.google.com/file/d/18PQzRepat62x5yBIt5KBQpy-anAz3BQO/view?usp=sharing" rel="noopener nofollow" target="_blank">HandBook</a>]</p>
 <p><strong>Co-Curriculum Complements the Curriculum</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; A holistic education provides students with both <strong>breadth and depth</strong>—equipping
