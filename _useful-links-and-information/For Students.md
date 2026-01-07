@@ -7,6 +7,10 @@ variant: tiptap
 <h1><strong>For Students</strong></h1>
 <ul>
 <li>
+<p><a href="https://drive.google.com/file/d/18PQzRepat62x5yBIt5KBQpy-anAz3BQO/view?usp=sharinghttps://drive.google.com/file/d/18PQzRepat62x5yBIt5KBQpy-anAz3BQO/view?usp=sharing" rel="noopener nofollow" target="_blank">CCA Handbook</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Guide on Reading the Timetable</a>
 </p>
 </li>
