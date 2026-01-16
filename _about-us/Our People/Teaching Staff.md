@@ -449,7 +449,7 @@ variant: tiptap
 <p>MATH HOD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woo Huey Min</p>
+<p>Ms Woo Huey Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_huey_ming@schools.gov.sg</p>
