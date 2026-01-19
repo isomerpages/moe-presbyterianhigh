@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1TgoAphzfgrsIg17VgGriFDzuiYWQttka?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary One MTP</a>
+<p><a href="https://drive.google.com/drive/folders/1AFtuoft3TMIrZuO_CkQrHhV9ZcQbGwdo?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary One MTP</a>
 </p>
 </li>
 <li>
