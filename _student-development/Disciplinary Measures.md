@@ -862,4 +862,12 @@ it could also be reported as <strong>“Open Defiance” under Serious Offence</
 of the case.</p>
 </li>
 </ul>
+<h4><strong>Handphone Policy</strong></h4>
+<p>To help students cultivate healthier screen use habits and better support
+student well-being in the digital age, the school has implemented the following
+rules.</p>
+<p>Students are not allowed to use their handphones, during school hours,
+between 7.30am to 4.30pm, or any school activities, whichever is later.</p>
+<p>Locations where students may use handphones after school hours: Canteen
+&amp; General Office lobby</p>
 <p></p>
