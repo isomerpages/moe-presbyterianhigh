@@ -46,8 +46,6 @@ Make responsible decisions for yourself, your family and society; and</p>
 Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
 <p><strong>Overview of PRESBYTERIAN HIGH SCHOOL’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -84,7 +82,8 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <blockquote>
-<p>To read more on this document please click <a href="https://drive.google.com/file/d/1viGdRV_P1idKsT4Gg48FtknPddUFEUVr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To read more on this document and what is covered in class please click
+<a href="https://drive.google.com/file/d/1viGdRV_P1idKsT4Gg48FtknPddUFEUVr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </blockquote>
 <blockquote>
