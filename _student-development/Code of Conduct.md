@@ -104,7 +104,7 @@ Basketball at the Basketball Court (ISH1) and Soccer at the School Field.</p>
 of others and no rough play.</p>
 <p>d)&nbsp;&nbsp;&nbsp; Students must report all incidents or injuries sustained
 at the General Office and seek help promptly.</p>
-<h4><strong>ASSROOM CONDUCT</strong></h4>
+<h4><strong>CLASSROOM CONDUCT</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp; Observe the GRACE routine.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/grace.jpg">
