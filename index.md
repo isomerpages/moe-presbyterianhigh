@@ -25,4 +25,14 @@ sections:
       id: infobar
       url: /principals-welcome-message/
       button: Click Here
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: We're
+          date: 27 February 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
