@@ -25,15 +25,4 @@ sections:
       id: infobar
       url: /principals-welcome-message/
       button: Click Here
-  - infopic:
-      title: Celebrating 60 years as PHS
-      subtitle: WE'RE 60!
-      id: infopic
-      description: This year, we celebrate God's faithfulness and continue our mission
-        as TEAM PHS. We've unveiled a special logo and will soon launch the sale
-        of PHS bears.
-      button: READ THE ARTIST STATEMENT
-      url: /60th-anniversary/
-      image: /images/2025/60_anniversary.png
-      alt: Image alt text
 ---
