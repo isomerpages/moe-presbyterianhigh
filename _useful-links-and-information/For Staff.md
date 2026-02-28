@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **For Staff**
 
-* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx))
+* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [iEXAMS 2.0](https://iexams.seab.gov.sg/iexams2/)
 
 * [HRP](https://www.hrp.gov.sg/hrp/#/)  
