@@ -6,13 +6,14 @@ variant: markdown
 ---
 # **For Staff**
 
+* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx))
 * [iEXAMS 2.0](https://iexams.seab.gov.sg/iexams2/)
 
 * [HRP](https://www.hrp.gov.sg/hrp/#/)  
 
 * [MIMS (MOE IDENTITY MANAGEMENT SYSTEM)](https://portal.mims.moe.gov.sg/)
 
-* [My Skillfuture Portal](https://www.myskillsfuture.gov.sg/)
+* [My Skillsfuture Portal](https://www.myskillsfuture.gov.sg/)
 
 * [OPAC - SCHOOL LIBRARY](https://schoolibrary.moe.edu.sg/presbyterianhigh/)
  
