@@ -25,4 +25,13 @@ sections:
       id: infobar
       url: /principals-welcome-message/
       button: Click Here
+  - infopic:
+      title: We're 61!
+      subtitle: Thanksgiving and Honours day
+      id: infopic
+      description: With grateful hearts, we thank God for His blessings. As we stand
+        firm in Him, may He give us the grace to strive for excellence in our
+        work and character.
+      image: /images/IG_Poster_1.jpg
+      alt: Image alt text
 ---
