@@ -22,12 +22,12 @@ sections:
       variant: center
   - infopic:
       title: We're 61!
-      subtitle: Thanksgiving and Honours Day
+      subtitle: THD 2026
       id: infopic
       description: With grateful hearts, we give thanks to God for His blessings. May
         He strengthen us in our mission as we stand firm in faith and strive for
         greater heights.
-      image: /images/IG_Poster_1.jpg
+      image: /images/IG_Poster_Final.jpg
       alt: Image alt text
   - infobar:
       title: Information for 2026 Secondary 1 Students and Parents
