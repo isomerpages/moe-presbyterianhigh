@@ -27,10 +27,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1C0xTNOIjWc8g1VaRh4sWtyfJc_n5l8cc?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 3 Subject Combination Briefing Slides</a>
-</p>
-</li>
-<li>
 <p><a href="https://drive.google.com/file/d/1V79xsmGMLaIifboZobTRI4J_WnrPwoNV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Guide on Reading the Timetable</a>
 </p>
 </li>
