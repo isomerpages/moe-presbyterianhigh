@@ -42,17 +42,6 @@ variant: tiptap
 <p>VP T&amp;L</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Soon Inn Timothy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>presbyterian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VP T&amp;L</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Agnes Teo</p>
 </td>
 <td rowspan="1" colspan="1">
