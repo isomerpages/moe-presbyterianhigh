@@ -83,7 +83,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <blockquote>
 <p>To read more on this document and what is covered in class please click
-<a href="https://drive.google.com/file/d/1viGdRV_P1idKsT4Gg48FtknPddUFEUVr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<a href="https://drive.google.com/file/d/1QMjLl7J48Cku_ETs583N7k8pEZAnaPqU/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </blockquote>
 <blockquote>
