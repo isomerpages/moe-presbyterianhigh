@@ -270,7 +270,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL SH Student Leadership</p>
+<p>EL</p>
+<p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yip Xin Yi Eunice</p>
@@ -358,7 +359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HUM AG HOD</p>
+<p>HUM HOD (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Binbin</p>
@@ -589,8 +590,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL Ag</p>
-<p>HOD Student Leadership @&amp; 21CC</p>
+<p>MTL</p>
+<p>HOD Student Leadership @&amp; 21CC (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hshieh Szu An</p>
