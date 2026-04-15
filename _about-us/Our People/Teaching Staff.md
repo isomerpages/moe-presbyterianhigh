@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C&amp;T HOD Special Projects</p>
+<p>C&amp;T, HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liang Huiyi Benjamin</p>
@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C&amp;T ST D&amp;T</p>
+<p>C&amp;T, ST D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Peck Lih Ping</p>
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C&amp;T AYH (UPPER SEC)</p>
+<p>C&amp;T, AYH (UPPER SEC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Fiona Woon</p>
@@ -259,8 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL</p>
-<p>SH Student Leadership</p>
+<p>EL, SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yip Xin Yi Eunice</p>
@@ -458,7 +457,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MATH HOD ICT</p>
+<p>MATH, HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joyce.chong@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATH, HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Katherine Lim</p>
@@ -579,8 +589,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
-<p>HOD Student Leadership &amp; 21CC (Ag)</p>
+<p>MTL, HOD Student Leadership &amp; 21CC (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hshieh Szu An</p>
@@ -734,7 +743,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE YH LOWER SEC</p>
+<p>PE, YH LOWER SEC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Steven Ong</p>
@@ -822,7 +831,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI Ag ST Chem</p>
+<p>SCI, ST Chem (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cynthia Lim</p>
@@ -833,7 +842,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI HOD STUDENT MANAGEMENT</p>
+<p>SCI, HOD STUDENT MANAGEMENT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Phua Mian Ti</p>
@@ -844,18 +853,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MATH HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Joyce Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>joyce.chong@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCI SSD</p>
+<p>SCI, SSD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Poh Hoon</p>
@@ -866,7 +864,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCI AYH (LOWER SEC)</p>
+<p>SCI, AYH (LOWER SEC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alex Toh Wei Seng</p>
