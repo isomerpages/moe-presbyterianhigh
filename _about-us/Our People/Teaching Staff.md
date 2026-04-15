@@ -580,7 +580,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MTL</p>
-<p>HOD Student Leadership @&amp; 21CC (Ag)</p>
+<p>HOD Student Leadership &amp; 21CC (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hshieh Szu An</p>
