@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h3><strong>Sports:</strong></h3>
+<h3><strong>Sports</strong></h3>
 <h4><strong>Badminton (Boys only), Basketball, Table Tennis and Volleyball</strong></h4>
 <p>Presbyterian High School provides a broad-based education for student-athletes
 in Basketball, Table Tennis and Volleyball to develop character, and inculcate
