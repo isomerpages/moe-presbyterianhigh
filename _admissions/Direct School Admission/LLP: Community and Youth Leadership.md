@@ -39,4 +39,4 @@ assessing the potential of the applicants.</p>
 <p>Shortlisted applicants will be assessed on both their demonstrated and
 potential abilities and qualities, through interviews and performance tasks.</p>
 <p>Please note that meeting all the criteria does not guarantee the student
-will be shortlisted / given an offer</p>
+will be shortlisted/given an offer.</p>
