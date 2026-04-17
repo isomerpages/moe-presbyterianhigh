@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h3><strong>STEM</strong></h3>
+<h3><strong>ALP: Science, Technology, Engineering and Mathematics (STEM)</strong></h3>
 <p>Our Applied Learning Programme (ALP), Igniting Minds@PresHigh, seeks to
 broaden our students’ exposure to Science, Technology, Engineering &amp;
 Mathematics (STEM) through Health and Food Science to promote sustainable
