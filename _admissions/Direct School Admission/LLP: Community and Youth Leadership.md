@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h3><strong>Leadership</strong></h3>
+<h3><strong>LLP: Community and Youth Leadership</strong></h3>
 <p>The school leverages its Learning for Life Programme (LLP), Igniting Hearts
-@ PresHigh, to support its vision to develop students to be <strong><em>Servant Leaders who Serve, Lead and Excel.</em></strong>
+@ PresHigh, to support its vision to develop students to be <strong><em>Servant Leaders who Serve with Empathy, Lead with Courage and Excel with Integrity.</em></strong>
 </p>
 <p>The school provides a range of opportunities for students to learn and
-practise personal and community leadership, and to nurture the school values
+practise personal and community leadership, and nurture the school values
 of Resilience, Integrity, Courage, Empathy, and Excellence.&nbsp; All students
 will participate in customised LLP modules based on The Leadership Challenge
 by James Kouzes and Barry Z. Posner in Lower Secondary.&nbsp; They will
@@ -21,7 +21,7 @@ also seek to develop the potential of every student to build character,
 hone leadership, and strengthen a heart for service.&nbsp; Various student
 leadership opportunities are also provided.&nbsp; These aim to develop
 PresHighians to lead themselves, lead others, and make a difference to
-their community.&nbsp;&nbsp;</p>
+their community.</p>
 <h4><strong>Selection Criteria</strong></h4>
 <p><strong><em>LEADERSHIP</em></strong>
 </p>
@@ -32,6 +32,7 @@ in a school or community project/work.</p>
 </p>
 <p>Students should possess a positive attitude and a sense of commitment,
 as described by their Primary School teachers.</p>
+<p></p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
