@@ -4,7 +4,8 @@ collections:
     order:
       - Direct School Admission/.keep
       - Direct School Admission/Direct School Admission.md
-      - Direct School Admission/Applied Learning Programme.md
+      - "Direct School Admission/ALP: Science, Technology, Engineering and
+        Mathematics (STEM).md"
       - Direct School Admission/Leadership.md
       - Direct School Admission/Sports.md
       - Direct School Admission/Performing Arts.md
