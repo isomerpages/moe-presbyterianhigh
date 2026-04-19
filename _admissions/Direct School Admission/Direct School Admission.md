@@ -44,7 +44,7 @@ For more details, please refer to MOE website – <a href="http://www.moe.gov.sg
 </p>
 <p>Shortlisted applicants will receive notification from the school by 17
 July 2026 to undergo Direct School Admission (DSA) selection. All applicants
-will receive their application outcomes between <u>17 to 28 Aug 2026</u>.</p>
+will receive their application outcomes between <u>17 and 28 Aug 2026</u>.</p>
 <p><strong><u>DSA Timeline</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -81,7 +81,7 @@ will receive their application outcomes between <u>17 to 28 Aug 2026</u>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 July to 28 Aug 2026</p>
+<p>18 July to 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Trial and/or Interview</p>
