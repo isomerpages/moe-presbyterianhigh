@@ -28,6 +28,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Sein Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>presbyterian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>VP T&amp;L</p>
 </td>
 <td rowspan="1" colspan="1">
