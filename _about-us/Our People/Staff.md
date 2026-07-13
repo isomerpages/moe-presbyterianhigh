@@ -578,17 +578,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MTL HOD</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,17 +849,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cynthia.lim@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCI, HOD STUDENT MANAGEMENT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aaron Phua Mian Ti</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aaron.phua@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
