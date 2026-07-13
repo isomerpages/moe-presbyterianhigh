@@ -1,5 +1,5 @@
 ---
-title: Teaching Staff
+title: Staff
 permalink: /about-us/staff-email-directory/
 description: ""
 third_nav_title: Our People
@@ -28,10 +28,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VP T&amp;L</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Chi En</p>
+<p>Ms Loh Sein Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>presbyterian@moe.edu.sg</p>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>VP T&amp;L</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes Teo</p>
+<p>Mr Cheng Chi En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>presbyterian@moe.edu.sg</p>
@@ -141,32 +141,10 @@ variant: tiptap
 <p>C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aisha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti.aisha@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Faith Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>faith.chen@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jason Lefort</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jason.lefort@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -185,21 +163,10 @@ variant: tiptap
 <p>C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Hong Wei</p>
+<p>Mr Jason Lefort</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_hong_wei@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Khadijah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_khadijah_isnin@preshigh.edu.sg</p>
+<p>jason.lefort@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -211,6 +178,39 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ang.kathy@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Hong Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_hong_wei@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Aisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti.aisha@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Khadijah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_khadijah_isnin@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,6 +273,28 @@ variant: tiptap
 <p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Ho Siok Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo.siokwan@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Mui Lieng Jocelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_mui_lieng_jocelyn@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Lee Hui Jun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,28 +317,6 @@ variant: tiptap
 <p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chi Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_chi_yong@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ho Siok Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo.siokwan@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms&nbsp;Sivakami Senthil Murugan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,10 +328,10 @@ variant: tiptap
 <p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lau Mui Lieng Jocelyn</p>
+<p>Mr Teo Chi Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_mui_lieng_jocelyn@preshigh.edu.sg</p>
+<p>teo_chi_yong@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -361,10 +361,21 @@ variant: tiptap
 <p>HUM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Celine Tan</p>
+<p>Ms Filzah Nadiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leong.celine@preshigh.edu.sg</p>
+<p>filzah_nadiah_zainal_abidin@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ma Xinyi Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ma_xinyi_sarah@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -394,10 +405,10 @@ variant: tiptap
 <p>HUM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Filzah Nadiah</p>
+<p>Mr Tan Yee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>filzah_nadiah_zainal_abidin@preshigh.edu.sg</p>
+<p>tan_yee_ping@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -405,10 +416,10 @@ variant: tiptap
 <p>HUM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Xinyi Sarah</p>
+<p>Ms Vera Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ma_xinyi_sarah@preshigh.edu.sg</p>
+<p>vera_ho@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -504,6 +515,28 @@ variant: tiptap
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Dawn Tai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dawn_tai@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Herlina Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>herlina.abdullah@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATH</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Ng Yvonne Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,17 +559,6 @@ variant: tiptap
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tee Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_tee_wee@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MATH</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Rene Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -548,10 +570,10 @@ variant: tiptap
 <p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Herlina Abdullah</p>
+<p>Mr Tan Tee Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>herlina.abdullah@preshigh.edu.sg</p>
+<p>tan_tee_wee@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -603,54 +625,10 @@ variant: tiptap
 <p>MTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Ying</p>
+<p>Mdm Azriana Binte Abdul Manan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>huang.ying@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noorizal Mohamed Zain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>noorizal@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Lim Ke Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_ke_hong@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Norhidayat Mohamad Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norhidayat@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Min Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua.minhui@preshigh.edu.sg</p>
+<p>azriana_abdul_manan@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -669,21 +647,10 @@ variant: tiptap
 <p>MTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Dahong</p>
+<p>Mdm Chua Min Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zheng.dahong@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yang Yung Chang&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yang_yung_chang@preshigh.edu.sg</p>
+<p>chua.minhui@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -691,10 +658,21 @@ variant: tiptap
 <p>MTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azriana Binte Abdul Manan</p>
+<p>Mr Huang Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azriana_abdul_manan@preshigh.edu.sg</p>
+<p>huang.ying@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kang Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kangjian@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -706,6 +684,50 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>li.mingzhu@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Lim Ke Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ke_hong@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorizal Mohamed Zain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noorizal@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Norhidayat Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norhidayat@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zheng Dahong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zheng.dahong@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -768,10 +790,10 @@ variant: tiptap
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Ruminathan</p>
+<p>Mr Kyne Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>v.ruminathan@preshigh.edu.sg</p>
+<p>kyne_aldrich_chan_zheng_wei@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -779,10 +801,10 @@ variant: tiptap
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Kok Hwee</p>
+<p>Mr V Ruminathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_kok_hwee@preshigh.edu.sg</p>
+<p>v.ruminathan@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -889,10 +911,10 @@ variant: tiptap
 <p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sherman See Chee Heng</p>
+<p>Mr Chng Kok Poh, Andy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see.cheeheng@preshigh.edu.sg</p>
+<p>chng_kok_poh_andy@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -911,21 +933,10 @@ variant: tiptap
 <p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chng Kok Poh, Andy</p>
+<p>Ms Hoh Yi Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chng_kok_poh_andy@preshigh.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chandrasegaran S/O Palaniswamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chandra@preshigh.edu.sg</p>
+<p>hoh.yiting@preshigh.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -937,6 +948,39 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liwei@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sherman See Chee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>see.cheeheng@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Subashini Aravindan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>subashini@preshigh.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
